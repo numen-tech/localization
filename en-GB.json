@@ -1,0 +1,15 @@
+{
+  "Metadata": {
+    "title": "Slop Or Not: Free AI Content Detector for Text and Images",
+    "description": "AI text detector, AI image detector, and AI humaniser in one app. Check for AI and humanise AI for free on iPhone, no cloud needed."
+  },
+  "Navigation": {
+    "home": "Home",
+    "help": "Help",
+    "download": "Download"
+  },
+  "Language": {
+    "current": "English (UK)",
+    "switchTo": "Switch to {language}"
+  }
+}
