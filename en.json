@@ -12,6 +12,47 @@
     "current": "English (US)",
     "switchTo": "Switch to {language}"
   },
+  "Header": {
+    "logoAlt": "Slop Or Not",
+    "navigation": {
+      "home": "Home",
+      "help": "Help",
+      "download": "Download"
+    }
+  },
+  "Footer": {
+    "tagline": "Spot AI Slop. Know what's real.",
+    "sections": {
+      "products": "Products",
+      "resources": "Resources",
+      "help": "Help"
+    },
+    "products": {
+      "slopOrNot": {
+        "name": "Slop Or Not",
+        "description": "AI content detector for text & images."
+      },
+      "privateLlm": {
+        "name": "Private LLM",
+        "description": "Local AI chatbot for Apple devices."
+      }
+    },
+    "links": {
+      "download": "Download",
+      "privacyPolicy": "Privacy Policy",
+      "blog": "Blog",
+      "helpCenter": "Help Center",
+      "whatIs": "What is Slop Or Not?",
+      "howAccurate": "How accurate is it?",
+      "isDataPrivate": "Is my data private?",
+      "textCleanup": "What is Text Cleanup?"
+    },
+    "compliance": {
+      "gdprAlt": "GDPR Compliant",
+      "ccpaAlt": "CCPA Compliant"
+    },
+    "copyright": "All rights reserved. Built with ❤️ in 🇪🇺"
+  },
   "Hero": {
     "logoAlt": "Slop or Not logo",
     "title": "AI Text Detector and AI Image Detector in One App",
