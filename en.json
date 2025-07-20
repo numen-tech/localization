@@ -60,6 +60,12 @@
     "description": "Check if content is AI in seconds for free while keeping your data on your iPhone.",
     "testflightLink": "Download TestFlight Beta"
   },
+  "NotFound": {
+    "logoAlt": "Slop Or Not Logo",
+    "title": "404: That page is pure slop.",
+    "description": "Looks like this link didn't pass our authenticity check. Try heading back to safety!",
+    "backToHome": "Back to Home"
+  },
   "CtaDownload": {
     "title": "Download the Free AI Content Detector for iPhone",
     "description": "Check for AI text and images in seconds, fully offline. Your data never leaves your phone - privacy built in."
