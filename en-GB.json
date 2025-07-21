@@ -142,5 +142,142 @@
         }
       }
     }
+  },
+  "HelpPage": {
+    "title": "Slop Or Not FAQ | AI Content Detector Support",
+    "description": "Get help with the Slop Or Not AI content detector. Our FAQ covers on-device privacy, accuracy, subscriptions and how to check text and images for AI."
+  },
+  "HelpHero": {
+    "title": "Slop Or Not Help & FAQ",
+    "description": "Here are answers to common questions about Slop Or Not. If you don’t find what you’re looking for here, please see our support options at the bottom."
+  },
+  "HelpContent": {
+    "viewAll": "View all",
+    "cta": {
+      "title": "Ready to spot the slop and protect your privacy?"
+    },
+    "gettingStarted": {
+      "name": "Getting Started & Basic Functionality",
+      "questions": {
+        "whatIs": {
+          "question": "What is Slop Or Not?",
+          "answer": "Slop Or Not is the world's first AI content detector that runs entirely on your iPhone. It instantly checks text and images to determine if they were made by AI. As it runs on-device, your data remains 100% private and never leaves your phone. It's fast, secure and works even without an internet connection."
+        },
+        "howDoICheck": {
+          "question": "How do I check content for AI?",
+          "answer": {
+            "intro": "It's simple. You can:",
+            "checkText": {
+              "title": "Check Text:",
+              "description": "Copy the text you want to analyse, open Slop Or Not, and paste it into the text field. The app will provide an instant result."
+            },
+            "checkImages": {
+              "title": "Check Images:",
+              "description": "Select any image or photo from your library directly within the app, or share an image from another app to Slop Or Not. The analysis happens immediately."
+            }
+          }
+        },
+        "needsInternet": {
+          "question": "Does Slop Or Not need an internet connection to work?",
+          "answer": "You’ll need an internet connection for the one-off setup to download the AI models. After that, you can check text and images completely offline. We use Apple’s Core ML model encryption to protect our on-device transformer models. iOS may occasionally require an internet connection to refresh model encryption keys from the App Store."
+        },
+        "isDataPrivate": {
+          "question": "Is my data private when I use the app?",
+          "answer": "Yes, 100%. Unlike other AI detectors that upload your data to a server for analysis, Slop Or Not processes everything locally on your iPhone. Your text, images and photos never leave your device, guaranteeing complete privacy. This is ideal for checking sensitive information like legal documents, client emails or medical records. We’re based in the EU and fully comply with GDPR and CCPA, so your rights and data protection are always upheld."
+        },
+        "whoShouldUse": {
+          "question": "Who should use Slop Or Not?",
+          "answer": {
+            "intro": "Anyone who values truth and privacy! It's especially useful for:",
+            "studentsTeachers": {
+              "title": "Students & Teachers",
+              "description": "checking for originality in academic work."
+            },
+            "journalists": {
+              "title": "Journalists & Fact-Checkers",
+              "description": "verifying the authenticity of sources and images."
+            },
+            "onlineDaters": {
+              "title": "Online Daters",
+              "description": "spotting fake 'catfish' profiles."
+            },
+            "shoppers": {
+              "title": "Shoppers",
+              "description": "checking if product reviews are real or AI-generated."
+            },
+            "anyone": {
+              "title": "Anyone",
+              "description": "wanting to identify misinformation and deepfakes on social media."
+            }
+          }
+        }
+      }
+    },
+    "features": {
+      "name": "Features & Accuracy",
+      "questions": {
+        "howAccurate": {
+          "question": "How accurate is the AI detection?",
+          "answer": {
+            "intro": "Slop Or Not uses industry-leading models for high accuracy:",
+            "watermarkedImages": {
+              "title": "Watermarked Images (C2PA/IPTC from Gemini image generation, OpenAI image generation, Microsoft Designer, Adobe Firefly, etc):",
+              "description": "100% accurate detection."
+            },
+            "otherImages": {
+              "title": "All other AI-generated images:",
+              "description": "90% accuracy."
+            },
+            "text": {
+              "title": "AI-generated text:",
+              "description": "95% accuracy."
+            },
+            "note": "*Note: Accuracy is based on our internal tests. Results can vary with new AI models and advanced methods designed to trick detectors.*"
+          }
+        },
+        "textCleanup": {
+          "question": "What is the \"Text Cleanup\" feature?",
+          "answer": "AI-generated text often contains hidden characters or weird formatting that can act as invisible watermarks. Our Text Cleanup feature removes these traces with a single tap. It removes: hidden characters (like zero-width spaces), suspicious punctuation and homoglyphs (letters that look like others). It can also normalise spelling (e.g., from US to UK English) and fix punctuation for you."
+        },
+        "stickerPacks": {
+          "question": "What are the AI Slop sticker packs?",
+          "answer": "They are fun iMessage sticker packs included with the app! When you find AI-generated content online or in chats, you can use our stickers to call it out in a lighthearted way."
+        },
+        "incognitoMode": {
+          "question": "What is Incognito Mode?",
+          "answer": "Incognito Mode provides an extra layer of privacy. When enabled, the app won’t keep a history of the content you’ve checked. It’s perfect for when you are handling extra-sensitive information and want to leave no trace of the check on your device."
+        }
+      }
+    },
+    "troubleshooting": {
+      "name": "Troubleshooting & Support",
+      "questions": {
+        "whyDownload": {
+          "question": "Why does the app download files after I install it?",
+          "answer": "To give you a faster download from the App Store and save storage on your device, we keep the initial app size small. The first time you launch Slop Or Not, it automatically downloads our powerful AI detection models using Apple's On-Demand Resources system. This is a one-off process. Occasionally, issues with Apple's service can interrupt this download. If it seems stuck, please check your internet connection and restart the app after a few minutes. The download should resume automatically."
+        },
+        "imageResolution": {
+          "question": "Does image resolution affect detection scores?",
+          "answer": "Yes. When you use a low-resolution thumbnail or a screenshot, the model still runs but may return a lower confidence score because fine details are lost during our normalisation step. Always try to use the original or highest-quality version of the picture. More pixels mean more clues for the detector, so results are stronger and more stable."
+        },
+        "howMuchText": {
+          "question": "How much text do I need for reliable detection?",
+          "answer": "The text detector needs at least two full sentences to work. Very short snippets give too little context for the model to spot AI fingerprints. Whenever possible, paste a whole paragraph or the entire document. The longer the passage, the higher the detection confidence."
+        },
+        "notDetecting": {
+          "question": "The app isn't detecting AI content I'm sure is AI-generated. Why?",
+          "answer": {
+            "intro": "Although our detector is highly accurate, some new AI models may create content that is harder to detect. We regularly update our models to keep up.",
+            "checkImage": "The image you checked might be a low-resolution thumbnail or a heavily compressed screenshot. Try again with the highest-resolution version available.",
+            "checkText": "The text sample could be too short. Make sure you provide at least two sentences; more text improves the results.",
+            "outro": "These quick checks solve most 'false negative' reports. If the problem persists, please share the example with us so we can keep improving the app for everyone."
+          }
+        }
+      }
+    }
+  },
+  "RelatedLinks": {
+    "title": "Need More Help?",
+    "description": "Can’t find the answer you need? Join our Discord community for real-time tips, tricks and support."
   }
 }
