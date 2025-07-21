@@ -1,7 +1,7 @@
 {
   "Metadata": {
     "title": "Slop Or Not: Free AI Content Detector for Text and Images",
-    "description": "AI text detector, AI image detector, and AI humaniser in one app. Check for AI and humanise AI for free on iPhone, no cloud needed."
+    "description": "AI text detector, AI image detector, and AI humaniser in one app. Check for AI and humanise AI for free on iPhone, no cloud required."
   },
   "Navigation": {
     "home": "Home",
@@ -52,5 +52,95 @@
       "ccpaAlt": "CCPA Compliant"
     },
     "copyright": "All rights reserved. Built with ❤️ in 🇪🇺"
+  },
+  "Hero": {
+    "logoAlt": "Slop or Not logo",
+    "title": "AI Text Detector and AI Image Detector in One App",
+    "srOnlyPrefix": "Slop or Not: ",
+    "description": "Check if content is AI in seconds for free while keeping your data on your iPhone.",
+    "testflightLink": "Download TestFlight Beta"
+  },
+  "NotFound": {
+    "logoAlt": "Slop Or Not Logo",
+    "title": "404: That page is pure slop.",
+    "description": "Looks like this link didn't pass our authenticity check. Try heading back to safety!",
+    "backToHome": "Back to Home"
+  },
+  "CtaDownload": {
+    "title": "Download the Free AI Content Detector for iPhone",
+    "description": "Check for AI text and images in seconds, fully offline. Your data never leaves your phone - privacy built in."
+  },
+  "Features": {
+    "aiImageDetector": {
+      "title": "Check If AI Generated That Photo on Your iPhone",
+      "description": "Romance scams stole $1.14 billion from consumers in 2023, the highest losses of any impostor fraud, <ftcLink>says the FTC</ftcLink>. Swindlers now spin up <fakeDatingLink>fake dating profiles</fakeDatingLink> with AI-generated faces and chatbots. Our AI image detector lives on your iPhone, so you can check if AI generated that selfie, receipt, or product shot before you swipe or buy. It flags watermarks plus subtle face artefacts the human eye misses."
+    },
+    "aiTextDetector": {
+      "title": "AI Text Detector With Unlimited Word Count",
+      "description": "Nearly 90 % of students admitted using ChatGPT for homework <forbesLink>in early 2023</forbesLink>, and teen usage <pewLink>doubled again by 2025</pewLink>. Educators, editors and lawyers can paste any document into Slop Or Not's AI text detector to check if AI generated the words – no word caps, no cloud snooping. English today; more languages soon."
+    },
+    "aiFingerprints": {
+      "title": "Remove AI Fingerprints and Humanise AI on iPhone",
+      "description": "Cloud \"AI humaniser\" sites often pipe your words into remote LLMs that leave new fingerprints behind. Slop Or Not scrubs zero-width spaces, homoglyphs and spacing tricks - like the binary pattern <elonLink>Elon Musk used in 2008 to catch a Tesla leaker</elonLink> - without rewriting your style."
+    },
+    "stickerPack": {
+      "title": "AI Slop Sticker Pack",
+      "description": "Found a fake? Drop our AI Slop sticker pack into iMessage or social posts and call it out with style. Because defending truth should also be fun.",
+      "imageAlt": "AI Slop iMessage Sticker Pack from Slop Or Not, featuring various meme characters pointing at \"AI Slop\" and \"Slop!\" text"
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "steps": {
+        "download": {
+          "title": "Get AI Detector",
+          "description": "Download the app from the App Store. It uses advanced on-device AI models to detect AI generated content."
+        },
+        "check": {
+          "title": "Run AI Check",
+          "description": "Paste text or select an image. Results appear instantly, even offline."
+        },
+        "detect": {
+          "title": "Find AI Slop",
+          "description": "See the verdict, clean traces, or share proof straight from the app."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Use Cases",
+      "cases": {
+        "journalists": {
+          "title": "Journalists & Fact-Checkers",
+          "description": "Vet breaking-news images and source quotes before publishing. Avoid publishing manipulated content that could damage credibility."
+        },
+        "teachers": {
+          "title": "Teachers & Students",
+          "description": "Teachers flag AI-written essays; students confirm their own originality. Uphold academic honesty without expensive plagiarism services."
+        },
+        "dating": {
+          "title": "Online Dating",
+          "description": "Verify profile photos and bios to spot catfish accounts. Stay safe from romance scams and wasted time."
+        },
+        "shopping": {
+          "title": "Online Shoppers",
+          "description": "Check product photos, influencer posts, and customer reviews. Make smarter purchases and maintain review integrity."
+        },
+        "finance": {
+          "title": "Finance & HR Teams",
+          "description": "Authenticate ID documents, résumés, and voiceover scripts. Reduce the risk of fraud and deepfake payroll scams."
+        },
+        "legal": {
+          "title": "Legal & Medical Professionals",
+          "description": "Confirm that contracts, briefs, or patient files are human-authored. Protect client confidentiality while meeting strict compliance rules."
+        },
+        "creators": {
+          "title": "Content Creators & Community Managers",
+          "description": "Moderate user-generated posts for AI spam or disinformation. Keep forums, Discord servers, and social feeds trustworthy."
+        },
+        "social": {
+          "title": "Social Media Users",
+          "description": "Fight misinformation in feeds by checking viral posts and trending content. Verify before you share."
+        }
+      }
+    }
   }
 }
