@@ -1,0 +1,312 @@
+{
+  "Metadata": {
+    "title": "Slop Or Not: Metin ve Görseller İçin Ücretsiz Yapay Zekâ İçerik Dedektörü",
+    "description": "Yapay zekâ metin dedektörü, yapay zekâ görsel dedektörü ve yapay zekâ insancıllaştırıcısı tek bir uygulamada. iPhone'unuzda ücretsiz olarak yapay zekâyı tespit edin ve insanîleştirin; buluta gerek yok."
+  },
+  "Navigation": {
+    "home": "Ana Sayfa",
+    "help": "Yardım",
+    "download": "İndir"
+  },
+  "LanguageSwitcher": {
+    "ar": "Arapça",
+    "zh-HK": "Çince (Hong Kong)",
+    "zh-CN": "Çince, Basitleştirilmiş",
+    "zh-TW": "Çince, Geleneksel",
+    "cs": "Çekçe",
+    "nl": "Felemenkçe",
+    "fi": "Fince",
+    "fr": "Fransızca",
+    "de": "Almanca",
+    "he": "İbranice",
+    "hu": "Macarca",
+    "it": "İtalyanca",
+    "ja": "Japonca",
+    "ko": "Korece",
+    "nb": "Norveççe Bokmål",
+    "pl": "Lehçe",
+    "pt-BR": "Portekizce (Brezilya)",
+    "pt-PT": "Portekizce (Portekiz)",
+    "ro": "Rumence",
+    "ru": "Rusça",
+    "es": "İspanyolca",
+    "sv": "İsveççe",
+    "tr": "Türkçe",
+    "uk": "Ukraynaca",
+    "ur": "Urduca",
+    "en": "İngilizce (ABD)",
+    "en-GB": "İngilizce (BK)"
+  },
+  "Header": {
+    "logoAlt": "Slop Or Not",
+    "navigation": {
+      "home": "Ana Sayfa",
+      "help": "Yardım",
+      "download": "İndir"
+    }
+  },
+  "Footer": {
+    "tagline": "AI Slop'u Yakala. Neyin gerçek olduğunu bil.",
+    "sections": {
+      "products": "Ürünler",
+      "resources": "Kaynaklar",
+      "help": "Yardım"
+    },
+    "products": {
+      "slopOrNot": {
+        "name": "Slop Or Not",
+        "description": "Metin ve görseller için yapay zekâ içerik dedektörü."
+      },
+      "privateLlm": {
+        "name": "Private LLM",
+        "description": "Apple cihazlar için yerel yapay zekâ sohbet botu."
+      }
+    },
+    "links": {
+      "download": "İndir",
+      "privacyPolicy": "Gizlilik Politikası",
+      "blog": "Blog",
+      "helpCenter": "Yardım Merkezi",
+      "whatIs": "Slop Or Not nedir?",
+      "howAccurate": "Ne kadar doğru?",
+      "isDataPrivate": "Verilerim gizli mi?",
+      "textCleanup": "Text Cleanup nedir?"
+    },
+    "compliance": {
+      "gdprAlt": "GDPR Uyumlu",
+      "ccpaAlt": "CCPA Uyumlu"
+    },
+    "copyright": "Tüm hakları saklıdır. 🇪🇺'da ❤️ ile geliştirildi"
+  },
+  "Hero": {
+    "logoAlt": "Slop Or Not logosu",
+    "title": "Tek Bir Uygulamada Yapay Zekâ Metin ve Görsel Dedektörü",
+    "srOnlyPrefix": "Slop or Not: ",
+    "description": "iPhone'unuzda verilerinizi koruyarak içeriğin yapay zekâ olup olmadığını saniyeler içinde ücretsiz kontrol edin.",
+    "testflightLink": "TestFlight Betayı İndir"
+  },
+  "NotFound": {
+    "logoAlt": "Slop Or Not Logosu",
+    "title": "404: Bu sayfa tam bir slop.",
+    "description": "Görünüşe göre bu bağlantı özgünlük testimizi geçemedi. Güvenliğe geri dönmeyi deneyin!",
+    "backToHome": "Ana Sayfaya Dön"
+  },
+  "CtaDownload": {
+    "title": "iPhone için Ücretsiz Yapay Zekâ İçerik Dedektörünü İndir",
+    "description": "Yapay zekâ metin ve görselleri saniyeler içinde, tamamen çevrimdışı olarak kontrol edin. Verileriniz asla telefonunuzdan çıkmaz - gizlilik dahili."
+  },
+  "Features": {
+    "aiImageDetector": {
+      "title": "iPhone'unuzda O Fotoğrafı Yapay Zekâ mı Üretti Kontrol Edin",
+      "description": "Romantik dolandırıcılıklar 2023'te tüketicilerden 1,14 milyar $ çaldı; bu, tüm kimlik dolandırıcılıkları arasındaki en yüksek kayıp, <ftcLink>FTC'ye göre</ftcLink>. Dolandırıcılar şimdi <fakeDatingLink>sahte arkadaşlık profilleri</fakeDatingLink> oluşturuyor ve sohbet botları kullanıyor. Yapay zekâ görsel dedektörümüz iPhone'unuzda çalışır; böylece kaydırmadan veya satın almadan önce o selfienin, fişin ya da ürün fotoğrafının yapay zekâ tarafından üretilip üretilmediğini kontrol edebilirsiniz. İnsan gözünün kaçırdığı filigranları ve ince yüz yapaylıklarını işaretler."
+    },
+    "aiTextDetector": {
+      "title": "Sınırsız Kelime Sayısıyla Yapay Zekâ Metin Dedektörü",
+      "description": "Öğrencilerin neredeyse %90'ı <forbesLink>2023'ün başlarında</forbesLink> ödev için ChatGPT kullandığını kabul etti ve ergen kullanımı <pewLink>2025'e kadar tekrar iki katına çıktı</pewLink>. Eğitimciler, editörler ve avukatlar, herhangi bir belgeyi Slop Or Not'un yapay zekâ metin dedektörüne yapıştırarak kelimelerin yapay zekâ tarafından yazılıp yazılmadığını kontrol edebilir — kelime sınırı yok, bulut meraklısı yok. Şimdilik İngilizce; yakında daha fazla dil."
+    },
+    "aiFingerprints": {
+      "title": "iPhone'da Yapay Zekâ Parmak İzlerini Kaldırın ve Yapay Zekâyı İnsanîleştirin",
+      "description": "Bulut tabanlı \"AI humanizer\" siteler çoğu zaman sözlerinizi yeni parmak izleri bırakan uzak LLM'lere gönderir. Slop Or Not, stilinizi bozmadan sıfır genişlikli boşluklar, homograf karakterler ve boşluk hilelerini — <elonLink>Elon Musk'ın 2008'de bir Tesla sızıntıcısını yakalamak için kullandığı ikili desen</elonLink> gibi — temizler."
+    },
+    "stickerPack": {
+      "title": "AI Slop Çıkartma Paketi",
+      "description": "Bir sahte buldunuz mu? iMessage’a veya sosyal gönderilere AI Slop çıkartma paketimizi bırakın ve durumu tarz sahibi bir şekilde ifşa edin. Çünkü gerçeği savunmak eğlenceli de olmalı.",
+      "imageAlt": "Slop Or Not'tan AI Slop iMessage Çıkartma Paketi, \"AI Slop\" ve \"Slop!\" yazılarına işaret eden çeşitli meme karakterlerini içerir"
+    },
+    "howItWorks": {
+      "title": "Nasıl Çalışır",
+      "steps": {
+        "download": {
+          "title": "AI Dedektörü Edinin",
+          "description": "Uygulamayı App Store'dan indirin. Yapay zekâ ile üretilmiş içeriği tespit etmek için gelişmiş cihaz içi AI modelleri kullanır."
+        },
+        "check": {
+          "title": "AI Kontrolü Çalıştırın",
+          "description": "Metni yapıştırın veya bir görsel seçin. Sonuçlar çevrimdışı bile olsa anında görünür."
+        },
+        "detect": {
+          "title": "AI Slop'u Bulun",
+          "description": "Kararı görün, izleri temizleyin veya kanıtı doğrudan uygulamadan paylaşın."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Kullanım Alanları",
+      "cases": {
+        "journalists": {
+          "title": "Gazeteciler & Doğrulama Uzmanları",
+          "description": "Yayınlamadan önce son dakika görüntülerini ve kaynak alıntılarını doğrulayın. Güvenilirliğinizi zedeleyebilecek manipüle edilmiş içerikleri yayımlamaktan kaçının."
+        },
+        "teachers": {
+          "title": "Öğretmenler & Öğrenciler",
+          "description": "Öğretmenler yapay zekâyla yazılmış ödevleri işaretler; öğrenciler kendi özgünlüklerini doğrular. Pahalı intihal hizmetlerine gerek kalmadan akademik dürüstlüğü sürdürün."
+        },
+        "dating": {
+          "title": "Çevrim İçi Flört",
+          "description": "Profil fotoğraflarını ve biyografileri doğrulayarak sahte catfish hesapları tespit edin. Romantik dolandırıcılıklardan ve boşa harcanan zamandan korunun."
+        },
+        "shopping": {
+          "title": "Çevrim İçi Alışveriş",
+          "description": "Ürün fotoğraflarını, influencer gönderilerini ve müşteri yorumlarını kontrol edin. Daha akıllıca alışveriş yapın ve yorumların güvenilirliğini koruyun."
+        },
+        "finance": {
+          "title": "Finans & İK Ekipleri",
+          "description": "Kimlik belgelerini, özgeçmişleri ve seslendirme metinlerini doğrulayın. Dolandırıcılık ve deepfake maaş dolandırıcılığı riskini azaltın."
+        },
+        "legal": {
+          "title": "Hukuk & Tıp Profesyonelleri",
+          "description": "Sözleşmelerin, dilekçelerin veya hasta dosyalarının insan tarafından yazıldığını doğrulayın. Katı uyumluluk kurallarına uyarak müşteri gizliliğini koruyun."
+        },
+        "creators": {
+          "title": "İçerik Üreticileri & Topluluk Yöneticileri",
+          "description": "Kullanıcı tarafından oluşturulan gönderileri yapay zekâ spam'i veya dezenformasyon için denetleyin. Forumları, Discord sunucularını ve sosyal akışları güvenilir tutun."
+        },
+        "social": {
+          "title": "Sosyal Medya Kullanıcıları",
+          "description": "Viral gönderileri ve trend içerikleri kontrol ederek akışlardaki yanlış bilgileri engelleyin. Paylaşmadan önce doğrulayın."
+        }
+      }
+    }
+  },
+  "HelpPage": {
+    "title": "Slop Or Not SSS | Yapay Zekâ İçerik Dedektörü Destek",
+    "description": "Slop Or Not yapay zekâ içerik dedektörü için destek alın. SSS'miz cihaz içi gizlilik, doğruluk, abonelikler ve metin ile görsellerin yapay zekâ olup olmadığını nasıl kontrol edeceğinizi kapsar."
+  },
+  "HelpHero": {
+    "title": "Slop Or Not Yardım & SSS",
+    "description": "Slop Or Not hakkında sık sorulan soruların yanıtları burada. Aradığınızı burada bulamazsanız, lütfen sayfanın altındaki destek seçeneklerimize bakın."
+  },
+  "HelpContent": {
+    "viewAll": "Tümünü Görüntüle",
+    "cta": {
+      "title": "Slop'u tespit etmeye ve gizliliğinizi korumaya hazır mısınız?"
+    },
+    "gettingStarted": {
+      "name": "Başlarken & Temel İşlevler",
+      "questions": {
+        "whatIs": {
+          "question": "Slop Or Not nedir?",
+          "answer": "Slop Or Not, tamamen iPhone'unuzda çalışan dünyanın ilk yapay zekâ içerik dedektörüdür. Metin ve görselleri anında kontrol ederek bunların yapay zekâ tarafından oluşturulup oluşturulmadığını belirler. Cihaz içinde çalıştığı için verileriniz %100 gizli kalır ve telefonunuzu asla terk etmez. Hızlıdır, güvenlidir ve internet bağlantısı olmadan da çalışır."
+        },
+        "howDoICheck": {
+          "question": "İçeriği yapay zekâ için nasıl kontrol ederim?",
+          "answer": {
+            "intro": "Çok basit. Şunları yapabilirsiniz:",
+            "checkText": {
+              "title": "Metni Kontrol Et:",
+              "description": "Analiz etmek istediğiniz metni kopyalayın, Slop Or Not'u açın ve metin alanına yapıştırın. Uygulama anında sonuç verir."
+            },
+            "checkImages": {
+              "title": "Görselleri Kontrol Et:",
+              "description": "Uygulama içinden doğrudan arşivinizden herhangi bir görsel veya fotoğraf seçin ya da başka bir uygulamadan Slop Or Not'a paylaşın. Analiz anında gerçekleşir."
+            }
+          }
+        },
+        "needsInternet": {
+          "question": "Slop Or Not çalışmak için internet bağlantısına ihtiyaç duyar mı?",
+          "answer": "Slop Or Not tüm yapay zekâ tespitini doğrudan cihazınızda gerçekleştirir. Yapay zekâ modellerini indirmek için bir kerelik kurulumda internet bağlantısı gerekir. Bundan sonra metin ve görselleri tamamen çevrimdışı kontrol edebilirsiniz. Cihaz içi transformer modellerimizi korumak için Apple'ın CoreML model şifrelemesini kullanıyoruz. iOS, App Store'dan model şifreleme anahtarlarını yenilemek için ara sıra internet bağlantısına ihtiyaç duyabilir."
+        },
+        "isDataPrivate": {
+          "question": "Uygulamayı kullanırken verilerim gizli mi?",
+          "answer": "Evet, %100. Diğer yapay zekâ dedektörlerinin verilerinizi analiz için sunucuya yüklemesinin aksine, Slop Or Not her şeyi iPhone’unuzda işler. Metinleriniz, görselleriniz ve fotoğraflarınız cihazınızı asla terk etmez, bu da tam gizlilik sağlar. Bu, hukuki belgeler, müşteri e-postaları veya tıbbi kayıtlar gibi hassas bilgileri kontrol etmek için idealdir. AB merkezliyiz ve GDPR ile CCPA'ya tamamen uyuyoruz, böylece haklarınız ve veri korumanız her zaman güvence altındadır."
+        },
+        "whoShouldUse": {
+          "question": "Slop Or Not'u kimler kullanmalı?",
+          "answer": {
+            "intro": "Gerçek ve gizliliğe değer veren herkes! Özellikle şu kişiler için faydalıdır:",
+            "studentsTeachers": {
+              "title": "Öğrenciler & Öğretmenler",
+              "description": "akademik çalışmalarda özgünlüğü kontrol etmek."
+            },
+            "journalists": {
+              "title": "Gazeteciler & Doğrulama Uzmanları",
+              "description": "kaynakların ve görsellerin özgünlüğünü doğrulamak."
+            },
+            "onlineDaters": {
+              "title": "Çevrim İçi Flört Yapanlar",
+              "description": "sahte “catfish” profilleri tespit etmek."
+            },
+            "shoppers": {
+              "title": "Alışveriş Yapanlar",
+              "description": "ürün yorumlarının gerçek mi yoksa yapay zekâ tarafından mı oluşturulduğunu kontrol etmek."
+            },
+            "anyone": {
+              "title": "Herkes",
+              "description": "sosyal medyadaki yanlış bilgi ve deepfake'leri belirlemek isteyen."
+            }
+          }
+        }
+      }
+    },
+    "features": {
+      "name": "Özellikler & Doğruluk",
+      "questions": {
+        "howAccurate": {
+          "question": "Yapay zekâ tespiti ne kadar doğru?",
+          "answer": {
+            "intro": "Slop Or Not yüksek doğruluk için sektör lideri modeller kullanır:",
+            "watermarkedImages": {
+              "title": "Filigranlı Görseller (Gemini görüntü üretimi, OpenAI görüntü üretimi, Microsoft Designer, Adobe Firefly vb. kaynaklı C2PA/IPTC):",
+              "description": "%100 doğru tespit."
+            },
+            "otherImages": {
+              "title": "Diğer tüm yapay zekâ ile üretilmiş görseller:",
+              "description": "%90 doğruluk."
+            },
+            "text": {
+              "title": "Yapay zekâ ile üretilmiş metin:",
+              "description": "%95 doğruluk."
+            },
+            "note": "*Not: Doğruluk dahili testlerimize dayanmaktadır. Sonuçlar, yeni yapay zekâ modelleri ve dedektörleri kandırmak üzere tasarlanmış ileri yöntemlerle değişebilir.*"
+          }
+        },
+        "textCleanup": {
+          "question": "\"Text Cleanup\" özelliği nedir?",
+          "answer": "Yapay zekâ ile üretilen metinler çoğu zaman görünmez filigran gibi davranan gizli karakterler veya garip biçimlendirme içerir. Text Cleanup özelliğimiz bu izleri tek dokunuşla siler. Şunları kaldırır: gizli karakterler (sıfır genişlikli boşluklar gibi), şüpheli noktalama işaretleri ve homograf karakterler (başka harflere benzeyen harfler). Ayrıca yazımı standart hâle getirebilir (ör. ABD İngilizcesinden BK İngilizcesine) ve noktalama işaretlerini düzeltebilir."
+        },
+        "stickerPacks": {
+          "question": "AI Slop çıkartma paketleri nedir?",
+          "answer": "Bunlar, uygulamayla birlikte gelen eğlenceli iMessage çıkartma paketleridir! Çevrim içi veya sohbetlerde yapay zekâ ile üretilen içerik bulduğunuzda, bunları eğlenceli bir şekilde ifşa etmek için çıkartmalarımızı kullanabilirsiniz."
+        },
+        "incognitoMode": {
+          "question": "Gizli Mod nedir?",
+          "answer": "Gizli Mod ekstra bir gizlilik katmanı sağlar. Etkinleştirildiğinde, uygulama kontrol ettiğiniz içeriklerin geçmişini tutmaz. Çok hassas bilgilerle uğraşırken ve kontrolden cihazınızda hiçbir iz bırakmak istemediğiniz durumlar için idealdir."
+        }
+      }
+    },
+    "troubleshooting": {
+      "name": "Sorun Giderme & Destek",
+      "questions": {
+        "whyDownload": {
+          "question": "Uygulamayı yükledikten sonra neden dosyalar indiriliyor?",
+          "answer": "App Store'dan daha hızlı indirme sağlamak ve cihazınızda depolama alanı tasarrufu için ilk uygulama boyutunu küçük tutuyoruz. Slop Or Not'u ilk kez başlattığınızda, Apple'ın On-Demand Resources sistemi aracılığıyla güçlü yapay zekâ tespit modellerimizi otomatik olarak indirir. Bu tek seferlik bir işlemdir. Bazen Apple'ın hizmetiyle ilgili sorunlar bu indirmeyi kesintiye uğratabilir. Takılmış görünüyorsa lütfen internet bağlantınızı kontrol edin ve birkaç dakika sonra uygulamayı yeniden başlatın. İndirme otomatik olarak devam etmelidir."
+        },
+        "imageResolution": {
+          "question": "Görsel çözünürlüğü tespit puanlarını etkiler mi?",
+          "answer": "Evet. Düşük çözünürlüklü küçük resim veya ekran görüntüsü kullandığınızda model yine çalışır, ancak normalleştirme adımımız sırasında ince ayrıntılar kaybolduğundan daha düşük bir güven puanı döndürebilir. Mümkün olduğunca resmin orijinal veya en yüksek kaliteli sürümünü kullanın. Daha fazla piksel, dedektör için daha fazla ipucu demektir; bu da sonuçları daha güçlü ve kararlı yapar."
+        },
+        "howMuchText": {
+          "question": "Güvenilir tespit için ne kadar metne ihtiyacım var?",
+          "answer": "Metin dedektörü çalışmak için en az iki tam cümleye ihtiyaç duyar. Çok kısa parçalar, modelin yapay zekâ parmak izlerini tespit etmesi için yeterli bağlam sağlamaz. Mümkün olduğunda, bir paragrafın tamamını veya tüm belgeyi yapıştırın. Metin ne kadar uzun olursa, tespit güveni o kadar yüksek olur."
+        },
+        "notDetecting": {
+          "question": "Uygulama yapay zekâ tarafından üretildiğinden emin olduğum içeriği tespit etmiyor. Neden?",
+          "answer": {
+            "intro": "Yapay zekâ dünyası hızla değişiyor. Dedektörümüz oldukça doğru olsa da bazı yeni yapay zekâ modelleri tespiti zorlaştırabilir. Modellerimizi güncel tutmak için düzenli olarak güncelliyoruz.",
+            "checkImage": "Kontrol ettiğiniz görsel düşük çözünürlüklü bir küçük resim veya yüksek sıkıştırılmış bir ekran görüntüsü olabilir. Mevcut en yüksek çözünürlüklü sürümle tekrar deneyin.",
+            "checkText": "Metin örneği çok kısa olabilir. En az iki cümle sağladığınızdan emin olun; daha fazla metin sonuçları iyileştirir.",
+            "outro": "Bu hızlı kontroller çoğu \"yanlış negatif\" raporunu çözer. Sorun devam ederse, lütfen örneği bizimle paylaşın, böylece uygulamayı herkes için geliştirmeye devam edebiliriz."
+          }
+        }
+      }
+    }
+  },
+  "RelatedLinks": {
+    "title": "Daha Fazla Yardıma mı İhtiyacınız Var?",
+    "description": "İhtiyacınız olan cevabı bulamadınız mı? Gerçek zamanlı ipuçları, püf noktaları ve destek için Discord topluluğumuza katılın."
+  },
+  "DiscordBadge": {
+    "discord": "Discord",
+    "usersOnline": "{onlineCount, plural, one {# çevrimiçi kullanıcı} other {# çevrimiçi kullanıcı}}"
+  }
+}

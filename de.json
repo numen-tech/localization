@@ -1,0 +1,312 @@
+{
+  "Metadata": {
+    "title": "Slop Or Not: Kostenloser KI-Content-Detektor für Text und Bilder",
+    "description": "KI-Textdetektor, KI-Bilderdetektor und KI-Humanizer in einer App. Prüfen und humanisieren Sie KI kostenlos auf dem iPhone – ganz ohne Cloud."
+  },
+  "Navigation": {
+    "home": "Startseite",
+    "help": "Hilfe",
+    "download": "Download"
+  },
+  "LanguageSwitcher": {
+    "ar": "Arabisch",
+    "zh-HK": "Chinesisch (Hongkong)",
+    "zh-CN": "Chinesisch (vereinfacht)",
+    "zh-TW": "Chinesisch (traditionell)",
+    "cs": "Tschechisch",
+    "nl": "Niederländisch",
+    "fi": "Finnisch",
+    "fr": "Französisch",
+    "de": "Deutsch",
+    "he": "Hebräisch",
+    "hu": "Ungarisch",
+    "it": "Italienisch",
+    "ja": "Japanisch",
+    "ko": "Koreanisch",
+    "nb": "Norwegisch (Bokmål)",
+    "pl": "Polnisch",
+    "pt-BR": "Portugiesisch (Brasilien)",
+    "pt-PT": "Portugiesisch (Portugal)",
+    "ro": "Rumänisch",
+    "ru": "Russisch",
+    "es": "Spanisch",
+    "sv": "Schwedisch",
+    "tr": "Türkisch",
+    "uk": "Ukrainisch",
+    "ur": "Urdu",
+    "en": "Englisch (US)",
+    "en-GB": "Englisch (UK)"
+  },
+  "Header": {
+    "logoAlt": "Slop Or Not",
+    "navigation": {
+      "home": "Startseite",
+      "help": "Hilfe",
+      "download": "Download"
+    }
+  },
+  "Footer": {
+    "tagline": "KI-Slop erkennen. Erkenne, was echt ist.",
+    "sections": {
+      "products": "Produkte",
+      "resources": "Ressourcen",
+      "help": "Hilfe"
+    },
+    "products": {
+      "slopOrNot": {
+        "name": "Slop Or Not",
+        "description": "KI-Content-Detektor für Text und Bilder."
+      },
+      "privateLlm": {
+        "name": "Private LLM",
+        "description": "Lokaler KI-Chatbot für Apple-Geräte."
+      }
+    },
+    "links": {
+      "download": "Download",
+      "privacyPolicy": "Datenschutzerklärung",
+      "blog": "Blog",
+      "helpCenter": "Hilfe-Center",
+      "whatIs": "Was ist Slop Or Not?",
+      "howAccurate": "Wie genau ist es?",
+      "isDataPrivate": "Sind meine Daten privat?",
+      "textCleanup": "Was ist Text Cleanup?"
+    },
+    "compliance": {
+      "gdprAlt": "DSGVO-konform",
+      "ccpaAlt": "CCPA-konform"
+    },
+    "copyright": "Alle Rechte vorbehalten. Mit ❤️ in 🇪🇺 entwickelt"
+  },
+  "Hero": {
+    "logoAlt": "Slop Or Not Logo",
+    "title": "KI-Textdetektor und KI-Bilderdetektor in einer App",
+    "srOnlyPrefix": "Slop Or Not: ",
+    "description": "Prüfe kostenlos in Sekunden, ob Inhalte KI sind – deine Daten bleiben dabei auf deinem iPhone.",
+    "testflightLink": "TestFlight-Beta herunterladen"
+  },
+  "NotFound": {
+    "logoAlt": "Slop Or Not Logo",
+    "title": "404: Diese Seite ist reiner Slop.",
+    "description": "Dieser Link hat offenbar unseren Authentizitätscheck nicht bestanden. Kehre lieber zur Sicherheit zurück!",
+    "backToHome": "Zurück zur Startseite"
+  },
+  "CtaDownload": {
+    "title": "Kostenlosen KI-Content-Detektor für iPhone herunterladen",
+    "description": "Prüfe KI-Text und -Bilder in Sekunden – völlig offline. Deine Daten verlassen dein Telefon nie – Privatsphäre inklusive."
+  },
+  "Features": {
+    "aiImageDetector": {
+      "title": "Prüfe auf dem iPhone, ob ein Foto von KI erstellt wurde",
+      "description": "Romance-Scams erbeuteten 2023 laut <ftcLink>FTC</ftcLink> 1,14 Milliarden US-Dollar von Verbraucher:innen – mehr als jede andere Betrugsmasche. Betrüger erstellen inzwischen <fakeDatingLink>gefälschte Dating-Profile</fakeDatingLink> mit KI-generierten Gesichtern und Chatbots. Unser KI-Bilderdetektor läuft direkt auf deinem iPhone, sodass du Selfies, Quittungen oder Produktfotos prüfen kannst, bevor du nach rechts wischst oder kaufst. Er erkennt Wasserzeichen sowie subtile Gesichtsartefakte, die dem menschlichen Auge entgehen."
+    },
+    "aiTextDetector": {
+      "title": "KI-Textdetektor ohne Wortbegrenzung",
+      "description": "Fast 90 % der Studierenden gaben <forbesLink>Anfang 2023</forbesLink> zu, ChatGPT für Hausaufgaben genutzt zu haben; die Nutzung durch Teenager hat sich <pewLink>bis 2025 nochmals verdoppelt</pewLink>. Lehrkräfte, Redakteur:innen und Rechtsanwält:innen können jedes Dokument in den KI-Textdetektor von Slop Or Not einfügen, um zu prüfen, ob die Worte von KI stammen – ohne Wortlimits, ohne Cloud-Schnüffelei. Heute Englisch; bald weitere Sprachen."
+    },
+    "aiFingerprints": {
+      "title": "KI-Fingerabdrücke entfernen und KI auf dem iPhone humanisieren",
+      "description": "Cloud-„KI-Humanizer“-Seiten schicken deine Texte oft an entfernte LLMs, die neue Fingerabdrücke hinterlassen. Slop Or Not entfernt Zero-Width-Spaces, Homoglyphen und Abstandstricks – wie das Binärmuster, das <elonLink>Elon Musk 2008 einsetzte, um einen Tesla-Leaker zu entlarven</elonLink> – ohne deinen Stil umzuschreiben."
+    },
+    "stickerPack": {
+      "title": "AI-Slop-Sticker-Pack",
+      "description": "Einen Fake gefunden? Wirf einfach unser AI-Slop-Sticker-Pack in iMessage oder Social-Posts und prangere es stilvoll an. Denn die Wahrheit zu verteidigen darf auch Spaß machen.",
+      "imageAlt": "AI-Slop-iMessage-Sticker-Pack von Slop Or Not mit Meme-Charakteren, die auf die Texte „AI Slop“ und „Slop!“ zeigen"
+    },
+    "howItWorks": {
+      "title": "So funktioniert's",
+      "steps": {
+        "download": {
+          "title": "KI-Detektor herunterladen",
+          "description": "Lade die App aus dem App Store. Sie nutzt fortschrittliche On-Device-KI-Modelle, um KI-generierte Inhalte zu erkennen."
+        },
+        "check": {
+          "title": "KI-Check durchführen",
+          "description": "Text einfügen oder Bild auswählen. Ergebnisse erscheinen sofort – sogar offline."
+        },
+        "detect": {
+          "title": "AI-Slop finden",
+          "description": "Sieh das Ergebnis, entferne Spuren oder teile den Beweis direkt aus der App."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Anwendungsfälle",
+      "cases": {
+        "journalists": {
+          "title": "Journalist:innen & Faktenchecker:innen",
+          "description": "Überprüfe Bilder zu Eilmeldungen und Zitate von Quellen, bevor du veröffentlichst. Vermeide manipulierte Inhalte, die deiner Glaubwürdigkeit schaden."
+        },
+        "teachers": {
+          "title": "Lehrkräfte & Studierende",
+          "description": "Lehrkräfte markieren KI-geschriebene Aufsätze; Studierende zeigen ihre eigene Originalität. Bewahre akademische Ehrlichkeit ohne teure Plagiatsdienste."
+        },
+        "dating": {
+          "title": "Online-Dating",
+          "description": "Überprüfe Profilfotos und Bios, um Catfish-Accounts zu entlarven. Bleib vor Romance-Scams und Zeitverschwendung geschützt."
+        },
+        "shopping": {
+          "title": "Online-Shopper:innen",
+          "description": "Prüfe Produktfotos, Influencer-Posts und Kundenrezensionen. Kaufe klüger ein und erhalte ehrliche Bewertungen."
+        },
+        "finance": {
+          "title": "Finanz- & HR-Teams",
+          "description": "Authentifiziere Ausweisdokumente, Lebensläufe und Sprecher-Skripte. Senke das Risiko von Betrug und Deepfake-Gehaltsabrechnung."
+        },
+        "legal": {
+          "title": "Jurist:innen & Mediziner:innen",
+          "description": "Bestätige, dass Verträge, Schriftsätze oder Patientenakten von Menschen verfasst wurden. Schütze die Vertraulichkeit und erfülle strenge Compliance-Vorgaben."
+        },
+        "creators": {
+          "title": "Content-Creator & Community-Manager:innen",
+          "description": "Moderiere nutzergenerierte Beiträge auf KI-Spam oder Desinformation. Halte Foren, Discord-Server und Social-Feeds vertrauenswürdig."
+        },
+        "social": {
+          "title": "Social-Media-Nutzer:innen",
+          "description": "Bekämpfe Desinformation in Feeds, indem du virale Posts und Trends prüfst. Verifiziere, bevor du teilst."
+        }
+      }
+    }
+  },
+  "HelpPage": {
+    "title": "Slop Or Not FAQ | Support zum KI-Content-Detektor",
+    "description": "Hole dir Unterstützung für den Slop Or Not KI-Content-Detektor. Unser FAQ deckt On-Device-Privatsphäre, Genauigkeit, Abos und das Prüfen von Text und Bildern auf KI ab."
+  },
+  "HelpHero": {
+    "title": "Slop Or Not Hilfe & FAQ",
+    "description": "Hier findest du Antworten auf häufige Fragen zu Slop Or Not. Wenn du hier nicht fündig wirst, sieh dir bitte unsere Support-Optionen unten an."
+  },
+  "HelpContent": {
+    "viewAll": "Alle anzeigen",
+    "cta": {
+      "title": "Bereit, Slop aufzudecken und deine Privatsphäre zu schützen?"
+    },
+    "gettingStarted": {
+      "name": "Erste Schritte & Grundfunktionen",
+      "questions": {
+        "whatIs": {
+          "question": "Was ist Slop Or Not?",
+          "answer": "Slop Or Not ist der weltweit erste KI-Content-Detektor, der vollständig auf deinem iPhone läuft. Er prüft sofort Texte und Bilder, um festzustellen, ob sie von KI erstellt wurden. Da alles on-device läuft, bleiben deine Daten zu 100 % privat und verlassen dein Telefon nie. Er ist schnell, sicher und funktioniert sogar ohne Internetverbindung."
+        },
+        "howDoICheck": {
+          "question": "Wie prüfe ich Inhalte auf KI?",
+          "answer": {
+            "intro": "Ganz einfach. Du kannst:",
+            "checkText": {
+              "title": "Text prüfen:",
+              "description": "Kopiere den Text, den du analysieren möchtest, öffne Slop Or Not und füge ihn in das Textfeld ein. Die App liefert sofort ein Ergebnis."
+            },
+            "checkImages": {
+              "title": "Bilder prüfen:",
+              "description": "Wähle ein beliebiges Bild aus deiner Mediathek direkt in der App aus oder teile ein Bild aus einer anderen App an Slop Or Not. Die Analyse erfolgt sofort."
+            }
+          }
+        },
+        "needsInternet": {
+          "question": "Benötigt Slop Or Not eine Internetverbindung?",
+          "answer": "Slop Or Not führt alle KI-Erkennungen direkt auf deinem Gerät aus. Nur für die einmalige Einrichtung zum Herunterladen der KI-Modelle wird eine Internetverbindung benötigt. Danach kannst du Texte und Bilder vollständig offline prüfen. Wir nutzen Apples CoreML-Modellverschlüsselung zum Schutz unserer On-Device-Transformer-Modelle. iOS benötigt gelegentlich eine Internetverbindung, um die Modell-Schlüssel aus dem App Store zu aktualisieren."
+        },
+        "isDataPrivate": {
+          "question": "Sind meine Daten privat, wenn ich die App benutze?",
+          "answer": "Ja, zu 100 %. Anders als andere KI-Detektoren, die deine Daten zur Analyse auf einen Server hochladen, verarbeitet Slop Or Not alles lokal auf deinem iPhone. Deine Texte, Bilder und Fotos verlassen dein Gerät niemals, was dir vollständige Privatsphäre garantiert. Das ist ideal, um sensible Informationen wie Rechtsdokumente, Kunden-E-Mails oder medizinische Unterlagen zu prüfen. Wir haben unseren Sitz in der EU und erfüllen vollständig DSGVO und CCPA, sodass deine Rechte und der Datenschutz stets gewahrt bleiben."
+        },
+        "whoShouldUse": {
+          "question": "Wer sollte Slop Or Not verwenden?",
+          "answer": {
+            "intro": "Alle, die Wert auf Wahrheit und Privatsphäre legen! Besonders nützlich ist es für:",
+            "studentsTeachers": {
+              "title": "Studierende & Lehrkräfte",
+              "description": "um die Originalität akademischer Arbeiten zu prüfen."
+            },
+            "journalists": {
+              "title": "Journalist:innen & Faktenchecker:innen",
+              "description": "um die Authentizität von Quellen und Bildern zu verifizieren."
+            },
+            "onlineDaters": {
+              "title": "Online-Dater:innen",
+              "description": "um gefälschte „Catfish“-Profile zu erkennen."
+            },
+            "shoppers": {
+              "title": "Shopper:innen",
+              "description": "um zu prüfen, ob Produktbewertungen echt oder KI-generiert sind."
+            },
+            "anyone": {
+              "title": "Alle",
+              "description": "die Desinformation und Deepfakes in sozialen Medien identifizieren möchten."
+            }
+          }
+        }
+      }
+    },
+    "features": {
+      "name": "Funktionen & Genauigkeit",
+      "questions": {
+        "howAccurate": {
+          "question": "Wie genau ist die KI-Erkennung?",
+          "answer": {
+            "intro": "Slop Or Not nutzt branchenführende Modelle für hohe Genauigkeit:",
+            "watermarkedImages": {
+              "title": "Bilder mit Wasserzeichen (C2PA/IPTC aus Gemini-Bilderstellung, OpenAI-Bilderstellung, Microsoft Designer, Adobe Firefly, usw.):",
+              "description": "100 % genaue Erkennung."
+            },
+            "otherImages": {
+              "title": "Alle anderen KI-generierten Bilder:",
+              "description": "90 % Genauigkeit."
+            },
+            "text": {
+              "title": "KI-generierter Text:",
+              "description": "95 % Genauigkeit."
+            },
+            "note": "*Hinweis: Die Genauigkeit basiert auf unseren internen Tests. Ergebnisse können mit neuen KI-Modellen und fortgeschrittenen Methoden zum Täuschen von Detektoren variieren.*"
+          }
+        },
+        "textCleanup": {
+          "question": "Was ist die Funktion „Text Cleanup“?",
+          "answer": "KI-generierter Text enthält häufig versteckte Zeichen oder seltsame Formatierungen, die als unsichtbare Wasserzeichen dienen können. Unsere Funktion „Text Cleanup“ entfernt diese Spuren mit einem einzigen Tippen. Sie entfernt: versteckte Zeichen (z. B. Zero-Width-Spaces), verdächtige Satzzeichen und Homoglyphen (Buchstaben, die wie andere aussehen). Sie kann auch Schreibweisen normalisieren (z. B. von US- auf UK-Englisch) und die Zeichensetzung korrigieren."
+        },
+        "stickerPacks": {
+          "question": "Was sind die AI-Slop-Sticker-Packs?",
+          "answer": "Das sind lustige iMessage-Sticker-Packs, die in der App enthalten sind! Wenn du KI-generierte Inhalte online oder in Chats entdeckst, kannst du unsere Sticker verwenden, um sie auf lockere Weise anzuprangern."
+        },
+        "incognitoMode": {
+          "question": "Was ist der Inkognito-Modus?",
+          "answer": "Der Inkognito-Modus bietet eine zusätzliche Datenschicht. Wenn er aktiviert ist, speichert die App keine Historie der geprüften Inhalte. Perfekt, wenn du besonders sensible Informationen überprüfst und keine Spuren auf deinem Gerät hinterlassen möchtest."
+        }
+      }
+    },
+    "troubleshooting": {
+      "name": "Fehlerbehebung & Support",
+      "questions": {
+        "whyDownload": {
+          "question": "Warum lädt die App nach der Installation Dateien herunter?",
+          "answer": "Um den Download aus dem App Store zu beschleunigen und Speicherplatz auf deinem Gerät zu sparen, halten wir die Anfangsgröße der App klein. Beim ersten Start lädt Slop Or Not automatisch unsere leistungsstarken KI-Detektionsmodelle über Apples On-Demand-Resources-System herunter. Das ist ein einmaliger Prozess. Gelegentlich kann es zu Problemen mit Apples Dienst kommen, die den Download unterbrechen. Wenn er hängen bleibt, prüfe deine Internetverbindung und starte die App nach ein paar Minuten neu. Der Download sollte dann automatisch fortgesetzt werden."
+        },
+        "imageResolution": {
+          "question": "Beeinflusst die Bildauflösung die Erkennungsergebnisse?",
+          "answer": "Ja. Wenn du ein niedrig aufgelöstes Thumbnail oder einen Screenshot verwendest, läuft das Modell zwar, kann aber aufgrund fehlender Details einen niedrigeren Vertrauenswert zurückgeben. Verwende nach Möglichkeit immer die Original- oder höchstmögliche Qualität des Bildes. Mehr Pixel bedeuten mehr Hinweise für den Detektor, daher sind die Ergebnisse stärker und stabiler."
+        },
+        "howMuchText": {
+          "question": "Wie viel Text benötige ich für eine zuverlässige Erkennung?",
+          "answer": "Der Textdetektor benötigt mindestens zwei vollständige Sätze. Sehr kurze Ausschnitte bieten dem Modell zu wenig Kontext, um KI-Fingerabdrücke zu erkennen. Füge nach Möglichkeit einen ganzen Absatz oder das gesamte Dokument ein. Je länger der Text, desto höher das Erkennungs-Vertrauen."
+        },
+        "notDetecting": {
+          "question": "Die App erkennt keine KI-Inhalte, obwohl ich sicher bin, dass sie KI-generiert sind. Warum?",
+          "answer": {
+            "intro": "Die Welt der KI verändert sich schnell. Obwohl unser Detektor sehr genau ist, können einige neue KI-Modelle Inhalte erzeugen, die schwerer zu erkennen sind. Wir aktualisieren unsere Modelle regelmäßig, um mitzuhalten.",
+            "checkImage": "Das Bild, das du geprüft hast, könnte ein niedrig aufgelöstes Thumbnail oder ein stark komprimierter Screenshot sein. Versuche es erneut mit der höchstauflösenden Version, die du finden kannst.",
+            "checkText": "Die Textprobe könnte zu kurz sein. Stelle sicher, dass du mindestens zwei Sätze bereitstellst; mehr Text verbessert die Ergebnisse.",
+            "outro": "Diese schnellen Überprüfungen lösen die meisten „False Negatives“. Wenn das Problem weiterhin besteht, teile uns das Beispiel bitte mit, damit wir die App für alle verbessern können."
+          }
+        }
+      }
+    }
+  },
+  "RelatedLinks": {
+    "title": "Brauchst du weitere Hilfe?",
+    "description": "Du findest nicht, was du suchst? Tritt unserer Discord-Community bei für Tipps, Tricks und Unterstützung in Echtzeit."
+  },
+  "DiscordBadge": {
+    "discord": "Discord",
+    "usersOnline": "{onlineCount, plural, one {# Benutzer online} other {# Benutzer online}}"
+  }
+}

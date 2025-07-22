@@ -1,0 +1,312 @@
+{
+  "Metadata": {
+    "title": "Slop Or Not: Darmowy wykrywacz treści AI dla tekstu i obrazów",
+    "description": "Wykrywacz tekstu AI, wykrywacz obrazów AI i humanizer AI w jednej aplikacji. Sprawdzaj AI i humanizuj AI za darmo na iPhonie, bez chmury."
+  },
+  "Navigation": {
+    "home": "Strona główna",
+    "help": "Pomoc",
+    "download": "Pobierz"
+  },
+  "LanguageSwitcher": {
+    "ar": "Arabski",
+    "zh-HK": "Chiński (Hongkong)",
+    "zh-CN": "Chiński uproszczony",
+    "zh-TW": "Chiński tradycyjny",
+    "cs": "Czeski",
+    "nl": "Holenderski",
+    "fi": "Fiński",
+    "fr": "Francuski",
+    "de": "Niemiecki",
+    "he": "Hebrajski",
+    "hu": "Węgierski",
+    "it": "Włoski",
+    "ja": "Japoński",
+    "ko": "Koreański",
+    "nb": "Norweski Bokmål",
+    "pl": "Polski",
+    "pt-BR": "Portugalski (Brazylia)",
+    "pt-PT": "Portugalski (Portugalia)",
+    "ro": "Rumuński",
+    "ru": "Rosyjski",
+    "es": "Hiszpański",
+    "sv": "Szwedzki",
+    "tr": "Turecki",
+    "uk": "Ukraiński",
+    "ur": "Urdu",
+    "en": "Angielski (US)",
+    "en-GB": "Angielski (UK)"
+  },
+  "Header": {
+    "logoAlt": "Slop Or Not",
+    "navigation": {
+      "home": "Strona główna",
+      "help": "Pomoc",
+      "download": "Pobierz"
+    }
+  },
+  "Footer": {
+    "tagline": "Wykrywaj AI Slop. Dowiedz się, co jest prawdziwe.",
+    "sections": {
+      "products": "Produkty",
+      "resources": "Zasoby",
+      "help": "Pomoc"
+    },
+    "products": {
+      "slopOrNot": {
+        "name": "Slop Or Not",
+        "description": "Wykrywacz treści AI dla tekstu i obrazów."
+      },
+      "privateLlm": {
+        "name": "Private LLM",
+        "description": "Lokalny chatbot AI dla urządzeń Apple."
+      }
+    },
+    "links": {
+      "download": "Pobierz",
+      "privacyPolicy": "Polityka prywatności",
+      "blog": "Blog",
+      "helpCenter": "Centrum pomocy",
+      "whatIs": "Czym jest Slop Or Not?",
+      "howAccurate": "Jak dokładne to jest?",
+      "isDataPrivate": "Czy moje dane są prywatne?",
+      "textCleanup": "Na czym polega Text Cleanup?"
+    },
+    "compliance": {
+      "gdprAlt": "Zgodny z RODO",
+      "ccpaAlt": "Zgodny z CCPA"
+    },
+    "copyright": "Wszelkie prawa zastrzeżone. Stworzone z ❤️ w 🇪🇺"
+  },
+  "Hero": {
+    "logoAlt": "Logo Slop or Not",
+    "title": "Wykrywacz tekstu AI i wykrywacz obrazów AI w jednej aplikacji",
+    "srOnlyPrefix": "Slop or Not: ",
+    "description": "Sprawdź, czy treść jest AI w kilka sekund za darmo, zachowując dane na swoim iPhonie.",
+    "testflightLink": "Pobierz wersję beta TestFlight"
+  },
+  "NotFound": {
+    "logoAlt": "Logo Slop Or Not",
+    "title": "404: Ta strona to czysty slop.",
+    "description": "Wygląda na to, że ten link nie przeszedł naszego testu autentyczności. Wróć w bezpieczne miejsce!",
+    "backToHome": "Powrót do strony głównej"
+  },
+  "CtaDownload": {
+    "title": "Pobierz darmowy wykrywacz treści AI na iPhone'a",
+    "description": "Sprawdzaj tekst i obrazy AI w kilka sekund, całkowicie offline. Twoje dane nigdy nie opuszczają telefonu – prywatność wbudowana."
+  },
+  "Features": {
+    "aiImageDetector": {
+      "title": "Sprawdź, czy to zdjęcie zostało wygenerowane przez AI na Twoim iPhonie",
+      "description": "Romance scams ukradły konsumentom 1,14 miliarda dolarów w 2023 roku, co stanowi największe straty spośród wszystkich oszustw podszywających się pod inne osoby, <ftcLink>podaje FTC</ftcLink>. Oszuści tworzą teraz <fakeDatingLink>fałszywe profile randkowe</fakeDatingLink> z twarzami generowanymi przez AI i chatbotami. Nasz wykrywacz obrazów AI działa na Twoim iPhonie, więc możesz sprawdzić, czy AI wygenerowała to selfie, paragon lub zdjęcie produktu, zanim przesuniesz palcem lub kupisz. Oznacza znaki wodne oraz subtelne artefakty twarzy, których ludzkie oko nie zauważa."
+    },
+    "aiTextDetector": {
+      "title": "Wykrywacz tekstu AI bez limitu słów",
+      "description": "Prawie 90% uczniów przyznało się do używania ChatGPT do pracy domowej <forbesLink>na początku 2023 roku</forbesLink>, a korzystanie wśród nastolatków <pewLink>podwoiło się ponownie do 2025</pewLink>. Nauczyciele, redaktorzy i prawnicy mogą wkleić dowolny dokument do wykrywacza tekstu AI w Slop Or Not, aby sprawdzić, czy AI wygenerowała słowa – bez limitu słów, bez podglądania w chmurze. Dziś angielski; wkrótce więcej języków."
+    },
+    "aiFingerprints": {
+      "title": "Usuń odciski AI i humanizuj AI na iPhonie",
+      "description": "Strony „AI humanizer” w chmurze często przesyłają Twoje słowa do zdalnych LLM, które pozostawiają nowe odciski. Slop Or Not usuwa spacje zerowej szerokości, homoglikfy i triki odstępów – jak wzór binarny, który <elonLink>Elon Musk wykorzystał w 2008 roku, aby złapać informatora Tesli</elonLink> – bez zmiany Twojego stylu."
+    },
+    "stickerPack": {
+      "title": "Pakiet naklejek AI Slop",
+      "description": "Znalazłeś fałszywkę? Dodaj nasz pakiet naklejek AI Slop do iMessage lub postów w mediach społecznościowych i nazwij rzecz po imieniu ze stylem. Bo obrona prawdy też może być zabawna.",
+      "imageAlt": "Pakiet naklejek AI Slop do iMessage od Slop Or Not, przedstawiający różne postacie z memów wskazujące na teksty „AI Slop” i „Slop!”"
+    },
+    "howItWorks": {
+      "title": "Jak to działa",
+      "steps": {
+        "download": {
+          "title": "Pobierz wykrywacz AI",
+          "description": "Pobierz aplikację z App Store. Używa zaawansowanych modeli AI na urządzeniu do wykrywania treści AI."
+        },
+        "check": {
+          "title": "Uruchom sprawdzanie AI",
+          "description": "Wklej tekst lub wybierz obraz. Wyniki pojawią się natychmiast, nawet offline."
+        },
+        "detect": {
+          "title": "Znajdź AI Slop",
+          "description": "Zobacz werdykt, usuń ślady lub udostępnij dowód bezpośrednio z aplikacji."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Zastosowania",
+      "cases": {
+        "journalists": {
+          "title": "Dziennikarze i weryfikatorzy faktów",
+          "description": "Sprawdzaj zdjęcia z najnowszych wiadomości i cytaty źródeł przed publikacją. Uniknij publikowania zmanipulowanych treści, które mogą zaszkodzić wiarygodności."
+        },
+        "teachers": {
+          "title": "Nauczyciele i uczniowie",
+          "description": "Nauczyciele wykrywają eseje napisane przez AI; uczniowie potwierdzają własną oryginalność. Zachowaj uczciwość akademicką bez drogich usług antyplagiatowych."
+        },
+        "dating": {
+          "title": "Randki online",
+          "description": "Weryfikuj zdjęcia profilowe i biografie, aby wykryć fałszywe konta. Chroń się przed oszustwami romantycznymi i stratą czasu."
+        },
+        "shopping": {
+          "title": "Zakupy online",
+          "description": "Sprawdzaj zdjęcia produktów, posty influencerów i recenzje klientów. Dokonuj mądrzejszych zakupów i utrzymuj wiarygodność recenzji."
+        },
+        "finance": {
+          "title": "Zespoły finansowe i HR",
+          "description": "Uwierzytelniaj dokumenty tożsamości, CV i skrypty głosowe. Zmniejsz ryzyko oszustw i wypłat deepfake."
+        },
+        "legal": {
+          "title": "Specjaliści prawni i medyczni",
+          "description": "Potwierdź, że umowy, pisma procesowe lub akta pacjenta napisano przez człowieka. Chroń poufność klientów, spełniając jednocześnie rygorystyczne wymogi zgodności."
+        },
+        "creators": {
+          "title": "Twórcy treści i moderatorzy społeczności",
+          "description": "Moderuj treści generowane przez użytkowników pod kątem spamu AI lub dezinformacji. Zachowaj wiarygodność forów, serwerów Discord i kanałów społecznościowych."
+        },
+        "social": {
+          "title": "Użytkownicy mediów społecznościowych",
+          "description": "Walcz z dezinformacją w feedach, sprawdzając viralowe posty i popularne treści. Zweryfikuj, zanim udostępnisz."
+        }
+      }
+    }
+  },
+  "HelpPage": {
+    "title": "Slop Or Not FAQ | Wsparcie wykrywacza treści AI",
+    "description": "Uzyskaj pomoc dotyczącą wykrywacza treści AI Slop Or Not. Nasze FAQ obejmuje prywatność na urządzeniu, dokładność, subskrypcje i jak sprawdzać tekst oraz obrazy pod kątem AI."
+  },
+  "HelpHero": {
+    "title": "Pomoc i FAQ Slop Or Not",
+    "description": "Oto odpowiedzi na najczęstsze pytania dotyczące Slop Or Not. Jeśli nie znajdziesz tutaj odpowiedzi, zobacz nasze opcje wsparcia poniżej."
+  },
+  "HelpContent": {
+    "viewAll": "Zobacz wszystkie",
+    "cta": {
+      "title": "Gotowy, aby wykryć slop i chronić swoją prywatność?"
+    },
+    "gettingStarted": {
+      "name": "Pierwsze kroki i podstawowe funkcje",
+      "questions": {
+        "whatIs": {
+          "question": "Czym jest Slop Or Not?",
+          "answer": "Slop Or Not to pierwszy na świecie wykrywacz treści AI, który działa całkowicie na Twoim iPhonie. Natychmiast sprawdza tekst i obrazy, aby ustalić, czy zostały stworzone przez AI. Ponieważ działa na urządzeniu, Twoje dane pozostają w 100% prywatne i nigdy nie opuszczają telefonu. Jest szybki, bezpieczny i działa nawet bez połączenia z internetem."
+        },
+        "howDoICheck": {
+          "question": "Jak sprawdzić treści pod kątem AI?",
+          "answer": {
+            "intro": "To proste. Możesz:",
+            "checkText": {
+              "title": "Sprawdzanie tekstu:",
+              "description": "Skopiuj tekst, który chcesz przeanalizować, otwórz Slop Or Not i wklej go w pole tekstowe. Aplikacja natychmiast poda wynik."
+            },
+            "checkImages": {
+              "title": "Sprawdzanie obrazów:",
+              "description": "Wybierz dowolny obraz lub zdjęcie z biblioteki bezpośrednio w aplikacji albo udostępnij obraz z innej aplikacji do Slop Or Not. Analiza nastąpi natychmiast."
+            }
+          }
+        },
+        "needsInternet": {
+          "question": "Czy Slop Or Not potrzebuje połączenia z internetem, aby działać?",
+          "answer": "Slop Or Not wykonuje całą detekcję AI bezpośrednio na Twoim urządzeniu. Będziesz potrzebować połączenia z internetem tylko przy jednorazowej konfiguracji, aby pobrać modele AI. Po tym możesz sprawdzać tekst i obrazy całkowicie offline. Używamy szyfrowania modeli CoreML od Apple, aby chronić nasze modele transformerów na urządzeniu. iOS może okazjonalnie potrzebować połączenia z internetem, aby odświeżyć klucze szyfrowania modeli z App Store."
+        },
+        "isDataPrivate": {
+          "question": "Czy moje dane są prywatne podczas korzystania z aplikacji?",
+          "answer": "Tak, w 100%. W przeciwieństwie do innych wykrywaczy AI przesyłających Twoje dane na serwer do analizy, Slop Or Not przetwarza wszystko lokalnie na Twoim iPhonie. Twój tekst, obrazy i zdjęcia nigdy nie opuszczają urządzenia, gwarantując pełną prywatność. To idealne rozwiązanie do sprawdzania poufnych informacji, takich jak dokumenty prawne, e-maile klientów czy akta medyczne. Nasza siedziba znajduje się w UE i w pełni przestrzegamy RODO i CCPA, dlatego Twoje prawa i ochrona danych są zawsze respektowane."
+        },
+        "whoShouldUse": {
+          "question": "Kto powinien używać Slop Or Not?",
+          "answer": {
+            "intro": "Każdy, kto ceni prawdę i prywatność! Jest szczególnie przydatny dla:",
+            "studentsTeachers": {
+              "title": "Uczniów i nauczycieli",
+              "description": "sprawdzanie oryginalności pracy naukowej."
+            },
+            "journalists": {
+              "title": "Dziennikarzy i weryfikatorów faktów",
+              "description": "weryfikowanie autentyczności źródeł i obrazów."
+            },
+            "onlineDaters": {
+              "title": "Osób randkujących online",
+              "description": "wykrywanie fałszywych profili „catfish”."
+            },
+            "shoppers": {
+              "title": "Kupujących",
+              "description": "sprawdzanie, czy recenzje produktów są prawdziwe czy wygenerowane przez AI."
+            },
+            "anyone": {
+              "title": "Każdego",
+              "description": "chcącego identyfikować dezinformację i deepfake'i w mediach społecznościowych."
+            }
+          }
+        }
+      }
+    },
+    "features": {
+      "name": "Funkcje i dokładność",
+      "questions": {
+        "howAccurate": {
+          "question": "Jak dokładne jest wykrywanie AI?",
+          "answer": {
+            "intro": "Slop Or Not wykorzystuje wiodące w branży modele dla wysokiej dokładności:",
+            "watermarkedImages": {
+              "title": "Obrazy ze znakami wodnymi (C2PA/IPTC z Gemini image generation, OpenAI image generation, Microsoft Designer, Adobe Firefly itd.):",
+              "description": "100% dokładności wykrycia."
+            },
+            "otherImages": {
+              "title": "Wszystkie pozostałe obrazy wygenerowane przez AI:",
+              "description": "90% dokładności."
+            },
+            "text": {
+              "title": "Tekst wygenerowany przez AI:",
+              "description": "95% dokładności."
+            },
+            "note": "*Uwaga: Dokładność opiera się na naszych wewnętrznych testach. Wyniki mogą się różnić wraz z pojawianiem się nowych modeli AI i zaawansowanych metod zaprojektowanych do oszukiwania detektorów.*"
+          }
+        },
+        "textCleanup": {
+          "question": "Na czym polega funkcja „Text Cleanup”?",
+          "answer": "Tekst wygenerowany przez AI często zawiera ukryte znaki lub dziwne formatowanie, które mogą działać jak niewidoczne znaki wodne. Nasza funkcja Text Cleanup usuwa te ślady jednym stuknięciem. Usuwa: ukryte znaki (np. spacje zerowej szerokości), podejrzaną interpunkcję i homoglikfy (litery wyglądające jak inne). Może również znormalizować pisownię (np. z US na UK English) i poprawić interpunkcję za Ciebie."
+        },
+        "stickerPacks": {
+          "question": "Czym są pakiety naklejek AI Slop?",
+          "answer": "To zabawne pakiety naklejek iMessage dołączone do aplikacji! Kiedy znajdziesz treść wygenerowaną przez AI online lub na czatach, możesz użyć naszych naklejek, aby w lekkim tonie to wskazać."
+        },
+        "incognitoMode": {
+          "question": "Czym jest Incognito Mode?",
+          "answer": "Incognito Mode zapewnia dodatkową warstwę prywatności. Po włączeniu aplikacja nie będzie przechowywać historii sprawdzanych treści. Idealne, gdy obsługujesz wyjątkowo wrażliwe informacje i chcesz nie pozostawić śladu sprawdzenia na urządzeniu."
+        }
+      }
+    },
+    "troubleshooting": {
+      "name": "Rozwiązywanie problemów i wsparcie",
+      "questions": {
+        "whyDownload": {
+          "question": "Dlaczego aplikacja pobiera pliki po instalacji?",
+          "answer": "Aby zapewnić szybsze pobieranie z App Store i oszczędzać miejsce na Twoim urządzeniu, utrzymujemy początkowy rozmiar aplikacji mały. Przy pierwszym uruchomieniu Slop Or Not automatycznie pobiera nasze potężne modele detekcji AI, korzystając z systemu On-Demand Resources firmy Apple. To jednorazowy proces. Czasami problemy z usługą Apple mogą przerwać to pobieranie. Jeśli utknie, sprawdź połączenie z internetem i uruchom ponownie aplikację po kilku minutach. Pobieranie powinno wznowić się automatycznie."
+        },
+        "imageResolution": {
+          "question": "Czy rozdzielczość obrazu wpływa na wyniki detekcji?",
+          "answer": "Tak. Gdy używasz miniatury o niskiej rozdzielczości lub zrzutu ekranu, model nadal zadziała, ale może zwrócić niższy wynik pewności, ponieważ podczas normalizacji tracone są drobne szczegóły. Zawsze staraj się użyć oryginalnej lub najwyższej jakości wersji zdjęcia. Więcej pikseli oznacza więcej wskazówek dla detektora, więc wyniki są silniejsze i bardziej stabilne."
+        },
+        "howMuchText": {
+          "question": "Ile tekstu potrzebuję dla wiarygodnego wykrycia?",
+          "answer": "Wykrywacz tekstu potrzebuje co najmniej dwóch pełnych zdań, aby działać. Bardzo krótkie fragmenty dają zbyt mało kontekstu, by model wykrył odciski AI. Gdy to możliwe, wklej cały akapit lub cały dokument. Im dłuższy fragment, tym wyższa pewność wykrycia."
+        },
+        "notDetecting": {
+          "question": "Aplikacja nie wykrywa treści AI, co do których jestem pewien, że są wygenerowane przez AI. Dlaczego?",
+          "answer": {
+            "intro": "Świat AI zmienia się szybko. Choć nasz detektor jest bardzo dokładny, niektóre nowe modele AI mogą tworzyć treści trudniejsze do wykrycia. Regularnie aktualizujemy nasze modele, aby nadążyć.",
+            "checkImage": "Sprawdzany obraz może być miniaturą o niskiej rozdzielczości lub mocno skompresowanym zrzutem ekranu. Spróbuj ponownie z najwyższą dostępną rozdzielczością.",
+            "checkText": "Fragment tekstu może być zbyt krótki. Upewnij się, że podajesz co najmniej dwa zdania; więcej tekstu poprawia wyniki.",
+            "outro": "Te szybkie wskazówki rozwiązują większość zgłoszeń „fałszywie negatywnych”. Jeśli problem się utrzymuje, podziel się z nami przykładem, abyśmy mogli stale ulepszać aplikację dla wszystkich."
+          }
+        }
+      }
+    }
+  },
+  "RelatedLinks": {
+    "title": "Potrzebujesz więcej pomocy?",
+    "description": "Nie możesz znaleźć potrzebnej odpowiedzi? Dołącz do naszej społeczności na Discordzie, aby uzyskać porady, wskazówki i wsparcie w czasie rzeczywistym."
+  },
+  "DiscordBadge": {
+    "discord": "Discord",
+    "usersOnline": "{onlineCount, plural, one {# użytkownik online} few {# użytkowników online} many {# użytkowników online} other {# użytkowników online}}"
+  }
+}

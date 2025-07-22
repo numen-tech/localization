@@ -1,0 +1,312 @@
+{
+  "Metadata": {
+    "title": "Slop Or Not: Gratis AI-detektor för text och bilder",
+    "description": "AI-textdetektor, AI-bilddetektor och AI-humaniserare i en app. Kontrollera AI och humanisera AI gratis på iPhone, inget moln behövs."
+  },
+  "Navigation": {
+    "home": "Hem",
+    "help": "Hjälp",
+    "download": "Ladda ner"
+  },
+  "LanguageSwitcher": {
+    "ar": "Arabiska",
+    "zh-HK": "Kinesiska (Hongkong)",
+    "zh-CN": "Förenklad kinesiska",
+    "zh-TW": "Traditionell kinesiska",
+    "cs": "Tjeckiska",
+    "nl": "Nederländska",
+    "fi": "Finska",
+    "fr": "Franska",
+    "de": "Tyska",
+    "he": "Hebreiska",
+    "hu": "Ungerska",
+    "it": "Italienska",
+    "ja": "Japanska",
+    "ko": "Koreanska",
+    "nb": "Norska (Bokmål)",
+    "pl": "Polska",
+    "pt-BR": "Portugisiska (Brasilien)",
+    "pt-PT": "Portugisiska (Portugal)",
+    "ro": "Rumänska",
+    "ru": "Ryska",
+    "es": "Spanska",
+    "sv": "Svenska",
+    "tr": "Turkiska",
+    "uk": "Ukrainska",
+    "ur": "Urdu",
+    "en": "Engelska (USA)",
+    "en-GB": "Engelska (Storbritannien)"
+  },
+  "Header": {
+    "logoAlt": "Slop Or Not",
+    "navigation": {
+      "home": "Hem",
+      "help": "Hjälp",
+      "download": "Ladda ner"
+    }
+  },
+  "Footer": {
+    "tagline": "Avslöja AI-skräp. Vet vad som är äkta.",
+    "sections": {
+      "products": "Produkter",
+      "resources": "Resurser",
+      "help": "Hjälp"
+    },
+    "products": {
+      "slopOrNot": {
+        "name": "Slop Or Not",
+        "description": "AI-detektor för text och bilder."
+      },
+      "privateLlm": {
+        "name": "Private LLM",
+        "description": "Lokal AI-chattbot för Apple-enheter."
+      }
+    },
+    "links": {
+      "download": "Ladda ner",
+      "privacyPolicy": "Integritetspolicy",
+      "blog": "Blogg",
+      "helpCenter": "Hjälpcenter",
+      "whatIs": "Vad är Slop Or Not?",
+      "howAccurate": "Hur exakt är den?",
+      "isDataPrivate": "Är mina data privata?",
+      "textCleanup": "Vad är Text Cleanup?"
+    },
+    "compliance": {
+      "gdprAlt": "GDPR-kompatibel",
+      "ccpaAlt": "CCPA-kompatibel"
+    },
+    "copyright": "Alla rättigheter förbehållna. Byggt med ❤️ i 🇪🇺"
+  },
+  "Hero": {
+    "logoAlt": "Slop or Not-logotyp",
+    "title": "AI-textdetektor och AI-bilddetektor i en app",
+    "srOnlyPrefix": "Slop or Not: ",
+    "description": "Kontrollera om innehållet är AI på några sekunder gratis samtidigt som dina data stannar på din iPhone.",
+    "testflightLink": "Ladda ner TestFlight-beta"
+  },
+  "NotFound": {
+    "logoAlt": "Slop Or Not-logotyp",
+    "title": "404: Den här sidan är ren slop.",
+    "description": "Det verkar som att den här länken inte klarade vårt äkthetstest. Försök gå tillbaka till säkerhet!",
+    "backToHome": "Tillbaka till startsidan"
+  },
+  "CtaDownload": {
+    "title": "Ladda ner den kostnadsfria AI-detektorn för iPhone",
+    "description": "Kontrollera AI-text och bilder på sekunder, helt offline. Dina data lämnar aldrig din telefon – integritet inbyggd."
+  },
+  "Features": {
+    "aiImageDetector": {
+      "title": "Kontrollera om AI skapade det där fotot på din iPhone",
+      "description": "Romantikbedrägerier stal 1,14 miljarder dollar från konsumenter 2023, de högsta förlusterna av alla bedrägerityper, <ftcLink>säger FTC</ftcLink>. Bedragare skapar nu <fakeDatingLink>falska dejtingprofiler</fakeDatingLink> med AI-genererade ansikten och chatbottar. Vår AI-bilddetektor finns direkt på din iPhone, så du kan kontrollera om AI har skapat selfien, kvittot eller produktbilden innan du sveper vidare eller köper. Den markerar vattenstämplar och subtila ansiktsartefakter som det mänskliga ögat missar."
+    },
+    "aiTextDetector": {
+      "title": "AI-textdetektor utan ordbegränsning",
+      "description": "Nästan 90 % av studenterna erkände att de använde ChatGPT till läxor <forbesLink>i början av 2023</forbesLink>, och tonårsanvändningen <pewLink>fördubblades igen till 2025</pewLink>. Lärare, redaktörer och jurister kan klistra in valfritt dokument i Slop Or Nots AI-textdetektor för att se om AI har skrivit orden – inga ordgränser, ingen molnavläsning. Engelska i dag; fler språk snart."
+    },
+    "aiFingerprints": {
+      "title": "Ta bort AI-fingeravtryck och humanisera AI på iPhone",
+      "description": "Webbaserade \"AI-humanizer\"-tjänster skickar ofta dina ord till avlägsna LLM:er som lämnar nya fingeravtryck efter sig. Slop Or Not skrubbar nollbreddsmellanrum, homoglyfer och avståndstrick – som det binära mönster <elonLink>Elon Musk använde 2008 för att avslöja en Tesla-läckare</elonLink> – utan att ändra din stil."
+    },
+    "stickerPack": {
+      "title": "AI-slop-klistermärkespaket",
+      "description": "Hittade du en fejk? Släpp vårt AI Slop-klistermärkespaket i iMessage eller sociala inlägg och peka ut det med stil. För att försvara sanningen ska också vara kul.",
+      "imageAlt": "AI Slop iMessage-klistermärkespaket från Slop Or Not, med olika meme-figurer som pekar på \"AI Slop\" och \"Slop!\"-text"
+    },
+    "howItWorks": {
+      "title": "Så fungerar det",
+      "steps": {
+        "download": {
+          "title": "Skaffa AI-detektor",
+          "description": "Ladda ner appen från App Store. Den använder avancerade AI-modeller på enheten för att upptäcka AI-genererat innehåll."
+        },
+        "check": {
+          "title": "Kör AI-kontroll",
+          "description": "Klistra in text eller välj en bild. Resultat visas direkt, även offline."
+        },
+        "detect": {
+          "title": "Hitta AI-slop",
+          "description": "Se domen, rensa spår eller dela bevis direkt från appen."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Användningsområden",
+      "cases": {
+        "journalists": {
+          "title": "Journalister & faktagranskare",
+          "description": "Granska nyhetsbilder och citat från källor innan publicering. Undvik att publicera manipulerat innehåll som kan skada trovärdigheten."
+        },
+        "teachers": {
+          "title": "Lärare & studenter",
+          "description": "Lärare flaggar AI-skrivna uppsatser; studenter bekräftar sin egen originalitet. Upprätthåll akademisk ärlighet utan dyra plagieringstjänster."
+        },
+        "dating": {
+          "title": "Nätdejting",
+          "description": "Verifiera profilbilder och bios för att avslöja catfish-konton. Håll dig säker från romantikbedrägerier och slöseri med tid."
+        },
+        "shopping": {
+          "title": "Nätshoppare",
+          "description": "Kontrollera produktbilder, influencerinlägg och kundrecensioner. Gör smartare köp och behåll recensionernas integritet."
+        },
+        "finance": {
+          "title": "Finans- & HR-team",
+          "description": "Verifiera ID-dokument, CV:n och röstmanus. Minska risken för bedrägerier och deepfake-lönebedrägerier."
+        },
+        "legal": {
+          "title": "Juridiska & medicinska yrkesutövare",
+          "description": "Bekräfta att avtal, inlagor eller patientjournaler är skrivna av människor. Skydda klientsekretessen och uppfyll strikta regelverk."
+        },
+        "creators": {
+          "title": "Innehållsskapare & community-chefer",
+          "description": "Moderera användargenererade inlägg för AI-spam eller desinformation. Håll forum, Discord-servrar och sociala flöden trovärdiga."
+        },
+        "social": {
+          "title": "Sociala medieanvändare",
+          "description": "Bekämpa desinformation i flöden genom att kontrollera virala inlägg och trendande innehåll. Verifiera innan du delar."
+        }
+      }
+    }
+  },
+  "HelpPage": {
+    "title": "Slop Or Not FAQ | Support för AI-detektor",
+    "description": "Få support för Slop Or Nots AI-detektor. Vår FAQ täcker integritet på enheten, noggrannhet, prenumerationer och hur du kontrollerar text och bilder för AI."
+  },
+  "HelpHero": {
+    "title": "Slop Or Not hjälp & FAQ",
+    "description": "Här hittar du svar på vanliga frågor om Slop Or Not. Om du inte hittar det du söker här kan du se våra supportalternativ längst ned."
+  },
+  "HelpContent": {
+    "viewAll": "Visa alla",
+    "cta": {
+      "title": "Redo att hitta slop och skydda din integritet?"
+    },
+    "gettingStarted": {
+      "name": "Kom igång & grundläggande funktioner",
+      "questions": {
+        "whatIs": {
+          "question": "Vad är Slop Or Not?",
+          "answer": "Slop Or Not är världens första AI-detektor som körs helt på din iPhone. Den kontrollerar omedelbart text och bilder för att avgöra om de skapats av AI. Eftersom den fungerar på enheten stannar dina data 100 % privata och lämnar aldrig din telefon. Den är snabb, säker och fungerar även utan internetanslutning."
+        },
+        "howDoICheck": {
+          "question": "Hur kontrollerar jag innehåll för AI?",
+          "answer": {
+            "intro": "Det är enkelt. Du kan:",
+            "checkText": {
+              "title": "Kontrollera text:",
+              "description": "Kopiera texten du vill analysera, öppna Slop Or Not och klistra in den i textfältet. Appen ger omedelbart resultat."
+            },
+            "checkImages": {
+              "title": "Kontrollera bilder:",
+              "description": "Välj valfri bild eller foto från ditt bibliotek direkt i appen, eller dela en bild från en annan app till Slop Or Not. Analysen sker direkt."
+            }
+          }
+        },
+        "needsInternet": {
+          "question": "Behöver Slop Or Not internetanslutning för att fungera?",
+          "answer": "Slop Or Not utför all AI-detektion direkt på din enhet. Du behöver en internetanslutning för engångsinstallationen av AI-modellerna. Efter det kan du kontrollera text och bilder helt offline. Vi använder Apples CoreML-modellkryptering för att skydda våra transformer-modeller på enheten. iOS kan ibland behöva internetanslutning för att uppdatera modellkrypteringsnycklar från App Store."
+        },
+        "isDataPrivate": {
+          "question": "Är mina data privata när jag använder appen?",
+          "answer": "Ja, 100 %. Till skillnad från andra AI-detektorer som laddar upp dina data till en server för analys behandlar Slop Or Not allt lokalt på din iPhone. Din text, dina bilder och foton lämnar aldrig din enhet, vilket garanterar fullständig integritet. Detta är idealiskt för att kontrollera känslig information som juridiska dokument, kundmejl eller medicinska journaler. Vi är baserade inom EU och följer fullt ut GDPR och CCPA, så dina rättigheter och dataskydd är alltid säkerställda."
+        },
+        "whoShouldUse": {
+          "question": "Vem bör använda Slop Or Not?",
+          "answer": {
+            "intro": "Alla som värderar sanning och integritet! Det är särskilt användbart för:",
+            "studentsTeachers": {
+              "title": "Studenter & lärare",
+              "description": "kontrollerar originalitet i akademiskt arbete."
+            },
+            "journalists": {
+              "title": "Journalister & faktagranskare",
+              "description": "verifierar äktheten hos källor och bilder."
+            },
+            "onlineDaters": {
+              "title": "Nätdejtare",
+              "description": "avslöjar falska \"catfish\"-profiler."
+            },
+            "shoppers": {
+              "title": "Shoppare",
+              "description": "kontrollerar om produktrecensioner är äkta eller AI-genererade."
+            },
+            "anyone": {
+              "title": "Vem som helst",
+              "description": "som vill identifiera desinformation och deepfakes i sociala medier."
+            }
+          }
+        }
+      }
+    },
+    "features": {
+      "name": "Funktioner & noggrannhet",
+      "questions": {
+        "howAccurate": {
+          "question": "Hur exakt är AI-detektionen?",
+          "answer": {
+            "intro": "Slop Or Not använder branschledande modeller för hög noggrannhet:",
+            "watermarkedImages": {
+              "title": "Vattenstämplade bilder (C2PA/IPTC från Gemini-bildgenerering, OpenAI-bildgenerering, Microsoft Designer, Adobe Firefly osv):",
+              "description": "100 % exakt detektion."
+            },
+            "otherImages": {
+              "title": "Alla andra AI-genererade bilder:",
+              "description": "90 % noggrannhet."
+            },
+            "text": {
+              "title": "AI-genererad text:",
+              "description": "95 % noggrannhet."
+            },
+            "note": "*Obs: Noggrannheten baseras på våra interna tester. Resultaten kan variera med nya AI-modeller och avancerade metoder som är utformade för att lura detektorer.*"
+          }
+        },
+        "textCleanup": {
+          "question": "Vad är funktionen \"Text Cleanup\"?",
+          "answer": "AI-genererad text innehåller ofta dolda tecken eller konstig formatering som kan fungera som osynliga vattenstämplar. Vår Text Cleanup-funktion tar bort dessa spår med ett tryck. Den tar bort: dolda tecken (såsom nollbreddsmellanrum), misstänkt interpunktion och homoglyfer (bokstäver som liknar andra). Den kan också normalisera stavning (t.ex. från US till UK-engelska) och rätta interpunktion åt dig."
+        },
+        "stickerPacks": {
+          "question": "Vad är AI Slop-klistermärkes­paketen?",
+          "answer": "Det är roliga iMessage-klistermärkespaket som ingår i appen! När du hittar AI-genererat innehåll online eller i chattar kan du använda våra klistermärken för att uppmärksamma det på ett lekfullt sätt."
+        },
+        "incognitoMode": {
+          "question": "Vad är inkognitoläget?",
+          "answer": "Inkognitoläget ger ett extra lager av integritet. När det är aktiverat sparar appen ingen historik över innehållet du har kontrollerat. Det är perfekt när du hanterar extra känslig information och vill lämna inga spår av kontrollen på din enhet."
+        }
+      }
+    },
+    "troubleshooting": {
+      "name": "Felsökning & support",
+      "questions": {
+        "whyDownload": {
+          "question": "Varför laddar appen ner filer efter installation?",
+          "answer": "För att ge dig en snabbare nedladdning från App Store och spara lagringsutrymme på din enhet håller vi den initiala appstorleken liten. Första gången du startar Slop Or Not laddar den automatiskt ner våra kraftfulla AI-detekteringsmodeller med Apples On-Demand Resources-system. Detta är en engångsprocess. Ibland kan problem med Apples tjänst avbryta nedladdningen. Om den verkar fastna, kontrollera din internetanslutning och starta om appen efter några minuter. Nedladdningen bör återupptas automatiskt."
+        },
+        "imageResolution": {
+          "question": "Påverkar bildupplösning detekteringsresultaten?",
+          "answer": "Ja. När du använder en lågupplöst miniatyr eller en skärmdump körs modellen fortfarande men kan returnera ett lägre tillitsvärde eftersom detaljer går förlorade under vår normaliseringsprocess. Försök alltid använda den ursprungliga eller högsta kvalitetsversionen av bilden. Fler pixlar betyder fler ledtrådar för detektorn, så resultaten blir starkare och mer stabila."
+        },
+        "howMuchText": {
+          "question": "Hur mycket text behöver jag för tillförlitlig detektion?",
+          "answer": "Textdetektorn behöver minst två fullständiga meningar för att fungera. Mycket korta utdrag ger för lite sammanhang för modellen att upptäcka AI-fingeravtryck. Klistra in ett helt stycke eller hela dokumentet när det är möjligt. Ju längre avsnitt, desto högre detektionssäkerhet."
+        },
+        "notDetecting": {
+          "question": "Appen detekterar inte AI-innehåll som jag är säker på är AI-genererat. Varför?",
+          "answer": {
+            "intro": "AI-världen förändras snabbt. Även om vår detektor är mycket exakt kan vissa nya AI-modeller skapa innehåll som är svårare att upptäcka. Vi uppdaterar regelbundet våra modeller för att hänga med.",
+            "checkImage": "Bilden du kontrollerade kan vara en lågupplöst miniatyr eller en hårt komprimerad skärmdump. Försök igen med den högst möjliga upplösningen.",
+            "checkText": "Textexemplet kan vara för kort. Se till att du anger minst två meningar; mer text förbättrar resultatet.",
+            "outro": "Dessa snabba kontroller löser de flesta rapporter om \"false negative\". Om problemet kvarstår får du gärna dela exemplet med oss så att vi kan förbättra appen för alla."
+          }
+        }
+      }
+    }
+  },
+  "RelatedLinks": {
+    "title": "Behöver du mer hjälp?",
+    "description": "Hittar du inte svaret du behöver? Gå med i vår Discord-community för tips, tricks och support i realtid."
+  },
+  "DiscordBadge": {
+    "discord": "Discord",
+    "usersOnline": "{onlineCount, plural, one {# användare online} other {# användare online}}"
+  }
+}

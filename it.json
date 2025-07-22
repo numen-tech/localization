@@ -1,0 +1,312 @@
+{
+  "Metadata": {
+    "title": "Slop Or Not: Rilevatore di contenuti AI gratuito per testo e immagini",
+    "description": "Rilevatore di testo AI, rilevatore di immagini AI e umanizzatore AI in un'unica app. Verifica la presenza di AI e umanizza i contenuti AI gratis su iPhone, senza cloud."
+  },
+  "Navigation": {
+    "home": "Home",
+    "help": "Aiuto",
+    "download": "Download"
+  },
+  "LanguageSwitcher": {
+    "ar": "Arabo",
+    "zh-HK": "Cinese (Hong Kong)",
+    "zh-CN": "Cinese semplificato",
+    "zh-TW": "Cinese tradizionale",
+    "cs": "Ceco",
+    "nl": "Olandese",
+    "fi": "Finlandese",
+    "fr": "Francese",
+    "de": "Tedesco",
+    "he": "Ebraico",
+    "hu": "Ungherese",
+    "it": "Italiano",
+    "ja": "Giapponese",
+    "ko": "Coreano",
+    "nb": "Norvegese Bokmål",
+    "pl": "Polacco",
+    "pt-BR": "Portoghese (Brasile)",
+    "pt-PT": "Portoghese (Portogallo)",
+    "ro": "Rumeno",
+    "ru": "Russo",
+    "es": "Spagnolo",
+    "sv": "Svedese",
+    "tr": "Turco",
+    "uk": "Ucraino",
+    "ur": "Urdu",
+    "en": "Inglese (USA)",
+    "en-GB": "Inglese (Regno Unito)"
+  },
+  "Header": {
+    "logoAlt": "Slop Or Not",
+    "navigation": {
+      "home": "Home",
+      "help": "Aiuto",
+      "download": "Download"
+    }
+  },
+  "Footer": {
+    "tagline": "Individua lo Slop AI. Scopri cosa è reale.",
+    "sections": {
+      "products": "Prodotti",
+      "resources": "Risorse",
+      "help": "Aiuto"
+    },
+    "products": {
+      "slopOrNot": {
+        "name": "Slop Or Not",
+        "description": "Rilevatore di contenuti AI per testo e immagini."
+      },
+      "privateLlm": {
+        "name": "Private LLM",
+        "description": "Chatbot AI locale per dispositivi Apple."
+      }
+    },
+    "links": {
+      "download": "Download",
+      "privacyPolicy": "Informativa sulla privacy",
+      "blog": "Blog",
+      "helpCenter": "Centro assistenza",
+      "whatIs": "Che cos'è Slop Or Not?",
+      "howAccurate": "Quanto è accurato?",
+      "isDataPrivate": "I miei dati sono privati?",
+      "textCleanup": "Che cos'è Text Cleanup?"
+    },
+    "compliance": {
+      "gdprAlt": "Conforme al GDPR",
+      "ccpaAlt": "Conforme al CCPA"
+    },
+    "copyright": "Tutti i diritti riservati. Creato con ❤️ in 🇪🇺"
+  },
+  "Hero": {
+    "logoAlt": "Logo Slop or Not",
+    "title": "Rilevatore di testo AI e rilevatore di immagini AI in un'unica app",
+    "srOnlyPrefix": "Slop or Not: ",
+    "description": "Verifica se un contenuto è AI in pochi secondi gratis, mantenendo i tuoi dati su iPhone.",
+    "testflightLink": "Scarica la beta TestFlight"
+  },
+  "NotFound": {
+    "logoAlt": "Logo Slop Or Not",
+    "title": "404: Quella pagina è puro slop.",
+    "description": "Sembra che questo link non abbia superato il nostro controllo di autenticità. Torna indietro al sicuro!",
+    "backToHome": "Torna alla Home"
+  },
+  "CtaDownload": {
+    "title": "Scarica il rilevatore di contenuti AI gratuito per iPhone",
+    "description": "Controlla testo e immagini AI in pochi secondi, completamente offline. I tuoi dati non lasciano mai il telefono: privacy integrata."
+  },
+  "Features": {
+    "aiImageDetector": {
+      "title": "Controlla se quella foto è stata generata dall'AI sul tuo iPhone",
+      "description": "Nel 2023 le truffe sentimentali hanno sottratto 1,14 miliardi di dollari ai consumatori, le perdite più alte di qualunque frode da impostore, <ftcLink>secondo la FTC</ftcLink>. I truffatori ora creano <fakeDatingLink>profili di dating falsi</fakeDatingLink> con volti generati dall'AI e chatbot. Il nostro rilevatore di immagini AI vive sul tuo iPhone, così puoi controllare se quell'autoscatto, scontrino o foto prodotto è stato generato dall'AI prima di fare swipe o acquistare. Segnala watermark e sottili artefatti del volto che l'occhio umano non vede."
+    },
+    "aiTextDetector": {
+      "title": "Rilevatore di testo AI con conteggio parole illimitato",
+      "description": "Quasi il 90% degli studenti ha ammesso di usare ChatGPT per i compiti <forbesLink>all'inizio del 2023</forbesLink>, e l'uso tra gli adolescenti <pewLink>è raddoppiato di nuovo entro il 2025</pewLink>. Docenti, redattori e avvocati possono incollare qualsiasi documento nel rilevatore di testo AI di Slop Or Not per verificare se è stato generato dall'AI – senza limiti di parole e senza cloud. Oggi solo inglese; altre lingue in arrivo."
+    },
+    "aiFingerprints": {
+      "title": "Rimuovi le impronte AI e umanizza l'AI su iPhone",
+      "description": "I siti cloud di \"umanizzazione AI\" spesso inviano le tue parole a LLM remoti che lasciano nuove impronte. Slop Or Not elimina spazi a larghezza zero, omoglifi e trucchi di spaziatura - come il pattern binario che <elonLink>Elon Musk usò nel 2008 per scoprire una talpa in Tesla</elonLink> - senza riscrivere il tuo stile."
+    },
+    "stickerPack": {
+      "title": "Pacchetto sticker AI Slop",
+      "description": "Hai trovato un fake? Aggiungi il nostro pacchetto sticker AI Slop in iMessage o sui social e denuncialo con stile. Perché difendere la verità può anche essere divertente.",
+      "imageAlt": "Pacchetto sticker AI Slop per iMessage di Slop Or Not, con vari meme che indicano \"AI Slop\" e \"Slop!\""
+    },
+    "howItWorks": {
+      "title": "Come funziona",
+      "steps": {
+        "download": {
+          "title": "Ottieni il rilevatore AI",
+          "description": "Scarica l'app dall'App Store. Utilizza avanzati modelli AI on-device per rilevare contenuti generati dall'AI."
+        },
+        "check": {
+          "title": "Esegui il controllo AI",
+          "description": "Incolla del testo o seleziona un'immagine. I risultati appaiono istantaneamente, anche offline."
+        },
+        "detect": {
+          "title": "Trova lo Slop AI",
+          "description": "Vedi il verdetto, ripulisci le tracce o condividi la prova direttamente dall'app."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Casi d'uso",
+      "cases": {
+        "journalists": {
+          "title": "Giornalisti & fact-checker",
+          "description": "Verifica immagini di breaking-news e citazioni delle fonti prima di pubblicare. Evita di diffondere contenuti manipolati che potrebbero danneggiare la credibilità."
+        },
+        "teachers": {
+          "title": "Docenti & studenti",
+          "description": "I docenti individuano i temi scritti dall'AI; gli studenti confermano la propria originalità. Mantieni l'integrità accademica senza costosi servizi antiplagio."
+        },
+        "dating": {
+          "title": "Dating online",
+          "description": "Verifica foto profilo e bio per scovare account fake. Proteggiti da truffe sentimentali e perdite di tempo."
+        },
+        "shopping": {
+          "title": "Acquisti online",
+          "description": "Controlla foto di prodotto, post di influencer e recensioni clienti. Acquista in modo più intelligente e mantieni l'integrità delle recensioni."
+        },
+        "finance": {
+          "title": "Team finanziari & HR",
+          "description": "Autentica documenti d'identità, CV e copioni di voiceover. Riduci il rischio di frodi e truffe salariali deepfake."
+        },
+        "legal": {
+          "title": "Professionisti legali & medici",
+          "description": "Conferma che contratti, memorie o cartelle cliniche siano stati scritti da umani. Proteggi la riservatezza dei clienti rispettando rigide norme di conformità."
+        },
+        "creators": {
+          "title": "Creatori di contenuti & community manager",
+          "description": "Modera post generati dagli utenti per spam AI o disinformazione. Mantieni forum, server Discord e feed social affidabili."
+        },
+        "social": {
+          "title": "Utenti dei social media",
+          "description": "Combatti la disinformazione nei feed controllando post virali e contenuti di tendenza. Verifica prima di condividere."
+        }
+      }
+    }
+  },
+  "HelpPage": {
+    "title": "Slop Or Not FAQ | Supporto rilevatore di contenuti AI",
+    "description": "Ottieni supporto per il rilevatore di contenuti AI Slop Or Not. Le nostre FAQ coprono privacy on-device, accuratezza, abbonamenti e come controllare testo e immagini per l'AI."
+  },
+  "HelpHero": {
+    "title": "Aiuto & FAQ Slop Or Not",
+    "description": "Ecco le risposte alle domande più comuni su Slop Or Not. Se qui non trovi ciò che cerchi, consulta le nostre opzioni di supporto in fondo."
+  },
+  "HelpContent": {
+    "viewAll": "Vedi tutto",
+    "cta": {
+      "title": "Pronto a scovare lo slop e proteggere la tua privacy?"
+    },
+    "gettingStarted": {
+      "name": "Primi passi & funzionalità di base",
+      "questions": {
+        "whatIs": {
+          "question": "Che cos'è Slop Or Not?",
+          "answer": "Slop Or Not è il primo rilevatore di contenuti AI al mondo che funziona interamente sul tuo iPhone. Controlla istantaneamente testo e immagini per determinare se sono stati creati dall'AI. Poiché lavora on-device, i tuoi dati rimangono al 100% privati e non lasciano mai il telefono. È veloce, sicuro e funziona anche senza connessione Internet."
+        },
+        "howDoICheck": {
+          "question": "Come posso controllare i contenuti per l'AI?",
+          "answer": {
+            "intro": "È semplice. Puoi:",
+            "checkText": {
+              "title": "Controllare il testo:",
+              "description": "Copia il testo che vuoi analizzare, apri Slop Or Not e incollalo nel campo di testo. L'app fornirà un risultato immediato."
+            },
+            "checkImages": {
+              "title": "Controllare le immagini:",
+              "description": "Seleziona qualsiasi immagine o foto dalla tua libreria direttamente nell'app, oppure condividi un'immagine da un'altra app a Slop Or Not. L'analisi avviene immediatamente."
+            }
+          }
+        },
+        "needsInternet": {
+          "question": "Slop Or Not ha bisogno di una connessione Internet per funzionare?",
+          "answer": "Slop Or Not esegue tutto il rilevamento AI direttamente sul tuo dispositivo. Avrai bisogno di una connessione Internet solo per il setup iniziale per scaricare i modelli AI. Dopo di che, potrai controllare testo e immagini completamente offline. Utilizziamo la crittografia dei modelli CoreML di Apple per proteggere i nostri modelli transformer on-device. iOS potrebbe occasionalmente richiedere una connessione Internet per aggiornare le chiavi di crittografia dei modelli dall'App Store."
+        },
+        "isDataPrivate": {
+          "question": "I miei dati sono privati quando uso l'app?",
+          "answer": "Sì, al 100%. A differenza di altri rilevatori AI che caricano i tuoi dati su un server per l'analisi, Slop Or Not elabora tutto localmente sul tuo iPhone. Il tuo testo, le tue immagini e le tue foto non lasciano mai il dispositivo, garantendo la massima privacy. È ideale per controllare informazioni sensibili come documenti legali, email dei clienti o cartelle cliniche. Siamo basati nell'UE e pienamente conformi a GDPR e CCPA, quindi i tuoi diritti e la protezione dei dati sono sempre rispettati."
+        },
+        "whoShouldUse": {
+          "question": "Chi dovrebbe usare Slop Or Not?",
+          "answer": {
+            "intro": "Chiunque tenga alla verità e alla privacy! È particolarmente utile per:",
+            "studentsTeachers": {
+              "title": "Studenti & docenti",
+              "description": "controllare l'originalità dei lavori accademici."
+            },
+            "journalists": {
+              "title": "Giornalisti & fact-checker",
+              "description": "verificare l'autenticità di fonti e immagini."
+            },
+            "onlineDaters": {
+              "title": "Chi cerca incontri online",
+              "description": "scoprire profili “catfish” falsi."
+            },
+            "shoppers": {
+              "title": "Acquirenti",
+              "description": "verificare se le recensioni dei prodotti sono reali o generate dall'AI."
+            },
+            "anyone": {
+              "title": "Chiunque",
+              "description": "voglia identificare disinformazione e deepfake sui social media."
+            }
+          }
+        }
+      }
+    },
+    "features": {
+      "name": "Funzionalità & accuratezza",
+      "questions": {
+        "howAccurate": {
+          "question": "Quanto è accurato il rilevamento AI?",
+          "answer": {
+            "intro": "Slop Or Not utilizza modelli leader del settore per un'elevata accuratezza:",
+            "watermarkedImages": {
+              "title": "Immagini con watermark (C2PA/IPTC da Gemini image generation, OpenAI image generation, Microsoft Designer, Adobe Firefly, ecc.):",
+              "description": "Rilevamento accurato al 100%."
+            },
+            "otherImages": {
+              "title": "Tutte le altre immagini generate dall'AI:",
+              "description": "Accuratezza del 90%."
+            },
+            "text": {
+              "title": "Testo generato dall'AI:",
+              "description": "Accuratezza del 95%."
+            },
+            "note": "*Nota: l'accuratezza si basa sui nostri test interni. I risultati possono variare con nuovi modelli AI e metodi avanzati progettati per ingannare i rilevatori.*"
+          }
+        },
+        "textCleanup": {
+          "question": "Che cos'è la funzione \"Text Cleanup\"?",
+          "answer": "Il testo generato dall'AI spesso contiene caratteri nascosti o formattazioni strane che possono fungere da watermark invisibili. La nostra funzione Text Cleanup rimuove queste tracce con un solo tap. Rimuove: caratteri nascosti (come gli spazi a larghezza zero), punteggiatura sospetta e omoglifi (lettere che sembrano altre). Può anche normalizzare l'ortografia (ad es., da inglese USA a inglese UK) e correggere la punteggiatura per te."
+        },
+        "stickerPacks": {
+          "question": "Che cosa sono i pacchetti sticker AI Slop?",
+          "answer": "Sono divertenti pacchetti sticker iMessage inclusi con l'app! Quando trovi contenuti generati dall'AI online o nelle chat, puoi usare i nostri sticker per segnalarlo in modo giocoso."
+        },
+        "incognitoMode": {
+          "question": "Che cos'è la modalità Incognito?",
+          "answer": "La modalità Incognito offre un ulteriore livello di privacy. Quando è attivata, l'app non conserva la cronologia dei contenuti che hai controllato. È perfetta quando gestisci informazioni extra sensibili e vuoi che non resti alcuna traccia sul dispositivo."
+        }
+      }
+    },
+    "troubleshooting": {
+      "name": "Risoluzione problemi & supporto",
+      "questions": {
+        "whyDownload": {
+          "question": "Perché l'app scarica file dopo l'installazione?",
+          "answer": "Per offrirti un download più veloce dall'App Store e risparmiare spazio di archiviazione sul dispositivo, manteniamo ridotte le dimensioni iniziali dell'app. Al primo avvio, Slop Or Not scarica automaticamente i nostri potenti modelli di rilevamento AI tramite il sistema On-Demand Resources di Apple. È un processo una tantum. Occasionalmente, problemi con il servizio Apple possono interrompere questo download. Se sembra bloccato, controlla la connessione Internet e riavvia l'app dopo qualche minuto. Il download dovrebbe riprendere automaticamente."
+        },
+        "imageResolution": {
+          "question": "La risoluzione delle immagini influisce sui punteggi di rilevamento?",
+          "answer": "Sì. Quando usi una miniatura a bassa risoluzione o uno screenshot, il modello funziona comunque ma può restituire un punteggio di confidenza inferiore perché i dettagli fini si perdono durante la nostra fase di normalizzazione. Usa sempre la versione originale o di qualità più alta dell'immagine. Più pixel significano più indizi per il rilevatore, quindi i risultati sono più forti e stabili."
+        },
+        "howMuchText": {
+          "question": "Quanto testo serve per un rilevamento affidabile?",
+          "answer": "Il rilevatore di testo ha bisogno di almeno due frasi complete per funzionare. Frammenti molto brevi offrono troppo poco contesto affinché il modello identifichi le impronte AI. Quando possibile, incolla un intero paragrafo o il documento completo. Più lungo è il passaggio, maggiore è la confidenza del rilevamento."
+        },
+        "notDetecting": {
+          "question": "L'app non rileva contenuti AI che sono certo siano generati dall'AI. Perché?",
+          "answer": {
+            "intro": "Il mondo dell'AI sta cambiando rapidamente. Sebbene il nostro rilevatore sia altamente accurato, alcuni nuovi modelli AI possono creare contenuti più difficili da individuare. Aggiorniamo regolarmente i nostri modelli per stare al passo.",
+            "checkImage": "L'immagine che hai controllato potrebbe essere una miniatura a bassa risoluzione o uno screenshot molto compresso. Riprova con la versione a risoluzione più alta disponibile.",
+            "checkText": "Il campione di testo potrebbe essere troppo breve. Assicurati di fornire almeno due frasi; più testo migliora i risultati.",
+            "outro": "Questi controlli rapidi risolvono la maggior parte dei rapporti di “falso negativo”. Se il problema persiste, condividi l'esempio con noi così potremo continuare a migliorare l'app per tutti."
+          }
+        }
+      }
+    }
+  },
+  "RelatedLinks": {
+    "title": "Hai bisogno di ulteriore aiuto?",
+    "description": "Non trovi la risposta che ti serve? Unisciti alla nostra community Discord per consigli, trucchi e supporto in tempo reale."
+  },
+  "DiscordBadge": {
+    "discord": "Discord",
+    "usersOnline": "{onlineCount, plural, one {# utente online} other {# utenti online}}"
+  }
+}

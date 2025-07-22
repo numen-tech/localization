@@ -1,0 +1,312 @@
+{
+  "Metadata": {
+    "title": "Slop Or Not: Bezplatný detektor AI obsahu pro text a obrázky",
+    "description": "Detektor AI textu, detektor AI obrázků a humanizace AI v jedné aplikaci. Kontrolujte AI a humanizujte AI zdarma na iPhonu, bez cloudu."
+  },
+  "Navigation": {
+    "home": "Domů",
+    "help": "Nápověda",
+    "download": "Stáhnout"
+  },
+  "LanguageSwitcher": {
+    "ar": "Arabština",
+    "zh-HK": "Čínština (Hongkong)",
+    "zh-CN": "Čínština, zjednodušená",
+    "zh-TW": "Čínština, tradiční",
+    "cs": "Čeština",
+    "nl": "Nizozemština",
+    "fi": "Finština",
+    "fr": "Francouzština",
+    "de": "Němčina",
+    "he": "Hebrejština",
+    "hu": "Maďarština",
+    "it": "Italština",
+    "ja": "Japonština",
+    "ko": "Korejština",
+    "nb": "Norština (Bokmål)",
+    "pl": "Polština",
+    "pt-BR": "Portugalština (Brazílie)",
+    "pt-PT": "Portugalština (Portugalsko)",
+    "ro": "Rumunština",
+    "ru": "Ruština",
+    "es": "Španělština",
+    "sv": "Švédština",
+    "tr": "Turečtina",
+    "uk": "Ukrajinština",
+    "ur": "Urdu",
+    "en": "Angličtina (USA)",
+    "en-GB": "Angličtina (UK)"
+  },
+  "Header": {
+    "logoAlt": "Slop Or Not",
+    "navigation": {
+      "home": "Domů",
+      "help": "Nápověda",
+      "download": "Stáhnout"
+    }
+  },
+  "Footer": {
+    "tagline": "Odhalte AI Slop. Vědět, co je skutečné.",
+    "sections": {
+      "products": "Produkty",
+      "resources": "Zdroje",
+      "help": "Nápověda"
+    },
+    "products": {
+      "slopOrNot": {
+        "name": "Slop Or Not",
+        "description": "Detektor AI obsahu pro text a obrázky."
+      },
+      "privateLlm": {
+        "name": "Private LLM",
+        "description": "Lokální AI chatbot pro zařízení Apple."
+      }
+    },
+    "links": {
+      "download": "Stáhnout",
+      "privacyPolicy": "Zásady ochrany osobních údajů",
+      "blog": "Blog",
+      "helpCenter": "Centrum nápovědy",
+      "whatIs": "Co je Slop Or Not?",
+      "howAccurate": "Jak je to přesné?",
+      "isDataPrivate": "Jsou má data soukromá?",
+      "textCleanup": "Co je Text Cleanup?"
+    },
+    "compliance": {
+      "gdprAlt": "Soulad s GDPR",
+      "ccpaAlt": "Soulad s CCPA"
+    },
+    "copyright": "Všechna práva vyhrazena. Vytvořeno s ❤️ v 🇪🇺"
+  },
+  "Hero": {
+    "logoAlt": "Logo Slop Or Not",
+    "title": "Detektor AI textu a detektor AI obrázků v jedné aplikaci",
+    "srOnlyPrefix": "Slop or Not: ",
+    "description": "Zkontrolujte během několika sekund zdarma, zda je obsah AI, a přitom si data ponechte na svém iPhonu.",
+    "testflightLink": "Stáhnout beta verzi TestFlight"
+  },
+  "NotFound": {
+    "logoAlt": "Logo Slop Or Not",
+    "title": "404: Tato stránka je čistý slop.",
+    "description": "Zdá se, že tento odkaz neprošel naší kontrolou autenticity. Zkuste se vrátit do bezpečí!",
+    "backToHome": "Zpět na domovskou stránku"
+  },
+  "CtaDownload": {
+    "title": "Stáhněte si bezplatný detektor AI obsahu pro iPhone",
+    "description": "Kontrolujte AI text i obrázky během několika sekund, zcela offline. Vaše data nikdy neopustí telefon – soukromí je zajištěno."
+  },
+  "Features": {
+    "aiImageDetector": {
+      "title": "Zjistěte, zda fotografii na vašem iPhonu vytvořila AI",
+      "description": "Romantické podvody připravily spotřebitele v roce 2023 o 1,14 miliardy dolarů – největší ztráty ze všech podvodů s falešnými identitami, <ftcLink>uvádí FTC</ftcLink>. Podvodníci nyní vytvářejí <fakeDatingLink>falešné seznamovací profily</fakeDatingLink> s tvářemi generovanými AI a chatboty. Náš detektor AI obrázků běží přímo na vašem iPhonu, takže můžete zjistit, zda selfie, účtenku nebo produktovou fotku vytvořila AI, ještě než potvrdíte či nakoupíte. Odhalí vodoznaky i jemné artefakty ve tváři, které lidské oko přehlédne."
+    },
+    "aiTextDetector": {
+      "title": "Detektor AI textu bez omezení počtu slov",
+      "description": "Téměř 90 % studentů přiznalo používání ChatGPT k úkolům <forbesLink>na začátku roku 2023</forbesLink> a využití mezi teenagery se <pewLink>do roku 2025 zdvojnásobilo</pewLink>. Učitelé, redaktoři a právníci mohou do detektoru AI textu Slop Or Not vložit libovolný dokument a zjistit, zda text vytvořila AI – bez limitu slov a bez cloudových zvědavců. Dnes angličtina; brzy další jazyky."
+    },
+    "aiFingerprints": {
+      "title": "Odstraňte AI otisky a polidštěte AI na iPhonu",
+      "description": "Cloudové „AI humanizer“ služby často posílají vaše slova do vzdálených LLM, které po sobě zanechají nové otisky. Slop Or Not vyčistí neviditelné mezery, homoglyfy a triky s rozestupy – podobně jako binární vzor, který <elonLink>Elon Musk v roce 2008 použil k odhalení úniku v Tesle</elonLink> – aniž by změnil váš styl."
+    },
+    "stickerPack": {
+      "title": "Balíček samolepek AI Slop",
+      "description": "Našli jste podvrh? Vlepte náš balíček samolepek AI Slop do iMessage nebo na sociální sítě a označte ho stylově. Protože obrana pravdy by měla být i zábava.",
+      "imageAlt": "Balíček samolepek AI Slop pro iMessage od Slop Or Not, s různými meme postavami ukazujícími na text „AI Slop“ a „Slop!“"
+    },
+    "howItWorks": {
+      "title": "Jak to funguje",
+      "steps": {
+        "download": {
+          "title": "Získejte detektor AI",
+          "description": "Stáhněte si aplikaci z App Storu. Používá pokročilé on-device AI modely k detekci AI obsahu."
+        },
+        "check": {
+          "title": "Spusťte AI kontrolu",
+          "description": "Vložte text nebo vyberte obrázek. Výsledky se zobrazí okamžitě, i offline."
+        },
+        "detect": {
+          "title": "Najděte AI Slop",
+          "description": "Podívejte se na verdikt, vyčistěte stopy nebo sdílejte důkaz přímo z aplikace."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Případy použití",
+      "cases": {
+        "journalists": {
+          "title": "Novináři a fact-checkeři",
+          "description": "Ověřte snímky z horkých novinek a citace zdrojů před publikováním. Vyhněte se zveřejnění zmanipulovaného obsahu, který by poškodil důvěryhodnost."
+        },
+        "teachers": {
+          "title": "Učitelé a studenti",
+          "description": "Učitelé označí AI-psané eseje; studenti potvrdí vlastní originalitu. Udržujte akademickou poctivost bez drahých služeb na plagiátorství."
+        },
+        "dating": {
+          "title": "Online seznamování",
+          "description": "Ověřte profilové fotky a bio a odhalte „catfish“ účty. Chraňte se před romantickými podvody a ztrátou času."
+        },
+        "shopping": {
+          "title": "Online nakupování",
+          "description": "Zkontrolujte produktové fotky, příspěvky influencerů a recenze zákazníků. Nakupujte chytřeji a udržujte integritu recenzí."
+        },
+        "finance": {
+          "title": "Finanční a HR týmy",
+          "description": "Ověřte doklady totožnosti, životopisy a voiceover skripty. Snižte riziko podvodů a deepfake scamů na výplatní pásce."
+        },
+        "legal": {
+          "title": "Právní a lékařští odborníci",
+          "description": "Potvrďte, že smlouvy, podání nebo pacientské soubory napsal člověk. Chraňte důvěrnost klientů a splňte přísné předpisy."
+        },
+        "creators": {
+          "title": "Tvůrci obsahu a správci komunit",
+          "description": "Moderujte příspěvky uživatelů, zda neobsahují AI spam nebo dezinformace. Udržujte fóra, Discord servery a sociální feedy důvěryhodné."
+        },
+        "social": {
+          "title": "Uživatelé sociálních sítí",
+          "description": "Bojujte s dezinformacemi ve feedu kontrolou virálních příspěvků a trendů. Ověřte, než sdílíte."
+        }
+      }
+    }
+  },
+  "HelpPage": {
+    "title": "Slop Or Not FAQ | Podpora detektoru AI obsahu",
+    "description": "Získejte podporu pro detektor AI obsahu Slop Or Not. Naše FAQ pokrývá soukromí na zařízení, přesnost, předplatné a jak kontrolovat text a obrázky na AI."
+  },
+  "HelpHero": {
+    "title": "Slop Or Not Nápověda a FAQ",
+    "description": "Najdete zde odpovědi na běžné dotazy k Slop Or Not. Pokud zde nenajdete, co hledáte, podívejte se na možnosti podpory níže."
+  },
+  "HelpContent": {
+    "viewAll": "Zobrazit vše",
+    "cta": {
+      "title": "Připraveni odhalit slop a chránit své soukromí?"
+    },
+    "gettingStarted": {
+      "name": "Začínáme a základní funkce",
+      "questions": {
+        "whatIs": {
+          "question": "Co je Slop Or Not?",
+          "answer": "Slop Or Not je první detektor AI obsahu na světě, který běží přímo na vašem iPhonu. Okamžitě kontroluje text a obrázky, aby určil, zda je vytvořila AI. Protože pracuje na zařízení, vaše data zůstávají 100 % soukromá a nikdy neopustí telefon. Je rychlý, bezpečný a funguje i bez připojení k internetu."
+        },
+        "howDoICheck": {
+          "question": "Jak zkontroluji obsah na AI?",
+          "answer": {
+            "intro": "Je to jednoduché. Můžete:",
+            "checkText": {
+              "title": "Kontrola textu:",
+              "description": "Zkopírujte text, který chcete analyzovat, otevřete Slop Or Not a vložte jej do textového pole. Aplikace okamžitě zobrazí výsledek."
+            },
+            "checkImages": {
+              "title": "Kontrola obrázků:",
+              "description": "Vyberte libovolný obrázek nebo fotografii z knihovny přímo v aplikaci, nebo sdílejte obrázek z jiné aplikace do Slop Or Not. Analýza proběhne okamžitě."
+            }
+          }
+        },
+        "needsInternet": {
+          "question": "Potřebuje Slop Or Not k fungování internetové připojení?",
+          "answer": "Slop Or Not provádí veškerou detekci AI přímo na vašem zařízení. Pro jednorázové nastavení budete potřebovat internet k stažení AI modelů. Poté můžete kontrolovat text i obrázky zcela offline. K ochraně našich on-device transformer modelů používáme šifrování CoreML. iOS může občas potřebovat internetové připojení k obnovení šifrovacích klíčů modelů z App Storu."
+        },
+        "isDataPrivate": {
+          "question": "Jsou má data soukromá při používání aplikace?",
+          "answer": "Ano, 100 %. Na rozdíl od jiných detektorů AI, které nahrávají vaše data na server k analýze, Slop Or Not zpracovává vše lokálně na vašem iPhonu. Vaše texty, obrázky a fotky nikdy neopustí vaše zařízení, což zaručuje úplné soukromí. To je ideální pro kontrolu citlivých informací, jako jsou právní dokumenty, klientské e-maily nebo lékařské záznamy. Sídlíme v EU a plně splňujeme GDPR a CCPA, takže vaše práva a ochrana dat jsou vždy respektovány."
+        },
+        "whoShouldUse": {
+          "question": "Kdo by měl používat Slop Or Not?",
+          "answer": {
+            "intro": "Kdokoli, kdo si cení pravdy a soukromí! Obzvlášť užitečné pro:",
+            "studentsTeachers": {
+              "title": "Studenty a učitele",
+              "description": "kontrolu originality akademické práce."
+            },
+            "journalists": {
+              "title": "Novináře a fact-checkery",
+              "description": "ověřování pravosti zdrojů a obrázků."
+            },
+            "onlineDaters": {
+              "title": "Online seznamky",
+              "description": "odhalování falešných „catfish“ profilů."
+            },
+            "shoppers": {
+              "title": "Nakupující",
+              "description": "zjišťování, zda jsou recenze produktů skutečné nebo vygenerované AI."
+            },
+            "anyone": {
+              "title": "Kdokoli",
+              "description": "kdo chce identifikovat dezinformace a deepfaky na sociálních sítích."
+            }
+          }
+        }
+      }
+    },
+    "features": {
+      "name": "Funkce a přesnost",
+      "questions": {
+        "howAccurate": {
+          "question": "Jak přesná je detekce AI?",
+          "answer": {
+            "intro": "Slop Or Not používá špičkové modely pro vysokou přesnost:",
+            "watermarkedImages": {
+              "title": "Obrázky s vodoznakem (C2PA/IPTC z Gemini image generation, OpenAI image generation, Microsoft Designer, Adobe Firefly atd.):",
+              "description": "100 % přesná detekce."
+            },
+            "otherImages": {
+              "title": "Všechny ostatní AI-generované obrázky:",
+              "description": "90 % přesnost."
+            },
+            "text": {
+              "title": "AI-generovaný text:",
+              "description": "95 % přesnost."
+            },
+            "note": "*Poznámka: Přesnost je založena na našich interních testech. Výsledky se mohou lišit s novými AI modely a pokročilými metodami, které se snaží detektory oklamat.*"
+          }
+        },
+        "textCleanup": {
+          "question": "Co je funkce „Text Cleanup“?",
+          "answer": "AI-generovaný text často obsahuje skryté znaky nebo podivné formátování, které může fungovat jako neviditelné vodoznaky. Naše funkce Text Cleanup tyto stopy odstraní jediným klepnutím. Odstraňuje: skryté znaky (např. nulové šířky), podezřelou interpunkci a homoglyfy (znaky, které vypadají jako jiné). Může také normalizovat pravopis (např. z americké na britskou angličtinu) a opravit interpunkci."
+        },
+        "stickerPacks": {
+          "question": "Co jsou balíčky samolepek AI Slop?",
+          "answer": "Jsou to zábavné balíčky samolepek iMessage, které jsou součástí aplikace! Když najdete AI-generovaný obsah online nebo v chatech, můžete naše samolepky použít k jeho označení lehkou formou."
+        },
+        "incognitoMode": {
+          "question": "Co je Inkognito mód?",
+          "answer": "Inkognito mód přidává další vrstvu soukromí. Když je aktivní, aplikace neukládá historii zkontrolovaného obsahu. Je ideální, když pracujete s extra citlivými informacemi a chcete, aby po kontrole nezůstala na vašem zařízení žádná stopa."
+        }
+      }
+    },
+    "troubleshooting": {
+      "name": "Řešení problémů a podpora",
+      "questions": {
+        "whyDownload": {
+          "question": "Proč aplikace po instalaci stahuje soubory?",
+          "answer": "Abychom vám zajistili rychlejší stažení z App Storu a ušetřili místo na zařízení, udržujeme počáteční velikost aplikace malou. Poprvé, když spustíte Slop Or Not, automaticky stáhne naše výkonné AI detekční modely pomocí systému On-Demand Resources od Applu. Je to jednorázový proces. Občas mohou problémy se službou Applu tento download přerušit. Pokud se zdá, že je stahování zaseknuté, zkontrolujte internetové připojení a po několika minutách aplikaci restartujte. Stahování by se mělo automaticky obnovit."
+        },
+        "imageResolution": {
+          "question": "Ovlivňuje rozlišení obrázku detekční skóre?",
+          "answer": "Ano. Pokud použijete nízké rozlišení miniatury nebo screenshot, model sice běží, ale může vrátit nižší konfidenční skóre, protože jemné detaily se během našeho kroku normalizace ztratí. Vždy se snažte použít originální nebo nejkvalitnější verzi obrázku. Více pixelů znamená více stop pro detektor, takže výsledky jsou silnější a stabilnější."
+        },
+        "howMuchText": {
+          "question": "Kolik textu potřebuji pro spolehlivou detekci?",
+          "answer": "Detektor textu potřebuje alespoň dvě plné věty. Velmi krátké úryvky poskytují modelu příliš málo kontextu k odhalení AI otisků. Pokud je to možné, vložte celý odstavec nebo celý dokument. Čím delší pasáž, tím vyšší detekční jistota."
+        },
+        "notDetecting": {
+          "question": "Aplikace nedetekuje AI obsah, i když jsem si jistý, že je AI-generovaný. Proč?",
+          "answer": {
+            "intro": "Svět AI se mění rychle. I když je náš detektor vysoce přesný, některé nové AI modely mohou vytvářet obsah, který je obtížnější odhalit. Pravidelně aktualizujeme naše modely, abychom drželi krok.",
+            "checkImage": "Obrázek, který jste kontrolovali, může být miniatura s nízkým rozlišením nebo silně komprimovaný screenshot. Zkuste to znovu s nejvyšším dostupným rozlišením.",
+            "checkText": "Vzorek textu může být příliš krátký. Ujistěte se, že poskytujete alespoň dvě věty; více textu zlepšuje výsledky.",
+            "outro": "Tyto rychlé kontroly řeší většinu hlášených „false negative“. Pokud problém přetrvává, podělte se s námi o příklad, abychom mohli aplikaci dále zlepšovat pro všechny."
+          }
+        }
+      }
+    }
+  },
+  "RelatedLinks": {
+    "title": "Potřebujete další pomoc?",
+    "description": "Nemůžete najít odpověď, kterou potřebujete? Připojte se k naší komunitě na Discordu pro tipy, triky a podporu v reálném čase."
+  },
+  "DiscordBadge": {
+    "discord": "Discord",
+    "usersOnline": "{onlineCount, plural, one {# uživatel online} few {# uživatelé online} other {# uživatelů online}}"
+  }
+}

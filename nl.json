@@ -1,0 +1,312 @@
+{
+  "Metadata": {
+    "title": "Slop Or Not: Gratis AI-contentdetector voor tekst en afbeeldingen",
+    "description": "AI-tekstdetector, AI-afbeeldingdetector en AI-humanizer in één app. Controleer op AI en humaniseer AI gratis op je iPhone, zonder cloud."
+  },
+  "Navigation": {
+    "home": "Home",
+    "help": "Help",
+    "download": "Download"
+  },
+  "LanguageSwitcher": {
+    "ar": "Arabisch",
+    "zh-HK": "Chinees (Hongkong)",
+    "zh-CN": "Chinees, vereenvoudigd",
+    "zh-TW": "Chinees, traditioneel",
+    "cs": "Tsjechisch",
+    "nl": "Nederlands",
+    "fi": "Fins",
+    "fr": "Frans",
+    "de": "Duits",
+    "he": "Hebreeuws",
+    "hu": "Hongaars",
+    "it": "Italiaans",
+    "ja": "Japans",
+    "ko": "Koreaans",
+    "nb": "Noors Bokmål",
+    "pl": "Pools",
+    "pt-BR": "Portugees (Brazilië)",
+    "pt-PT": "Portugees (Portugal)",
+    "ro": "Roemeens",
+    "ru": "Russisch",
+    "es": "Spaans",
+    "sv": "Zweeds",
+    "tr": "Turks",
+    "uk": "Oekraïens",
+    "ur": "Urdu",
+    "en": "Engels (VS)",
+    "en-GB": "Engels (VK)"
+  },
+  "Header": {
+    "logoAlt": "Slop Or Not",
+    "navigation": {
+      "home": "Home",
+      "help": "Help",
+      "download": "Download"
+    }
+  },
+  "Footer": {
+    "tagline": "Ontmasker AI-slop. Weet wat echt is.",
+    "sections": {
+      "products": "Producten",
+      "resources": "Bronnen",
+      "help": "Help"
+    },
+    "products": {
+      "slopOrNot": {
+        "name": "Slop Or Not",
+        "description": "AI-contentdetector voor tekst en afbeeldingen."
+      },
+      "privateLlm": {
+        "name": "Private LLM",
+        "description": "Lokale AI-chatbot voor Apple-apparaten."
+      }
+    },
+    "links": {
+      "download": "Download",
+      "privacyPolicy": "Privacybeleid",
+      "blog": "Blog",
+      "helpCenter": "Helpcentrum",
+      "whatIs": "Wat is Slop Or Not?",
+      "howAccurate": "Hoe nauwkeurig is het?",
+      "isDataPrivate": "Is mijn data privé?",
+      "textCleanup": "Wat is Text Cleanup?"
+    },
+    "compliance": {
+      "gdprAlt": "GDPR-compliant",
+      "ccpaAlt": "CCPA-compliant"
+    },
+    "copyright": "Alle rechten voorbehouden. Met ❤️ gebouwd in 🇪🇺"
+  },
+  "Hero": {
+    "logoAlt": "Slop or Not-logo",
+    "title": "AI-tekstdetector en AI-afbeeldingdetector in één app",
+    "srOnlyPrefix": "Slop or Not: ",
+    "description": "Controleer binnen seconden gratis of content door AI is gemaakt, terwijl je gegevens op je iPhone blijven.",
+    "testflightLink": "Download TestFlight-beta"
+  },
+  "NotFound": {
+    "logoAlt": "Slop Or Not-logo",
+    "title": "404: Die pagina is pure slop.",
+    "description": "Het lijkt erop dat deze link onze authenticiteitscontrole niet heeft doorstaan. Ga terug naar een veilige pagina!",
+    "backToHome": "Terug naar Home"
+  },
+  "CtaDownload": {
+    "title": "Download de gratis AI-contentdetector voor iPhone",
+    "description": "Controleer binnen seconden op AI-tekst en afbeeldingen, volledig offline. Je data verlaat je telefoon nooit – privacy is ingebouwd."
+  },
+  "Features": {
+    "aiImageDetector": {
+      "title": "Controleer of AI die foto heeft gemaakt op je iPhone",
+      "description": "Romantische oplichters trokken in 2023 voor 1,14 miljard dollar van consumenten af, de hoogste verliezen van alle vormen van impersonatiefraude, <ftcLink>aldus de FTC</ftcLink>. Oplichters maken nu <fakeDatingLink>nep-datingprofielen</fakeDatingLink> met AI-gegenereerde gezichten en chatbots. Onze AI-afbeeldingdetector staat op je iPhone, zodat je kunt controleren of AI die selfie, bon of productfoto heeft gemaakt voordat je swipet of koopt. Hij markeert watermerken en subtiele gezichtsartefacten die het menselijk oog mist."
+    },
+    "aiTextDetector": {
+      "title": "AI-tekstdetector zonder woordlimiet",
+      "description": "Bijna 90% van de studenten gaf toe ChatGPT te hebben gebruikt voor huiswerk <forbesLink>begin 2023</forbesLink>, en het gebruik onder tieners <pewLink>verdubbelde opnieuw in 2025</pewLink>. Docenten, redacteuren en juristen kunnen elk document plakken in de AI-tekstdetector van Slop Or Not om te controleren of AI de woorden heeft gegenereerd – geen woordlimieten, geen cloudspionage. Nu Engels; binnenkort meer talen."
+    },
+    "aiFingerprints": {
+      "title": "Verwijder AI-vingerafdrukken en humaniseer AI op je iPhone",
+      "description": "Cloud-sites voor \"AI-humanizers\" sturen je tekst vaak naar externe LLM's die nieuwe vingerafdrukken achterlaten. Slop Or Not verwijdert zero-width-spaties, homoglyphen en spatiëringstrucs – zoals het binaire patroon dat <elonLink>Elon Musk in 2008 gebruikte om een Tesla-lek te vinden</elonLink> – zonder je schrijfstijl te herschrijven."
+    },
+    "stickerPack": {
+      "title": "AI Slop-stickerpack",
+      "description": "Een nepper gevonden? Gooi ons AI Slop-stickerpack in iMessage of je socials en zet het met stijl aan de kaak. Waarheid verdedigen mag ook leuk zijn.",
+      "imageAlt": "AI Slop iMessage-stickerpack van Slop Or Not, met verschillende meme-personages die wijzen naar de tekst \"AI Slop\" en \"Slop!\""
+    },
+    "howItWorks": {
+      "title": "Zo werkt het",
+      "steps": {
+        "download": {
+          "title": "Haal de AI-detector",
+          "description": "Download de app uit de App Store. Hij gebruikt geavanceerde on-device AI-modellen om AI-gegenereerde content op te sporen."
+        },
+        "check": {
+          "title": "Voer AI-check uit",
+          "description": "Plak tekst of selecteer een afbeelding. Resultaten verschijnen onmiddellijk, zelfs offline."
+        },
+        "detect": {
+          "title": "Vind AI-slop",
+          "description": "Bekijk het oordeel, verwijder sporen of deel bewijs direct vanuit de app."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Use-cases",
+      "cases": {
+        "journalists": {
+          "title": "Journalisten & factcheckers",
+          "description": "Controleer breaking-newsafbeeldingen en broncitaten vóór publicatie. Voorkom publicatie van gemanipuleerde content die je geloofwaardigheid schaadt."
+        },
+        "teachers": {
+          "title": "Docenten & studenten",
+          "description": "Docenten signaleren AI-geschreven essays; studenten bevestigen hun eigen originaliteit. Handhaaf academische integriteit zonder dure plagiaatdiensten."
+        },
+        "dating": {
+          "title": "Online daten",
+          "description": "Verifieer profielfoto's en bio's om catfish-accounts te herkennen. Blijf veilig voor romantische oplichting en verspilde tijd."
+        },
+        "shopping": {
+          "title": "Online shoppers",
+          "description": "Controleer productfoto's, influencer-posts en klantreviews. Doe slimmere aankopen en behoud de integriteit van reviews."
+        },
+        "finance": {
+          "title": "Finance- & HR-teams",
+          "description": "Authenticeer ID-documenten, cv's en voice-over-scripts. Verminder het risico op fraude en deepfake-loonscams."
+        },
+        "legal": {
+          "title": "Juridische & medische professionals",
+          "description": "Bevestig dat contracten, pleitnota's of patiëntendossiers door mensen zijn geschreven. Bescherm cliëntvertrouwelijkheid en voldoe aan strikte compliance-regels."
+        },
+        "creators": {
+          "title": "Contentmakers & community-managers",
+          "description": "Moderate door gebruikers gegenereerde berichten op AI-spam of desinformatie. Houd fora, Discord-servers en socialfeeds betrouwbaar."
+        },
+        "social": {
+          "title": "Socialmediagebruikers",
+          "description": "Bestrijd desinformatie in feeds door virale posts en trending content te controleren. Verifieer voordat je deelt."
+        }
+      }
+    }
+  },
+  "HelpPage": {
+    "title": "Slop Or Not FAQ | Support voor AI-contentdetector",
+    "description": "Krijg ondersteuning voor de Slop Or Not AI-contentdetector. Onze FAQ behandelt on-device privacy, nauwkeurigheid, abonnementen en hoe je tekst en afbeeldingen op AI kunt controleren."
+  },
+  "HelpHero": {
+    "title": "Slop Or Not Help & FAQ",
+    "description": "Hier vind je antwoorden op veelgestelde vragen over Slop Or Not. Vind je het antwoord hier niet, bekijk dan onze supportopties onderaan."
+  },
+  "HelpContent": {
+    "viewAll": "Alles bekijken",
+    "cta": {
+      "title": "Klaar om de slop te spotten en je privacy te beschermen?"
+    },
+    "gettingStarted": {
+      "name": "Aan de slag & basisfunctionaliteit",
+      "questions": {
+        "whatIs": {
+          "question": "Wat is Slop Or Not?",
+          "answer": "Slop Or Not is 's werelds eerste AI-contentdetector die volledig op je iPhone draait. Hij controleert onmiddellijk tekst en afbeeldingen om te bepalen of ze door AI zijn gemaakt. Omdat alles on-device gebeurt, blijven je gegevens 100% privé en verlaten ze je telefoon nooit. Het is snel, veilig en werkt zelfs zonder internetverbinding."
+        },
+        "howDoICheck": {
+          "question": "Hoe controleer ik content op AI?",
+          "answer": {
+            "intro": "Het is simpel. Je kunt:",
+            "checkText": {
+              "title": "Tekst controleren:",
+              "description": "Kopieer de tekst die je wilt analyseren, open Slop Or Not en plak die in het tekstveld. De app geeft direct een resultaat."
+            },
+            "checkImages": {
+              "title": "Afbeeldingen controleren:",
+              "description": "Selecteer een afbeelding of foto uit je bibliotheek rechtstreeks in de app, of deel een afbeelding vanuit een andere app naar Slop Or Not. De analyse gebeurt direct."
+            }
+          }
+        },
+        "needsInternet": {
+          "question": "Heeft Slop Or Not een internetverbinding nodig om te werken?",
+          "answer": "Slop Or Not voert alle AI-detectie direct op je apparaat uit. Je hebt een internetverbinding nodig voor de eenmalige installatie om de AI-modellen te downloaden. Daarna kun je tekst en afbeeldingen volledig offline controleren. We gebruiken Apple's CoreML-modelversleuteling om onze on-device transformermodellen te beschermen. iOS kan af en toe een internetverbinding nodig hebben om modelsleutels uit de App Store te vernieuwen."
+        },
+        "isDataPrivate": {
+          "question": "Is mijn data privé wanneer ik de app gebruik?",
+          "answer": "Ja, 100%. In tegenstelling tot andere AI-detectors die je gegevens naar een server uploaden voor analyse, verwerkt Slop Or Not alles lokaal op je iPhone. Je tekst, afbeeldingen en foto's verlaten je apparaat nooit, wat volledige privacy garandeert. Dit is ideaal voor het controleren van gevoelige informatie zoals juridische documenten, klant-e-mails of medische dossiers. We zijn gevestigd in de EU en voldoen volledig aan GDPR en CCPA, dus je rechten en gegevensbescherming zijn altijd gewaarborgd."
+        },
+        "whoShouldUse": {
+          "question": "Wie moet Slop Or Not gebruiken?",
+          "answer": {
+            "intro": "Iedereen die waarde hecht aan waarheid en privacy! Het is vooral handig voor:",
+            "studentsTeachers": {
+              "title": "Studenten & docenten",
+              "description": "het controleren van originaliteit in academisch werk."
+            },
+            "journalists": {
+              "title": "Journalisten & factcheckers",
+              "description": "het verifiëren van de authenticiteit van bronnen en afbeeldingen."
+            },
+            "onlineDaters": {
+              "title": "Online daters",
+              "description": "het opsporen van nep-\"catfish\"-profielen."
+            },
+            "shoppers": {
+              "title": "Shoppers",
+              "description": "controleren of productreviews echt of AI-gegenereerd zijn."
+            },
+            "anyone": {
+              "title": "Iedereen",
+              "description": "die desinformatie en deepfakes op sociale media wil identificeren."
+            }
+          }
+        }
+      }
+    },
+    "features": {
+      "name": "Features & nauwkeurigheid",
+      "questions": {
+        "howAccurate": {
+          "question": "Hoe nauwkeurig is de AI-detectie?",
+          "answer": {
+            "intro": "Slop Or Not gebruikt toonaangevende modellen voor hoge nauwkeurigheid:",
+            "watermarkedImages": {
+              "title": "Watergemarkeerde afbeeldingen (C2PA/IPTC van Gemini-beeldgeneratie, OpenAI-beeldgeneratie, Microsoft Designer, Adobe Firefly, etc):",
+              "description": "100% nauwkeurige detectie."
+            },
+            "otherImages": {
+              "title": "Alle andere AI-gegenereerde afbeeldingen:",
+              "description": "90% nauwkeurigheid."
+            },
+            "text": {
+              "title": "AI-gegenereerde tekst:",
+              "description": "95% nauwkeurigheid."
+            },
+            "note": "*Opmerking: nauwkeurigheid is gebaseerd op onze interne tests. Resultaten kunnen variëren met nieuwe AI-modellen en geavanceerde methoden om detectors te omzeilen.*"
+          }
+        },
+        "textCleanup": {
+          "question": "Wat is de functie \"Text Cleanup\"?",
+          "answer": "AI-gegenereerde tekst bevat vaak verborgen tekens of vreemde opmaak die kunnen fungeren als onzichtbare watermerken. Onze Text Cleanup-functie verwijdert deze sporen met één tik. Hij verwijdert: verborgen tekens (zoals zero-width-spaties), verdachte interpunctie en homoglyphen (letters die op andere lijken). Hij kan ook spelling normaliseren (bijv. van US- naar UK-Engels) en interpunctie voor je corrigeren."
+        },
+        "stickerPacks": {
+          "question": "Wat zijn de AI Slop-stickerpacks?",
+          "answer": "Dat zijn leuke iMessage-stickerpacks die bij de app horen! Wanneer je AI-gegenereerde content online of in chats vindt, kun je onze stickers gebruiken om het op een luchtige manier aan te kaarten."
+        },
+        "incognitoMode": {
+          "question": "Wat is Incognito-modus?",
+          "answer": "Incognito-modus biedt een extra laag privacy. Wanneer ingeschakeld, houdt de app geen geschiedenis bij van de content die je hebt gecontroleerd. Ideaal wanneer je zeer gevoelige informatie behandelt en geen spoor van de controle op je apparaat wilt achterlaten."
+        }
+      }
+    },
+    "troubleshooting": {
+      "name": "Probleemoplossing & ondersteuning",
+      "questions": {
+        "whyDownload": {
+          "question": "Waarom downloadt de app bestanden nadat ik hem heb geïnstalleerd?",
+          "answer": "Om je een snellere download uit de App Store te geven en opslagruimte op je apparaat te besparen, houden we de initiële appgrootte klein. De eerste keer dat je Slop Or Not start, downloadt het automatisch onze krachtige AI-detectiemodellen via Apple's On-Demand Resources-systeem. Dit is een eenmalig proces. Soms kunnen problemen met Apple's service deze download onderbreken. Als het lijkt vast te zitten, controleer dan je internetverbinding en start de app na een paar minuten opnieuw. De download wordt automatisch hervat."
+        },
+        "imageResolution": {
+          "question": "Beïnvloedt de afbeeldingsresolutie de detectiescores?",
+          "answer": "Ja. Wanneer je een afbeelding met lage resolutie of een screenshot gebruikt, draait het model nog steeds, maar kan een lagere vertrouwensscore teruggeven omdat fijne details verloren gaan tijdens onze normalisatiestap. Gebruik altijd de originele of hoogste kwaliteit versie van de foto. Meer pixels betekenen meer aanwijzingen voor de detector, dus de resultaten zijn sterker en stabieler."
+        },
+        "howMuchText": {
+          "question": "Hoeveel tekst heb ik nodig voor betrouwbare detectie?",
+          "answer": "De tekstdetector heeft minstens twee volledige zinnen nodig om te werken. Zeer korte fragmenten geven te weinig context voor het model om AI-vingerafdrukken te herkennen. Plak indien mogelijk een hele alinea of het volledige document. Hoe langer het fragment, hoe hoger het detectie-vertrouwen."
+        },
+        "notDetecting": {
+          "question": "De app detecteert geen AI-content waarvan ik zeker weet dat die AI-gegenereerd is. Hoe kan dat?",
+          "answer": {
+            "intro": "De AI-wereld verandert snel. Hoewel onze detector zeer nauwkeurig is, kunnen sommige nieuwe AI-modellen content maken die moeilijker te detecteren is. We updaten onze modellen regelmatig om bij te blijven.",
+            "checkImage": "De afbeelding die je hebt gecontroleerd, kan een thumbnail met lage resolutie of een sterk gecomprimeerde screenshot zijn. Probeer het opnieuw met de hoogst beschikbare resolutie.",
+            "checkText": "Het tekstfragment kan te kort zijn. Zorg ervoor dat je minimaal twee zinnen opgeeft; meer tekst verbetert de resultaten.",
+            "outro": "Deze snelle controles lossen de meeste \"false negative\"-meldingen op. Blijft het probleem bestaan, deel het voorbeeld dan met ons zodat we de app voor iedereen kunnen blijven verbeteren."
+          }
+        }
+      }
+    }
+  },
+  "RelatedLinks": {
+    "title": "Meer hulp nodig?",
+    "description": "Kun je het antwoord dat je nodig hebt niet vinden? Sluit je aan bij onze Discord-community voor realtime tips, trucs en ondersteuning."
+  },
+  "DiscordBadge": {
+    "discord": "Discord",
+    "usersOnline": "{onlineCount, plural, one {# gebruiker online} other {# gebruikers online}}"
+  }
+}

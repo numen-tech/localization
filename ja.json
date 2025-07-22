@@ -1,0 +1,312 @@
+{
+  "Metadata": {
+    "title": "Slop Or Not：テキストと画像用の無料AIコンテンツ検出器",
+    "description": "AIテキスト検出、AI画像検出、AIヒューマナイズを1つのアプリで。iPhoneだけで無料でAIを判定し、人間らしく修正。クラウド接続は不要です。"
+  },
+  "Navigation": {
+    "home": "ホーム",
+    "help": "ヘルプ",
+    "download": "ダウンロード"
+  },
+  "LanguageSwitcher": {
+    "ar": "アラビア語",
+    "zh-HK": "中国語 (香港)",
+    "zh-CN": "中国語（簡体字）",
+    "zh-TW": "中国語（繁体字）",
+    "cs": "チェコ語",
+    "nl": "オランダ語",
+    "fi": "フィンランド語",
+    "fr": "フランス語",
+    "de": "ドイツ語",
+    "he": "ヘブライ語",
+    "hu": "ハンガリー語",
+    "it": "イタリア語",
+    "ja": "日本語",
+    "ko": "韓国語",
+    "nb": "ノルウェー語（ブークモール）",
+    "pl": "ポーランド語",
+    "pt-BR": "ポルトガル語（ブラジル）",
+    "pt-PT": "ポルトガル語（ポルトガル）",
+    "ro": "ルーマニア語",
+    "ru": "ロシア語",
+    "es": "スペイン語",
+    "sv": "スウェーデン語",
+    "tr": "トルコ語",
+    "uk": "ウクライナ語",
+    "ur": "ウルドゥー語",
+    "en": "英語（米国）",
+    "en-GB": "英語（英国）"
+  },
+  "Header": {
+    "logoAlt": "Slop Or Not",
+    "navigation": {
+      "home": "ホーム",
+      "help": "ヘルプ",
+      "download": "ダウンロード"
+    }
+  },
+  "Footer": {
+    "tagline": "AIスロップを見抜き、本物を見極めよう。",
+    "sections": {
+      "products": "製品",
+      "resources": "リソース",
+      "help": "ヘルプ"
+    },
+    "products": {
+      "slopOrNot": {
+        "name": "Slop Or Not",
+        "description": "テキストと画像用のAIコンテンツ検出器。"
+      },
+      "privateLlm": {
+        "name": "Private LLM",
+        "description": "Appleデバイス向けローカルAIチャットボット。"
+      }
+    },
+    "links": {
+      "download": "ダウンロード",
+      "privacyPolicy": "プライバシーポリシー",
+      "blog": "ブログ",
+      "helpCenter": "ヘルプセンター",
+      "whatIs": "Slop Or Notとは？",
+      "howAccurate": "どれくらい正確？",
+      "isDataPrivate": "データはプライベート？",
+      "textCleanup": "Text Cleanupとは？"
+    },
+    "compliance": {
+      "gdprAlt": "GDPR準拠",
+      "ccpaAlt": "CCPA準拠"
+    },
+    "copyright": "All rights reserved. ❤️を込めて🇪🇺で開発しました"
+  },
+  "Hero": {
+    "logoAlt": "Slop or Notロゴ",
+    "title": "1つのアプリでAIテキスト検出とAI画像検出",
+    "srOnlyPrefix": "Slop or Not：",
+    "description": "iPhone上でデータを保持したまま、コンテンツがAIかどうかを数秒で無料チェック。",
+    "testflightLink": "TestFlightベータ版をダウンロード"
+  },
+  "NotFound": {
+    "logoAlt": "Slop Or Notロゴ",
+    "title": "404: そのページは完全にスロップです。",
+    "description": "このリンクは真偽チェックに失敗したようです。安全な場所に戻りましょう！",
+    "backToHome": "ホームに戻る"
+  },
+  "CtaDownload": {
+    "title": "iPhone向け無料AIコンテンツ検出器をダウンロード",
+    "description": "AIテキストと画像を数秒で完全オフラインでチェック。データはあなたの端末から離れません—プライバシー内蔵。"
+  },
+  "Features": {
+    "aiImageDetector": {
+      "title": "この写真がAI生成かiPhoneでチェック",
+      "description": "2023年、ロマンス詐欺による被害額は11.4億ドルに上り、すべてのなりすまし詐欺の中で最大の損失となったと<ftcLink>FTCが報告しています</ftcLink>。詐欺師は今やAI生成の顔写真とチャットボットで<fakeDatingLink>偽の出会い系プロフィール</fakeDatingLink>を量産しています。AI画像検出器はあなたのiPhone上で動作するため、スワイプしたり購入したりする前に、その自撮り、レシート、商品写真がAI生成かどうか確認できます。ウォーターマークや人の目では見落とす微細な顔のアーティファクトも検出します。"
+    },
+    "aiTextDetector": {
+      "title": "無制限文字数のAIテキスト検出",
+      "description": "2023年初頭には、学生の約90%が宿題でChatGPTを使用したと<forbesLink>認め</forbesLink>、10代の利用率は<pewLink>2025年までにさらに倍増</pewLink>しました。教育者、編集者、弁護士は文書をそのままSlop Or NotのAIテキスト検出器に貼り付けて、AI生成かどうかを確認できます—文字数制限もクラウドへの送信もありません。現在は英語のみですが、今後さらに対応言語を追加予定です。"
+    },
+    "aiFingerprints": {
+      "title": "AIフィンガープリントを除去してiPhoneでAIを人間らしく",
+      "description": "クラウド型の「AIヒューマナイザー」サイトは、あなたの文章をリモートLLMへ送り込み、新たなフィンガープリントを残すことがよくあります。Slop Or Notはゼロ幅スペース、ホモグリフ、スペースの細工など—<elonLink>2008年にElon MuskがTeslaの内部漏洩者を特定するために使った</elonLink>バイナリパターンのような—痕跡を、文体を変えずに一掃します。"
+    },
+    "stickerPack": {
+      "title": "AI Slopステッカーパック",
+      "description": "フェイクを見つけたら、iMessageやSNSに当社のAI Slopステッカーを貼ってスタイリッシュに指摘しましょう。真実を守ることは楽しくてもいいのです。",
+      "imageAlt": "AI Slop iMessageステッカーパック（Slop Or Notより）。複数のミームキャラクターが「AI Slop」や「Slop!」と指差している"
+    },
+    "howItWorks": {
+      "title": "使い方",
+      "steps": {
+        "download": {
+          "title": "AI検出器を入手",
+          "description": "App Storeからアプリをダウンロードします。高度なオンデバイスAIモデルでAI生成コンテンツを検出します。"
+        },
+        "check": {
+          "title": "AIチェックを実行",
+          "description": "テキストを貼り付けるか画像を選択します。結果はオフラインでも即表示されます。"
+        },
+        "detect": {
+          "title": "AIスロップを発見",
+          "description": "判定結果を確認し、痕跡をクリーンアップしたり、証拠をアプリから共有したりできます。"
+        }
+      }
+    },
+    "useCases": {
+      "title": "ユースケース",
+      "cases": {
+        "journalists": {
+          "title": "ジャーナリスト＆ファクトチェッカー",
+          "description": "速報画像やソースの引用を公開前に検証。信用を損なう操作済みコンテンツの掲載を回避。"
+        },
+        "teachers": {
+          "title": "教師＆学生",
+          "description": "教師はAI作文を判定、学生は自分のオリジナリティを確認。高価な盗用検出サービスなしで学術的誠実さを守る。"
+        },
+        "dating": {
+          "title": "オンラインデーティング",
+          "description": "プロフィール写真と自己紹介を検証し、なりすましアカウントを見抜く。ロマンス詐欺と時間の浪費を回避。"
+        },
+        "shopping": {
+          "title": "オンラインショッピング",
+          "description": "商品写真、インフルエンサー投稿、レビューをチェック。賢く購入しレビューの信頼性を維持。"
+        },
+        "finance": {
+          "title": "金融＆人事チーム",
+          "description": "身分証明書、履歴書、ナレーションスクリプトを認証。不正やディープフェイクによる給与詐欺リスクを低減。"
+        },
+        "legal": {
+          "title": "法律＆医療専門家",
+          "description": "契約書、訴状、患者ファイルが人間作成かを確認。厳格なコンプライアンスを守りつつクライアント機密を保護。"
+        },
+        "creators": {
+          "title": "コンテンツクリエイター＆コミュニティマネージャー",
+          "description": "ユーザー投稿をAIスパムや偽情報からモデレーション。フォーラム、Discord、SNSフィードの信頼性を維持。"
+        },
+        "social": {
+          "title": "ソーシャルメディア利用者",
+          "description": "バイラル投稿やトレンドコンテンツをチェックして誤情報と戦う。シェアする前に検証。"
+        }
+      }
+    }
+  },
+  "HelpPage": {
+    "title": "Slop Or Not FAQ | AIコンテンツ検出サポート",
+    "description": "Slop Or Not AIコンテンツ検出器のサポートはこちら。オンデバイスのプライバシー、精度、サブスクリプション、AIチェック方法をFAQで解説。"
+  },
+  "HelpHero": {
+    "title": "Slop Or Not ヘルプ＆FAQ",
+    "description": "Slop Or Notに関するよくある質問への回答をご案内します。ここで見つからない場合はページ下部のサポートオプションをご覧ください。"
+  },
+  "HelpContent": {
+    "viewAll": "すべて表示",
+    "cta": {
+      "title": "スロップを見抜き、プライバシーを守る準備はできましたか？"
+    },
+    "gettingStarted": {
+      "name": "はじめに＆基本機能",
+      "questions": {
+        "whatIs": {
+          "question": "Slop Or Notとは？",
+          "answer": "Slop Or Notは、世界初の完全オンデバイスAIコンテンツ検出器です。テキストと画像を即座に解析し、AI生成かどうかを判定します。処理がすべてiPhone内で完結するため、データは100%プライベートで、端末外へ送信されることはありません。高速かつ安全で、オフラインでも動作します。"
+        },
+        "howDoICheck": {
+          "question": "コンテンツをAIチェックする方法は？",
+          "answer": {
+            "intro": "とても簡単です。以下の方法があります:",
+            "checkText": {
+              "title": "テキストをチェック:",
+              "description": "解析したいテキストをコピーし、Slop Or Notを開いてテキストフィールドに貼り付けます。アプリが即座に結果を表示します。"
+            },
+            "checkImages": {
+              "title": "画像をチェック:",
+              "description": "アプリ内でライブラリから画像や写真を選択するか、他のアプリから共有してSlop Or Notに送ります。解析はすぐに行われます。"
+            }
+          }
+        },
+        "needsInternet": {
+          "question": "Slop Or Notはインターネット接続が必要ですか？",
+          "answer": "Slop Or NotはAI検出をすべて端末上で行います。AIモデルをダウンロードする初回セットアップ時のみインターネット接続が必要です。その後はテキストと画像を完全オフラインでチェックできます。オンデバイスのTransformerモデルはAppleのCoreMLモデル暗号化で保護されています。iOSがApp Storeから暗号鍵を更新する際にインターネット接続を求める場合があります。"
+        },
+        "isDataPrivate": {
+          "question": "アプリを使用するときデータはプライベートですか？",
+          "answer": "はい、100%です。他のAI検出器が解析のためにデータをサーバーへアップロードするのに対し、Slop Or NotはすべてをiPhone内で処理します。あなたのテキスト、画像、写真が端末外へ出ることは決してなく、完全なプライバシーを保証します。これは、法律文書、クライアントメール、医療記録などの機密情報をチェックするのに最適です。私たちはEU拠点でGDPRとCCPAに完全準拠しており、あなたの権利とデータ保護を常に守ります。"
+        },
+        "whoShouldUse": {
+          "question": "Slop Or Notは誰に向いていますか？",
+          "answer": {
+            "intro": "真実とプライバシーを重視するすべての人に！ 特に以下の方に役立ちます:",
+            "studentsTeachers": {
+              "title": "学生＆教師",
+              "description": "学術作品のオリジナリティを確認。"
+            },
+            "journalists": {
+              "title": "ジャーナリスト＆ファクトチェッカー",
+              "description": "ソースや画像の真正性を検証。"
+            },
+            "onlineDaters": {
+              "title": "オンラインデート利用者",
+              "description": "偽の“キャットフィッシュ”プロフィールを見抜く。"
+            },
+            "shoppers": {
+              "title": "買い物客",
+              "description": "商品レビューが本物かAI生成かを確認。"
+            },
+            "anyone": {
+              "title": "誰でも",
+              "description": "ソーシャルメディアの誤情報とディープフェイクを識別。"
+            }
+          }
+        }
+      }
+    },
+    "features": {
+      "name": "機能＆精度",
+      "questions": {
+        "howAccurate": {
+          "question": "AI検出の精度は？",
+          "answer": {
+            "intro": "Slop Or Notは業界をリードするモデルで高い精度を実現しています:",
+            "watermarkedImages": {
+              "title": "透かし付き画像 (Gemini、OpenAI、Microsoft Designer、Adobe FireflyなどのC2PA/IPTC):",
+              "description": "100%の精度で検出。"
+            },
+            "otherImages": {
+              "title": "その他のAI生成画像:",
+              "description": "90%の精度。"
+            },
+            "text": {
+              "title": "AI生成テキスト:",
+              "description": "95%の精度。"
+            },
+            "note": "*注: 精度は社内テストに基づきます。新しいAIモデルや検出回避手法によって結果は変動する場合があります。*"
+          }
+        },
+        "textCleanup": {
+          "question": "「Text Cleanup」機能とは？",
+          "answer": "AI生成テキストには、ゼロ幅スペースなどの隠し文字や奇妙なフォーマットが含まれ、見えない透かしとして機能することがあります。当社のText Cleanup機能はワンタップでこれらの痕跡を除去します。隠し文字（ゼロ幅スペースなど）、怪しい句読点やホモグリフ（他の文字に似た文字）を削除します。また、米英綴りの統一や句読点の修正も可能です。"
+        },
+        "stickerPacks": {
+          "question": "AI Slopステッカーパックとは？",
+          "answer": "アプリに同梱されている楽しいiMessageステッカーパックです！AI生成コンテンツをオンラインやチャットで見つけたとき、ステッカーでライトに指摘できます。"
+        },
+        "incognitoMode": {
+          "question": "インコグニートモードとは？",
+          "answer": "インコグニートモードはさらなるプライバシー層を提供します。有効にすると、チェックしたコンテンツの履歴をアプリに残しません。特に機密性の高い情報を扱い、端末内に痕跡を残したくない場合に最適です。"
+        }
+      }
+    },
+    "troubleshooting": {
+      "name": "トラブルシューティング＆サポート",
+      "questions": {
+        "whyDownload": {
+          "question": "インストール後にファイルをダウンロードするのはなぜ？",
+          "answer": "App Storeからのダウンロードを高速化し、デバイスのストレージを節約するため、初期アプリサイズを小さくしています。初回起動時に、Appleのオンデマンドリソースシステムを通じて強力なAI検出モデルを自動ダウンロードします。これは一度きりのプロセスです。まれにAppleのサービスの問題でダウンロードが中断されることがあります。進行が止まっているようなら、インターネット接続を確認し、数分後にアプリを再起動してください。ダウンロードは自動的に再開されるはずです。"
+        },
+        "imageResolution": {
+          "question": "画像解像度は検出スコアに影響しますか？",
+          "answer": "はい。低解像度のサムネイルやスクリーンショットを使用すると、モデルは動作しますが正規化時に細部が失われるため、信頼度が低くなる場合があります。可能な限りオリジナルまたは最高品質の画像を使用してください。ピクセルが多いほど手がかりも増え、結果がより強力かつ安定します。"
+        },
+        "howMuchText": {
+          "question": "信頼できる検出にはどれくらいのテキストが必要？",
+          "answer": "テキスト検出には少なくとも2文が必要です。ごく短いスニペットではモデルがAIフィンガープリントを特定するのに十分なコンテキストが得られません。可能なら段落全体や文書全体を貼り付けてください。長いほど検出信頼度が上がります。"
+        },
+        "notDetecting": {
+          "question": "AI生成だと確信しているのに検出しません。なぜ？",
+          "answer": {
+            "intro": "AIの世界は急速に変化しています。当社の検出器は高精度ですが、最新のAIモデルの中には検出が難しいものもあります。私たちはモデルを定期的に更新しています。",
+            "checkImage": "チェックした画像が低解像度のサムネイルまたは強く圧縮されたスクリーンショットかもしれません。可能な限り高解像度版で再試行してください。",
+            "checkText": "テキストサンプルが短すぎる可能性があります。少なくとも2文を提供してください。テキストが長いほど結果が向上します。",
+            "outro": "これらの簡単な確認でほとんどの「偽陰性」報告は解決します。問題が続く場合は例を共有してください。皆さまのためにアプリを改善し続けます。"
+          }
+        }
+      }
+    }
+  },
+  "RelatedLinks": {
+    "title": "さらにサポートが必要ですか？",
+    "description": "必要な答えが見つからない？Discordコミュニティに参加してリアルタイムのヒントやサポートを受けましょう。"
+  },
+  "DiscordBadge": {
+    "discord": "Discord",
+    "usersOnline": "{onlineCount, plural, one {# 人がオンライン} other {# 人がオンライン}}"
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "Metadata": {
+    "title": "Slop Or Not：免費文字與圖片 AI 內容檢測器",
+    "description": "AI 文字檢測器、AI 圖像檢測器及 AI 人性化工具集於一身。於 iPhone 免費檢測 AI 並人性化 AI，無需雲端。"
+  },
+  "Navigation": {
+    "home": "主頁",
+    "help": "說明",
+    "download": "下載"
+  },
+  "LanguageSwitcher": {
+    "ar": "阿拉伯文",
+    "zh-HK": "中文（香港）",
+    "zh-CN": "簡體中文",
+    "zh-TW": "繁體中文",
+    "cs": "捷克文",
+    "nl": "荷蘭文",
+    "fi": "芬蘭文",
+    "fr": "法文",
+    "de": "德文",
+    "he": "希伯來文",
+    "hu": "匈牙利文",
+    "it": "意大利文",
+    "ja": "日文",
+    "ko": "韓文",
+    "nb": "挪威 Bokmål",
+    "pl": "波蘭文",
+    "pt-BR": "葡萄牙文（巴西）",
+    "pt-PT": "葡萄牙文（葡萄牙）",
+    "ro": "羅馬尼亞文",
+    "ru": "俄文",
+    "es": "西班牙文",
+    "sv": "瑞典文",
+    "tr": "土耳其文",
+    "uk": "烏克蘭文",
+    "ur": "烏爾都文",
+    "en": "英文（美國）",
+    "en-GB": "英文（英國）"
+  },
+  "Header": {
+    "logoAlt": "Slop Or Not",
+    "navigation": {
+      "home": "主頁",
+      "help": "說明",
+      "download": "下載"
+    }
+  },
+  "Footer": {
+    "tagline": "識破 AI Slop，知道真假。",
+    "sections": {
+      "products": "產品",
+      "resources": "資源",
+      "help": "支援"
+    },
+    "products": {
+      "slopOrNot": {
+        "name": "Slop Or Not",
+        "description": "文字及圖像 AI 內容檢測器"
+      },
+      "privateLlm": {
+        "name": "Private LLM",
+        "description": "適用於 Apple 裝置的本地 AI 聊天機械人"
+      }
+    },
+    "links": {
+      "download": "下載",
+      "privacyPolicy": "私隱政策",
+      "blog": "博客",
+      "helpCenter": "支援中心",
+      "whatIs": "什麼是 Slop Or Not？",
+      "howAccurate": "準確度有多高？",
+      "isDataPrivate": "我的資料私隱嗎？",
+      "textCleanup": "什麼是 Text Cleanup？"
+    },
+    "compliance": {
+      "gdprAlt": "符合 GDPR",
+      "ccpaAlt": "符合 CCPA"
+    },
+    "copyright": "版權所有。於 🇪🇺 以 ❤️ 打造"
+  },
+  "Hero": {
+    "logoAlt": "Slop or Not 標誌",
+    "title": "一站式 AI 文字及圖像檢測器",
+    "srOnlyPrefix": "Slop or Not：",
+    "description": "免費、秒級檢測內容是否 AI，同時資料只留在你的 iPhone。",
+    "testflightLink": "下載 TestFlight Beta"
+  },
+  "NotFound": {
+    "logoAlt": "Slop Or Not 標誌",
+    "title": "404：此頁滿佈 slop。",
+    "description": "此連結未通過真實性檢查，請返回安全位置！",
+    "backToHome": "返回主頁"
+  },
+  "CtaDownload": {
+    "title": "下載 iPhone 免費 AI 內容檢測器",
+    "description": "秒級檢查 AI 文字及圖像，全程離線。你的資料絕不離開手機 —— 內建私隱保護。"
+  },
+  "Features": {
+    "aiImageDetector": {
+      "title": "在 iPhone 上檢查相片是否 AI 生成",
+      "description": "美國聯邦貿易委員會（FTC）<ftcLink>指出</ftcLink>，2023 年「網戀騙案」奪走消費者 11.4 億美元，為所有冒充詐騙之最。騙徒現用 AI 生成的臉孔與聊天機械人建立<fakeDatingLink>假交友檔案</fakeDatingLink>。我們的 AI 圖像檢測器駐守你的 iPhone，讓你在滑動或購買前先檢查那張自拍、收據或產品照是否 AI 生成。它能偵測浮水印與人眼難覺的細微人臉假象。"
+    },
+    "aiTextDetector": {
+      "title": "AI 文字檢測器：字數無上限",
+      "description": "近 90% 學生在<forbesLink>2023 年初</forbesLink>坦承使用 ChatGPT 完成功課，青少年使用率亦在<pewLink>2025 年再次倍增</pewLink>。教師、編輯與律師可把任何文件貼到 Slop Or Not 的 AI 文字檢測器，檢查是否 AI 撰寫 —— 沒有字數上限，亦無雲端窺探。目前支援英文；更多語言即將推出。"
+    },
+    "aiFingerprints": {
+      "title": "移除 AI 指紋，在 iPhone 人性化 AI",
+      "description": "雲端「AI humanizer」網站常把你的文字送往遠端 LLM，留下新的指紋。Slop Or Not 會清除零寬空格、同形異體字及間距技巧——就像<elonLink>Elon Musk 在 2008 年用來捉出 Tesla 洩密者</elonLink>的二進位模式——並且不改變你的寫作風格。"
+    },
+    "stickerPack": {
+      "title": "AI Slop 貼圖包",
+      "description": "抓到假貨？將我們的 AI Slop 貼圖包加入 iMessage 或社交帖文，以型格方式揭露。捍衛真相亦可充滿樂趣。",
+      "imageAlt": "Slop Or Not 的 AI Slop iMessage 貼圖包，展示多個 meme 角色指向「AI Slop」和「Slop!」文字"
+    },
+    "howItWorks": {
+      "title": "運作方式",
+      "steps": {
+        "download": {
+          "title": "取得 AI 檢測器",
+          "description": "從 App Store 下載應用程式。它使用先進的裝置端 AI 模型檢測 AI 生成內容。"
+        },
+        "check": {
+          "title": "執行 AI 檢測",
+          "description": "貼上文字或選擇圖片。即使離線亦能即時顯示結果。"
+        },
+        "detect": {
+          "title": "找出 AI Slop",
+          "description": "查看判決、清除痕跡，或直接在應用分享證據。"
+        }
+      }
+    },
+    "useCases": {
+      "title": "使用場景",
+      "cases": {
+        "journalists": {
+          "title": "記者與事實查核員",
+          "description": "在發布前驗證突發新聞圖片及來源引述。避免刊出可能損害可信度的操縱內容。"
+        },
+        "teachers": {
+          "title": "教師與學生",
+          "description": "教師標記 AI 撰寫的文章；學生確認自己的原創性。維護學術誠信而不用昂貴的抄襲服務。"
+        },
+        "dating": {
+          "title": "網上交友",
+          "description": "核實個人檔案照片及簡介，以辨識貓魚帳戶。遠離情感詐騙及浪費時間。"
+        },
+        "shopping": {
+          "title": "網購人士",
+          "description": "檢查產品圖片、影響者貼文及客戶評論。更聰明地購買並維持評論真實性。"
+        },
+        "finance": {
+          "title": "金融與人力資源團隊",
+          "description": "驗證身份文件、履歷及旁白腳本。減少詐騙及深偽薪酬詐騙風險。"
+        },
+        "legal": {
+          "title": "法律與醫療專業人員",
+          "description": "確認合約、訴狀或病人檔案由人類撰寫。在符合嚴格規範的同時保護客戶私隱。"
+        },
+        "creators": {
+          "title": "內容創作者與社群管理員",
+          "description": "為用戶產生的貼文檢測 AI 垃圾或錯誤資訊。保持論壇、Discord 伺服器及社交動態可信。"
+        },
+        "social": {
+          "title": "社交媒體用戶",
+          "description": "透過檢查病毒貼文與熱門內容，對抗資訊錯誤。分享前先驗證。"
+        }
+      }
+    }
+  },
+  "HelpPage": {
+    "title": "Slop Or Not 常見問題 | AI 內容檢測支援",
+    "description": "取得 Slop Or Not AI 內容檢測器支援。我們的常見問題涵蓋裝置端私隱、準確度、訂閱及如何檢測文字與圖像中的 AI。"
+  },
+  "HelpHero": {
+    "title": "Slop Or Not 幫助與常見問題",
+    "description": "以下是 Slop Or Not 常見問題的答案。如未找到所需資訊，請查看頁底的支援選項。"
+  },
+  "HelpContent": {
+    "viewAll": "查看全部",
+    "cta": {
+      "title": "準備好識破 Slop 並保護你的私隱了嗎？"
+    },
+    "gettingStarted": {
+      "name": "入門與基本功能",
+      "questions": {
+        "whatIs": {
+          "question": "什麼是 Slop Or Not？",
+          "answer": "Slop Or Not 是全球首款完全在 iPhone 上運行的 AI 內容檢測器。它可即時檢查文字及圖像，判斷是否由 AI 生成。由於一切在裝置內完成，你的資料 100% 私隱，絕不離開手機。快速、安全，離線亦可用。"
+        },
+        "howDoICheck": {
+          "question": "如何檢查內容是否 AI？",
+          "answer": {
+            "intro": "方法很簡單，你可以：",
+            "checkText": {
+              "title": "檢查文字：",
+              "description": "複製想分析的文字，打開 Slop Or Not，並貼到文字欄。應用會即時給出結果。"
+            },
+            "checkImages": {
+              "title": "檢查圖片：",
+              "description": "在應用內直接從相簿選取任何圖片或照片，或在其他應用使用分享功能發送圖片至 Slop Or Not。分析即時完成。"
+            }
+          }
+        },
+        "needsInternet": {
+          "question": "Slop Or Not 需要上網才能運作嗎？",
+          "answer": "Slop Or Not 全部檢測都在裝置內執行。你只需在首次設定時連線下載 AI 模型。之後即可完全離線檢查文字及圖片。我們使用 Apple 的 CoreML 模型加密保護裝置端 transformer 模型。iOS 可能偶爾需要連線至 App Store 以更新模型加密金鑰。"
+        },
+        "isDataPrivate": {
+          "question": "使用應用程式時我的資料私密嗎？",
+          "answer": "絕對私密。與將資料上傳至伺服器分析的其他 AI 檢測器不同，Slop Or Not 全程在你的 iPhone 處理。你的文字、圖片及照片從不離開裝置，確保完全私隱。這對檢查法律文件、客戶電郵或病歷等敏感資訊尤為理想。我們位於歐盟並完全符合 GDPR 及 CCPA，保障你的權利與資料安全。"
+        },
+        "whoShouldUse": {
+          "question": "誰應該使用 Slop Or Not？",
+          "answer": {
+            "intro": "任何重視真相與私隱的人！特別適合：",
+            "studentsTeachers": {
+              "title": "學生與教師",
+              "description": "檢查學術作品的原創性。"
+            },
+            "journalists": {
+              "title": "記者與事實查核員",
+              "description": "驗證來源及圖片真偽。"
+            },
+            "onlineDaters": {
+              "title": "網上交友者",
+              "description": "辨識假「貓魚」檔案。"
+            },
+            "shoppers": {
+              "title": "網購人士",
+              "description": "檢查產品評論是真還是 AI 生成。"
+            },
+            "anyone": {
+              "title": "任何人",
+              "description": "希望在社交媒體辨認錯誤資訊與深偽內容。"
+            }
+          }
+        }
+      }
+    },
+    "features": {
+      "name": "功能與準確度",
+      "questions": {
+        "howAccurate": {
+          "question": "AI 檢測有多準確？",
+          "answer": {
+            "intro": "Slop Or Not 採用業界領先模型，提供高準確度：",
+            "watermarkedImages": {
+              "title": "帶浮水印的圖片（Gemini、OpenAI、Microsoft Designer、Adobe Firefly 等 C2PA/IPTC）：",
+              "description": "檢測準確度 100%。"
+            },
+            "otherImages": {
+              "title": "其他 AI 生成圖片：",
+              "description": "準確度 90%。"
+            },
+            "text": {
+              "title": "AI 生成文字：",
+              "description": "準確度 95%。"
+            },
+            "note": "*注意：準確度根據我們的內部測試而定。新 AI 模型及進階繞過方法可能導致結果變化。*"
+          }
+        },
+        "textCleanup": {
+          "question": "什麼是「Text Cleanup」功能？",
+          "answer": "AI 生成文字通常包含隱藏字符或奇怪排版，可作為隱形浮水印。我們的 Text Cleanup 功能一鍵移除這些痕跡。它會刪除：隱藏字符（如零寬空格）、可疑標點及同形異體字。它亦可將拼寫從美式轉英式，以及為你修正文點。"
+        },
+        "stickerPacks": {
+          "question": "什麼是 AI Slop 貼圖包？",
+          "answer": "那是應用內附送的有趣 iMessage 貼圖包！當你在線上或聊天發現 AI 生成內容時，可用我們的貼圖以輕鬆方式指出。"
+        },
+        "incognitoMode": {
+          "question": "什麼是 Incognito Mode？",
+          "answer": "Incognito Mode 提供額外私隱層。啟用後，應用不會保存你檢查過的內容歷史。當你處理格外敏感的資訊並想在裝置留零足跡時最為合適。"
+        }
+      }
+    },
+    "troubleshooting": {
+      "name": "疑難排解與支援",
+      "questions": {
+        "whyDownload": {
+          "question": "安裝後為何應用還要下載檔案？",
+          "answer": "為讓你更快從 App Store 下載並節省裝置儲存空間，我們保持初始應用檔案較小。首次啟動 Slop Or Not 時，它會透過 Apple 的 On-Demand Resources 系統自動下載強大的 AI 檢測模型；這是一次性流程。有時 Apple 服務出現問題會中斷下載。如似乎卡住，請檢查網絡並於數分鐘後重啟應用。下載應會自動恢復。"
+        },
+        "imageResolution": {
+          "question": "圖像解像度會影響檢測分數嗎？",
+          "answer": "會。若你使用低解像度的縮圖或截圖，模型仍會運行，但因我們的正規化步驟失去細節而可能返回較低信心分數。盡量使用原圖或最高質素版本。像素越多，線索越多，結果也更強更穩定。"
+        },
+        "howMuchText": {
+          "question": "需要多少文字才能可靠檢測？",
+          "answer": "文字檢測器至少需要兩個完整句子才能運作。太短的片段提供的上下文不足以讓模型偵測 AI 指紋。盡可能貼上一整段或整份文件。文字越長，檢測信心越高。"
+        },
+        "notDetecting": {
+          "question": "我確定是 AI 生成的內容，應用卻沒檢測到。為什麼？",
+          "answer": {
+            "intro": "AI 世界變化迅速。雖然我們的檢測器非常準確，但一些新 AI 模型可能產生更難偵測的內容。我們會定期更新模型以保持領先。",
+            "checkImage": "你檢查的圖片可能是低解像度縮圖或高壓縮截圖。請以最高清版本再試。",
+            "checkText": "文字樣本可能過短。請提供至少兩個句子；文字越長越好。",
+            "outro": "這些快速檢查可解決大多數「假陰性」問題。如仍未能解決，請把例子分享給我們，以便持續改進應用。"
+          }
+        }
+      }
+    }
+  },
+  "RelatedLinks": {
+    "title": "需要更多協助？",
+    "description": "仍找不到答案？加入我們的 Discord 社群，獲取即時技巧、提示與支援。"
+  },
+  "DiscordBadge": {
+    "discord": "Discord",
+    "usersOnline": "{onlineCount, plural, one {# 位用戶在線} other {# 位用戶在線}}"
+  }
+}

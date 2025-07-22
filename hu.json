@@ -1,0 +1,312 @@
+{
+  "Metadata": {
+    "title": "Slop Or Not: Ingyenes AI-tartalom-detektor szöveghez és képekhez",
+    "description": "AI szövegdetektor, AI képfelismerő és AI-humanizáló egyetlen appban. Ellenőrizd az AI-tartalmat és humanizáld az AI-t ingyen iPhone-on, felhő nélkül."
+  },
+  "Navigation": {
+    "home": "Kezdőlap",
+    "help": "Súgó",
+    "download": "Letöltés"
+  },
+  "LanguageSwitcher": {
+    "ar": "Arab",
+    "zh-HK": "Kínai (Hongkong)",
+    "zh-CN": "Egyszerűsített kínai",
+    "zh-TW": "Hagyományos kínai",
+    "cs": "Cseh",
+    "nl": "Holland",
+    "fi": "Finn",
+    "fr": "Francia",
+    "de": "Német",
+    "he": "Héber",
+    "hu": "Magyar",
+    "it": "Olasz",
+    "ja": "Japán",
+    "ko": "Koreai",
+    "nb": "Norvég (Bokmål)",
+    "pl": "Lengyel",
+    "pt-BR": "Portugál (Brazília)",
+    "pt-PT": "Portugál (Portugália)",
+    "ro": "Román",
+    "ru": "Orosz",
+    "es": "Spanyol",
+    "sv": "Svéd",
+    "tr": "Török",
+    "uk": "Ukrán",
+    "ur": "Urdu",
+    "en": "Angol (US)",
+    "en-GB": "Angol (UK)"
+  },
+  "Header": {
+    "logoAlt": "Slop Or Not",
+    "navigation": {
+      "home": "Kezdőlap",
+      "help": "Súgó",
+      "download": "Letöltés"
+    }
+  },
+  "Footer": {
+    "tagline": "Szűrd ki az AI-slopot. Tudd, mi a valóság.",
+    "sections": {
+      "products": "Termékek",
+      "resources": "Erőforrások",
+      "help": "Súgó"
+    },
+    "products": {
+      "slopOrNot": {
+        "name": "Slop Or Not",
+        "description": "AI-tartalom-detektor szöveghez és képekhez."
+      },
+      "privateLlm": {
+        "name": "Private LLM",
+        "description": "Helyi AI-csevegő Apple eszközökre."
+      }
+    },
+    "links": {
+      "download": "Letöltés",
+      "privacyPolicy": "Adatvédelmi szabályzat",
+      "blog": "Blog",
+      "helpCenter": "Súgóközpont",
+      "whatIs": "Mi az a Slop Or Not?",
+      "howAccurate": "Milyen pontos?",
+      "isDataPrivate": "Privát marad az adatom?",
+      "textCleanup": "Mi az a Szöveg-tisztítás?"
+    },
+    "compliance": {
+      "gdprAlt": "GDPR-kompatibilis",
+      "ccpaAlt": "CCPA-kompatibilis"
+    },
+    "copyright": "Minden jog fenntartva. Készült ❤️-vel 🇪🇺-ban"
+  },
+  "Hero": {
+    "logoAlt": "Slop or Not logó",
+    "title": "AI Szövegdetektor és AI Képfelismerő egy alkalmazásban",
+    "srOnlyPrefix": "Slop or Not: ",
+    "description": "Ellenőrizd, hogy AI-e a tartalom néhány másodperc alatt, ingyen, miközben az adataid az iPhone-odon maradnak.",
+    "testflightLink": "TestFlight béta letöltése"
+  },
+  "NotFound": {
+    "logoAlt": "Slop Or Not logó",
+    "title": "404: Ez az oldal tiszta slop.",
+    "description": "Úgy tűnik, ez a hivatkozás nem ment át a hitelességi ellenőrzésünkön. Próbálj visszatérni a biztonságba!",
+    "backToHome": "Vissza a kezdőlapra"
+  },
+  "CtaDownload": {
+    "title": "Töltsd le az ingyenes AI-tartalom-detektort iPhone-ra",
+    "description": "Ellenőrizd az AI-szöveget és -képeket másodpercek alatt, teljesen offline. Az adataid soha nem hagyják el a telefonodat – a magánélet be van építve."
+  },
+  "Features": {
+    "aiImageDetector": {
+      "title": "Ellenőrizd, hogy AI generálta-e a fotót az iPhone-odon",
+      "description": "Az online románc-csalások 2023-ban 1,14 milliárd dollárt csaltak ki a fogyasztóktól – ez a legnagyobb veszteség az összes imposztor-csalás között, <ftcLink>állítja az FTC</ftcLink>. A szélhámosok ma már <fakeDatingLink>hamis randiprofilokat</fakeDatingLink> hoznak létre AI-generált arcokkal és chatbotokkal. AI képdetektorunk az iPhone-odon fut, így ellenőrizheted, hogy AI készítette-e azt a szelfit, blokkot vagy termékfotót, mielőtt jobbra húzol vagy vásárolsz. A rendszer jelzi a vízjeleket és az emberi szem számára láthatatlan finom arcartefaktumokat is."
+    },
+    "aiTextDetector": {
+      "title": "AI Szövegdetektor korlátlan szószámmal",
+      "description": "A diákok közel 90 %-a bevallotta, hogy használta a ChatGPT-t házi feladatához <forbesLink>2023 elején</forbesLink>, és a tinik használata <pewLink>2025-re ismét megduplázódott</pewLink>. Tanárok, szerkesztők és ügyvédek bármilyen dokumentumot beilleszthetnek a Slop Or Not AI szövegdetektorába, hogy ellenőrizzék, AI írta-e a szöveget – nincs szólimit, nincs felhőben kémkedés. Ma még csak angolul; hamarosan több nyelven is."
+    },
+    "aiFingerprints": {
+      "title": "Távolítsd el az AI-ujjlenyomatokat és humanizáld az AI-t iPhone-on",
+      "description": "A felhőalapú „AI humanizer” oldalak gyakran távoli LLM-ekbe küldik a szavaidat, amelyek új ujjlenyomatokat hagynak hátra. A Slop Or Not eltávolítja a nullaszélességű szóközöket, homoglifákat és távolságtrükköket – például azt a bináris mintát, amelyet <elonLink>Elon Musk 2008-ban használt egy Tesla-szivárogtató lebuktatására</elonLink> – anélkül, hogy átírná a stílusodat."
+    },
+    "stickerPack": {
+      "title": "AI Slop matrica­csomag",
+      "description": "Találtál egy hamisítványt? Dobd be AI Slop matricáinkat az iMessage-be vagy a közösségi posztokba, és hívd ki stílusosan. Mert az igazság védelme lehet szórakoztató is.",
+      "imageAlt": "AI Slop iMessage matricacsomag a Slop Or Nottól, különféle mém-karakterekkel, akik az „AI Slop” és „Slop!” feliratokra mutatnak"
+    },
+    "howItWorks": {
+      "title": "Így működik",
+      "steps": {
+        "download": {
+          "title": "Szerezd be az AI detektort",
+          "description": "Töltsd le az alkalmazást az App Store-ból. Fejlett, eszközön futó AI-modellekkel észleli az AI-generált tartalmat."
+        },
+        "check": {
+          "title": "Futtasd az AI-ellenőrzést",
+          "description": "Illessz be szöveget vagy válassz ki egy képet. Az eredmények azonnal megjelennek, akár offline is."
+        },
+        "detect": {
+          "title": "Találd meg az AI slopot",
+          "description": "Lásd az ítéletet, tisztítsd meg a nyomokat, vagy oszd meg a bizonyítékot közvetlenül az alkalmazásból."
+        }
+      }
+    },
+    "useCases": {
+      "title": "Felhasználási esetek",
+      "cases": {
+        "journalists": {
+          "title": "Újságírók & tényellenőrök",
+          "description": "Vizsgáld meg a legfrissebb hírfotókat és idézetforrásokat publikálás előtt. Kerüld el a manipulált tartalom megjelentetését, amely ronthatja a hitelességet."
+        },
+        "teachers": {
+          "title": "Tanárok & diákok",
+          "description": "A tanárok kiszűrik az AI-írt esszéket; a diákok megerősítik saját eredetiségüket. Tartsd fenn az akadémiai tisztességet drága plágiumszolgáltatások nélkül."
+        },
+        "dating": {
+          "title": "Online randi",
+          "description": "Ellenőrizd a profilképeket és biográfiákat, hogy kiszűrd a catfish fiókokat. Védd meg magad a románc-csalásoktól és az elvesztegetett időtől."
+        },
+        "shopping": {
+          "title": "Online vásárlók",
+          "description": "Ellenőrizd a termékfotókat, influenszer posztokat és vásárlói véleményeket. Hozz bölcsebb döntéseket és őrizd meg a vélemények hitelességét."
+        },
+        "finance": {
+          "title": "Pénzügy & HR csapatok",
+          "description": "Hitelesítsd a személyi igazolványokat, önéletrajzokat és narrációs szkripteket. Csökkentsd a csalás és a deepfake bérszámfejtési csalások kockázatát."
+        },
+        "legal": {
+          "title": "Jogi & egészségügyi szakemberek",
+          "description": "Győződj meg arról, hogy a szerződéseket, beadványokat vagy betegkartonokat ember írta. Védd az ügyfél-bizalmasságot, miközben megfelelsz a szigorú előírásoknak."
+        },
+        "creators": {
+          "title": "Tartalomkészítők & közösségi menedzserek",
+          "description": "Moderáld a felhasználói tartalmakat AI spam vagy dezinformáció ellen. Tartsd a fórumokat, Discord-szervereket és közösségi feedeket megbízhatóan."
+        },
+        "social": {
+          "title": "Közösségi média felhasználók",
+          "description": "Harcolj a félretájékoztatás ellen a feedekben azzal, hogy ellenőrzöd a vírusos posztokat és trendi tartalmakat. Ellenőrizd, mielőtt megosztod."
+        }
+      }
+    }
+  },
+  "HelpPage": {
+    "title": "Slop Or Not GYIK | AI-tartalom-detektor támogatás",
+    "description": "Segítség a Slop Or Not AI-tartalom-detektorhoz. GYIK-ünk lefedi a készüléken történő adatkezelést, pontosságot, előfizetéseket és a szöveg és képek AI-ellenőrzését."
+  },
+  "HelpHero": {
+    "title": "Slop Or Not Súgó & GYIK",
+    "description": "Itt megtalálod a Slop Or Nottal kapcsolatos gyakori kérdésekre a válaszokat. Ha nem találod, amit keresel, lásd a lap alján található támogatási lehetőségeinket."
+  },
+  "HelpContent": {
+    "viewAll": "Összes megtekintése",
+    "cta": {
+      "title": "Készen állsz kiszűrni a slopot és megvédeni a magánéletedet?"
+    },
+    "gettingStarted": {
+      "name": "Kezdeti lépések & alapfunkciók",
+      "questions": {
+        "whatIs": {
+          "question": "Mi az a Slop Or Not?",
+          "answer": "A Slop Or Not a világ első, teljesen iPhone-on futó AI-tartalom-detektora. Azonnal ellenőrzi a szöveget és a képeket, hogy AI készítette-e őket. Mivel eszközön fut, adataid 100 %-ban privátak és soha nem hagyják el a telefonodat. Gyors, biztonságos, és internetkapcsolat nélkül is működik."
+        },
+        "howDoICheck": {
+          "question": "Hogyan ellenőrizhetem a tartalmat AI-ra?",
+          "answer": {
+            "intro": "Egyszerű. A következőket teheted:",
+            "checkText": {
+              "title": "Szöveg ellenőrzése:",
+              "description": "Másold a vizsgálni kívánt szöveget, nyisd meg a Slop Or Notot, és illeszd be a szövegmezőbe. Az app azonnali eredményt ad."
+            },
+            "checkImages": {
+              "title": "Képek ellenőrzése:",
+              "description": "Válassz ki bármilyen képet vagy fotót a könyvtáradból közvetlenül az appban, vagy oszd meg egy másik alkalmazásból a Slop Or Nottal. Az elemzés azonnal megtörténik."
+            }
+          }
+        },
+        "needsInternet": {
+          "question": "Szüksége van internetkapcsolatra a Slop Or Not működéséhez?",
+          "answer": "A Slop Or Not minden AI-detektálást közvetlenül az eszközön végez. Csak az egyszeri beállításkor kell internetkapcsolat az AI-modellek letöltéséhez. Ezután teljesen offline ellenőrizhetsz szöveget és képeket. Az Apple CoreML modelltitkosítását használjuk az eszközön lévő transformer modellek védelmére. Az iOS-nek esetenként internetkapcsolatra lehet szüksége az App Store-ból származó kulcsok frissítéséhez."
+        },
+        "isDataPrivate": {
+          "question": "Privát maradnak az adataim az app használatakor?",
+          "answer": "Igen, 100 %. Más AI-detektorokkal ellentétben, amelyek feltöltik az adataidat egy szerverre elemzésre, a Slop Or Not mindent helyben, az iPhone-odon dolgoz fel. A szövegeid, képeid és fotóid soha nem hagyják el a készüléket, így teljes adatvédelmet garantálunk. Ez ideális érzékeny információk – például jogi dokumentumok, ügyféle-mailek vagy egészségügyi feljegyzések – ellenőrzéséhez. Az EU-ban működünk, és teljes mértékben megfelelünk a GDPR és CCPA előírásainak, így jogaid és adatvédelem mindig biztosított."
+        },
+        "whoShouldUse": {
+          "question": "Kinek ajánlott a Slop Or Not?",
+          "answer": {
+            "intro": "Bárkinek, aki értékeli az igazságot és a magánéletet! Különösen hasznos:",
+            "studentsTeachers": {
+              "title": "Diákok & tanárok",
+              "description": "az akadémiai munkák eredetiségének ellenőrzéséhez."
+            },
+            "journalists": {
+              "title": "Újságírók & tényellenőrök",
+              "description": "a források és képek hitelességének ellenőrzéséhez."
+            },
+            "onlineDaters": {
+              "title": "Online randizók",
+              "description": "a hamis catfish profilok kiszűréséhez."
+            },
+            "shoppers": {
+              "title": "Vásárlók",
+              "description": "a termékértékelések valódiságának ellenőrzéséhez."
+            },
+            "anyone": {
+              "title": "Bárki",
+              "description": "aki szeretné felismerni a félretájékoztatást és deepfake-eket a közösségi médiában."
+            }
+          }
+        }
+      }
+    },
+    "features": {
+      "name": "Funkciók & pontosság",
+      "questions": {
+        "howAccurate": {
+          "question": "Milyen pontos az AI-detektálás?",
+          "answer": {
+            "intro": "A Slop Or Not iparágvezető modelleket használ a magas pontosság érdekében:",
+            "watermarkedImages": {
+              "title": "Vízjelezett képek (C2PA/IPTC a Gemini image generation, OpenAI image generation, Microsoft Designer, Adobe Firefly stb. esetében):",
+              "description": "100 % pontos detektálás."
+            },
+            "otherImages": {
+              "title": "Minden egyéb AI-generált kép:",
+              "description": "90 % pontosság."
+            },
+            "text": {
+              "title": "AI-generált szöveg:",
+              "description": "95 % pontosság."
+            },
+            "note": "*Megjegyzés: A pontosság belső tesztjeinken alapul. Az eredmények változhatnak új AI-modellek és olyan módszerek esetén, amelyek a detektorok megkerülésére irányulnak.*"
+          }
+        },
+        "textCleanup": {
+          "question": "Mi az a „Szöveg-tisztítás” funkció?",
+          "answer": "Az AI-generált szöveg gyakran rejtett karaktereket vagy furcsa formázást tartalmaz, amelyek láthatatlan vízjelként működhetnek. A Szöveg-tisztítás funkciónk egyetlen koppintással eltávolítja ezeket a nyomokat. Eltávolít: rejtett karaktereket (például nullaszélességű szóközöket), gyanús írásjeleket és homoglifákat (olyan betűket, amelyek más betűknek látszanak). Szükség esetén normalizálja a helyesírást (pl. US → UK angol) és javítja a központozást is."
+        },
+        "stickerPacks": {
+          "question": "Mik azok az AI Slop matricacsomagok?",
+          "answer": "Ezek szórakoztató iMessage matricacsomagok az appban! Ha AI-generált tartalmat találsz online vagy csetekben, matricáinkkal könnyedén felhívhatod rá a figyelmet."
+        },
+        "incognitoMode": {
+          "question": "Mi az Inkognitó mód?",
+          "answer": "Az Inkognitó mód extra védelmet nyújt. Bekapcsolva az app nem tárolja az általad ellenőrzött tartalom előzményeit. Tökéletes, ha különösen érzékeny információkat kezelsz, és nem szeretnél nyomot hagyni a készüléken."
+        }
+      }
+    },
+    "troubleshooting": {
+      "name": "Hibaelhárítás & támogatás",
+      "questions": {
+        "whyDownload": {
+          "question": "Miért tölt le fájlokat az app telepítés után?",
+          "answer": "Azért, hogy gyorsabb legyen az App Store letöltés és kevesebb tárhelyet foglaljon, az app kezdetben kisméretű. A Slop Or Not első indításakor automatikusan letölti nagy teljesítményű AI-detektáló modelljeinket az Apple On-Demand Resources rendszerén keresztül. Ez egyszeri folyamat. Alkalmanként az Apple szolgáltatásának hibái megszakíthatják a letöltést. Ha elakad, ellenőrizd az internetkapcsolatot, majd indítsd újra az appot pár perc múlva. A letöltésnek automatikusan folytatódnia kell."
+        },
+        "imageResolution": {
+          "question": "Befolyásolja a kép felbontása a detektálási pontszámot?",
+          "answer": "Igen. Ha alacsony felbontású indexképet vagy képernyőképet használsz, a modell ugyan lefut, de alacsonyabb bizalomértéket adhat, mert a normalizálás során elvesznek a finom részletek. Mindig próbáld meg az eredeti vagy legmagasabb minőségű változatot használni. Minél több pixel, annál több nyom, így az eredmények erősebbek és stabilabbak."
+        },
+        "howMuchText": {
+          "question": "Mennyi szöveg szükséges a megbízható detektáláshoz?",
+          "answer": "A szövegdetektornak legalább két teljes mondatra van szüksége. A nagyon rövid részletek túl kevés kontextust adnak a modellnek az AI-ujjlenyomatok felismeréséhez. Ha lehet, illessz be egy teljes bekezdést vagy akár a teljes dokumentumot. Minél hosszabb a szöveg, annál nagyobb a megbízhatóság."
+        },
+        "notDetecting": {
+          "question": "Az app nem észlel AI-tartalmat, pedig biztos vagyok benne, hogy AI-generált. Miért?",
+          "answer": {
+            "intro": "Az AI világa gyorsan változik. Bár detektorunk rendkívül pontos, egyes új AI-modellek olyan tartalmat hozhatnak létre, amelyet nehezebb felismerni. Rendszeresen frissítjük modelljeinket, hogy lépést tartsunk.",
+            "checkImage": "Lehet, hogy a kép alacsony felbontású indexkép vagy erősen tömörített képernyőkép volt. Próbáld újra a legnagyobb felbontású változattal.",
+            "checkText": "Elképzelhető, hogy a szövegminta túl rövid volt. Gondoskodj róla, hogy legalább két mondatot adj meg; több szöveg javítja az eredményeket.",
+            "outro": "Ezek a gyors ellenőrzések megoldják a legtöbb „hamis negatív” esetet. Ha a probléma továbbra is fennáll, oszd meg velünk a példát, hogy tovább fejleszthessük az appot mindenki számára."
+          }
+        }
+      }
+    }
+  },
+  "RelatedLinks": {
+    "title": "További segítségre van szükséged?",
+    "description": "Nem találod a választ? Csatlakozz Discord-közösségünkhöz valós idejű tippekért, trükkökért és támogatásért."
+  },
+  "DiscordBadge": {
+    "discord": "Discord",
+    "usersOnline": "{onlineCount, plural, one {# felhasználó online} other {# felhasználó online}}"
+  }
+}

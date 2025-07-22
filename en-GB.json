@@ -8,9 +8,34 @@
     "help": "Help",
     "download": "Download"
   },
-  "Language": {
-    "current": "English (UK)",
-    "switchTo": "Switch to {language}"
+  "LanguageSwitcher": {
+    "ar": "Arabic",
+    "zh-HK": "Chinese (Hong Kong)",
+    "zh-CN": "Simplified Chinese",
+    "zh-TW": "Traditional Chinese",
+    "cs": "Czech",
+    "nl": "Dutch",
+    "fi": "Finnish",
+    "fr": "French",
+    "de": "German",
+    "he": "Hebrew",
+    "hu": "Hungarian",
+    "it": "Italian",
+    "ja": "Japanese",
+    "ko": "Korean",
+    "nb": "Norwegian Bokmål",
+    "pl": "Polish",
+    "pt-BR": "Brazilian Portuguese",
+    "pt-PT": "European Portuguese",
+    "ro": "Romanian",
+    "ru": "Russian",
+    "es": "Spanish",
+    "sv": "Swedish",
+    "tr": "Turkish",
+    "uk": "Ukrainian",
+    "ur": "Urdu",
+    "en": "American English",
+    "en-GB": "British English"
   },
   "Header": {
     "logoAlt": "Slop Or Not",
@@ -279,5 +304,9 @@
   "RelatedLinks": {
     "title": "Need More Help?",
     "description": "Can’t find the answer you need? Join our Discord community for real-time tips, tricks and support."
+  },
+  "DiscordBadge": {
+    "discord": "Discord",
+    "usersOnline": "{onlineCount, plural, one {# user online} other {# users online}}"
   }
 }
