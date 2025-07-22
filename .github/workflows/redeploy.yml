@@ -8,8 +8,10 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger DO rebuild
+      - name: Install doctl
         uses: digitalocean/action-doctl@v2
         with:
           token: ${{ secrets.DO_TOKEN }}
-          args: apps create-deployment ${{ secrets.APP_ID }} --force-rebuild
+
+      - name: Trigger DO rebuild
+        run: doctl apps create-deployment ${{ secrets.APP_ID }} --force-rebuild
