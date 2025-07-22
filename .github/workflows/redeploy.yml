@@ -1,0 +1,15 @@
+name: redeploy main app
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger DO rebuild
+        uses: digitalocean/action-doctl@v2
+        with:
+          token: ${{ secrets.DO_TOKEN }}
+          args: apps create-deployment ${{ secrets.APP_ID }} --force-rebuild
