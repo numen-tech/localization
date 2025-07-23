@@ -308,5 +308,33 @@
   "DiscordBadge": {
     "discord": "Discord",
     "usersOnline": "{onlineCount, plural, one {# 人がオンライン} other {# 人がオンライン}}"
+  },
+  "SupportPage": {
+    "metadata": {
+      "title": "サポート - Slop Or Not",
+      "description": "無料のオンデバイスAIコンテンツ検出ツール Slop Or Not に関するサポートはこちら。Discord またはメールでお問い合わせいただくか、ヘルプページをご覧ください。"
+    },
+    "title": "サポート",
+    "description": "Slop Or Not は、2 人のエンジニアが提供する無料のオンデバイス AI コンテンツ検出ツールです。即時回答はお約束できませんが、できる限りお手伝いします。",
+    "contact": {
+      "title": "お問い合わせ",
+      "discord": {
+        "title": "Discord（推奨）",
+        "description": "コミュニティに参加して、迅速なサポートやヒント、ユーザー同士の助け合いを得ましょう。"
+      },
+      "email": {
+        "title": "メール",
+        "description": "対応可能な範囲で、サポートメールに返信いたします。"
+      }
+    },
+    "fastAnswers": {
+      "title": "今すぐ答えが欲しい？",
+      "description": "よくある質問は <link>ヘルプページ</link> をご覧ください。"
+    },
+    "feedback": {
+      "title": "フィードバック & 機能リクエスト",
+      "suggest": "<strong>機能を提案する:</strong> Discord の <code>#suggestions</code> で投稿してください。",
+      "report": "<strong>バグを報告する:</strong> Discord で DM を送るか、スクリーンショットまたはログを添えてメールしてください。"
+    }
   }
 }

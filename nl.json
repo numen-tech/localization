@@ -308,5 +308,33 @@
   "DiscordBadge": {
     "discord": "Discord",
     "usersOnline": "{onlineCount, plural, one {# gebruiker online} other {# gebruikers online}}"
+  },
+  "SupportPage": {
+    "metadata": {
+      "title": "Ondersteuning - Slop Or Not",
+      "description": "Hulp nodig met Slop Or Not, de gratis on-device AI-contentdetector? Neem contact op via Discord of e-mail, of bekijk onze Helppagina."
+    },
+    "title": "Ondersteuning",
+    "description": "Slop Or Not is gebouwd door twee engineers en biedt je een gratis AI-contentdetector die lokaal draait. We kunnen geen directe reactie beloven, maar we doen ons best om te helpen.",
+    "contact": {
+      "title": "Neem contact op",
+      "discord": {
+        "title": "Discord (beste keuze)",
+        "description": "Word lid van onze community voor snelle hulp, tips en ondersteuning van anderen."
+      },
+      "email": {
+        "title": "E-mail",
+        "description": "Als de capaciteit het toelaat beantwoorden we support-e-mails."
+      }
+    },
+    "fastAnswers": {
+      "title": "Snel antwoord nodig?",
+      "description": "Kijk voor veelgestelde vragen op onze <link>Helppagina</link>."
+    },
+    "feedback": {
+      "title": "Feedback & Functieverzoeken",
+      "suggest": "<strong>Functie voorstellen:</strong> Plaats een bericht in <code>#suggestions</code> op Discord.",
+      "report": "<strong>Bug melden:</strong> Stuur ons een DM op Discord of een e-mail met een screenshot of logbestand."
+    }
   }
 }

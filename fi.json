@@ -308,5 +308,33 @@
   "DiscordBadge": {
     "discord": "Discord",
     "usersOnline": "{onlineCount, plural, one {# käyttäjä paikalla} other {# käyttäjää paikalla}}"
+  },
+  "SupportPage": {
+    "metadata": {
+      "title": "Tuki - Slop Or Not",
+      "description": "Tarvitsetko apua Slop Or Not -sovelluksen kanssa? Se on ilmainen laitekohtainen AI-sisällöntunnistin. Ota yhteyttä Discordissa tai sähköpostilla, tai selaa Ohjeet-sivuamme."
+    },
+    "title": "Tuki",
+    "description": "Slop Or Not on kahden insinöörin kehittämä ilmainen laitekohtainen AI-sisällöntunnistin. Emme voi luvata välitöntä vastausta, mutta teemme parhaamme auttaaksemme.",
+    "contact": {
+      "title": "Ota yhteyttä",
+      "discord": {
+        "title": "Discord (paras)",
+        "description": "Liity yhteisöömme saadaksesi nopeaa apua, vinkkejä ja vertaistukea."
+      },
+      "email": {
+        "title": "Sähköposti",
+        "description": "Vastaamme tukisähköposteihin mahdollisuuksien mukaan."
+      }
+    },
+    "fastAnswers": {
+      "title": "Tarvitsetko vastauksen heti?",
+      "description": "Katso yleisimmät kysymykset <link>Ohjeet-sivultamme</link>."
+    },
+    "feedback": {
+      "title": "Palaute ja ominaisuustoiveet",
+      "suggest": "<strong>Ehdota ominaisuutta:</strong> Kirjoita Discordin <code>#suggestions</code>-kanavalla.",
+      "report": "<strong>Ilmoita bugista:</strong> Lähetä meille DM Discordissa tai sähköposti, jossa on kuvakaappaus tai loki."
+    }
   }
 }
