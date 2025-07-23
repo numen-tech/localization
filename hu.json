@@ -308,5 +308,33 @@
   "DiscordBadge": {
     "discord": "Discord",
     "usersOnline": "{onlineCount, plural, one {# felhasználó online} other {# felhasználó online}}"
+  },
+  "SupportPage": {
+    "metadata": {
+      "title": "Támogatás - Slop Or Not",
+      "description": "Segítséget kaphatsz a Slop Or Not használatához, az ingyenes, eszközön futó AI-tartalom-detektorhoz. Lépj kapcsolatba velünk Discordon vagy e-mailben, vagy böngészd Súgó oldalunkat."
+    },
+    "title": "Támogatás",
+    "description": "A Slop Or Not két mérnök munkája, akik egy ingyenes, eszközön futó AI-tartalom-detektort hoztak létre. Nem ígérünk azonnali választ, de mindent megteszünk, hogy segítsünk.",
+    "contact": {
+      "title": "Lépj kapcsolatba velünk",
+      "discord": {
+        "title": "Discord (ajánlott)",
+        "description": "Csatlakozz a közösségünkhöz gyors segítségért, tippekért és közösségi támogatásért."
+      },
+      "email": {
+        "title": "E-mail",
+        "description": "Kapacitásunk függvényében válaszolunk az e-mailekre."
+      }
+    },
+    "fastAnswers": {
+      "title": "Gyors válaszokra van szükséged?",
+      "description": "A gyakori kérdésekért nézd meg a <link>Súgó oldalt</link>."
+    },
+    "feedback": {
+      "title": "Visszajelzés és funkciókérések",
+      "suggest": "<strong>Javasolj funkciót:</strong> Írj a Discordon a <code>#suggestions</code> csatornára.",
+      "report": "<strong>Hibát jelentenél?</strong> Írj nekünk privát üzenetet Discordon, vagy küldj e-mailt képernyőképpel vagy naplóval."
+    }
   }
 }

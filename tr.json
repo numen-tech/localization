@@ -308,5 +308,33 @@
   "DiscordBadge": {
     "discord": "Discord",
     "usersOnline": "{onlineCount, plural, one {# çevrimiçi kullanıcı} other {# çevrimiçi kullanıcı}}"
+  },
+  "SupportPage": {
+    "metadata": {
+      "title": "Destek - Slop Or Not",
+      "description": "Slop Or Not, ücretsiz ve cihaz üzerinde çalışan AI içerik dedektörü için yardım alın. Discord veya e-posta ile ulaşın ya da Yardım sayfamıza göz atın."
+    },
+    "title": "Destek",
+    "description": "Slop Or Not, size ücretsiz, cihazınızda çalışan bir AI içerik dedektörü sunan iki mühendis tarafından geliştirildi. Anında yanıt veremeyebiliriz, ancak yardımcı olmak için elimizden geleni yapacağız.",
+    "contact": {
+      "title": "Bize Ulaşın",
+      "discord": {
+        "title": "Discord (en iyi seçenek)",
+        "description": "Hızlı yardım, ipuçları ve topluluk desteği için topluluğumuza katılın."
+      },
+      "email": {
+        "title": "E-posta",
+        "description": "Müsait oldukça destek e-postalarına yanıt veriyoruz."
+      }
+    },
+    "fastAnswers": {
+      "title": "Hızlı Yanıtlara mı ihtiyacınız var?",
+      "description": "Sık sorulan sorular için <link>Yardım sayfamıza</link> bakın."
+    },
+    "feedback": {
+      "title": "Geri Bildirim ve Özellik İstekleri",
+      "suggest": "<strong>Özellik öner:</strong> Discord'da <code>#suggestions</code> kanalına yaz.",
+      "report": "<strong>Hata bildir:</strong> Discord'dan bize DM atın veya ekran görüntüsü ya da kayıt ile e-posta gönderin."
+    }
   }
 }

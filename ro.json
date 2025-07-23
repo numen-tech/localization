@@ -308,5 +308,33 @@
   "DiscordBadge": {
     "discord": "Discord",
     "usersOnline": "{onlineCount, plural, one {# utilizator online} other {# utilizatori online}}"
+  },
+  "SupportPage": {
+    "metadata": {
+      "title": "Asistență - Slop Or Not",
+      "description": "Primește ajutor pentru Slop Or Not, detectorul gratuit de conținut AI care rulează pe dispozitiv. Contactează-ne pe Discord sau pe email, sau consultă pagina noastră de Ajutor."
+    },
+    "title": "Asistență",
+    "description": "Slop Or Not este creat de doi ingineri care îți oferă gratuit un detector de conținut AI ce rulează local. Nu putem promite răspunsuri instantanee, dar vom face tot posibilul să te ajutăm.",
+    "contact": {
+      "title": "Contactează-ne",
+      "discord": {
+        "title": "Discord (recomandat)",
+        "description": "Alătură-te comunității noastre pentru ajutor rapid, sfaturi și suport reciproc."
+      },
+      "email": {
+        "title": "Email",
+        "description": "Răspundem la email-urile de asistență pe măsură ce avem capacitate."
+      }
+    },
+    "fastAnswers": {
+      "title": "Ai nevoie de răspunsuri rapide?",
+      "description": "Pentru întrebări frecvente, vezi <link>pagina de Ajutor</link>."
+    },
+    "feedback": {
+      "title": "Feedback și solicitări de funcționalități",
+      "suggest": "<strong>Propune o funcționalitate:</strong> Postează în <code>#suggestions</code> pe Discord.",
+      "report": "<strong>Raportează o eroare:</strong> Trimite-ne un DM pe Discord sau un email cu o captură de ecran sau log."
+    }
   }
 }

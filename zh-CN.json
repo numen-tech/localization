@@ -308,5 +308,33 @@
   "DiscordBadge": {
     "discord": "Discord",
     "usersOnline": "{onlineCount, plural, one {# 位用户在线} few {# 位用户在线} many {# 位用户在线} other {# 位用户在线}}"
+  },
+  "SupportPage": {
+    "metadata": {
+      "title": "支持 - Slop Or Not",
+      "description": "获取 Slop Or Not（免费、端侧 AI 内容检测器）的帮助。可通过 Discord 或邮件联系我们，或浏览我们的帮助页面。"
+    },
+    "title": "支持",
+    "description": "Slop Or Not 由两位工程师打造，为您提供免费的端侧 AI 内容检测工具。我们无法保证立即回复，但会尽力帮助。",
+    "contact": {
+      "title": "联系我们",
+      "discord": {
+        "title": "Discord（推荐）",
+        "description": "加入我们的社区，获取快速帮助、技巧和用户支持。"
+      },
+      "email": {
+        "title": "电子邮件",
+        "description": "在时间允许的情况下，我们会回复支持邮件。"
+      }
+    },
+    "fastAnswers": {
+      "title": "急需答案？",
+      "description": "常见问题请查看<link>帮助页面</link>。"
+    },
+    "feedback": {
+      "title": "反馈与功能请求",
+      "suggest": "<strong>提出功能：</strong> 在 Discord 的 <code>#suggestions</code> 频道发帖。",
+      "report": "<strong>报告错误：</strong> 通过 Discord 私信我们或发送包含截图或日志的邮件。"
+    }
   }
 }

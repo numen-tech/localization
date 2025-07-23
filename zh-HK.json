@@ -308,5 +308,33 @@
   "DiscordBadge": {
     "discord": "Discord",
     "usersOnline": "{onlineCount, plural, one {# 位用戶在線} other {# 位用戶在線}}"
+  },
+  "SupportPage": {
+    "metadata": {
+      "title": "支援 - Slop Or Not",
+      "description": "獲取 Slop Or Not 的協助，這是一款免費、本機運行的 AI 內容檢測器。你可以透過 Discord 或電郵聯絡我們，亦可瀏覽我們的說明頁面。"
+    },
+    "title": "支援",
+    "description": "Slop Or Not 由兩位工程師打造，為你提供免費、在裝置上運行的 AI 內容檢測器。我們未必能即時回覆，但一定會盡力協助。",
+    "contact": {
+      "title": "聯絡我們",
+      "discord": {
+        "title": "Discord（最佳）",
+        "description": "加入我們的社群，獲取快速支援、貼士及同儕協助。"
+      },
+      "email": {
+        "title": "電郵",
+        "description": "在人手許可的情況下，我們會回覆支援電郵。"
+      }
+    },
+    "fastAnswers": {
+      "title": "急需答案？",
+      "description": "常見問題請參閱<link>說明頁面</link>。"
+    },
+    "feedback": {
+      "title": "意見與功能建議",
+      "suggest": "<strong>建議功能：</strong> 在 Discord 的 <code>#suggestions</code> 頻道發帖。",
+      "report": "<strong>回報錯誤：</strong> 透過 Discord 私訊我們，或電郵附上截圖或日誌。"
+    }
   }
 }

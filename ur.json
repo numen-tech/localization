@@ -308,5 +308,33 @@
   "DiscordBadge": {
     "discord": "Discord",
     "usersOnline": "{onlineCount, plural, one {# صارف آن لائن} other {# صارفین آن لائن}}"
+  },
+  "SupportPage": {
+    "metadata": {
+      "title": "سپورٹ - Slop Or Not",
+      "description": "Slop Or Not، مفت آن ڈیوائس AI مواد ڈیٹیکٹر کے حوالے سے مدد حاصل کریں۔ Discord یا ای میل کے ذریعے رابطہ کریں، یا ہمارے ہیلپ صفحہ کو دیکھیں۔"
+    },
+    "title": "سپورٹ",
+    "description": "Slop Or Not دو انجینئرز کی جانب سے بنایا گیا ہے جو آپ کو مفت، آن ڈیوائس AI مواد ڈیٹیکٹر فراہم کر رہے ہیں۔ ہم فوری جواب کا وعدہ نہیں کر سکتے، لیکن آپ کی مدد کی پوری کوشش کریں گے۔",
+    "contact": {
+      "title": "ہم سے رابطہ کریں",
+      "discord": {
+        "title": "Discord (بہترین)",
+        "description": "تیز مدد، تجاویز اور کمیونٹی سپورٹ کیلئے ہماری کمیونٹی میں شامل ہوں۔"
+      },
+      "email": {
+        "title": "ای میل",
+        "description": "گنجائش کی صورت میں ہم سپورٹ ای میلز کا جواب دیتے ہیں۔"
+      }
+    },
+    "fastAnswers": {
+      "title": "فوری جواب درکار ہے؟",
+      "description": "عام سوالات کے لیے ہمارا <link>ہیلپ صفحہ</link> دیکھیں۔"
+    },
+    "feedback": {
+      "title": "تجاویز اور فیچر کی درخواستیں",
+      "suggest": "<strong>فیچر تجویز کریں:</strong> Discord میں <code>#suggestions</code> پر پوسٹ کریں۔",
+      "report": "<strong>بگ رپورٹ کریں:</strong> Discord پر ہمیں DM کریں یا اسکرین شاٹ یا لاگ کے ساتھ ای میل کریں۔"
+    }
   }
 }

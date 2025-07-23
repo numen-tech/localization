@@ -308,5 +308,33 @@
   "DiscordBadge": {
     "discord": "Discord",
     "usersOnline": "{onlineCount, plural, one {#명 온라인} other {#명 온라인}}"
+  },
+  "SupportPage": {
+    "metadata": {
+      "title": "지원 - Slop Or Not",
+      "description": "무료 온디바이스 AI 콘텐츠 감지기 Slop Or Not 사용에 대한 도움을 받아보세요. Discord 또는 이메일로 문의하거나, 도움말 페이지를 확인하세요."
+    },
+    "title": "지원",
+    "description": "Slop Or Not는 두 명의 엔지니어가 제공하는 무료 온디바이스 AI 콘텐츠 감지기입니다. 즉각적인 답변을 약속드릴 수는 없지만 최선을 다해 도와드리겠습니다.",
+    "contact": {
+      "title": "문의하기",
+      "discord": {
+        "title": "Discord (권장)",
+        "description": "커뮤니티에 참여하여 빠른 도움, 팁, 사용자 간 지원을 받아보세요."
+      },
+      "email": {
+        "title": "이메일",
+        "description": "가능한 범위 내에서 지원 이메일에 답변드립니다."
+      }
+    },
+    "fastAnswers": {
+      "title": "빠른 답변이 필요하신가요?",
+      "description": "자주 묻는 질문은 <link>도움말 페이지</link>를 확인하세요."
+    },
+    "feedback": {
+      "title": "피드백 및 기능 요청",
+      "suggest": "<strong>기능 제안:</strong> Discord의 <code>#suggestions</code>에 게시하세요.",
+      "report": "<strong>버그 신고:</strong> Discord DM으로 메시지를 보내거나 스크린샷 또는 로그를 첨부하여 이메일을 보내주세요."
+    }
   }
 }

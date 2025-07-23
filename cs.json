@@ -308,5 +308,33 @@
   "DiscordBadge": {
     "discord": "Discord",
     "usersOnline": "{onlineCount, plural, one {# uživatel online} few {# uživatelé online} other {# uživatelů online}}"
+  },
+  "SupportPage": {
+    "metadata": {
+      "title": "Podpora - Slop Or Not",
+      "description": "Získejte pomoc se Slop Or Not, bezplatným detektorem AI obsahu přímo v zařízení. Kontaktujte nás přes Discord nebo e-mail, nebo si prohlédněte naši stránku nápovědy."
+    },
+    "title": "Podpora",
+    "description": "Slop Or Not vyvíjejí dva inženýři, aby vám nabídli bezplatný detektor AI obsahu přímo v zařízení. Nemůžeme slíbit okamžitou odpověď, ale uděláme vše pro to, abychom pomohli.",
+    "contact": {
+      "title": "Kontaktujte nás",
+      "discord": {
+        "title": "Discord (nejlepší)",
+        "description": "Přidejte se do naší komunity pro rychlou pomoc, tipy a podporu od ostatních uživatelů."
+      },
+      "email": {
+        "title": "E-mail",
+        "description": "Podle kapacit odpovídáme na e-maily podpory."
+      }
+    },
+    "fastAnswers": {
+      "title": "Potřebujete rychlou odpověď?",
+      "description": "Nejčastější dotazy najdete na <link>stránce nápovědy</link>."
+    },
+    "feedback": {
+      "title": "Zpětná vazba a požadavky na funkce",
+      "suggest": "<strong>Navrhněte funkci:</strong> Napište do kanálu <code>#suggestions</code> na Discordu.",
+      "report": "<strong>Nahlásit chybu:</strong> Napište nám soukromou zprávu na Discordu nebo pošlete e-mail se screenshotem či logem."
+    }
   }
 }

@@ -308,5 +308,33 @@
   "DiscordBadge": {
     "discord": "Discord",
     "usersOnline": "{onlineCount, plural, one {# משתמש מחובר} other {# משתמשים מחוברים}}"
+  },
+  "SupportPage": {
+    "metadata": {
+      "title": "תמיכה - Slop Or Not",
+      "description": "קבלו עזרה עם Slop Or Not, גלאי תוכן AI חינמי על-גבי המכשיר. צרו קשר דרך Discord או דוא\"ל, או עיינו בדף העזרה שלנו."
+    },
+    "title": "תמיכה",
+    "description": "Slop Or Not נבנה על-ידי שני מהנדסים ומעניק לכם גלאי תוכן AI חינמי הפועל על-גבי המכשיר. איננו יכולים להבטיח מענה מיידי, אך נעשה כמיטב יכולתנו לסייע.",
+    "contact": {
+      "title": "יצירת קשר",
+      "discord": {
+        "title": "Discord (מומלץ)",
+        "description": "הצטרפו לקהילה שלנו לקבלת עזרה מהירה, טיפים ותמיכה מחברים."
+      },
+      "email": {
+        "title": "דוא\"ל",
+        "description": "ככל שהזמן מאפשר, אנו משיבים לפניות בדוא\"ל."
+      }
+    },
+    "fastAnswers": {
+      "title": "צריכים תשובות מיד?",
+      "description": "לשאלות נפוצות, ראו את <link>דף העזרה</link> שלנו."
+    },
+    "feedback": {
+      "title": "משוב ובקשות לפיצ'רים",
+      "suggest": "<strong>הציעו פיצ'ר:</strong> פרסמו ב-<code>#suggestions</code> ב-Discord.",
+      "report": "<strong>דווחו על באג:</strong> שלחו לנו הודעה פרטית ב-Discord או שלחו דוא\"ל עם צילום מסך או לוג."
+    }
   }
 }

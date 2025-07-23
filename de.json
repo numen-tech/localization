@@ -308,5 +308,34 @@
   "DiscordBadge": {
     "discord": "Discord",
     "usersOnline": "{onlineCount, plural, one {# Benutzer online} other {# Benutzer online}}"
+  },
+  "SupportPage": {
+      "metadata": {
+        "title": "Support - Slop Or Not",
+        "description": "Erhalte Hilfe zu Slop Or Not, dem kostenlosen On-Device-KI-Inhaltsdetektor. Kontaktiere uns über Discord oder per E-Mail oder sieh dir unsere Hilfeseite an."
+      },
+      "title": "Support",
+      "description": "Slop Or Not wird von zwei Ingenieuren entwickelt, um dir einen kostenlosen KI-Inhaltsdetektor direkt auf deinem Gerät bereitzustellen. Wir können keine sofortige Antwort versprechen, aber wir geben unser Bestes, um zu helfen.",
+      "contact": {
+        "title": "Kontakt",
+        "discord": {
+          "title": "Discord (am besten)",
+          "description": "Tritt unserer Community bei, um schnelle Hilfe, Tipps und Unterstützung von anderen Nutzer:innen zu erhalten."
+        },
+        "email": {
+          "title": "E-Mail",
+          "description": "Je nach Kapazität beantworten wir Support-E-Mails."
+        }
+      },
+      "fastAnswers": {
+        "title": "Schnelle Antwort nötig?",
+        "description": "Antworten auf häufige Fragen findest du auf unserer <link>Hilfeseite</link>."
+      },
+      "feedback": {
+        "title": "Feedback & Funktionswünsche",
+        "suggest": "<strong>Funktion vorschlagen:</strong> Poste im Discord-Kanal <code>#suggestions</code>.",
+        "report": "<strong>Bug melden:</strong> Schicke uns eine DM auf Discord oder eine E-Mail mit Screenshot oder Log."
+      }
+    }
   }
 }
