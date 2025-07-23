@@ -1,66 +1,66 @@
 {
   "Metadata": {
-    "title": "Slop Or Not: Ilmainen AI-sisällöntunnistin tekstille ja kuville",
-    "description": "AI-tekstintunnistin, AI-kuvatunnistin ja AI-humanisoija yhdessä sovelluksessa. Tarkista AI ja humanisoi AI ilmaiseksi iPhonella – pilveä ei tarvita."
+    "title": "Slop Or Not: ilmainen tekoälysisällön tunnistin tekstille ja kuville",
+    "description": "Tekoälytekstin tunnistin, tekoälykuvien tunnistin ja tekoälyn jälkien poistaja yhdessä sovelluksessa. Tarkista tekoälyn käyttö ja muokkaa tekstiä ilmaiseksi iPhonella, pilvipalvelua ei tarvita."
   },
   "Navigation": {
     "home": "Etusivu",
-    "help": "Ohje",
+    "help": "Ohjeet",
     "download": "Lataa"
   },
   "LanguageSwitcher": {
-    "ar": "arabia",
-    "zh-HK": "kiina (Hongkong)",
-    "zh-CN": "kiina, yksinkertaistettu",
-    "zh-TW": "kiina, perinteinen",
-    "cs": "tšekki",
-    "nl": "hollanti",
-    "fi": "suomi",
-    "fr": "ranska",
-    "de": "saksa",
-    "he": "heprea",
-    "hi": "hindi",
-    "hu": "unkari",
-    "it": "italia",
-    "ja": "japani",
-    "ko": "korea",
-    "nb": "norja bokmål",
-    "pl": "puola",
-    "pt-BR": "portugali (Brasilia)",
-    "pt-PT": "portugali (Portugali)",
-    "ro": "romania",
-    "ru": "venäjä",
-    "es": "espanja",
-    "sv": "ruotsi",
-    "tr": "turkki",
-    "uk": "ukraina",
-    "ur": "urdu",
-    "en": "englanti (Yhdysvallat)",
-    "en-GB": "englanti (Iso-Britannia)"
+    "ar": "Arabia",
+    "zh-HK": "Kiina (Hongkong)",
+    "zh-CN": "Kiina, yksinkertaistettu",
+    "zh-TW": "Kiina, perinteinen",
+    "cs": "Tšekki",
+    "nl": "Hollanti",
+    "fi": "Suomi",
+    "fr": "Ranska",
+    "de": "Saksa",
+    "he": "Heprea",
+    "hi": "Hindi",
+    "hu": "Unkari",
+    "it": "Italia",
+    "ja": "Japani",
+    "ko": "Korea",
+    "nb": "Norja (bokmål)",
+    "pl": "Puola",
+    "pt-BR": "Portugali (Brasilia)",
+    "pt-PT": "Portugali (Portugali)",
+    "ro": "Romania",
+    "ru": "Venäjä",
+    "es": "Espanja",
+    "sv": "Ruotsi",
+    "tr": "Turkki",
+    "uk": "Ukraina",
+    "ur": "Urdu",
+    "en": "Englanti (Yhdysvallat)",
+    "en-GB": "Englanti (Iso-Britannia)"
   },
   "Header": {
     "logoAlt": "Slop Or Not",
     "navigation": {
       "home": "Etusivu",
-      "help": "Ohje",
+      "help": "Ohjeet",
       "download": "Lataa"
     }
   },
   "Footer": {
-    "tagline": "Paljasta AI-sooppa. Tiedä, mikä on aitoa.",
+    "tagline": "Tunnista tekoälyroska. Tiedä, mikä on aitoa.",
     "sections": {
       "products": "Tuotteet",
       "resources": "Resurssit",
-      "help": "Ohje"
+      "help": "Ohjeet"
     },
     "products": {
       "slopOrNot": {
         "name": "Slop Or Not",
-        "description": "AI-sisällöntunnistin tekstille ja kuville."
+        "description": "Tekoälysisällön tunnistin tekstille & kuville."
       },
       "privateLlm": {
         "name": "Private LLM",
-        "description": "Paikallinen AI-chatbotti Apple-laitteille."
+        "description": "Paikallinen tekoäly-chatbot Apple-laitteille."
       }
     },
     "links": {
@@ -70,132 +70,132 @@
       "helpCenter": "Ohjekeskus",
       "whatIs": "Mikä on Slop Or Not?",
       "howAccurate": "Kuinka tarkka se on?",
-      "isDataPrivate": "Onko datani yksityistä?",
-      "textCleanup": "Mitä on Text Cleanup?"
+      "isDataPrivate": "Ovatko tietoni yksityisiä?",
+      "textCleanup": "Mikä on tekstin puhdistus?"
     },
     "compliance": {
       "gdprAlt": "GDPR-yhteensopiva",
       "ccpaAlt": "CCPA-yhteensopiva"
     },
-    "copyright": "Kaikki oikeudet pidätetään. Rakennettu ❤️ EU:ssa"
+    "copyright": "Kaikki oikeudet pidätetään. Rakennettu ❤️:llä 🇪🇺:ssa"
   },
   "Hero": {
     "logoAlt": "Slop or Not -logo",
-    "title": "AI-tekstintunnistin ja AI-kuvatunnistin yhdessä sovelluksessa",
+    "title": "Tekoälytekstin ja -kuvien tunnistin yhdessä sovelluksessa",
     "srOnlyPrefix": "Slop or Not: ",
-    "description": "Tarkista sisällön tekoäly alkuperä sekunneissa ilmaiseksi ja pidä datasi iPhonessasi.",
-    "testflightLink": "Lataa TestFlight-beta"
+    "description": "Tarkista ilmaiseksi sekunneissa, onko sisältö tekoälyn luomaa, ja pidä tietosi iPhonessasi.",
+    "testflightLink": "Lataa TestFlight Beta"
   },
   "NotFound": {
     "logoAlt": "Slop Or Not -logo",
-    "title": "404: Tuo sivu on pelkkää sooppaa.",
-    "description": "Näyttää siltä, että tämä linkki ei läpäissyt aitoustarkistustamme. Kokeile palata turvaan!",
+    "title": "404: Tämä sivu on puhdasta roskaa.",
+    "description": "Näyttää siltä, että tämä linkki ei läpäissyt aitoustarkistustamme. Kokeile palata takaisin turvaan!",
     "backToHome": "Takaisin etusivulle"
   },
   "CtaDownload": {
-    "title": "Lataa ilmainen AI-sisällöntunnistin iPhonelle",
-    "description": "Tarkista AI-teksti ja -kuvat sekunneissa täysin offline. Datasi ei koskaan poistu puhelimestasi – tietosuoja sisäänrakennettuna."
+    "title": "Lataa ilmainen tekoälysisällön tunnistin iPhonelle",
+    "description": "Tarkista tekoälyn luoma teksti ja kuvat sekunneissa, täysin offline-tilassa. Tietosi eivät koskaan poistu puhelimestasi – sisäänrakennettu yksityisyys."
   },
   "Features": {
     "aiImageDetector": {
-      "title": "Tarkista iPhonellasi, loiko tekoäly tuon kuvan",
-      "description": "Romanssihuijaukset veivät kuluttajilta 1,14 miljardia dollaria vuonna 2023 – enemmän kuin mikään muu huijaus, <ftcLink>FTC:n mukaan</ftcLink>. Huijarit luovat nyt <fakeDatingLink>feikki deittiprofiileja</fakeDatingLink> tekoälyn tuottamilla kasvoilla ja chatboteilla. AI-kuvatunnistimemme toimii suoraan iPhonessasi, joten voit tarkistaa, loiko tekoäly selfien, kuitin tai tuotekuvan ennen kuin pyyhkäiset tai ostat. Se paljastaa vesileimat ja hienovaraiset kasvoartefaktit, joita ihmissilmä ei havaitse."
+      "title": "Tarkista iPhonellasi, loiko tekoäly kuvan",
+      "description": "Romanssihuijaukset veivät kuluttajilta 1,14 miljardia dollaria vuonna 2023, mikä on suurin summa kaikista tekeytymishuijauksista, <ftcLink>kertoo FTC</ftcLink>. Huijarit luovat nyt <fakeDatingLink>väärennettyjä deittiprofiileja</fakeDatingLink> tekoälyn luomilla kasvoilla ja chatboteilla. Tekoälykuvien tunnistimemme toimii iPhonessasi, joten voit tarkistaa, onko selfie, kuitti tai tuotekuva tekoälyn luoma, ennen kuin swaippaat tai ostat. Se tunnistaa vesileimat sekä hienovaraiset kasvojen virheet, joita ihmissilmä ei havaitse."
     },
     "aiTextDetector": {
-      "title": "AI-tekstintunnistin ilman sanamäärärajoja",
-      "description": "Lähes 90 % opiskelijoista myönsi käyttäneensä ChatGPT:tä kotitehtäviin <forbesLink>vuoden 2023 alussa</forbesLink>, ja teinien käyttö <pewLink>kaksinkertaistui jälleen vuoteen 2025 mennessä</pewLink>. Opettajat, toimittajat ja juristit voivat liittää minkä tahansa asiakirjan Slop Or Notin AI-tekstintunnistimeen tarkistaakseen, onko tekoäly kirjoittanut sen – ei sanakattoa, ei pilvivakoilua. Englanti tänään; lisää kieliä pian."
+      "title": "Tekoälytekstin tunnistin ilman sanarajaa",
+      "description": "Lähes 90 % opiskelijoista myönsi käyttäneensä ChatGPT:tä kotitehtäviin <forbesLink>vuoden 2023 alussa</forbesLink>, ja teinien käyttö <pewLink>kaksinkertaistui jälleen vuoteen 2025 mennessä</pewLink>. Opettajat, toimittajat ja lakimiehet voivat liittää minkä tahansa asiakirjan Slop Or Notin tekoälytekstin tunnistimeen tarkistaakseen, onko sanat luonut tekoäly – ei sanarajoituksia, ei pilviurkkimista. Tänään englanniksi; lisää kieliä tulossa pian."
     },
     "aiFingerprints": {
-      "title": "Poista AI-sormenjäljet ja humanisoi AI iPhonella",
-      "description": "Pilvipohjaiset \"AI-humanizer\"-sivustot syöttävät tekstisi usein etä-LLM-malleihin, jotka jättävät uusia sormenjälkiä. Slop Or Not puhdistaa nolla-leveyden välilyönnit, homoglyphit ja välilyöntikikat – kuten binäärikuvion, jota <elonLink>Elon Musk käytti vuonna 2008 paljastaakseen Tesla-vuotajan</elonLink> – muuttamatta tyyliäsi."
+      "title": "Poista tekoälyn sormenjäljet ja muokkaa tekstiä iPhonella",
+      "description": "Pilvipohjaiset \"AI humanizer\" -sivustot syöttävät sanasi usein etänä toimiviin kielimalleihin, jotka jättävät jälkeensä uusia sormenjälkiä. Slop Or Not puhdistaa nollaleveät välilyönnit, homoglyfit ja välilyöntitemput – kuten binäärisen kuvion, jota <elonLink>Elon Musk käytti vuonna 2008 Tesla-vuotajan nappaamiseen</elonLink> – muuttamatta tyyliäsi."
     },
     "stickerPack": {
       "title": "AI Slop -tarrapaketti",
-      "description": "Löysitkö feikin? Tipauta AI Slop -tarrojamme iMessageen tai somen julkaisuihin ja paljasta se tyylillä. Totuuden puolustamisen pitää myös olla hauskaa.",
-      "imageAlt": "AI Slop iMessage -tarrapaketti Slop Or Notilta, jossa erilaiset meemihahmot osoittavat \"AI Slop\"- ja \"Slop!\"-tekstejä"
+      "description": "Löysitkö väärennöksen? Pudota AI Slop -tarrapakettimme iMessageen tai some-julkaisuihin ja paljasta se tyylillä. Koska totuuden puolustamisen pitäisi olla myös hauskaa.",
+      "imageAlt": "Slop Or Notin AI Slop iMessage-tarrapaketti, jossa on erilaisia meemihahmoja osoittamassa tekstejä \"AI Slop\" ja \"Slop!\""
     },
     "howItWorks": {
-      "title": "Näin se toimii",
+      "title": "Kuinka se toimii",
       "steps": {
         "download": {
-          "title": "Hanki AI-tunnistin",
-          "description": "Lataa sovellus App Storesta. Se käyttää edistyneitä laitteessa toimivia AI-malleja havaitakseen AI-sisällön."
+          "title": "Hanki tekoälytunnistin",
+          "description": "Lataa sovellus App Storesta. Se käyttää edistyneitä laitteella toimivia tekoälymalleja tunnistaakseen tekoälyn luomaa sisältöä."
         },
         "check": {
-          "title": "Suorita AI-tarkistus",
-          "description": "Liitä teksti tai valitse kuva. Tulokset näkyvät heti, jopa offline-tilassa."
+          "title": "Suorita tekoälytarkistus",
+          "description": "Liitä tekstiä tai valitse kuva. Tulokset näkyvät heti, jopa offline-tilassa."
         },
         "detect": {
-          "title": "Löydä AI-sooppa",
-          "description": "Näe tulos, siivoa jäljet tai jaa todiste suoraan sovelluksesta."
+          "title": "Löydä tekoälyroska",
+          "description": "Katso tulos, puhdista jäljet tai jaa todisteet suoraan sovelluksesta."
         }
       }
     },
     "useCases": {
-      "title": "Käyttötapaukset",
+      "title": "Käyttökohteet",
       "cases": {
         "journalists": {
           "title": "Toimittajat & faktantarkistajat",
-          "description": "Tarkista uutiskuvien ja lähdelainausten aitous ennen julkaisua. Vältä manipuloidun sisällön julkaisu, joka voisi vahingoittaa uskottavuutta."
+          "description": "Tarkasta uutiskuvat ja lähdelainaukset ennen julkaisua. Vältä manipuloidun sisällön julkaisemista, joka voisi vahingoittaa uskottavuutta."
         },
         "teachers": {
           "title": "Opettajat & opiskelijat",
-          "description": "Opettajat merkitsevät AI-kirjoitetut esseet; opiskelijat varmistavat oman omaperäisyytensä. Ylläpidä akateemista rehellisyyttä ilman kalliita plagiointipalveluja."
+          "description": "Opettajat tunnistavat tekoälyn kirjoittamat esseet; opiskelijat varmistavat oman työnsä omaperäisyyden. Ylläpidä akateemista rehellisyyttä ilman kalliita plagiointipalveluita."
         },
         "dating": {
-          "title": "Verkkodeittailu",
-          "description": "Vahvista profiilikuvat ja bios kuvitteellisten tilien tunnistamiseksi. Pysy turvassa romanssihuijauksilta ja säästä aikaasi."
+          "title": "Nettideittailu",
+          "description": "Varmista profiilikuvien ja -tekstien aitous tunnistaaksesi catfish-tilit. Suojaudu romanssihuijauksilta ja ajan tuhlaukselta."
         },
         "shopping": {
           "title": "Verkko-ostajat",
-          "description": "Tarkista tuotekuvat, vaikuttajapostaukset ja asiakasarviot. Tee fiksumpia ostopäätöksiä ja säilytä arvostelujen luotettavuus."
+          "description": "Tarkista tuotekuvat, vaikuttajien julkaisut ja asiakasarvostelut. Tee älykkäämpiä ostoksia ja ylläpidä arvostelujen luotettavuutta."
         },
         "finance": {
           "title": "Talous- & HR-tiimit",
-          "description": "Todenna henkilöllisyysasiakirjat, ansioluettelot ja spiikkiskriptit. Pienennä petos- ja deepfake-palkkahuijausriskiä."
+          "description": "Todenna henkilötodistukset, ansioluettelot ja äänityskäsikirjoitukset. Pienennä petosten ja deepfake-palkkahuijausten riskiä."
         },
         "legal": {
-          "title": "Lakimiehet & lääketieteen ammattilaiset",
-          "description": "Varmista, että sopimukset, muistio tai potilastiedot ovat ihmisen kirjoittamia. Suojaa asiakastiedot ja täytä tiukimmatkin määräykset."
+          "title": "Laki- & terveydenhuollon ammattilaiset",
+          "description": "Varmista, että sopimukset, muistiot tai potilastiedot ovat ihmisen laatimia. Suojaa asiakkaiden luottamuksellisuutta ja noudata tiukkoja sääntöjä."
         },
         "creators": {
-          "title": "Sisällöntuottajat & yhteisön moderaattorit",
-          "description": "Seuraa käyttäjien luomia viestejä AI-spamin tai disinformaation varalta. Pidä foorumit, Discord-palvelimet ja syötteet luotettavina."
+          "title": "Sisällöntuottajat & yhteisömanagerit",
+          "description": "Moderoi käyttäjien luomia julkaisuja tekoälyroskapostin tai disinformaation varalta. Pidä foorumit, Discord-palvelimet ja sosiaalisen median syötteet luotettavina."
         },
         "social": {
           "title": "Sosiaalisen median käyttäjät",
-          "description": "Taistele misinformaatiota vastaan tarkistamalla viraalijulkaisut ja trendit. Varmista ennen jakamista."
+          "description": "Taistele disinformaatiota vastaan syötteissäsi tarkistamalla viraalipostaukset ja trendaava sisältö. Varmista ennen kuin jaat."
         }
       }
     }
   },
   "HelpPage": {
-    "title": "Slop Or Not UKK | AI-sisällöntunnistimen tuki",
-    "description": "Saat tukea Slop Or Not AI-sisällöntunnistimelle. UKK kattaa laitteessa tapahtuvan tietosuojan, tarkkuuden, tilaukset sekä AI-tarkistuksen tekstille ja kuville."
+    "title": "Slop Or Not UKK | Tekoälysisällön tunnistimen tuki",
+    "description": "Hanki tukea Slop Or Not -tekoälysisällön tunnistimelle. UKK kattaa laitteella tapahtuvan yksityisyyden, tarkkuuden, tilaukset ja kuinka tarkistaa teksti ja kuvat tekoälyn varalta."
   },
   "HelpHero": {
-    "title": "Slop Or Not -ohje & UKK",
-    "description": "Täältä löydät vastaukset yleisiin kysymyksiin Slop Or Notista. Ellet löydä etsimääsi, katso tukivaihtoehdot lopusta."
+    "title": "Slop Or Not Ohjeet & UKK",
+    "description": "Tässä on vastauksia yleisimpiin kysymyksiin Slop Or Notista. Jos et löydä etsimääsi täältä, tutustu tukivaihtoehtoihimme sivun alaosassa."
   },
   "HelpContent": {
     "viewAll": "Näytä kaikki",
     "cta": {
-      "title": "Valmiina paljastamaan soopan ja suojaamaan yksityisyytesi?"
+      "title": "Oletko valmis tunnistamaan roskan ja suojaamaan yksityisyyttäsi?"
     },
     "gettingStarted": {
-      "name": "Aloittaminen & perustoiminnot",
+      "name": "Aloitus ja perustoiminnot",
       "questions": {
         "whatIs": {
           "question": "Mikä on Slop Or Not?",
-          "answer": "Slop Or Not on maailman ensimmäinen AI-sisällöntunnistin, joka toimii täysin iPhonessasi. Se tarkistaa välittömästi tekstin ja kuvat selvittääkseen, ovatko ne tekoälyn tekemiä. Koska se toimii laitteessa, datasi pysyy 100 % yksityisenä eikä koskaan poistu puhelimestasi. Se on nopea, turvallinen ja toimii jopa ilman internetyhteyttä."
+          "answer": "Slop Or Not on maailman ensimmäinen tekoälysisällön tunnistin, joka toimii kokonaan iPhonessasi. Se tarkistaa välittömästi tekstin ja kuvat selvittääkseen, onko ne tehty tekoälyllä. Koska se toimii laitteella, tietosi pysyvät 100 % yksityisinä eivätkä koskaan poistu puhelimestasi. Se on nopea, turvallinen ja toimii jopa ilman internetyhteyttä."
         },
         "howDoICheck": {
-          "question": "Miten tarkistan sisällön tekoälyn varalta?",
+          "question": "Kuinka tarkistan sisällön tekoälyn varalta?",
           "answer": {
             "intro": "Se on helppoa. Voit:",
             "checkText": {
               "title": "Tarkista teksti:",
-              "description": "Kopioi analysoitava teksti, avaa Slop Or Not ja liitä se tekstikenttään. Sovellus antaa tuloksen heti."
+              "description": "Kopioi analysoitava teksti, avaa Slop Or Not ja liitä se tekstikenttään. Sovellus antaa välittömän tuloksen."
             },
             "checkImages": {
               "title": "Tarkista kuvat:",
@@ -204,36 +204,36 @@
           }
         },
         "needsInternet": {
-          "question": "Tarvitseeko Slop Or Not internetyhteyden toimiakseen?",
-          "answer": "Slop Or Not suorittaa kaiken AI-tunnistuksen suoraan laitteellasi. Tarvitset internetyhteyden kertaluonteiseen asetukseen, kun lataat AI-mallit. Sen jälkeen voit tarkistaa tekstin ja kuvat täysin offline. Käytämme Applen CoreML-mallien salausta suojataksemme laitteessa olevat transformer-mallimme. iOS voi ajoittain tarvita internetyhteyden päivittääkseen mallien salausavaimet App Storesta."
+          "question": "Tarvitseeko Slop Or Not internetyhteyttä toimiakseen?",
+          "answer": "Slop Or Not suorittaa kaiken tekoälyn tunnistuksen suoraan laitteellasi. Tarvitset internetyhteyden kerta-asennukseen ladataksesi tekoälymallit. Sen jälkeen voit tarkistaa tekstiä ja kuvia täysin offline-tilassa. Käytämme Applen CoreML-mallin salausta suojaamaan laitteella olevia transformer-mallejamme. iOS saattaa ajoittain tarvita internetyhteyden päivittääkseen mallin salausavaimet App Storesta."
         },
         "isDataPrivate": {
-          "question": "Onko datani yksityinen, kun käytän sovellusta?",
-          "answer": "Kyllä, 100 %. Toisin kuin muut AI-tunnistimet, jotka lataavat datasi palvelimelle analysoitavaksi, Slop Or Not käsittelee kaiken paikallisesti iPhonessasi. Tekstisi, kuvasi ja valokuvasi eivät koskaan poistu laitteeltasi, mikä takaa täydellisen yksityisyyden. Tämä on ihanteellista arkaluonteisten tietojen, kuten oikeudellisten asiakirjojen, asiakassähköpostien tai potilastietojen, tarkistamiseen. Toimimme EU:ssa ja noudatamme täysin GDPR- ja CCPA-säädöksiä, joten oikeutesi ja tietosuoja ovat aina turvattuja."
+          "question": "Ovatko tietoni yksityisiä, kun käytän sovellusta?",
+          "answer": "Kyllä, 100 %. Toisin kuin muut tekoälytunnistimet, jotka lataavat tietosi palvelimelle analysoitavaksi, Slop Or Not käsittelee kaiken paikallisesti iPhonessasi. Tekstisi, kuvasi ja valokuvasi eivät koskaan poistu laitteestasi, mikä takaa täydellisen yksityisyyden. Tämä on ihanteellista arkaluonteisten tietojen, kuten juridisten asiakirjojen, asiakassähköpostien tai potilastietojen, tarkistamiseen. Toimimme EU:ssa ja noudatamme täysin GDPR:ää ja CCPA:ta, joten oikeutesi ja tietosuojasi ovat aina turvattuja."
         },
         "whoShouldUse": {
-          "question": "Kenen pitäisi käyttää Slop Or Notia?",
+          "question": "Kenen tulisi käyttää Slop Or Notia?",
           "answer": {
-            "intro": "Kaikkien, jotka arvostavat totuutta ja yksityisyyttä! Se on erityisen hyödyllinen:",
+            "intro": "Kenen tahansa, joka arvostaa totuutta ja yksityisyyttä! Se on erityisen hyödyllinen:",
             "studentsTeachers": {
               "title": "Opiskelijat & opettajat",
-              "description": "tarkistaessaan akateemisen työn omaperäisyyttä."
+              "description": "tarkistamaan akateemisen työn omaperäisyyttä."
             },
             "journalists": {
               "title": "Toimittajat & faktantarkistajat",
-              "description": "varmistaessaan lähteiden ja kuvien aitouden."
+              "description": "varmistamaan lähteiden ja kuvien aitoutta."
             },
             "onlineDaters": {
-              "title": "Verkkodeittailijat",
-              "description": "paljastaessaan feikki \"catfish\"-profiileja."
+              "title": "Nettideittailijat",
+              "description": "tunnistamaan väärennettyjä \"catfish\"-profiileja."
             },
             "shoppers": {
-              "title": "Ostajat",
-              "description": "tarkistaessaan, ovatko tuote-arvostelut aitoja vai AI-luotuja."
+              "title": "Ostostelijat",
+              "description": "tarkistamaan, ovatko tuotearvostelut aitoja vai tekoälyn luomia."
             },
             "anyone": {
               "title": "Kuka tahansa",
-              "description": "joka haluaa tunnistaa misinformaation ja deepfake-sisällön sosiaalisessa mediassa."
+              "description": "joka haluaa tunnistaa disinformaatiota ja deepfake-väärennöksiä sosiaalisessa mediassa."
             }
           }
         }
@@ -243,35 +243,35 @@
       "name": "Ominaisuudet & tarkkuus",
       "questions": {
         "howAccurate": {
-          "question": "Kuinka tarkka on AI-tunnistus?",
+          "question": "Kuinka tarkka tekoälyn tunnistus on?",
           "answer": {
             "intro": "Slop Or Not käyttää alan johtavia malleja korkean tarkkuuden saavuttamiseksi:",
             "watermarkedImages": {
-              "title": "Vesileimatut kuvat (C2PA/IPTC Gemini-kuvagenerointi, OpenAI-kuvagenerointi, Microsoft Designer, Adobe Firefly jne.):",
+              "title": "Vesileimatut kuvat (C2PA/IPTC Gemini-kuvageneraattorista, OpenAI-kuvageneraattorista, Microsoft Designerista, Adobe Fireflysta jne.):",
               "description": "100 % tarkka tunnistus."
             },
             "otherImages": {
-              "title": "Kaikki muut AI-kuvat:",
+              "title": "Kaikki muut tekoälyn luomat kuvat:",
               "description": "90 % tarkkuus."
             },
             "text": {
-              "title": "AI-luotu teksti:",
+              "title": "Tekoälyn luoma teksti:",
               "description": "95 % tarkkuus."
             },
-            "note": "*Huom: Tarkkuus perustuu sisäisiin testeihimme. Tulokset voivat vaihdella uusien AI-mallien ja kehittyneiden harhautusmenetelmien vuoksi.*"
+            "note": "*Huom: Tarkkuus perustuu sisäisiin testeihimme. Tulokset voivat vaihdella uusien tekoälymallien ja edistyneiden menetelmien myötä, jotka on suunniteltu huijaamaan tunnistimia.*"
           }
         },
         "textCleanup": {
-          "question": "Mitä on \"Text Cleanup\"?",
-          "answer": "AI-teksi sisältää usein piilomerkkejä tai outoa muotoilua, jotka voivat toimia näkymättöminä vesileimoina. Text Cleanup -ominaisuus poistaa nämä jäljet yhdellä napautuksella. Se poistaa: piilomerkit (kuten nolla-leveyden välilyönnit), epäilyttävän välimerkin ja homoglyphit (kirjaimet, jotka muistuttavat toisiaan). Se voi myös normalisoida kirjoitusasun (esim. US-englannista UK-englantiin) ja korjata välimerkit puolestasi."
+          "question": "Mikä on \"Tekstin puhdistus\" -ominaisuus?",
+          "answer": "Tekoälyn luoma teksti sisältää usein piilotettuja merkkejä tai outoja muotoiluja, jotka voivat toimia näkymättöminä vesileimoina. Tekstin puhdistus -ominaisuutemme poistaa nämä jäljet yhdellä napautuksella. Se poistaa: piilotetut merkit (kuten nollaleveät välilyönnit), epäilyttävät välimerkit ja homoglyfit (kirjaimet, jotka näyttävät toisilta). Se voi myös normalisoida oikeinkirjoituksen (esim. Yhdysvaltain englannista Ison-Britannian englanniksi) ja korjata välimerkit puolestasi."
         },
         "stickerPacks": {
           "question": "Mitä ovat AI Slop -tarrapaketit?",
-          "answer": "Ne ovat hauskoja iMessage-tarrapaketteja, jotka sisältyvät sovellukseen! Kun löydät AI-luotua sisältöä verkossa tai keskusteluissa, voit käyttää tarrojamme osoittaaksesi sen leikkisästi."
+          "answer": "Ne ovat hauskoja iMessage-tarrapaketteja, jotka sisältyvät sovellukseen! Kun löydät tekoälyn luomaa sisältöä verkosta tai chateista, voit käyttää tarrojamme paljastaaksesi sen kevyellä otteella."
         },
         "incognitoMode": {
-          "question": "Mitä on Incognito Mode?",
-          "answer": "Incognito Mode tarjoaa lisäkerroksen yksityisyyttä. Kun se on käytössä, sovellus ei pidä kirjaa tarkistamastasi sisällöstä. Se on täydellinen, kun käsittelet erittäin arkaluonteista materiaalia etkä halua jättää jälkiä laitteellesi."
+          "question": "Mikä on Incognito-tila?",
+          "answer": "Incognito-tila tarjoaa ylimääräisen yksityisyyskerroksen. Kun se on käytössä, sovellus ei säilytä historiaa tarkistamastasi sisällöstä. Se on täydellinen, kun käsittelet erittäin arkaluonteista tietoa ja haluat jättää laitteellesi mitään jälkeä tarkistuksesta."
         }
       }
     },
@@ -280,23 +280,23 @@
       "questions": {
         "whyDownload": {
           "question": "Miksi sovellus lataa tiedostoja asennuksen jälkeen?",
-          "answer": "Jotta lataus App Storesta olisi nopeampi ja säästäisi tallennustilaa laitteellasi, pidämme alkuperäisen sovelluksen pienenä. Ensimmäisellä käynnistyksellä Slop Or Not lataa automaattisesti tehokkaat AI-tunnistusmallimme Applen On-Demand Resources -järjestelmää käyttäen. Tämä on kertaluonteinen prosessi. Joskus Applen palvelun ongelmat voivat keskeyttää latauksen. Jos lataus näyttää jumittuneen, tarkista internetyhteytesi ja käynnistä sovellus uudelleen muutaman minuutin kuluttua. Latauksen pitäisi jatkua automaattisesti."
+          "answer": "Jotta saisit nopeamman latauksen App Storesta ja säästäisit tallennustilaa laitteellasi, pidämme sovelluksen alkuperäisen koon pienenä. Kun käynnistät Slop Or Notin ensimmäisen kerran, se lataa automaattisesti tehokkaat tekoälyn tunnistusmallimme käyttämällä Applen On-Demand Resources -järjestelmää. Tämä on kertaluonteinen prosessi. Toisinaan Applen palvelun ongelmat voivat keskeyttää tämän latauksen. Jos se tuntuu juuttuneen, tarkista internetyhteytesi ja käynnistä sovellus uudelleen muutaman minuutin kuluttua. Latauksen pitäisi jatkua automaattisesti."
         },
         "imageResolution": {
-          "question": "Vaikuttaako kuvan resoluutio tunnistustuloksiin?",
-          "answer": "Kyllä. Kun käytät matalaresoluutioista pikkukuvaa tai ruutukaappausta, malli toimii silti, mutta voi antaa alhaisemman luottamusarvon, koska hienot yksityiskohdat katoavat normalisoinnissa. Käytä aina kuvan alkuperäistä tai korkealaatuista versiota. Enemmän pikseleitä tarkoittaa enemmän vihjeitä tunnistimelle, joten tulokset ovat vahvempia ja vakaampia."
+          "question": "Vaikuttaako kuvan resoluutio tunnistuspisteisiin?",
+          "answer": "Kyllä. Kun käytät matalan resoluution pikkukuvaa tai näyttökuvaa, malli toimii edelleen, mutta saattaa antaa alhaisemman luottamuspistemäärän, koska hienot yksityiskohdat häviävät normalisointivaiheessamme. Yritä aina käyttää kuvan alkuperäistä tai korkealaatuisinta versiota. Enemmän pikseleitä tarkoittaa enemmän vihjeitä tunnistimelle, joten tulokset ovat vahvempia ja vakaampia."
         },
         "howMuchText": {
           "question": "Kuinka paljon tekstiä tarvitsen luotettavaan tunnistukseen?",
-          "answer": "Tekstitunnistin tarvitsee vähintään kaksi kokonaista virkettä toimiakseen. Hyvin lyhyet näytteet antavat liian vähän kontekstia AI-sormenjälkien havaitsemiseen. Liitä aina kokonainen kappale tai koko asiakirja, kun mahdollista. Mitä pidempi teksti, sitä parempi tunnistusvarmuus."
+          "answer": "Tekstitunnistin tarvitsee vähintään kaksi kokonaista virkettä toimiakseen. Hyvin lyhyet pätkät antavat mallille liian vähän kontekstia tekoälyn sormenjälkien havaitsemiseen. Aina kun mahdollista, liitä kokonainen kappale tai koko asiakirja. Mitä pidempi teksti, sitä suurempi on tunnistuksen luotettavuus."
         },
         "notDetecting": {
-          "question": "Sovellus ei tunnista AI-sisältöä, jonka tiedän olevan AI-luotu. Miksi?",
+          "question": "Sovellus ei tunnista tekoälysisältöä, jonka olen varma olevan tekoälyn luomaa. Miksi?",
           "answer": {
-            "intro": "AI kehittyy nopeasti. Vaikka tunnistin on erittäin tarkka, jotkut uudet AI-mallit voivat tuottaa sisältöä, jota on vaikeampi havaita. Päivitämme mallejamme säännöllisesti pysyäksemme ajan tasalla.",
-            "checkImage": "Tarkistamasi kuva voi olla matalaresoluutioinen pikkukuva tai vahvasti pakattu ruutukaappaus. Kokeile korkearesoluutioisempaa versiota.",
-            "checkText": "Tekstinäyte voi olla liian lyhyt. Varmista, että annat vähintään kaksi virkettä; pidempi teksti parantaa tuloksia.",
-            "outro": "Nämä pikaiset tarkistukset ratkaisevat useimmat \"väärä negatiivinen\" -tilanteet. Jos ongelma jatkuu, jaa esimerkki kanssamme, jotta voimme parantaa sovellusta kaikille."
+            "intro": "Tekoälyn maailma muuttuu nopeasti. Vaikka tunnistimemme on erittäin tarkka, jotkut uudet tekoälymallit saattavat luoda sisältöä, jota on vaikeampi havaita. Päivitämme mallejamme säännöllisesti pysyäksemme ajan tasalla.",
+            "checkImage": "Tarkistamasi kuva saattaa olla matalan resoluution pikkukuva tai voimakkaasti pakattu näyttökuva. Yritä uudelleen korkeimman saatavilla olevan resoluution versiolla.",
+            "checkText": "Tekstinäyte voi olla liian lyhyt. Varmista, että annat vähintään kaksi virkettä; enemmän tekstiä parantaa tuloksia.",
+            "outro": "Nämä nopeat tarkistukset ratkaisevat useimmat \"väärä negatiivinen\" -raportit. Jos ongelma jatkuu, jaa esimerkki kanssamme, jotta voimme jatkaa sovelluksen parantamista kaikille."
           }
         }
       }
@@ -313,10 +313,10 @@
   "SupportPage": {
     "metadata": {
       "title": "Tuki - Slop Or Not",
-      "description": "Tarvitsetko apua Slop Or Not -sovelluksen kanssa? Se on ilmainen laitekohtainen AI-sisällöntunnistin. Ota yhteyttä Discordissa tai sähköpostilla, tai selaa Ohjeet-sivuamme."
+      "description": "Hae apua Slop Or Not -sovellukselle, ilmaiselle laitteella toimivalle tekoälysisällön tunnistimelle. Ota yhteyttä Discordin tai sähköpostin kautta tai selaa ohjesivuamme."
     },
     "title": "Tuki",
-    "description": "Slop Or Not on kahden insinöörin kehittämä ilmainen laitekohtainen AI-sisällöntunnistin. Emme voi luvata välitöntä vastausta, mutta teemme parhaamme auttaaksemme.",
+    "description": "Slop Or Not on kahden insinöörin rakentama ilmainen, laitteella toimiva tekoälysisällön tunnistin. Emme voi luvata välittömiä vastauksia, mutta teemme parhaamme auttaaksemme.",
     "contact": {
       "title": "Ota yhteyttä",
       "discord": {
@@ -325,17 +325,17 @@
       },
       "email": {
         "title": "Sähköposti",
-        "description": "Vastaamme tukisähköposteihin mahdollisuuksien mukaan."
+        "description": "Kapasiteetin salliessa vastaamme tukisähköposteihin."
       }
     },
     "fastAnswers": {
-      "title": "Tarvitsetko vastauksen heti?",
-      "description": "Katso yleisimmät kysymykset <link>Ohjeet-sivultamme</link>."
+      "title": "Tarvitsetko vastauksia nopeasti?",
+      "description": "Yleisimpiin kysymyksiin löydät vastaukset <link>ohjesivultamme</link>."
     },
     "feedback": {
-      "title": "Palaute ja ominaisuustoiveet",
-      "suggest": "<strong>Ehdota ominaisuutta:</strong> Kirjoita Discordin <code>#suggestions</code>-kanavalla.",
-      "report": "<strong>Ilmoita bugista:</strong> Lähetä meille DM Discordissa tai sähköposti, jossa on kuvakaappaus tai loki."
+      "title": "Palaute & ominaisuuspyynnöt",
+      "suggest": "<strong>Ehdota ominaisuutta:</strong> Kirjoita viesti Discordissa kanavalle <code>#suggestions</code>.",
+      "report": "<strong>Ilmoita bugista:</strong> Lähetä meille yksityisviesti Discordissa tai sähköpostia kuvakaappauksen tai lokitiedoston kera."
     }
   }
 }

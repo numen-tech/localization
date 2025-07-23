@@ -1,7 +1,7 @@
 {
   "Metadata": {
     "title": "Slop Or Not: Free AI Content Detector for Text and Images",
-    "description": "AI text detector, AI image detector, and AI humaniser in one app. Check for AI and humanise AI for free on iPhone, no cloud required."
+    "description": "AI text detector, AI image detector, and AI humaniser in one app. Check for AI and humanise AI for free on iPhone, no cloud needed."
   },
   "Navigation": {
     "home": "Home",
@@ -11,8 +11,8 @@
   "LanguageSwitcher": {
     "ar": "Arabic",
     "zh-HK": "Chinese (Hong Kong)",
-    "zh-CN": "Simplified Chinese",
-    "zh-TW": "Traditional Chinese",
+    "zh-CN": "Chinese, Simplified",
+    "zh-TW": "Chinese, Traditional",
     "cs": "Czech",
     "nl": "Dutch",
     "fi": "Finnish",
@@ -26,8 +26,8 @@
     "ko": "Korean",
     "nb": "Norwegian Bokmål",
     "pl": "Polish",
-    "pt-BR": "Portuguese (Brazilian)",
-    "pt-PT": "Portuguese (European)",
+    "pt-BR": "Portuguese (Brazil)",
+    "pt-PT": "Portuguese (Portugal)",
     "ro": "Romanian",
     "ru": "Russian",
     "es": "Spanish",
@@ -35,8 +35,8 @@
     "tr": "Turkish",
     "uk": "Ukrainian",
     "ur": "Urdu",
-    "en": "English (American)",
-    "en-GB": "English (British)"
+    "en": "English (US)",
+    "en-GB": "English (UK)"
   },
   "Header": {
     "logoAlt": "Slop Or Not",
@@ -99,15 +99,15 @@
   "Features": {
     "aiImageDetector": {
       "title": "Check If AI Generated That Photo on Your iPhone",
-      "description": "Romance scams stole $1.14 billion from consumers in 2023, the highest losses of any impostor fraud, <ftcLink>says the FTC</ftcLink>. Swindlers now spin up <fakeDatingLink>fake dating profiles</fakeDatingLink> with AI-generated faces and chatbots. Our AI image detector lives on your iPhone, so you can check if AI generated that selfie, receipt, or product shot before you swipe or buy. It flags watermarks plus subtle face artefacts the human eye misses."
+      "description": "Romance scams stole $1.14 billion from consumers in 2023, the highest losses of any imposter fraud, <ftcLink>says the FTC</ftcLink>. Swindlers now spin up <fakeDatingLink>fake dating profiles</fakeDatingLink> with AI-generated faces and chatbots. Our AI image detector lives on your iPhone, so you can check if AI generated that selfie, receipt, or product shot before you swipe or buy. It flags watermarks plus subtle face artefacts the human eye misses."
     },
     "aiTextDetector": {
       "title": "AI Text Detector With Unlimited Word Count",
-      "description": "Nearly 90 % of students admitted using ChatGPT for homework <forbesLink>in early 2023</forbesLink>, and teen usage <pewLink>doubled again by 2025</pewLink>. Educators, editors and lawyers can paste any document into Slop Or Not's AI text detector to check if AI generated the words – no word caps, no cloud snooping. English today; more languages soon."
+      "description": "Nearly 90% of students admitted using ChatGPT for homework <forbesLink>in early 2023</forbesLink>, and teen usage <pewLink>doubled again by 2025</pewLink>. Educators, editors, and lawyers can paste any document into Slop Or Not's AI text detector to check if AI generated the words - no word caps, no cloud snooping. English today; more languages soon."
     },
     "aiFingerprints": {
       "title": "Remove AI Fingerprints and Humanise AI on iPhone",
-      "description": "Cloud \"AI humaniser\" sites often pipe your words into remote LLMs that leave new fingerprints behind. Slop Or Not scrubs zero-width spaces, homoglyphs and spacing tricks - like the binary pattern <elonLink>Elon Musk used in 2008 to catch a Tesla leaker</elonLink> - without rewriting your style."
+      "description": "Cloud \"AI humaniser\" sites often pipe your words into remote LLMs that leave new fingerprints behind. Slop Or Not scrubs zero-width spaces, homoglyphs, and spacing tricks - like the binary pattern <elonLink>Elon Musk used in 2008 to catch a Tesla leaker</elonLink> - without rewriting your style."
     },
     "stickerPack": {
       "title": "AI Slop Sticker Pack",
@@ -152,7 +152,7 @@
         },
         "finance": {
           "title": "Finance & HR Teams",
-          "description": "Authenticate ID documents, résumés, and voiceover scripts. Reduce the risk of fraud and deepfake payroll scams."
+          "description": "Authenticate ID documents, CVs, and voiceover scripts. Reduce the risk of fraud and deepfake payroll scams."
         },
         "legal": {
           "title": "Legal & Medical Professionals",
@@ -171,14 +171,14 @@
   },
   "HelpPage": {
     "title": "Slop Or Not FAQ | AI Content Detector Support",
-    "description": "Get help with the Slop Or Not AI content detector. Our FAQ covers on-device privacy, accuracy, subscriptions and how to check text and images for AI."
+    "description": "Get support for the Slop Or Not AI content detector. Our FAQ covers on-device privacy, accuracy, subscriptions, and how to check text and images for AI."
   },
   "HelpHero": {
     "title": "Slop Or Not Help & FAQ",
     "description": "Here are answers to common questions about Slop Or Not. If you don’t find what you’re looking for here, please see our support options at the bottom."
   },
   "HelpContent": {
-    "viewAll": "View all",
+    "viewAll": "View All",
     "cta": {
       "title": "Ready to spot the slop and protect your privacy?"
     },
@@ -187,7 +187,7 @@
       "questions": {
         "whatIs": {
           "question": "What is Slop Or Not?",
-          "answer": "Slop Or Not is the world's first AI content detector that runs entirely on your iPhone. It instantly checks text and images to determine if they were made by AI. As it runs on-device, your data remains 100% private and never leaves your phone. It's fast, secure and works even without an internet connection."
+          "answer": "Slop Or Not is the world's first AI content detector that runs entirely on your iPhone. It instantly checks text and images to determine if they were made by AI. Because it works on-device, your data stays 100% private and never leaves your phone. It's fast, secure, and works even without an internet connection."
         },
         "howDoICheck": {
           "question": "How do I check content for AI?",
@@ -205,11 +205,11 @@
         },
         "needsInternet": {
           "question": "Does Slop Or Not need an internet connection to work?",
-          "answer": "You’ll need an internet connection for the one-off setup to download the AI models. After that, you can check text and images completely offline. We use Apple’s Core ML model encryption to protect our on-device transformer models. iOS may occasionally require an internet connection to refresh model encryption keys from the App Store."
+          "answer": "Slop Or Not performs all AI detection directly on your device. You will need an internet connection for the one-time setup to download the AI models. After that, you can check text and images completely offline. We use Apple's CoreML model encryption to protect our on-device transformer models. iOS may occasionally need an internet connection to refresh model encryption keys from the App Store."
         },
         "isDataPrivate": {
           "question": "Is my data private when I use the app?",
-          "answer": "Yes, 100%. Unlike other AI detectors that upload your data to a server for analysis, Slop Or Not processes everything locally on your iPhone. Your text, images and photos never leave your device, guaranteeing complete privacy. This is ideal for checking sensitive information like legal documents, client emails or medical records. We’re based in the EU and fully comply with GDPR and CCPA, so your rights and data protection are always upheld."
+          "answer": "Yes, 100%. Unlike other AI detectors that upload your data to a server for analysis, Slop Or Not processes everything locally on your iPhone. Your text, images, and photos never leave your device, guaranteeing complete privacy. This is ideal for checking sensitive information like legal documents, client emails, or medical records. We're based in the EU and fully comply with GDPR and CCPA, so your rights and data protection are always upheld."
         },
         "whoShouldUse": {
           "question": "Who should use Slop Or Not?",
@@ -225,7 +225,7 @@
             },
             "onlineDaters": {
               "title": "Online Daters",
-              "description": "spotting fake 'catfish' profiles."
+              "description": "spotting fake “catfish” profiles."
             },
             "shoppers": {
               "title": "Shoppers",
@@ -280,7 +280,7 @@
       "questions": {
         "whyDownload": {
           "question": "Why does the app download files after I install it?",
-          "answer": "To give you a faster download from the App Store and save storage on your device, we keep the initial app size small. The first time you launch Slop Or Not, it automatically downloads our powerful AI detection models using Apple's On-Demand Resources system. This is a one-off process. Occasionally, issues with Apple's service can interrupt this download. If it seems stuck, please check your internet connection and restart the app after a few minutes. The download should resume automatically."
+          "answer": "To give you a faster download from the App Store and save storage space on your device, we keep the initial app size small. The first time you launch Slop Or Not, it automatically downloads our powerful AI detection models using Apple's On-Demand Resources system. This is a one-time process. Occasionally, issues with Apple's service can interrupt this download. If it seems stuck, please check your internet connection and restart the app after a few minutes. The download should resume automatically."
         },
         "imageResolution": {
           "question": "Does image resolution affect detection scores?",
@@ -293,10 +293,10 @@
         "notDetecting": {
           "question": "The app isn't detecting AI content I'm sure is AI-generated. Why?",
           "answer": {
-            "intro": "Although our detector is highly accurate, some new AI models may create content that is harder to detect. We regularly update our models to keep up.",
+            "intro": "The world of AI is changing fast. While our detector is highly accurate, some new AI models may create content that is harder to detect. We regularly update our models to keep up.",
             "checkImage": "The image you checked might be a low-resolution thumbnail or a heavily compressed screenshot. Try again with the highest-resolution version available.",
             "checkText": "The text sample could be too short. Make sure you provide at least two sentences; more text improves the results.",
-            "outro": "These quick checks solve most 'false negative' reports. If the problem persists, please share the example with us so we can keep improving the app for everyone."
+            "outro": "These quick checks solve most “false negative” reports. If the problem persists, please share the example with us so we can keep improving the app for everyone."
           }
         }
       }
@@ -304,7 +304,7 @@
   },
   "RelatedLinks": {
     "title": "Need More Help?",
-    "description": "Can’t find the answer you need? Join our Discord community for real-time tips, tricks and support."
+    "description": "Can’t find the answer you need? Join our Discord community for real-time tips, tricks, and support."
   },
   "DiscordBadge": {
     "discord": "Discord",
@@ -316,16 +316,16 @@
       "description": "Get help with Slop Or Not, the free on-device AI content detector. Reach out via Discord or email, or browse our Help page."
     },
     "title": "Support",
-    "description": "Slop Or Not is built by two engineers to bring you a free, on-device AI content detector. We can’t promise an instant reply, but we’ll do our best to help.",
+    "description": "Slop Or Not is built by two engineers bringing you a free, on-device AI content detector. We can’t promise instant replies, but we’ll do our best to help.",
     "contact": {
       "title": "Contact Us",
       "discord": {
-        "title": "Discord (recommended)",
-        "description": "Join our community for quick help, tips and peer support."
+        "title": "Discord (best)",
+        "description": "Join our community for fast help, tips, and peer support."
       },
       "email": {
         "title": "Email",
-        "description": "Where possible, we reply to support emails."
+        "description": "As capacity allows, we answer support emails."
       }
     },
     "fastAnswers": {

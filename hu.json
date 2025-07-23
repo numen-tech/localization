@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "title": "Slop Or Not: Ingyenes AI-tartalom-detektor szöveghez és képekhez",
-    "description": "AI szövegdetektor, AI képfelismerő és AI-humanizáló egyetlen appban. Ellenőrizd az AI-tartalmat és humanizáld az AI-t ingyen iPhone-on, felhő nélkül."
+    "title": "Slop Or Not: Ingyenes MI Tartalomdetektor Szövegekhez és Képekhez",
+    "description": "MI szövegdetektor, MI képdetektor és MI humanizáló egyetlen alkalmazásban. Ellenőrizze az MI-t és humanizálja ingyenesen iPhone-on, felhő nélkül."
   },
   "Navigation": {
     "home": "Kezdőlap",
@@ -11,20 +11,20 @@
   "LanguageSwitcher": {
     "ar": "Arab",
     "zh-HK": "Kínai (Hongkong)",
-    "zh-CN": "Egyszerűsített kínai",
-    "zh-TW": "Hagyományos kínai",
+    "zh-CN": "Kínai, egyszerűsített",
+    "zh-TW": "Kínai, hagyományos",
     "cs": "Cseh",
     "nl": "Holland",
     "fi": "Finn",
     "fr": "Francia",
     "de": "Német",
     "he": "Héber",
-    "hi": "hindi",
+    "hi": "Hindi",
     "hu": "Magyar",
     "it": "Olasz",
     "ja": "Japán",
     "ko": "Koreai",
-    "nb": "Norvég (Bokmål)",
+    "nb": "Norvég bokmål",
     "pl": "Lengyel",
     "pt-BR": "Portugál (Brazília)",
     "pt-PT": "Portugál (Portugália)",
@@ -35,8 +35,8 @@
     "tr": "Török",
     "uk": "Ukrán",
     "ur": "Urdu",
-    "en": "Angol (US)",
-    "en-GB": "Angol (UK)"
+    "en": "Angol (USA)",
+    "en-GB": "Angol (Egyesült Királyság)"
   },
   "Header": {
     "logoAlt": "Slop Or Not",
@@ -47,264 +47,264 @@
     }
   },
   "Footer": {
-    "tagline": "Szűrd ki az AI-slopot. Tudd, mi a valóság.",
+    "tagline": "Ismerd fel az MI Söpredéket. Tudd, mi a valódi.",
     "sections": {
       "products": "Termékek",
-      "resources": "Erőforrások",
+      "resources": "Források",
       "help": "Súgó"
     },
     "products": {
       "slopOrNot": {
         "name": "Slop Or Not",
-        "description": "AI-tartalom-detektor szöveghez és képekhez."
+        "description": "MI tartalomdetektor szövegekhez és képekhez."
       },
       "privateLlm": {
         "name": "Private LLM",
-        "description": "Helyi AI-csevegő Apple eszközökre."
+        "description": "Helyi MI chatbot Apple eszközökre."
       }
     },
     "links": {
       "download": "Letöltés",
-      "privacyPolicy": "Adatvédelmi szabályzat",
+      "privacyPolicy": "Adatvédelmi irányelvek",
       "blog": "Blog",
       "helpCenter": "Súgóközpont",
       "whatIs": "Mi az a Slop Or Not?",
-      "howAccurate": "Milyen pontos?",
-      "isDataPrivate": "Privát marad az adatom?",
-      "textCleanup": "Mi az a Szöveg-tisztítás?"
+      "howAccurate": "Mennyire pontos?",
+      "isDataPrivate": "Biztonságban vannak az adataim?",
+      "textCleanup": "Mi az a Szövegtisztítás?"
     },
     "compliance": {
       "gdprAlt": "GDPR-kompatibilis",
       "ccpaAlt": "CCPA-kompatibilis"
     },
-    "copyright": "Minden jog fenntartva. Készült ❤️-vel 🇪🇺-ban"
+    "copyright": "Minden jog fenntartva. ❤️-el készült 🇪🇺-ban"
   },
   "Hero": {
     "logoAlt": "Slop or Not logó",
-    "title": "AI Szövegdetektor és AI Képfelismerő egy alkalmazásban",
+    "title": "MI Szövegdetektor és MI Képdetektor Egyetlen Alkalmazásban",
     "srOnlyPrefix": "Slop or Not: ",
-    "description": "Ellenőrizd, hogy AI-e a tartalom néhány másodperc alatt, ingyen, miközben az adataid az iPhone-odon maradnak.",
-    "testflightLink": "TestFlight béta letöltése"
+    "description": "Ellenőrizze másodpercek alatt ingyenesen, hogy a tartalom MI-generált-e, miközben adatai az iPhone-ján maradnak.",
+    "testflightLink": "TestFlight Béta Letöltése"
   },
   "NotFound": {
-    "logoAlt": "Slop Or Not logó",
-    "title": "404: Ez az oldal tiszta slop.",
-    "description": "Úgy tűnik, ez a hivatkozás nem ment át a hitelességi ellenőrzésünkön. Próbálj visszatérni a biztonságba!",
-    "backToHome": "Vissza a kezdőlapra"
+    "logoAlt": "Slop Or Not Logó",
+    "title": "404: Ez az oldal tiszta söpredék.",
+    "description": "Úgy tűnik, ez a link nem ment át a hitelességi ellenőrzésünkön. Próbáljon visszatérni a biztonságos kezdőlapra!",
+    "backToHome": "Vissza a Kezdőlapra"
   },
   "CtaDownload": {
-    "title": "Töltsd le az ingyenes AI-tartalom-detektort iPhone-ra",
-    "description": "Ellenőrizd az AI-szöveget és -képeket másodpercek alatt, teljesen offline. Az adataid soha nem hagyják el a telefonodat – a magánélet be van építve."
+    "title": "Töltse le az Ingyenes MI Tartalomdetektort iPhone-ra",
+    "description": "Ellenőrizze az MI szövegeket és képeket másodpercek alatt, teljesen offline. Adatai soha nem hagyják el a telefonját – beépített adatvédelem."
   },
   "Features": {
     "aiImageDetector": {
-      "title": "Ellenőrizd, hogy AI generálta-e a fotót az iPhone-odon",
-      "description": "Az online románc-csalások 2023-ban 1,14 milliárd dollárt csaltak ki a fogyasztóktól – ez a legnagyobb veszteség az összes imposztor-csalás között, <ftcLink>állítja az FTC</ftcLink>. A szélhámosok ma már <fakeDatingLink>hamis randiprofilokat</fakeDatingLink> hoznak létre AI-generált arcokkal és chatbotokkal. AI képdetektorunk az iPhone-odon fut, így ellenőrizheted, hogy AI készítette-e azt a szelfit, blokkot vagy termékfotót, mielőtt jobbra húzol vagy vásárolsz. A rendszer jelzi a vízjeleket és az emberi szem számára láthatatlan finom arcartefaktumokat is."
+      "title": "Ellenőrizze iPhone-ján, hogy MI Készítette-e a Fényképet",
+      "description": "A romantikus csalások 2023-ban 1,14 milliárd dollárt csaltak ki a fogyasztóktól, ami a legmagasabb veszteség az imposztor csalások között, <ftcLink>mondja az FTC</ftcLink>. A csalók most MI-generált arcokkal és chatbotokkal hoznak létre <fakeDatingLink>hamis társkereső profilokat</fakeDatingLink>. Az MI képdetektorunk az iPhone-ján fut, így ellenőrizheti, hogy egy szelfit, nyugtát vagy termékfotót MI generált-e, mielőtt jobbra húzná a képet vagy vásárolna. Észleli a vízjeleket és azokat a finom arcvonás-hibákat, amelyeket az emberi szem nem vesz észre."
     },
     "aiTextDetector": {
-      "title": "AI Szövegdetektor korlátlan szószámmal",
-      "description": "A diákok közel 90 %-a bevallotta, hogy használta a ChatGPT-t házi feladatához <forbesLink>2023 elején</forbesLink>, és a tinik használata <pewLink>2025-re ismét megduplázódott</pewLink>. Tanárok, szerkesztők és ügyvédek bármilyen dokumentumot beilleszthetnek a Slop Or Not AI szövegdetektorába, hogy ellenőrizzék, AI írta-e a szöveget – nincs szólimit, nincs felhőben kémkedés. Ma még csak angolul; hamarosan több nyelven is."
+      "title": "MI Szövegdetektor Korlátlan Szószám-limittel",
+      "description": "A diákok közel 90%-a ismerte be 2023 elején, hogy a ChatGPT-t használta a házi feladatához <forbesLink>egy Forbes cikk szerint</forbesLink>, és a tinédzserek körében a használat <pewLink>2025-re ismét megduplázódott</pewLink>. Oktatók, szerkesztők és jogászok bármilyen dokumentumot beilleszthetnek a Slop Or Not MI szövegdetektorába, hogy ellenőrizzék, a szavakat MI generálta-e – szószám-korlát és felhőalapú kémkedés nélkül. Ma még csak angolul, de hamarosan több nyelven is elérhető lesz."
     },
     "aiFingerprints": {
-      "title": "Távolítsd el az AI-ujjlenyomatokat és humanizáld az AI-t iPhone-on",
-      "description": "A felhőalapú „AI humanizer” oldalak gyakran távoli LLM-ekbe küldik a szavaidat, amelyek új ujjlenyomatokat hagynak hátra. A Slop Or Not eltávolítja a nullaszélességű szóközöket, homoglifákat és távolságtrükköket – például azt a bináris mintát, amelyet <elonLink>Elon Musk 2008-ban használt egy Tesla-szivárogtató lebuktatására</elonLink> – anélkül, hogy átírná a stílusodat."
+      "title": "MI Ujjlenyomatok Eltávolítása és MI Humanizálása iPhone-on",
+      "description": "A felhőalapú „MI humanizáló” oldalak gyakran távoli LLM-ekbe továbbítják a szavait, amelyek új ujjlenyomatokat hagynak maguk után. A Slop Or Not eltávolítja a nulla szélességű szóközöket, homografákat és a trükkös szóközhasználatot – mint például a bináris mintát, amit <elonLink>Elon Musk használt 2008-ban egy Tesla-szivárogtató leleplezésére</elonLink> – anélkül, hogy átírná a stílusát."
     },
     "stickerPack": {
-      "title": "AI Slop matrica­csomag",
-      "description": "Találtál egy hamisítványt? Dobd be AI Slop matricáinkat az iMessage-be vagy a közösségi posztokba, és hívd ki stílusosan. Mert az igazság védelme lehet szórakoztató is.",
-      "imageAlt": "AI Slop iMessage matricacsomag a Slop Or Nottól, különféle mém-karakterekkel, akik az „AI Slop” és „Slop!” feliratokra mutatnak"
+      "title": "MI Söpredék Matricacsomag",
+      "description": "Hamisítványt talált? Dobjon be egy matricát az MI Söpredék csomagunkból iMessage-ben vagy közösségi média posztokban, és leplezze le stílusosan. Mert az igazság védelme lehet szórakoztató is.",
+      "imageAlt": "Slop Or Not MI Söpredék iMessage matricacsomag, amelyen különböző mém karakterek mutatnak az „MI Söpredék” és „Söpredék!” feliratokra."
     },
     "howItWorks": {
-      "title": "Így működik",
+      "title": "Hogyan Működik",
       "steps": {
         "download": {
-          "title": "Szerezd be az AI detektort",
-          "description": "Töltsd le az alkalmazást az App Store-ból. Fejlett, eszközön futó AI-modellekkel észleli az AI-generált tartalmat."
+          "title": "Szerezze be az MI Detektort",
+          "description": "Töltse le az alkalmazást az App Store-ból. Fejlett, eszközön futó MI modelleket használ az MI által generált tartalmak észlelésére."
         },
         "check": {
-          "title": "Futtasd az AI-ellenőrzést",
-          "description": "Illessz be szöveget vagy válassz ki egy képet. Az eredmények azonnal megjelennek, akár offline is."
+          "title": "Futtasson MI Ellenőrzést",
+          "description": "Illesszen be szöveget vagy válasszon ki egy képet. Az eredmények azonnal megjelennek, akár offline is."
         },
         "detect": {
-          "title": "Találd meg az AI slopot",
-          "description": "Lásd az ítéletet, tisztítsd meg a nyomokat, vagy oszd meg a bizonyítékot közvetlenül az alkalmazásból."
+          "title": "Találja meg az MI Söpredéket",
+          "description": "Nézze meg az eredményt, tisztítsa meg a nyomokat, vagy ossza meg a bizonyítékot közvetlenül az alkalmazásból."
         }
       }
     },
     "useCases": {
-      "title": "Felhasználási esetek",
+      "title": "Felhasználási Területek",
       "cases": {
         "journalists": {
-          "title": "Újságírók & tényellenőrök",
-          "description": "Vizsgáld meg a legfrissebb hírfotókat és idézetforrásokat publikálás előtt. Kerüld el a manipulált tartalom megjelentetését, amely ronthatja a hitelességet."
+          "title": "Újságírók és Tényellenőrök",
+          "description": "Ellenőrizze a friss hírek képeit és a forrásidézeteket publikálás előtt. Kerülje el a manipulált tartalmak közzétételét, amelyek károsíthatják a hitelességet."
         },
         "teachers": {
-          "title": "Tanárok & diákok",
-          "description": "A tanárok kiszűrik az AI-írt esszéket; a diákok megerősítik saját eredetiségüket. Tartsd fenn az akadémiai tisztességet drága plágiumszolgáltatások nélkül."
+          "title": "Tanárok és Diákok",
+          "description": "A tanárok kiszűrik az MI-vel írt esszéket; a diákok megerősítik saját munkájuk eredetiségét. Támogassa az akadémiai becsületességet drága plágiumellenőrző szolgáltatások nélkül."
         },
         "dating": {
-          "title": "Online randi",
-          "description": "Ellenőrizd a profilképeket és biográfiákat, hogy kiszűrd a catfish fiókokat. Védd meg magad a románc-csalásoktól és az elvesztegetett időtől."
+          "title": "Online Társkeresés",
+          "description": "Ellenőrizze a profilképeket és bemutatkozásokat a „catfish” (álprofilos) fiókok kiszűrésére. Védje meg magát a romantikus csalásoktól és az időpazarlástól."
         },
         "shopping": {
-          "title": "Online vásárlók",
-          "description": "Ellenőrizd a termékfotókat, influenszer posztokat és vásárlói véleményeket. Hozz bölcsebb döntéseket és őrizd meg a vélemények hitelességét."
+          "title": "Online Vásárlók",
+          "description": "Ellenőrizze a termékfotókat, influenszer posztokat és vásárlói véleményeket. Hozzon okosabb döntéseket és tartsa fenn a vélemények hitelességét."
         },
         "finance": {
-          "title": "Pénzügy & HR csapatok",
-          "description": "Hitelesítsd a személyi igazolványokat, önéletrajzokat és narrációs szkripteket. Csökkentsd a csalás és a deepfake bérszámfejtési csalások kockázatát."
+          "title": "Pénzügyi és HR Csapatok",
+          "description": "Hitelesítse a személyazonosító okmányokat, önéletrajzokat és hangalámondás-szkripteket. Csökkentse a csalás és a deepfake bérszámfejtési csalások kockázatát."
         },
         "legal": {
-          "title": "Jogi & egészségügyi szakemberek",
-          "description": "Győződj meg arról, hogy a szerződéseket, beadványokat vagy betegkartonokat ember írta. Védd az ügyfél-bizalmasságot, miközben megfelelsz a szigorú előírásoknak."
+          "title": "Jogi és Orvosi Szakemberek",
+          "description": "Győződjön meg róla, hogy a szerződések, beadványok vagy betegakták emberi szerzőktől származnak. Védje az ügyfelek bizalmas adatait a szigorú megfelelési szabályok betartása mellett."
         },
         "creators": {
-          "title": "Tartalomkészítők & közösségi menedzserek",
-          "description": "Moderáld a felhasználói tartalmakat AI spam vagy dezinformáció ellen. Tartsd a fórumokat, Discord-szervereket és közösségi feedeket megbízhatóan."
+          "title": "Tartalomkészítők és Közösségi Menedzserek",
+          "description": "Moderálja a felhasználók által generált posztokat az MI spam vagy dezinformáció kiszűrésére. Tartsa megbízhatóan a fórumokat, Discord szervereket és közösségi média hírfolyamokat."
         },
         "social": {
-          "title": "Közösségi média felhasználók",
-          "description": "Harcolj a félretájékoztatás ellen a feedekben azzal, hogy ellenőrzöd a vírusos posztokat és trendi tartalmakat. Ellenőrizd, mielőtt megosztod."
+          "title": "Közösségi Média Felhasználók",
+          "description": "Harcoljon a dezinformáció ellen a hírfolyamokban a vírusszerűen terjedő posztok és felkapott tartalmak ellenőrzésével. Ellenőrizzen, mielőtt megosztana."
         }
       }
     }
   },
   "HelpPage": {
-    "title": "Slop Or Not GYIK | AI-tartalom-detektor támogatás",
-    "description": "Segítség a Slop Or Not AI-tartalom-detektorhoz. GYIK-ünk lefedi a készüléken történő adatkezelést, pontosságot, előfizetéseket és a szöveg és képek AI-ellenőrzését."
+    "title": "Slop Or Not GYIK | MI Tartalomdetektor Támogatás",
+    "description": "Kérjen támogatást a Slop Or Not MI tartalomdetektorhoz. GYIK oldalunk az eszközön történő adatvédelemről, pontosságról, előfizetésekről és a szövegek és képek MI-tartalmának ellenőrzéséről nyújt tájékoztatást."
   },
   "HelpHero": {
-    "title": "Slop Or Not Súgó & GYIK",
-    "description": "Itt megtalálod a Slop Or Nottal kapcsolatos gyakori kérdésekre a válaszokat. Ha nem találod, amit keresel, lásd a lap alján található támogatási lehetőségeinket."
+    "title": "Slop Or Not Súgó és GYIK",
+    "description": "Itt talál válaszokat a Slop Or Not alkalmazással kapcsolatos gyakori kérdésekre. Ha itt nem találja, amit keres, kérjük, tekintse meg támogatási lehetőségeinket az oldal alján."
   },
   "HelpContent": {
     "viewAll": "Összes megtekintése",
     "cta": {
-      "title": "Készen állsz kiszűrni a slopot és megvédeni a magánéletedet?"
+      "title": "Készen áll, hogy felismerje a söpredéket és megvédje adatait?"
     },
     "gettingStarted": {
-      "name": "Kezdeti lépések & alapfunkciók",
+      "name": "Kezdeti lépések és Alapvető Funkciók",
       "questions": {
         "whatIs": {
           "question": "Mi az a Slop Or Not?",
-          "answer": "A Slop Or Not a világ első, teljesen iPhone-on futó AI-tartalom-detektora. Azonnal ellenőrzi a szöveget és a képeket, hogy AI készítette-e őket. Mivel eszközön fut, adataid 100 %-ban privátak és soha nem hagyják el a telefonodat. Gyors, biztonságos, és internetkapcsolat nélkül is működik."
+          "answer": "A Slop Or Not a világ első MI tartalomdetektora, amely teljes mértékben az Ön iPhone-ján fut. Azonnal ellenőrzi a szövegeket és képeket, hogy megállapítsa, MI készítette-e őket. Mivel az eszközön működik, adatai 100%-ban privátak maradnak és soha nem hagyják el a telefonját. Gyors, biztonságos, és internetkapcsolat nélkül is működik."
         },
         "howDoICheck": {
-          "question": "Hogyan ellenőrizhetem a tartalmat AI-ra?",
+          "question": "Hogyan ellenőrizhetem a tartalmat MI-re?",
           "answer": {
-            "intro": "Egyszerű. A következőket teheted:",
+            "intro": "Egyszerű. A következőket teheti:",
             "checkText": {
               "title": "Szöveg ellenőrzése:",
-              "description": "Másold a vizsgálni kívánt szöveget, nyisd meg a Slop Or Notot, és illeszd be a szövegmezőbe. Az app azonnali eredményt ad."
+              "description": "Másolja ki az elemezni kívánt szöveget, nyissa meg a Slop Or Not alkalmazást, és illessze be a szövegmezőbe. Az alkalmazás azonnali eredményt ad."
             },
             "checkImages": {
               "title": "Képek ellenőrzése:",
-              "description": "Válassz ki bármilyen képet vagy fotót a könyvtáradból közvetlenül az appban, vagy oszd meg egy másik alkalmazásból a Slop Or Nottal. Az elemzés azonnal megtörténik."
+              "description": "Válasszon ki bármilyen képet vagy fotót a könyvtárából közvetlenül az alkalmazáson belül, vagy osszon meg egy képet egy másik alkalmazásból a Slop Or Not-ba. Az elemzés azonnal megtörténik."
             }
           }
         },
         "needsInternet": {
-          "question": "Szüksége van internetkapcsolatra a Slop Or Not működéséhez?",
-          "answer": "A Slop Or Not minden AI-detektálást közvetlenül az eszközön végez. Csak az egyszeri beállításkor kell internetkapcsolat az AI-modellek letöltéséhez. Ezután teljesen offline ellenőrizhetsz szöveget és képeket. Az Apple CoreML modelltitkosítását használjuk az eszközön lévő transformer modellek védelmére. Az iOS-nek esetenként internetkapcsolatra lehet szüksége az App Store-ból származó kulcsok frissítéséhez."
+          "question": "Szükséges internetkapcsolat a Slop Or Not működéséhez?",
+          "answer": "A Slop Or Not minden MI-észlelést közvetlenül az Ön eszközén végez. Az MI modellek letöltéséhez szükséges egyszeri beállításhoz internetkapcsolatra lesz szüksége. Ezt követően teljesen offline is ellenőrizheti a szövegeket és képeket. Az eszközön lévő transzformer modelljeink védelmére az Apple CoreML modell titkosítását használjuk. Előfordulhat, hogy az iOS-nek időnként internetkapcsolatra van szüksége a modell titkosítási kulcsainak frissítéséhez az App Store-ból."
         },
         "isDataPrivate": {
-          "question": "Privát maradnak az adataim az app használatakor?",
-          "answer": "Igen, 100 %. Más AI-detektorokkal ellentétben, amelyek feltöltik az adataidat egy szerverre elemzésre, a Slop Or Not mindent helyben, az iPhone-odon dolgoz fel. A szövegeid, képeid és fotóid soha nem hagyják el a készüléket, így teljes adatvédelmet garantálunk. Ez ideális érzékeny információk – például jogi dokumentumok, ügyféle-mailek vagy egészségügyi feljegyzések – ellenőrzéséhez. Az EU-ban működünk, és teljes mértékben megfelelünk a GDPR és CCPA előírásainak, így jogaid és adatvédelem mindig biztosított."
+          "question": "Biztonságban vannak az adataim az alkalmazás használata közben?",
+          "answer": "Igen, 100%-ig. Ellentétben más MI detektorokkal, amelyek feltöltik az adatait egy szerverre elemzés céljából, a Slop Or Not mindent helyben, az Ön iPhone-ján dolgoz fel. Szövegei, képei és fotói soha nem hagyják el az eszközét, garantálva a teljes adatvédelmet. Ez ideális érzékeny információk, például jogi dokumentumok, ügyfél e-mailek vagy orvosi leletek ellenőrzésére. Az EU-ban vagyunk bejegyezve, és teljes mértékben megfelelünk a GDPR és a CCPA előírásainak, így jogai és adatvédelme mindig biztosított."
         },
         "whoShouldUse": {
-          "question": "Kinek ajánlott a Slop Or Not?",
+          "question": "Kinek ajánlott a Slop Or Not használata?",
           "answer": {
-            "intro": "Bárkinek, aki értékeli az igazságot és a magánéletet! Különösen hasznos:",
+            "intro": "Mindenkinek, aki értékeli az igazságot és az adatvédelmet! Különösen hasznos:",
             "studentsTeachers": {
-              "title": "Diákok & tanárok",
-              "description": "az akadémiai munkák eredetiségének ellenőrzéséhez."
+              "title": "Diákoknak és Tanároknak",
+              "description": "az eredetiség ellenőrzésére a tudományos munkákban."
             },
             "journalists": {
-              "title": "Újságírók & tényellenőrök",
-              "description": "a források és képek hitelességének ellenőrzéséhez."
+              "title": "Újságíróknak és Tényellenőröknek",
+              "description": "a források és képek hitelességének ellenőrzésére."
             },
             "onlineDaters": {
-              "title": "Online randizók",
-              "description": "a hamis catfish profilok kiszűréséhez."
+              "title": "Online Társkeresőknek",
+              "description": "a hamis „catfish” profilok kiszűrésére."
             },
             "shoppers": {
-              "title": "Vásárlók",
-              "description": "a termékértékelések valódiságának ellenőrzéséhez."
+              "title": "Vásárlóknak",
+              "description": "annak ellenőrzésére, hogy a termékértékelések valósak vagy MI-generáltak-e."
             },
             "anyone": {
-              "title": "Bárki",
-              "description": "aki szeretné felismerni a félretájékoztatást és deepfake-eket a közösségi médiában."
+              "title": "Bárkinek,",
+              "description": "aki szeretné azonosítani a dezinformációt és a deepfake-eket a közösségi médiában."
             }
           }
         }
       }
     },
     "features": {
-      "name": "Funkciók & pontosság",
+      "name": "Funkciók és Pontosság",
       "questions": {
         "howAccurate": {
-          "question": "Milyen pontos az AI-detektálás?",
+          "question": "Mennyire pontos az MI-észlelés?",
           "answer": {
             "intro": "A Slop Or Not iparágvezető modelleket használ a magas pontosság érdekében:",
             "watermarkedImages": {
-              "title": "Vízjelezett képek (C2PA/IPTC a Gemini image generation, OpenAI image generation, Microsoft Designer, Adobe Firefly stb. esetében):",
-              "description": "100 % pontos detektálás."
+              "title": "Vízjellel ellátott képek (C2PA/IPTC a Gemini képalkotásból, OpenAI képalkotásból, Microsoft Designerből, Adobe Firefly-ból stb.):",
+              "description": "100%-os pontosságú észlelés."
             },
             "otherImages": {
-              "title": "Minden egyéb AI-generált kép:",
-              "description": "90 % pontosság."
+              "title": "Minden egyéb MI-generált kép:",
+              "description": "90%-os pontosság."
             },
             "text": {
-              "title": "AI-generált szöveg:",
-              "description": "95 % pontosság."
+              "title": "MI-generált szöveg:",
+              "description": "95%-os pontosság."
             },
-            "note": "*Megjegyzés: A pontosság belső tesztjeinken alapul. Az eredmények változhatnak új AI-modellek és olyan módszerek esetén, amelyek a detektorok megkerülésére irányulnak.*"
+            "note": "*Megjegyzés: A pontosság a belső tesztjeinken alapul. Az eredmények változhatnak az új MI modellek és a detektorok megtévesztésére tervezett fejlett módszerek miatt.*"
           }
         },
         "textCleanup": {
-          "question": "Mi az a „Szöveg-tisztítás” funkció?",
-          "answer": "Az AI-generált szöveg gyakran rejtett karaktereket vagy furcsa formázást tartalmaz, amelyek láthatatlan vízjelként működhetnek. A Szöveg-tisztítás funkciónk egyetlen koppintással eltávolítja ezeket a nyomokat. Eltávolít: rejtett karaktereket (például nullaszélességű szóközöket), gyanús írásjeleket és homoglifákat (olyan betűket, amelyek más betűknek látszanak). Szükség esetén normalizálja a helyesírást (pl. US → UK angol) és javítja a központozást is."
+          "question": "Mi az a „Szövegtisztítás” funkció?",
+          "answer": "Az MI-generált szöveg gyakran tartalmaz rejtett karaktereket vagy furcsa formázást, amelyek láthatatlan vízjelként működhetnek. A Szövegtisztítás funkciónk egyetlen érintéssel eltávolítja ezeket a nyomokat. Eltávolítja: a rejtett karaktereket (például a nulla szélességű szóközöket), a gyanús írásjeleket és a homoglifákat (más betűkre hasonlító betűket). Képes továbbá normalizálni a helyesírást (pl. amerikai angolról brit angolra) és javítani az írásjeleket."
         },
         "stickerPacks": {
-          "question": "Mik azok az AI Slop matricacsomagok?",
-          "answer": "Ezek szórakoztató iMessage matricacsomagok az appban! Ha AI-generált tartalmat találsz online vagy csetekben, matricáinkkal könnyedén felhívhatod rá a figyelmet."
+          "question": "Mik azok az MI Söpredék matricacsomagok?",
+          "answer": "Ezek szórakoztató iMessage matricacsomagok, amelyeket az alkalmazás tartalmaz! Amikor MI-generált tartalmat talál az interneten vagy csevegésekben, használhatja matricáinkat, hogy könnyed módon felhívja rá a figyelmet."
         },
         "incognitoMode": {
-          "question": "Mi az Inkognitó mód?",
-          "answer": "Az Inkognitó mód extra védelmet nyújt. Bekapcsolva az app nem tárolja az általad ellenőrzött tartalom előzményeit. Tökéletes, ha különösen érzékeny információkat kezelsz, és nem szeretnél nyomot hagyni a készüléken."
+          "question": "Mi az az Inkognitó Mód?",
+          "answer": "Az Inkognitó Mód extra adatvédelmi réteget biztosít. Ha engedélyezve van, az alkalmazás nem tárolja az Ön által ellenőrzött tartalmak előzményeit. Tökéletes, ha különösen érzékeny információkkal dolgozik, és nem szeretne nyomot hagyni az ellenőrzésről az eszközén."
         }
       }
     },
     "troubleshooting": {
-      "name": "Hibaelhárítás & támogatás",
+      "name": "Hibaelhárítás és Támogatás",
       "questions": {
         "whyDownload": {
-          "question": "Miért tölt le fájlokat az app telepítés után?",
-          "answer": "Azért, hogy gyorsabb legyen az App Store letöltés és kevesebb tárhelyet foglaljon, az app kezdetben kisméretű. A Slop Or Not első indításakor automatikusan letölti nagy teljesítményű AI-detektáló modelljeinket az Apple On-Demand Resources rendszerén keresztül. Ez egyszeri folyamat. Alkalmanként az Apple szolgáltatásának hibái megszakíthatják a letöltést. Ha elakad, ellenőrizd az internetkapcsolatot, majd indítsd újra az appot pár perc múlva. A letöltésnek automatikusan folytatódnia kell."
+          "question": "Miért tölt le az alkalmazás fájlokat a telepítés után?",
+          "answer": "Annak érdekében, hogy gyorsabb legyen a letöltés az App Store-ból és tárhelyet takarítsunk meg az eszközén, a kezdeti alkalmazásméretet kicsire szabtuk. Amikor először indítja el a Slop Or Not alkalmazást, az automatikusan letölti a nagy teljesítményű MI-észlelő modelljeinket az Apple On-Demand Resources rendszerén keresztül. Ez egy egyszeri folyamat. Időnként az Apple szolgáltatásával kapcsolatos problémák megszakíthatják ezt a letöltést. Ha úgy tűnik, hogy elakadt, kérjük, ellenőrizze az internetkapcsolatát, és néhány perc múlva indítsa újra az alkalmazást. A letöltésnek automatikusan folytatódnia kell."
         },
         "imageResolution": {
-          "question": "Befolyásolja a kép felbontása a detektálási pontszámot?",
-          "answer": "Igen. Ha alacsony felbontású indexképet vagy képernyőképet használsz, a modell ugyan lefut, de alacsonyabb bizalomértéket adhat, mert a normalizálás során elvesznek a finom részletek. Mindig próbáld meg az eredeti vagy legmagasabb minőségű változatot használni. Minél több pixel, annál több nyom, így az eredmények erősebbek és stabilabbak."
+          "question": "Befolyásolja a képfelbontás az észlelési pontszámokat?",
+          "answer": "Igen. Ha alacsony felbontású bélyegképet vagy képernyőképet használ, a modell továbbra is lefut, de alacsonyabb megbízhatósági pontszámot adhat vissza, mivel a finom részletek elvesznek a normalizálási lépésünk során. Mindig próbálja meg a kép eredeti vagy legjobb minőségű verzióját használni. Több pixel több nyomot jelent a detektor számára, így az eredmények erősebbek és stabilabbak."
         },
         "howMuchText": {
-          "question": "Mennyi szöveg szükséges a megbízható detektáláshoz?",
-          "answer": "A szövegdetektornak legalább két teljes mondatra van szüksége. A nagyon rövid részletek túl kevés kontextust adnak a modellnek az AI-ujjlenyomatok felismeréséhez. Ha lehet, illessz be egy teljes bekezdést vagy akár a teljes dokumentumot. Minél hosszabb a szöveg, annál nagyobb a megbízhatóság."
+          "question": "Mennyi szövegre van szükségem a megbízható észleléshez?",
+          "answer": "A szövegdetektornak legalább két teljes mondatra van szüksége a működéshez. A nagyon rövid részletek túl kevés kontextust adnak a modellnek az MI ujjlenyomatainak észleléséhez. Amikor csak lehetséges, illesszen be egy egész bekezdést vagy a teljes dokumentumot. Minél hosszabb a szövegrész, annál magasabb az észlelési megbízhatóság."
         },
         "notDetecting": {
-          "question": "Az app nem észlel AI-tartalmat, pedig biztos vagyok benne, hogy AI-generált. Miért?",
+          "question": "Az alkalmazás nem észlel olyan MI-tartalmat, amiről biztos vagyok, hogy MI-generált. Miért?",
           "answer": {
-            "intro": "Az AI világa gyorsan változik. Bár detektorunk rendkívül pontos, egyes új AI-modellek olyan tartalmat hozhatnak létre, amelyet nehezebb felismerni. Rendszeresen frissítjük modelljeinket, hogy lépést tartsunk.",
-            "checkImage": "Lehet, hogy a kép alacsony felbontású indexkép vagy erősen tömörített képernyőkép volt. Próbáld újra a legnagyobb felbontású változattal.",
-            "checkText": "Elképzelhető, hogy a szövegminta túl rövid volt. Gondoskodj róla, hogy legalább két mondatot adj meg; több szöveg javítja az eredményeket.",
-            "outro": "Ezek a gyors ellenőrzések megoldják a legtöbb „hamis negatív” esetet. Ha a probléma továbbra is fennáll, oszd meg velünk a példát, hogy tovább fejleszthessük az appot mindenki számára."
+            "intro": "Az MI világa gyorsan változik. Bár a detektorunk rendkívül pontos, néhány új MI modell olyan tartalmat hozhat létre, amelyet nehezebb észlelni. Rendszeresen frissítjük modelljeinket, hogy lépést tartsunk.",
+            "checkImage": "Az ellenőrzött kép lehet, hogy egy alacsony felbontású bélyegkép vagy egy erősen tömörített képernyőkép. Próbálja újra a rendelkezésre álló legmagasabb felbontású verzióval.",
+            "checkText": "A szövegminta túl rövid lehet. Győződjön meg róla, hogy legalább két mondatot ad meg; a több szöveg javítja az eredményeket.",
+            "outro": "Ezek a gyors ellenőrzések a legtöbb „hamis negatív” jelentést megoldják. Ha a probléma továbbra is fennáll, kérjük, ossza meg velünk a példát, hogy tovább javíthassuk az alkalmazást mindenki számára."
           }
         }
       }
     }
   },
   "RelatedLinks": {
-    "title": "További segítségre van szükséged?",
-    "description": "Nem találod a választ? Csatlakozz Discord-közösségünkhöz valós idejű tippekért, trükkökért és támogatásért."
+    "title": "További segítségre van szüksége?",
+    "description": "Nem találja a szükséges választ? Csatlakozzon Discord közösségünkhöz valós idejű tippekért, trükkökért és támogatásért."
   },
   "DiscordBadge": {
     "discord": "Discord",
@@ -313,28 +313,29 @@
   "SupportPage": {
     "metadata": {
       "title": "Támogatás - Slop Or Not",
-      "description": "Segítséget kaphatsz a Slop Or Not használatához, az ingyenes, eszközön futó AI-tartalom-detektort hoztak létre. Nem ígérünk azonnali választ, de mindent megteszünk, hogy segítsünk.",
-      "description": "Segítséget kaphatsz a Slop Or Not használatához, az ingyenes, eszközön futó AI-tartalom-detektort hoztak létre. Nem ígérünk azonnali választ, de mindent megteszünk, hogy segítsünk.",
-      "contact": {
-        "title": "Lépj kapcsolatba velünk",
-        "discord": {
-          "title": "Discord (ajánlott)",
-          "description": "Csatlakozz a közösségünkhöz gyors segítségért, tippekért és közösségi támogatásért."
-        },
-        "email": {
-          "title": "E-mail",
-          "description": "Kapacitásunk függvényében válaszolunk az e-mailekre."
-        }
+      "description": "Kérjen segítséget a Slop Or Not-hoz, az ingyenes, eszközön futó MI tartalomdetektorhoz. Vegye fel velünk a kapcsolatot Discordon vagy e-mailben, vagy böngéssze Súgó oldalunkat."
+    },
+    "title": "Támogatás",
+    "description": "A Slop Or Not-ot két mérnök készíti, akik egy ingyenes, eszközön futó MI tartalomdetektort hoznak el Önnek. Nem ígérhetünk azonnali válaszokat, de mindent megteszünk, hogy segítsünk.",
+    "contact": {
+      "title": "Lépjen kapcsolatba velünk",
+      "discord": {
+        "title": "Discord (ajánlott)",
+        "description": "Csatlakozzon közösségünkhöz gyors segítségért, tippekért és közösségi támogatásért."
       },
-      "fastAnswers": {
-        "title": "Gyors válaszokra van szükséged?",
-        "description": "A gyakori kérdésekért nézd meg a <link>Súgó oldalt</link>."
-      },
-      "feedback": {
-        "title": "Visszajelzés és funkciókérések",
-        "suggest": "<strong>Javasolj funkciót:</strong> Írj a Discordon a <code>#suggestions</code> csatornára.",
-        "report": "<strong>Hibát jelentenél?</strong> Írj nekünk privát üzenetet Discordon, vagy küldj e-mailt képernyőképpel vagy naplóval."
+      "email": {
+        "title": "E-mail",
+        "description": "Kapacitásunktól függően válaszolunk a támogatási e-mailekre."
       }
+    },
+    "fastAnswers": {
+      "title": "Gyors válaszokra van szüksége?",
+      "description": "Gyakori kérdésekért tekintse meg <link>Súgó oldalunkat</link>."
+    },
+    "feedback": {
+      "title": "Visszajelzés és Funkciókérések",
+      "suggest": "<strong>Javasoljon egy funkciót:</strong> Írjon a <code>#suggestions</code> csatornába a Discordon.",
+      "report": "<strong>Jelentsen egy hibát:</strong> Írjon nekünk privát üzenetet a Discordon, vagy küldjön e-mailt egy képernyőképpel vagy naplóval."
     }
   }
 }
