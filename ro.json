@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "title": "Slop Or Not: Detector gratuit de conținut AI pentru text și imagini",
-    "description": "Detector de text AI, detector de imagini AI și humanizer AI într-o singură aplicație. Verifică AI și umanizează AI gratuit pe iPhone, fără cloud."
+    "title": "Slop Or Not: Detector Gratuit de Conținut AI pentru Text și Imagini",
+    "description": "Detector de text AI, detector de imagini AI și umanizator AI într-o singură aplicație. Verifică prezența AI și umanizează conținutul AI gratuit pe iPhone, fără a necesita cloud."
   },
   "Navigation": {
     "home": "Acasă",
@@ -11,15 +11,15 @@
   "LanguageSwitcher": {
     "ar": "Arabă",
     "zh-HK": "Chineză (Hong Kong)",
-    "zh-CN": "Chineză Simplificată",
-    "zh-TW": "Chineză Tradițională",
+    "zh-CN": "Chineză, Simplificată",
+    "zh-TW": "Chineză, Tradițională",
     "cs": "Cehă",
     "nl": "Olandeză",
     "fi": "Finlandeză",
     "fr": "Franceză",
     "de": "Germană",
     "he": "Ebraică",
-    "hi": "hindi",
+    "hi": "Hindi",
     "hu": "Maghiară",
     "it": "Italiană",
     "ja": "Japoneză",
@@ -36,7 +36,7 @@
     "uk": "Ucraineană",
     "ur": "Urdu",
     "en": "Engleză (SUA)",
-    "en-GB": "Engleză (UK)"
+    "en-GB": "Engleză (Regatul Unit)"
   },
   "Header": {
     "logoAlt": "Slop Or Not",
@@ -47,7 +47,7 @@
     }
   },
   "Footer": {
-    "tagline": "Depistează slop-ul AI. Află ce este real.",
+    "tagline": "Detectează Conținutul Slop AI. Află ce e real.",
     "sections": {
       "products": "Produse",
       "resources": "Resurse",
@@ -65,12 +65,12 @@
     },
     "links": {
       "download": "Descărcare",
-      "privacyPolicy": "Politica de Confidențialitate",
+      "privacyPolicy": "Politică de Confidențialitate",
       "blog": "Blog",
       "helpCenter": "Centru de Ajutor",
       "whatIs": "Ce este Slop Or Not?",
-      "howAccurate": "Cât de precis este?",
-      "isDataPrivate": "Datele mele sunt private?",
+      "howAccurate": "Cât de precisă este?",
+      "isDataPrivate": "Sunt datele mele private?",
       "textCleanup": "Ce este Text Cleanup?"
     },
     "compliance": {
@@ -80,262 +80,262 @@
     "copyright": "Toate drepturile rezervate. Creat cu ❤️ în 🇪🇺"
   },
   "Hero": {
-    "logoAlt": "Sigla Slop or Not",
-    "title": "Detector de text AI și detector de imagini AI într-o singură aplicație",
+    "logoAlt": "Logo Slop or Not",
+    "title": "Detector de Text AI și Detector de Imagini AI într-o Singură Aplicație",
     "srOnlyPrefix": "Slop or Not: ",
-    "description": "Verifică dacă un conținut este AI în câteva secunde, gratuit, păstrându-ți datele pe iPhone.",
-    "testflightLink": "Descarcă beta TestFlight"
+    "description": "Verifică gratuit în câteva secunde dacă un conținut este AI, păstrându-ți datele pe iPhone.",
+    "testflightLink": "Descarcă versiunea Beta TestFlight"
   },
   "NotFound": {
-    "logoAlt": "Sigla Slop Or Not",
-    "title": "404: Acea pagină este pur slop.",
-    "description": "Se pare că acest link nu a trecut controlul nostru de autenticitate. Întoarce-te la siguranță!",
+    "logoAlt": "Logo Slop Or Not",
+    "title": "404: Pagina aceasta este slop pur.",
+    "description": "Se pare că acest link nu a trecut verificarea noastră de autenticitate. Încearcă să te întorci la o pagină sigură!",
     "backToHome": "Înapoi la Acasă"
   },
   "CtaDownload": {
-    "title": "Descarcă detectorul gratuit de conținut AI pentru iPhone",
-    "description": "Verifică text și imagini AI în câteva secunde, complet offline. Datele tale nu părăsesc niciodată telefonul – confidențialitate integrată."
+    "title": "Descarcă Detectorul Gratuit de Conținut AI pentru iPhone",
+    "description": "Verifică texte și imagini pentru conținut AI în câteva secunde, complet offline. Datele tale nu părăsesc niciodată telefonul - confidențialitate integrată."
   },
   "Features": {
     "aiImageDetector": {
-      "title": "Verifică dacă acea fotografie a fost generată de AI pe iPhone-ul tău",
-      "description": "Escrocheriile romantice au furat 1,14 miliarde de dolari de la consumatori în 2023, cele mai mari pierderi dintre toate fraudele de tip impostor, <ftcLink>spune FTC</ftcLink>. Escrocii creează acum <fakeDatingLink>profiluri de dating false</fakeDatingLink> cu fețe generate de AI și chatboți. Detectorul nostru de imagini AI funcționează direct pe iPhone-ul tău, astfel încât poți verifica dacă AI a generat acel selfie, bon sau fotografie de produs înainte să dai swipe sau să cumperi. El semnalează watermark-urile și artefactele subtile de pe chip pe care ochiul uman le ratează."
+      "title": "Verifică pe iPhone dacă o Fotografie a Fost Generată de AI",
+      "description": "Înșelăciunile romantice au sustras consumatorilor 1,14 miliarde de dolari în 2023, cele mai mari pierderi dintre toate fraudele de impostură, <ftcLink>spune FTC</ftcLink>. Escrocii creează acum <fakeDatingLink>profiluri de dating false</fakeDatingLink> cu fețe generate de AI și chatboți. Detectorul nostru de imagini AI rulează pe iPhone-ul tău, astfel încât poți verifica dacă acel selfie, chitanță sau fotografie de produs a fost generată de AI înainte de a da swipe sau de a cumpăra. Acesta semnalează watermark-uri, plus artefacte subtile ale feței pe care ochiul uman le ratează."
     },
     "aiTextDetector": {
-      "title": "Detector de text AI cu număr nelimitat de cuvinte",
-      "description": "Aproape 90% dintre studenți au recunoscut că au folosit ChatGPT pentru teme <forbesLink>la începutul lui 2023</forbesLink>, iar utilizarea în rândul adolescenților <pewLink>s-a dublat din nou până în 2025</pewLink>. Profesori, editori și avocați pot lipi orice document în detectorul de text AI Slop Or Not pentru a verifica dacă a fost generat de AI – fără limite de cuvinte, fără spionaj în cloud. Astăzi doar în engleză; în curând mai multe limbi."
+      "title": "Detector de Text AI cu Număr Nelimitat de Cuvinte",
+      "description": "Aproape 90% dintre studenți au recunoscut că au folosit ChatGPT pentru teme <forbesLink>la începutul anului 2023</forbesLink>, iar utilizarea în rândul adolescenților <pewLink>s-a dublat din nou până în 2025</pewLink>. Educatorii, editorii și avocații pot lipi orice document în detectorul de text AI al Slop Or Not pentru a verifica dacă cuvintele au fost generate de AI - fără limită de cuvinte, fără spionaj în cloud. Momentan în engleză; mai multe limbi în curând."
     },
     "aiFingerprints": {
-      "title": "Elimină amprentele AI și umanizează AI pe iPhone",
-      "description": "Site-urile „AI humanizer” din cloud îți trimit adesea cuvintele către LLM-uri la distanță care lasă noi amprente. Slop Or Not șterge spații zero-width, homoglifi și trucuri de spațiere – precum modelul binar <elonLink>pe care Elon Musk l-a folosit în 2008 pentru a prinde un informator Tesla</elonLink> – fără a-ți rescrie stilul."
+      "title": "Elimină Amprentele AI și Umanizează Conținutul AI pe iPhone",
+      "description": "Site-urile de „umanizare AI” din cloud adesea trimit cuvintele tale către LLM-uri la distanță care lasă în urmă noi amprente. Slop Or Not curăță spațiile cu lățime zero, homoglifele și trucurile de spațiere - precum modelul binar pe care <elonLink>Elon Musk l-a folosit în 2008 pentru a prinde un informator de la Tesla</elonLink> - fără a-ți rescrie stilul."
     },
     "stickerPack": {
-      "title": "Pachet de stickere AI Slop",
-      "description": "Ai găsit un fals? Adaugă pachetul nostru de stickere AI Slop în iMessage sau pe rețelele sociale și scoate-l în evidență cu stil. Pentru că apărarea adevărului poate fi și distractivă.",
-      "imageAlt": "Pachetul de stickere AI Slop pentru iMessage de la Slop Or Not, cu diverse personaje meme arătând spre textele „AI Slop” și „Slop!”"
+      "title": "Pachet de Stickere AI Slop",
+      "description": "Ai găsit un fals? Adaugă pachetul nostru de stickere AI Slop în iMessage sau în postările de pe rețelele sociale și semnalează-l cu stil. Pentru că apărarea adevărului ar trebui să fie și distractivă.",
+      "imageAlt": "Pachet de stickere iMessage AI Slop de la Slop Or Not, cu diverse personaje meme care indică textul „AI Slop” și „Slop!”"
     },
     "howItWorks": {
-      "title": "Cum funcționează",
+      "title": "Cum Funcționează",
       "steps": {
         "download": {
-          "title": "Obține detectorul AI",
-          "description": "Descarcă aplicația din App Store. Folosește modele AI avansate on-device pentru a detecta conținutul generat de AI."
+          "title": "Obține Detectorul AI",
+          "description": "Descarcă aplicația din App Store. Aceasta folosește modele AI avansate, direct pe dispozitiv, pentru a detecta conținutul generat de AI."
         },
         "check": {
-          "title": "Rulează verificarea AI",
-          "description": "Lipește textul sau selectează o imagine. Rezultatele apar instantaneu, chiar și offline."
+          "title": "Rulează Verificarea AI",
+          "description": "Lipește text sau selectează o imagine. Rezultatele apar instantaneu, chiar și offline."
         },
         "detect": {
-          "title": "Găsește slop AI",
-          "description": "Vezi verdictul, curăță urmele sau distribuie dovada direct din aplicație."
+          "title": "Găsește Conținutul AI Slop",
+          "description": "Vezi verdictul, curăță urmele sau partajează dovada direct din aplicație."
         }
       }
     },
     "useCases": {
-      "title": "Cazuri de utilizare",
+      "title": "Cazuri de Utilizare",
       "cases": {
         "journalists": {
-          "title": "Jurnaliști & Fact-checkeri",
-          "description": "Verifică imagini de ultimă oră și citate sursă înainte de publicare. Evită publicarea de conținut manipulat care ar putea dăuna credibilității."
+          "title": "Jurnaliști și Verificatori de Fapte",
+          "description": "Verificați imaginile de ultimă oră și citatele surselor înainte de publicare. Evitați publicarea de conținut manipulat care ar putea dăuna credibilității."
         },
         "teachers": {
-          "title": "Profesori & Studenți",
-          "description": "Profesorii semnalează eseuri scrise de AI; studenții își confirmă originalitatea. Menține onestitatea academică fără servicii scumpe de plagiat."
+          "title": "Profesori și Studenți",
+          "description": "Profesorii semnalează eseurile scrise de AI; studenții își confirmă propria originalitate. Mențineți onestitatea academică fără servicii scumpe de plagiat."
         },
         "dating": {
-          "title": "Întâlniri online",
-          "description": "Verifică fotografiile și biografiile profilului pentru a depista conturile de tip catfish. Fii în siguranță față de escrocherii romantice și timp pierdut."
+          "title": "Dating Online",
+          "description": "Verificați fotografiile de profil și biografiile pentru a depista conturile false (catfish). Feriți-vă de înșelăciunile romantice și de timpul pierdut."
         },
         "shopping": {
-          "title": "Cumpărături online",
-          "description": "Verifică fotografiile produselor, postările influencerilor și recenziile clienților. Fă achiziții mai inteligente și păstrează integritatea recenziilor."
+          "title": "Cumpărători Online",
+          "description": "Verificați fotografiile produselor, postările influencerilor și recenziile clienților. Faceți achiziții mai inteligente și mențineți integritatea recenziilor."
         },
         "finance": {
-          "title": "Echipe financiare & HR",
-          "description": "Autentifică documente de identitate, CV-uri și scripturi de voice-over. Reduce riscul de fraudă și escrocherii salariale deepfake."
+          "title": "Echipe Financiare și de HR",
+          "description": "Autentificați documente de identitate, CV-uri și scenarii de voce. Reduceți riscul de fraudă și înșelăciuni salariale cu deepfake."
         },
         "legal": {
-          "title": "Profesioniști din domeniul juridic & medical",
-          "description": "Confirmă că contractele, memoriile sau dosarele pacienților sunt scrise de oameni. Protejează confidențialitatea clienților respectând regulile stricte de conformitate."
+          "title": "Profesioniști din Domeniul Juridic și Medical",
+          "description": "Confirmați că contractele, dosarele sau fișele pacienților sunt create de oameni. Protejați confidențialitatea clienților respectând reguli stricte de conformitate."
         },
         "creators": {
-          "title": "Creatori de conținut & Manageri de comunitate",
-          "description": "Moderează postările generate de utilizatori pentru spam AI sau dezinformare. Păstrează forumurile, serverele Discord și fluxurile sociale de încredere."
+          "title": "Creatori de Conținut și Manageri de Comunitate",
+          "description": "Moderați postările generate de utilizatori pentru spam AI sau dezinformare. Mențineți încrederea în forumuri, servere Discord și fluxuri de social media."
         },
         "social": {
-          "title": "Utilizatori de social media",
-          "description": "Luptă împotriva dezinformării din feeduri verificând postările virale și conținutul în trend. Verifică înainte să distribui."
+          "title": "Utilizatori de Social Media",
+          "description": "Combateți dezinformarea din fluxuri verificând postările virale și conținutul în tendințe. Verificați înainte de a partaja."
         }
       }
     }
   },
   "HelpPage": {
-    "title": "Slop Or Not Întrebări frecvente | Asistență detector de conținut AI",
-    "description": "Obține asistență pentru detectorul de conținut AI Slop Or Not. FAQ-ul nostru acoperă confidențialitatea on-device, acuratețea, abonamentele și cum să verifici textul și imaginile pentru AI."
+    "title": "Întrebări Frecvente Slop Or Not | Suport Detector de Conținut AI",
+    "description": "Obține suport pentru detectorul de conținut AI Slop Or Not. Întrebările noastre frecvente acoperă confidențialitatea pe dispozitiv, acuratețea, abonamentele și cum să verifici texte și imagini pentru conținut AI."
   },
   "HelpHero": {
-    "title": "Slop Or Not Ajutor & FAQ",
-    "description": "Iată răspunsuri la întrebări comune despre Slop Or Not. Dacă nu găsești ce cauți aici, vezi opțiunile noastre de suport de la final."
+    "title": "Ajutor și Întrebări Frecvente Slop Or Not",
+    "description": "Aici sunt răspunsuri la întrebările frecvente despre Slop Or Not. Dacă nu găsești ce cauți aici, te rugăm să consulți opțiunile noastre de suport de la finalul paginii."
   },
   "HelpContent": {
-    "viewAll": "Vezi tot",
+    "viewAll": "Vezi Tot",
     "cta": {
-      "title": "Gata să depistezi slop-ul și să-ți protejezi confidențialitatea?"
+      "title": "Ești gata să depistezi conținutul slop și să-ți protejezi confidențialitatea?"
     },
     "gettingStarted": {
-      "name": "Început & Funcționalitate de bază",
+      "name": "Noțiuni de Bază și Funcționalități Esențiale",
       "questions": {
         "whatIs": {
           "question": "Ce este Slop Or Not?",
-          "answer": "Slop Or Not este primul detector de conținut AI din lume care rulează integral pe iPhone-ul tău. Verifică instantaneu textul și imaginile pentru a determina dacă au fost create de AI. Pentru că funcționează on-device, datele tale rămân 100% private și nu părăsesc niciodată telefonul. Este rapid, sigur și funcționează chiar și fără conexiune la internet."
+          "answer": "Slop Or Not este primul detector de conținut AI din lume care rulează în întregime pe iPhone-ul tău. Acesta verifică instantaneu text și imagini pentru a stabili dacă au fost create de AI. Deoarece funcționează direct pe dispozitiv, datele tale rămân 100% private și nu părăsesc niciodată telefonul. Este rapid, sigur și funcționează chiar și fără o conexiune la internet."
         },
         "howDoICheck": {
           "question": "Cum verific conținutul pentru AI?",
           "answer": {
             "intro": "Este simplu. Poți:",
             "checkText": {
-              "title": "Verifică text:",
-              "description": "Copiază textul pe care vrei să-l analizezi, deschide Slop Or Not și lipește-l în câmpul de text. Aplicația va oferi un rezultat instant."
+              "title": "Verifică Text:",
+              "description": "Copiază textul pe care vrei să-l analizezi, deschide Slop Or Not și lipește-l în câmpul de text. Aplicația va oferi un rezultat instantaneu."
             },
             "checkImages": {
-              "title": "Verifică imagini:",
-              "description": "Selectează orice imagine sau fotografie din bibliotecă direct în aplicație, sau distribuie o imagine dintr-o altă aplicație către Slop Or Not. Analiza se face imediat."
+              "title": "Verifică Imagini:",
+              "description": "Selectează orice imagine sau fotografie din biblioteca ta direct în aplicație, sau partajează o imagine dintr-o altă aplicație către Slop Or Not. Analiza se realizează imediat."
             }
           }
         },
         "needsInternet": {
-          "question": "Are Slop Or Not nevoie de conexiune la internet pentru a funcționa?",
-          "answer": "Slop Or Not efectuează toată detectarea AI direct pe dispozitiv. Vei avea nevoie de internet doar la prima configurare pentru a descărca modelele AI. După aceea, poți verifica text și imagini complet offline. Folosim criptarea modelului CoreML de la Apple pentru a proteja modelele noastre transformer on-device. iOS poate avea ocazional nevoie de internet pentru a actualiza cheile de criptare ale modelului din App Store."
+          "question": "Are nevoie Slop Or Not de o conexiune la internet pentru a funcționa?",
+          "answer": "Slop Or Not realizează toată detecția AI direct pe dispozitivul tău. Vei avea nevoie de o conexiune la internet pentru configurarea unică, pentru a descărca modelele AI. După aceea, poți verifica texte și imagini complet offline. Folosim criptarea modelelor CoreML de la Apple pentru a proteja modelele noastre transformer de pe dispozitiv. iOS ar putea avea nevoie ocazional de o conexiune la internet pentru a reîmprospăta cheile de criptare ale modelelor din App Store."
         },
         "isDataPrivate": {
-          "question": "Datele mele sunt private când folosesc aplicația?",
-          "answer": "Da, 100%. Spre deosebire de alți detectoare AI care încarcă datele tale pe un server pentru analiză, Slop Or Not procesează totul local pe iPhone. Textul, imaginile și fotografiile tale nu părăsesc niciodată dispozitivul, garantând confidențialitate totală. Este ideal pentru verificarea informațiilor sensibile precum documente legale, e-mailuri de clienți sau dosare medicale. Suntem bazați în UE și respectăm pe deplin GDPR și CCPA, astfel încât drepturile și protecția datelor tale sunt întotdeauna respectate."
+          "question": "Sunt datele mele private când folosesc aplicația?",
+          "answer": "Da, 100%. Spre deosebire de alte detectoare AI care încarcă datele tale pe un server pentru analiză, Slop Or Not procesează totul local, pe iPhone-ul tău. Textele, imaginile și fotografiile tale nu părăsesc niciodată dispozitivul, garantând confidențialitate completă. Acest lucru este ideal pentru verificarea informațiilor sensibile, cum ar fi documente legale, e-mailuri ale clienților sau dosare medicale. Avem sediul în UE și respectăm în totalitate GDPR și CCPA, astfel încât drepturile și protecția datelor tale sunt întotdeauna respectate."
         },
         "whoShouldUse": {
           "question": "Cine ar trebui să folosească Slop Or Not?",
           "answer": {
             "intro": "Oricine prețuiește adevărul și confidențialitatea! Este deosebit de util pentru:",
             "studentsTeachers": {
-              "title": "Studenți & Profesori",
+              "title": "Studenți și Profesori",
               "description": "verificarea originalității lucrărilor academice."
             },
             "journalists": {
-              "title": "Jurnaliști & Fact-checkeri",
+              "title": "Jurnaliști și Verificatori de Fapte",
               "description": "verificarea autenticității surselor și imaginilor."
             },
             "onlineDaters": {
-              "title": "Cei care folosesc aplicații de dating",
-              "description": "depistarea profilurilor „catfish” false."
+              "title": "Utilizatori de Dating Online",
+              "description": "depistarea profilurilor false de tip „catfish”."
             },
             "shoppers": {
               "title": "Cumpărători",
-              "description": "verificarea dacă recenziile de produs sunt reale sau generate de AI."
+              "description": "verificarea dacă recenziile produselor sunt reale sau generate de AI."
             },
             "anyone": {
               "title": "Oricine",
-              "description": "care dorește să identifice dezinformarea și deepfake-urile pe rețelele sociale."
+              "description": "dorește să identifice dezinformarea și deepfake-urile pe rețelele sociale."
             }
           }
         }
       }
     },
     "features": {
-      "name": "Funcții & Acuratețe",
+      "name": "Funcționalități și Acuratețe",
       "questions": {
         "howAccurate": {
-          "question": "Cât de precisă este detectarea AI?",
+          "question": "Cât de precisă este detecția AI?",
           "answer": {
             "intro": "Slop Or Not folosește modele de top din industrie pentru o acuratețe ridicată:",
             "watermarkedImages": {
-              "title": "Imagini cu watermark (C2PA/IPTC de la Gemini image generation, OpenAI image generation, Microsoft Designer, Adobe Firefly etc.):",
-              "description": "Detecție 100% precisă."
+              "title": "Imagini cu Watermark (C2PA/IPTC de la generarea de imagini Gemini, generarea de imagini OpenAI, Microsoft Designer, Adobe Firefly, etc):",
+              "description": "detecție cu acuratețe de 100%."
             },
             "otherImages": {
               "title": "Toate celelalte imagini generate de AI:",
-              "description": "Precizie 90%."
+              "description": "acuratețe de 90%."
             },
             "text": {
               "title": "Text generat de AI:",
-              "description": "Precizie 95%."
+              "description": "acuratețe de 95%."
             },
-            "note": "*Notă: acuratețea se bazează pe testele noastre interne. Rezultatele pot varia odată cu apariția unor noi modele AI și metode avansate concepute pentru a păcăli detectoarele.*"
+            "note": "*Notă: Acuratețea se bazează pe testele noastre interne. Rezultatele pot varia în funcție de noile modele AI și de metodele avansate concepute pentru a păcăli detectoarele.*"
           }
         },
         "textCleanup": {
-          "question": "Ce este funcția „Text Cleanup”?",
-          "answer": "Textul generat de AI conține adesea caractere ascunse sau formatare ciudată care pot acționa ca watermark-uri invizibile. Funcția noastră Text Cleanup elimină aceste urme cu o singură atingere. Elimină: caractere ascunse (cum ar fi spațiile zero-width), punctuație suspectă și homoglifi (litere care arată ca altele). Poate, de asemenea, normaliza ortografia (de ex., din engleză SUA în engleză UK) și corecta punctuația pentru tine."
+          "question": "Ce este funcționalitatea \"Text Cleanup\"?",
+          "answer": "Textul generat de AI conține adesea caractere ascunse sau formatări ciudate care pot acționa ca watermark-uri invizibile. Funcționalitatea noastră Text Cleanup elimină aceste urme cu o singură atingere. Elimină: caractere ascunse (precum spații cu lățime zero), punctuație suspectă și homoglife (litere care seamănă cu altele). De asemenea, poate normaliza ortografia (de exemplu, din engleza americană în cea britanică) și poate corecta punctuația pentru tine."
         },
         "stickerPacks": {
           "question": "Ce sunt pachetele de stickere AI Slop?",
-          "answer": "Sunt pachete distractive de stickere iMessage incluse în aplicație! Când găsești conținut generat de AI online sau în chat-uri, poți folosi stickerele noastre pentru a-l semnala într-un mod amuzant."
+          "answer": "Sunt pachete distractive de stickere pentru iMessage incluse în aplicație! Când găsești conținut generat de AI online sau în chaturi, poți folosi stickerele noastre pentru a-l semnala într-un mod amuzant."
         },
         "incognitoMode": {
           "question": "Ce este Modul Incognito?",
-          "answer": "Modul Incognito oferă un nivel suplimentar de confidențialitate. Când este activat, aplicația nu va păstra un istoric al conținutului verificat. Este perfect atunci când gestionezi informații extra-sensibile și nu vrei să lași nicio urmă a verificării pe dispozitiv."
+          "answer": "Modul Incognito oferă un strat suplimentar de confidențialitate. Când este activat, aplicația nu va păstra un istoric al conținutului pe care l-ai verificat. Este perfect pentru momentele în care gestionezi informații extrem de sensibile și vrei să nu lași nicio urmă a verificării pe dispozitivul tău."
         }
       }
     },
     "troubleshooting": {
-      "name": "Depanare & Suport",
+      "name": "Depanare și Suport",
       "questions": {
         "whyDownload": {
-          "question": "De ce descarcă aplicația fișiere după instalare?",
-          "answer": "Pentru a-ți oferi un download mai rapid din App Store și pentru a economisi spațiu de stocare pe dispozitiv, menținem dimensiunea inițială a aplicației mică. Prima dată când lansezi Slop Or Not, aceasta descarcă automat modelele noastre puternice de detectare AI folosind sistemul On-Demand Resources de la Apple. Este un proces unic. Ocazional, problemele cu serviciul Apple pot întrerupe această descărcare. Dacă pare blocată, verifică conexiunea la internet și repornește aplicația după câteva minute. Descărcarea ar trebui să se reia automat."
+          "question": "De ce descarcă aplicația fișiere după ce o instalez?",
+          "answer": "Pentru a-ți oferi o descărcare mai rapidă din App Store și pentru a economisi spațiu de stocare pe dispozitiv, menținem dimensiunea inițială a aplicației redusă. Prima dată când lansezi Slop Or Not, aceasta descarcă automat modelele noastre puternice de detecție AI folosind sistemul On-Demand Resources de la Apple. Acesta este un proces unic. Ocazional, problemele cu serviciul Apple pot întrerupe această descărcare. Dacă pare blocată, te rugăm să verifici conexiunea la internet și să repornești aplicația după câteva minute. Descărcarea ar trebui să se reia automat."
         },
         "imageResolution": {
-          "question": "Rezoluția imaginii influențează scorurile de detectare?",
-          "answer": "Da. Dacă folosești o miniatură cu rezoluție scăzută sau o captură de ecran, modelul rulează totuși, dar poate returna un scor de încredere mai mic deoarece detaliile fine se pierd în timpul pasului nostru de normalizare. Folosește întotdeauna versiunea originală sau cea mai de înaltă calitate a imaginii. Mai mulți pixeli înseamnă mai multe indicii pentru detector, astfel încât rezultatele sunt mai puternice și mai stabile."
+          "question": "Afectează rezoluția imaginii scorurile de detecție?",
+          "answer": "Da. Când folosești o miniatură cu rezoluție scăzută sau o captură de ecran, modelul rulează în continuare, dar poate returna un scor de încredere mai mic, deoarece detaliile fine se pierd în timpul etapei noastre de normalizare. Încearcă întotdeauna să folosești versiunea originală sau de cea mai înaltă calitate a imaginii. Mai mulți pixeli înseamnă mai multe indicii pentru detector, astfel încât rezultatele sunt mai puternice și mai stabile."
         },
         "howMuchText": {
-          "question": "Cât text îmi trebuie pentru o detectare fiabilă?",
-          "answer": "Detectorul de text are nevoie de cel puțin două propoziții complete pentru a funcționa. Fragmente foarte scurte oferă prea puțin context pentru ca modelul să observe amprentele AI. Ori de câte ori este posibil, lipește un paragraf întreg sau întregul document. Cu cât pasajul este mai lung, cu atât încrederea detectării este mai mare."
+          "question": "De cât text am nevoie pentru o detecție fiabilă?",
+          "answer": "Detectorul de text are nevoie de cel puțin două propoziții complete pentru a funcționa. Fragmentele foarte scurte oferă prea puțin context pentru ca modelul să depisteze amprentele AI. Ori de câte ori este posibil, lipește un paragraf întreg sau întregul document. Cu cât pasajul este mai lung, cu atât încrederea în detecție este mai mare."
         },
         "notDetecting": {
           "question": "Aplicația nu detectează conținut AI despre care sunt sigur că este generat de AI. De ce?",
           "answer": {
-            "intro": "Lumea AI se schimbă rapid. Deși detectorul nostru este foarte precis, unele modele AI noi pot crea conținut mai greu de detectat. Actualizăm regulat modelele pentru a ține pasul.",
-            "checkImage": "Imaginea verificată poate fi o miniatură cu rezoluție scăzută sau o captură de ecran foarte comprimată. Încearcă din nou cu versiunea de cea mai înaltă rezoluție disponibilă.",
+            "intro": "Lumea AI se schimbă rapid. Deși detectorul nostru este foarte precis, unele modele AI noi pot crea conținut mai greu de detectat. Ne actualizăm periodic modelele pentru a ține pasul.",
+            "checkImage": "Imaginea pe care ai verificat-o ar putea fi o miniatură cu rezoluție scăzută sau o captură de ecran puternic comprimată. Încearcă din nou cu versiunea de cea mai înaltă rezoluție disponibilă.",
             "checkText": "Mostra de text ar putea fi prea scurtă. Asigură-te că furnizezi cel puțin două propoziții; mai mult text îmbunătățește rezultatele.",
-            "outro": "Aceste verificări rapide rezolvă majoritatea rapoartelor de „fals negativ”. Dacă problema persistă, te rugăm să ne trimiți exemplul pentru a putea îmbunătăți aplicația pentru toți."
+            "outro": "Aceste verificări rapide rezolvă majoritatea rapoartelor de „fals negativ”. Dacă problema persistă, te rugăm să ne împărtășești exemplul pentru a putea îmbunătăți continuu aplicația pentru toată lumea."
           }
         }
       }
     }
   },
   "RelatedLinks": {
-    "title": "Ai nevoie de mai mult ajutor?",
-    "description": "Nu găsești răspunsul de care ai nevoie? Alătură-te comunității noastre pe Discord pentru sfaturi, trucuri și suport în timp real."
+    "title": "Ai Nevoie de Mai Mult Ajutor?",
+    "description": "Nu găsești răspunsul de care ai nevoie? Alătură-te comunității noastre de pe Discord pentru sfaturi, trucuri și suport în timp real."
   },
   "DiscordBadge": {
     "discord": "Discord",
-    "usersOnline": "{onlineCount, plural, one {# utilizator online} other {# utilizatori online}}"
+    "usersOnline": "{onlineCount, plural, one {# utilizator online} few {# utilizatori online} other {# de utilizatori online}}"
   },
   "SupportPage": {
     "metadata": {
-      "title": "Asistență - Slop Or Not",
-      "description": "Primește ajutor pentru Slop Or Not, detectorul gratuit de conținut AI care rulează pe dispozitiv. Contactează-ne pe Discord sau pe email, sau consultă pagina noastră de Ajutor."
+      "title": "Suport - Slop Or Not",
+      "description": "Obține ajutor pentru Slop Or Not, detectorul gratuit de conținut AI pe dispozitiv. Contactează-ne prin Discord sau e-mail, sau răsfoiește pagina noastră de Ajutor."
     },
-    "title": "Asistență",
-    "description": "Slop Or Not este creat de doi ingineri care îți oferă gratuit un detector de conținut AI ce rulează local. Nu putem promite răspunsuri instantanee, dar vom face tot posibilul să te ajutăm.",
+    "title": "Suport",
+    "description": "Slop Or Not este creat de doi ingineri care vă aduc un detector gratuit de conținut AI pe dispozitiv. Nu putem promite răspunsuri instantanee, dar vom face tot posibilul să ajutăm.",
     "contact": {
       "title": "Contactează-ne",
       "discord": {
         "title": "Discord (recomandat)",
-        "description": "Alătură-te comunității noastre pentru ajutor rapid, sfaturi și suport reciproc."
+        "description": "Alătură-te comunității noastre pentru ajutor rapid, sfaturi și suport de la alți utilizatori."
       },
       "email": {
-        "title": "Email",
-        "description": "Răspundem la email-urile de asistență pe măsură ce avem capacitate."
+        "title": "E-mail",
+        "description": "Răspundem la e-mailurile de suport în limita capacității."
       }
     },
     "fastAnswers": {
-      "title": "Ai nevoie de răspunsuri rapide?",
-      "description": "Pentru întrebări frecvente, vezi <link>pagina de Ajutor</link>."
+      "title": "Ai Nevoie de Răspunsuri Rapide?",
+      "description": "Pentru întrebări frecvente, consultă <link>pagina noastră de Ajutor</link>."
     },
     "feedback": {
-      "title": "Feedback și solicitări de funcționalități",
-      "suggest": "<strong>Propune o funcționalitate:</strong> Postează în <code>#suggestions</code> pe Discord.",
-      "report": "<strong>Raportează o eroare:</strong> Trimite-ne un DM pe Discord sau un email cu o captură de ecran sau log."
+      "title": "Feedback și Sugestii de Funcționalități",
+      "suggest": "<strong>Sugerează o funcționalitate:</strong> Postează pe canalul <code>#suggestions</code> de pe Discord.",
+      "report": "<strong>Raportează un bug:</strong> Trimite-ne un mesaj privat pe Discord sau un e-mail cu o captură de ecran sau un jurnal."
     }
   }
 }

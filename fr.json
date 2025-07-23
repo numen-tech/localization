@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "title": "Slop Or Not : détecteur de contenu IA gratuit pour texte et images",
-    "description": "Détecteur de texte IA, détecteur d’images IA et humaniseur d’IA dans une seule app. Vérifiez l’IA et humanisez-la gratuitement sur iPhone, sans cloud."
+    "title": "Slop Or Not : Détecteur de contenu IA gratuit pour texte et images",
+    "description": "Détecteur de texte IA, détecteur d'images IA et humaniseur d'IA dans une seule application. Vérifiez la présence d'IA et humanisez le contenu IA gratuitement sur iPhone, sans avoir besoin du cloud."
   },
   "Navigation": {
     "home": "Accueil",
@@ -11,20 +11,20 @@
   "LanguageSwitcher": {
     "ar": "Arabe",
     "zh-HK": "Chinois (Hong Kong)",
-    "zh-CN": "Chinois simplifié",
-    "zh-TW": "Chinois traditionnel",
+    "zh-CN": "Chinois, simplifié",
+    "zh-TW": "Chinois, traditionnel",
     "cs": "Tchèque",
     "nl": "Néerlandais",
-    "fi": "Finlandais",
+    "fi": "Finnois",
     "fr": "Français",
     "de": "Allemand",
     "he": "Hébreu",
-    "hi": "hindi",
+    "hi": "Hindi",
     "hu": "Hongrois",
     "it": "Italien",
     "ja": "Japonais",
     "ko": "Coréen",
-    "nb": "Norvégien (Bokmål)",
+    "nb": "Norvégien Bokmål",
     "pl": "Polonais",
     "pt-BR": "Portugais (Brésil)",
     "pt-PT": "Portugais (Portugal)",
@@ -35,8 +35,8 @@
     "tr": "Turc",
     "uk": "Ukrainien",
     "ur": "Ourdou",
-    "en": "Anglais (US)",
-    "en-GB": "Anglais (R.-U.)"
+    "en": "Anglais (États-Unis)",
+    "en-GB": "Anglais (Royaume-Uni)"
   },
   "Header": {
     "logoAlt": "Slop Or Not",
@@ -47,7 +47,7 @@
     }
   },
   "Footer": {
-    "tagline": "Repérez le slop IA. Sachez ce qui est réel.",
+    "tagline": "Détectez le contenu IA. Distinguez le vrai du faux.",
     "sections": {
       "products": "Produits",
       "resources": "Ressources",
@@ -56,22 +56,22 @@
     "products": {
       "slopOrNot": {
         "name": "Slop Or Not",
-        "description": "Détecteur de contenu IA pour texte & images."
+        "description": "Détecteur de contenu IA pour texte et images."
       },
       "privateLlm": {
         "name": "Private LLM",
-        "description": "Chatbot IA local pour appareils Apple."
+        "description": "Chatbot IA local pour les appareils Apple."
       }
     },
     "links": {
       "download": "Télécharger",
       "privacyPolicy": "Politique de confidentialité",
       "blog": "Blog",
-      "helpCenter": "Centre d’aide",
-      "whatIs": "Qu’est-ce que Slop Or Not ?",
+      "helpCenter": "Centre d'aide",
+      "whatIs": "Qu'est-ce que Slop Or Not ?",
       "howAccurate": "Quelle est sa précision ?",
-      "isDataPrivate": "Mes données sont-elles privées ?",
-      "textCleanup": "Qu’est-ce que Text Cleanup ?"
+      "isDataPrivate": "Mes données sont-elles confidentielles ?",
+      "textCleanup": "Qu'est-ce que le Nettoyage de texte ?"
     },
     "compliance": {
       "gdprAlt": "Conforme au RGPD",
@@ -81,230 +81,230 @@
   },
   "Hero": {
     "logoAlt": "Logo Slop Or Not",
-    "title": "Détecteur de texte IA et détecteur d’images IA dans une seule app",
-    "srOnlyPrefix": "Slop Or Not : ",
-    "description": "Vérifiez en quelques secondes et gratuitement si un contenu provient d’une IA tout en gardant vos données sur votre iPhone.",
+    "title": "Détecteur de texte IA et détecteur d'images IA dans une seule application",
+    "srOnlyPrefix": "Slop or Not : ",
+    "description": "Vérifiez gratuitement en quelques secondes si un contenu est généré par l'IA, tout en gardant vos données sur votre iPhone.",
     "testflightLink": "Télécharger la bêta TestFlight"
   },
   "NotFound": {
     "logoAlt": "Logo Slop Or Not",
     "title": "404 : Cette page est du pur slop.",
-    "description": "Il semble que ce lien n’ait pas passé notre contrôle d’authenticité. Retournez en lieu sûr !",
-    "backToHome": "Retour à l’accueil"
+    "description": "Il semble que ce lien n'ait pas passé notre contrôle d'authenticité. Essayez de revenir en lieu sûr !",
+    "backToHome": "Retour à l'accueil"
   },
   "CtaDownload": {
     "title": "Téléchargez le détecteur de contenu IA gratuit pour iPhone",
-    "description": "Détectez texte et images IA en quelques secondes, entièrement hors ligne. Vos données ne quittent jamais votre téléphone – la confidentialité est intégrée."
+    "description": "Vérifiez les textes et images IA en quelques secondes, entièrement hors ligne. Vos données ne quittent jamais votre téléphone - confidentialité intégrée."
   },
   "Features": {
     "aiImageDetector": {
-      "title": "Vérifiez si cette photo est générée par IA sur votre iPhone",
-      "description": "Les arnaques sentimentales ont coûté 1,14 milliard USD aux consommateurs en 2023, soit les pertes les plus élevées de toutes les fraudes d’usurpation d’identité, <ftcLink>selon la FTC</ftcLink>. Les escrocs créent désormais <fakeDatingLink>de faux profils de rencontre</fakeDatingLink> avec des visages générés par IA et des chatbots. Notre détecteur d’images IA fonctionne directement sur votre iPhone ; vous pouvez ainsi vérifier si une IA a généré ce selfie, ce reçu ou cette photo produit avant de swiper ou d’acheter. Il repère les filigranes ainsi que de subtils artefacts faciaux invisibles à l’œil humain."
+      "title": "Vérifiez si une photo a été générée par l'IA sur votre iPhone",
+      "description": "Les arnaques sentimentales ont coûté 1,14 milliard de dollars aux consommateurs en 2023, les pertes les plus élevées de toutes les fraudes à l'usurpation d'identité, <ftcLink>selon la FTC</ftcLink>. Les escrocs créent désormais de <fakeDatingLink>faux profils de rencontre</fakeDatingLink> avec des visages et des chatbots générés par l'IA. Notre détecteur d'images IA est sur votre iPhone, vous pouvez donc vérifier si ce selfie, ce reçu ou cette photo de produit a été généré par l'IA avant de swiper ou d'acheter. Il signale les filigranes ainsi que les artefacts subtils sur les visages que l'œil humain ne voit pas."
     },
     "aiTextDetector": {
-      "title": "Détecteur de texte IA sans limite de mots",
-      "description": "Près de 90 % des étudiants ont reconnu avoir utilisé ChatGPT pour leurs devoirs <forbesLink>début 2023</forbesLink>, et l’utilisation par les adolescents a <pewLink>doublé de nouveau d’ici 2025</pewLink>. Enseignants, éditeurs et juristes peuvent coller n’importe quel document dans le détecteur de texte IA de Slop Or Not pour vérifier si l’IA en est l’auteur – aucun plafond de mots, aucune analyse dans le cloud. Anglais aujourd’hui ; bientôt d’autres langues."
+      "title": "Détecteur de texte IA avec un nombre de mots illimité",
+      "description": "Près de 90 % des étudiants ont admis utiliser ChatGPT pour leurs devoirs <forbesLink>début 2023</forbesLink>, et l'utilisation par les adolescents <pewLink>a de nouveau doublé d'ici 2025</pewLink>. Les enseignants, rédacteurs et avocats peuvent coller n'importe quel document dans le détecteur de texte IA de Slop Or Not pour vérifier si les mots ont été générés par l'IA - sans limite de mots, sans espionnage sur le cloud. L'anglais aujourd'hui ; d'autres langues bientôt."
     },
     "aiFingerprints": {
-      "title": "Supprimez les empreintes IA et humanisez le contenu IA sur iPhone",
-      "description": "Les sites d’« humanisation » IA dans le cloud envoient souvent vos mots vers des LLM distants qui laissent de nouvelles empreintes. Slop Or Not élimine les espaces à largeur nulle, les homoglyphes et les astuces d’espacement – comme le motif binaire qu’<elonLink>Elon Musk a utilisé en 2008 pour démasquer une taupe chez Tesla</elonLink> – sans réécrire votre style."
+      "title": "Supprimez les empreintes de l'IA et humanisez le contenu IA sur iPhone",
+      "description": "Les sites \"d'humanisation de l'IA\" sur le cloud transmettent souvent vos mots à des LLM distants qui laissent de nouvelles empreintes. Slop Or Not nettoie les espaces sans chasse, les homoglyphes et les astuces d'espacement - comme le modèle binaire <elonLink>qu'Elon Musk a utilisé en 2008 pour démasquer une fuite chez Tesla</elonLink> - sans réécrire votre style."
     },
     "stickerPack": {
-      "title": "Pack de stickers « AI Slop »",
-      "description": "Vous avez déniché un faux ? Déposez notre pack de stickers AI Slop dans iMessage ou vos publications sociales pour le dénoncer avec style. Défendre la vérité peut aussi être amusant.",
-      "imageAlt": "Pack de stickers iMessage AI Slop de Slop Or Not, présentant divers mèmes pointant du texte « AI Slop » et « Slop! »"
+      "title": "Pack de stickers AI Slop",
+      "description": "Vous avez trouvé un faux ? Utilisez notre pack de stickers AI Slop dans iMessage ou sur les réseaux sociaux et dénoncez-le avec style. Parce que défendre la vérité devrait aussi être amusant.",
+      "imageAlt": "Pack de stickers iMessage AI Slop de Slop Or Not, avec divers personnages de mèmes pointant vers les textes \"AI Slop\" et \"Slop!\""
     },
     "howItWorks": {
       "title": "Comment ça marche",
       "steps": {
         "download": {
           "title": "Obtenez le détecteur IA",
-          "description": "Téléchargez l’app depuis l’App Store. Elle utilise des modèles IA avancés sur l’appareil pour détecter le contenu généré par IA."
+          "description": "Téléchargez l'application depuis l'App Store. Elle utilise des modèles d'IA avancés sur l'appareil pour détecter le contenu généré par l'IA."
         },
         "check": {
           "title": "Lancez la vérification IA",
-          "description": "Collez du texte ou sélectionnez une image. Les résultats s’affichent instantanément, même hors ligne."
+          "description": "Collez du texte ou sélectionnez une image. Les résultats apparaissent instantanément, même hors ligne."
         },
         "detect": {
-          "title": "Trouvez le slop IA",
-          "description": "Voyez le verdict, nettoyez les traces ou partagez la preuve directement depuis l’app."
+          "title": "Trouvez le contenu IA",
+          "description": "Consultez le verdict, nettoyez les traces ou partagez la preuve directement depuis l'application."
         }
       }
     },
     "useCases": {
-      "title": "Cas d’utilisation",
+      "title": "Cas d'utilisation",
       "cases": {
         "journalists": {
-          "title": "Journalistes & vérificateurs de faits",
-          "description": "Vérifiez les images d’actualité et les citations des sources avant publication. Évitez de diffuser un contenu manipulé qui pourrait nuire à la crédibilité."
+          "title": "Journalistes et fact-checkers",
+          "description": "Vérifiez les images d'actualité et les citations de sources avant de publier. Évitez de publier du contenu manipulé qui pourrait nuire à votre crédibilité."
         },
         "teachers": {
-          "title": "Enseignants & étudiants",
-          "description": "Les enseignants signalent les dissertations écrites par IA ; les étudiants confirment l’originalité de leurs travaux. Préservez l’honnêteté académique sans services de plagiat coûteux."
+          "title": "Enseignants et étudiants",
+          "description": "Les enseignants signalent les dissertations écrites par l'IA ; les étudiants confirment leur propre originalité. Maintenez l'honnêteté académique sans services de plagiat coûteux."
         },
         "dating": {
           "title": "Rencontres en ligne",
-          "description": "Vérifiez photos de profil et biographies pour repérer les faux comptes. Restez à l’abri des arnaques sentimentales et du temps perdu."
+          "description": "Vérifiez les photos de profil et les bios pour repérer les faux comptes (« catfish »). Protégez-vous des arnaques sentimentales et des pertes de temps."
         },
         "shopping": {
           "title": "Acheteurs en ligne",
-          "description": "Vérifiez les photos produit, publications d’influenceurs et avis clients. Achetez plus intelligemment et préservez l’intégrité des avis."
+          "description": "Vérifiez les photos de produits, les publications d'influenceurs et les avis clients. Faites des achats plus intelligents et préservez l'intégrité des avis."
         },
         "finance": {
-          "title": "Équipes financières & RH",
-          "description": "Authentifiez les pièces d’identité, CV et scripts de voix-off. Réduisez le risque de fraude et d’arnaques deepfake sur les salaires."
+          "title": "Équipes financières et RH",
+          "description": "Authentifiez les documents d'identité, les CV et les scripts de voix off. Réduisez le risque de fraude et d'arnaques aux fiches de paie par deepfake."
         },
         "legal": {
-          "title": "Professionnels du droit & de la santé",
-          "description": "Confirmez que contrats, mémoires ou dossiers patients sont rédigés par des humains. Protégez la confidentialité des clients tout en respectant des règles strictes."
+          "title": "Professionnels du droit et de la santé",
+          "description": "Confirmez que les contrats, les dossiers ou les fichiers des patients sont rédigés par des humains. Protégez la confidentialité des clients tout en respectant des règles de conformité strictes."
         },
         "creators": {
-          "title": "Créateurs de contenu & community managers",
-          "description": "Modérez les posts générés par les utilisateurs pour détecter le spam IA ou la désinformation. Gardez forums, serveurs Discord et fils sociaux fiables."
+          "title": "Créateurs de contenu et gestionnaires de communauté",
+          "description": "Modérez les publications générées par les utilisateurs pour détecter le spam ou la désinformation par l'IA. Assurez la fiabilité des forums, des serveurs Discord et des flux de réseaux sociaux."
         },
         "social": {
           "title": "Utilisateurs des réseaux sociaux",
-          "description": "Combattez la désinformation dans les fils en vérifiant les posts viraux et les contenus tendance. Vérifiez avant de partager."
+          "description": "Luttez contre la désinformation dans vos flux en vérifiant les publications virales et les contenus tendance. Vérifiez avant de partager."
         }
       }
     }
   },
   "HelpPage": {
-    "title": "Slop Or Not FAQ | Support du détecteur de contenu IA",
-    "description": "Obtenez de l’aide pour le détecteur de contenu IA Slop Or Not. Notre FAQ couvre la confidentialité sur l’appareil, la précision, les abonnements et la façon de vérifier si un texte ou une image provient d’une IA."
+    "title": "FAQ Slop Or Not | Support pour le détecteur de contenu IA",
+    "description": "Obtenez de l'aide pour le détecteur de contenu IA Slop Or Not. Notre FAQ couvre la confidentialité sur l'appareil, la précision, les abonnements et comment vérifier si des textes et des images sont générés par l'IA."
   },
   "HelpHero": {
-    "title": "Aide & FAQ Slop Or Not",
-    "description": "Voici les réponses aux questions courantes sur Slop Or Not. Si vous ne trouvez pas ici ce que vous cherchez, consultez nos options d’assistance en bas de page."
+    "title": "Aide et FAQ de Slop Or Not",
+    "description": "Voici les réponses aux questions fréquentes sur Slop Or Not. Si vous ne trouvez pas ce que vous cherchez ici, veuillez consulter nos options de support en bas de page."
   },
   "HelpContent": {
-    "viewAll": "Tout afficher",
+    "viewAll": "Voir tout",
     "cta": {
-      "title": "Prêt à détecter le slop et protéger votre vie privée ?"
+      "title": "Prêt à repérer le contenu IA et à protéger votre vie privée ?"
     },
     "gettingStarted": {
-      "name": "Premiers pas & Fonctionnalités de base",
+      "name": "Démarrage et fonctionnalités de base",
       "questions": {
         "whatIs": {
-          "question": "Qu’est-ce que Slop Or Not ?",
-          "answer": "Slop Or Not est le tout premier détecteur de contenu IA fonctionnant entièrement sur votre iPhone. Il vérifie instantanément texte et images pour déterminer s’ils ont été créés par une IA. Comme tout se passe sur l’appareil, vos données restent 100 % privées et ne quittent jamais votre téléphone. C’est rapide, sécurisé et fonctionne même sans connexion internet."
+          "question": "Qu'est-ce que Slop Or Not ?",
+          "answer": "Slop Or Not est le premier détecteur de contenu IA au monde qui fonctionne entièrement sur votre iPhone. Il analyse instantanément le texte et les images pour déterminer s'ils ont été créés par une IA. Comme il fonctionne sur l'appareil, vos données restent 100 % privées et ne quittent jamais votre téléphone. C'est rapide, sécurisé et fonctionne même sans connexion Internet."
         },
         "howDoICheck": {
-          "question": "Comment vérifier du contenu pour l’IA ?",
+          "question": "Comment puis-je vérifier si un contenu a été généré par l'IA ?",
           "answer": {
-            "intro": "C’est simple. Vous pouvez :",
+            "intro": "C'est simple. Vous pouvez :",
             "checkText": {
               "title": "Vérifier du texte :",
-              "description": "Copiez le texte à analyser, ouvrez Slop Or Not et collez-le dans le champ texte. L’app fournira un résultat instantané."
+              "description": "Copiez le texte que vous souhaitez analyser, ouvrez Slop Or Not, et collez-le dans le champ de texte. L'application fournira un résultat instantané."
             },
             "checkImages": {
               "title": "Vérifier des images :",
-              "description": "Sélectionnez n’importe quelle image ou photo de votre bibliothèque directement dans l’app, ou partagez-en une depuis une autre app vers Slop Or Not. L’analyse est immédiate."
+              "description": "Sélectionnez n'importe quelle image ou photo de votre bibliothèque directement dans l'application, ou partagez une image depuis une autre application vers Slop Or Not. L'analyse se fait immédiatement."
             }
           }
         },
         "needsInternet": {
-          "question": "Slop Or Not a-t-il besoin d’une connexion internet pour fonctionner ?",
-          "answer": "Slop Or Not exécute toute la détection IA directement sur votre appareil. Vous aurez besoin d’une connexion internet pour la configuration unique afin de télécharger les modèles IA. Ensuite, vous pouvez analyser textes et images entièrement hors ligne. Nous utilisons le chiffrement de modèles CoreML d’Apple pour protéger nos modèles de transformeurs sur l’appareil. iOS peut occasionnellement nécessiter une connexion pour actualiser les clés de chiffrement de l’App Store."
+          "question": "Slop Or Not a-t-il besoin d'une connexion Internet pour fonctionner ?",
+          "answer": "Slop Or Not effectue toutes les détections d'IA directement sur votre appareil. Vous aurez besoin d'une connexion Internet pour la configuration unique afin de télécharger les modèles d'IA. Après cela, vous pourrez vérifier des textes et des images complètement hors ligne. Nous utilisons le chiffrement de modèle CoreML d'Apple pour protéger nos modèles de transformateurs sur l'appareil. iOS peut occasionnellement avoir besoin d'une connexion Internet pour rafraîchir les clés de chiffrement du modèle depuis l'App Store."
         },
         "isDataPrivate": {
-          "question": "Mes données sont-elles privées quand j’utilise l’app ?",
-          "answer": "Oui, à 100 %. Contrairement à d’autres détecteurs IA qui téléchargent vos données vers un serveur pour analyse, Slop Or Not traite tout localement sur votre iPhone. Vos textes, images et photos ne quittent jamais votre appareil, garantissant une confidentialité totale. Idéal pour vérifier des informations sensibles comme des documents juridiques, des e-mails clients ou des dossiers médicaux. Nous sommes basés dans l’UE et conformes au RGPD et au CCPA, vos droits et la protection de vos données sont donc toujours respectés."
+          "question": "Mes données sont-elles confidentielles lorsque j'utilise l'application ?",
+          "answer": "Oui, à 100 %. Contrairement à d'autres détecteurs d'IA qui téléchargent vos données sur un serveur pour analyse, Slop Or Not traite tout localement sur votre iPhone. Vos textes, images et photos ne quittent jamais votre appareil, garantissant une confidentialité totale. C'est idéal pour vérifier des informations sensibles comme des documents juridiques, des e-mails de clients ou des dossiers médicaux. Nous sommes basés dans l'UE et respectons entièrement le RGPD et le CCPA, donc vos droits et la protection de vos données sont toujours garantis."
         },
         "whoShouldUse": {
           "question": "Qui devrait utiliser Slop Or Not ?",
           "answer": {
-            "intro": "Tous ceux qui valorisent la vérité et la confidentialité ! C’est particulièrement utile pour :",
+            "intro": "Toute personne qui attache de l'importance à la vérité et à la confidentialité ! C'est particulièrement utile pour :",
             "studentsTeachers": {
-              "title": "Étudiants & enseignants",
-              "description": "vérifier l’originalité des travaux académiques."
+              "title": "Étudiants et enseignants",
+              "description": "pour vérifier l'originalité des travaux universitaires."
             },
             "journalists": {
-              "title": "Journalistes & vérificateurs de faits",
-              "description": "vérifier l’authenticité des sources et des images."
+              "title": "Journalistes et fact-checkers",
+              "description": "pour vérifier l'authenticité des sources et des images."
             },
             "onlineDaters": {
-              "title": "Personnes sur les sites de rencontre",
-              "description": "détecter les faux profils « catfish »."
+              "title": "Utilisateurs de sites de rencontres",
+              "description": "pour repérer les faux profils (« catfish »)."
             },
             "shoppers": {
               "title": "Acheteurs",
-              "description": "vérifier si les avis produits sont réels ou générés par IA."
+              "description": "pour vérifier si les avis sur les produits sont réels ou générés par l'IA."
             },
             "anyone": {
-              "title": "Tout le monde",
-              "description": "qui veut identifier la désinformation et les deepfakes sur les réseaux sociaux."
+              "title": "Toute personne",
+              "description": "souhaitant identifier la désinformation et les deepfakes sur les réseaux sociaux."
             }
           }
         }
       }
     },
     "features": {
-      "name": "Fonctionnalités & Précision",
+      "name": "Fonctionnalités et précision",
       "questions": {
         "howAccurate": {
           "question": "Quelle est la précision de la détection IA ?",
           "answer": {
-            "intro": "Slop Or Not utilise des modèles de pointe pour une grande précision :",
+            "intro": "Slop Or Not utilise les meilleurs modèles de l'industrie pour une haute précision :",
             "watermarkedImages": {
-              "title": "Images filigranées (C2PA/IPTC de Gemini image generation, OpenAI image generation, Microsoft Designer, Adobe Firefly, etc) :",
-              "description": "détection précise à 100 %."
+              "title": "Images avec filigrane (C2PA/IPTC de la génération d'images Gemini, génération d'images OpenAI, Microsoft Designer, Adobe Firefly, etc) :",
+              "description": "Détection précise à 100 %."
             },
             "otherImages": {
-              "title": "Toutes les autres images générées par IA :",
-              "description": "90 % de précision."
+              "title": "Toutes les autres images générées par l'IA :",
+              "description": "Précision de 90 %."
             },
             "text": {
-              "title": "Texte généré par IA :",
-              "description": "95 % de précision."
+              "title": "Texte généré par l'IA :",
+              "description": "Précision de 95 %."
             },
-            "note": "*Remarque : La précision est basée sur nos tests internes. Les résultats peuvent varier avec de nouveaux modèles IA et des méthodes avancées destinées à tromper les détecteurs.*"
+            "note": "*Note : La précision est basée sur nos tests internes. Les résultats peuvent varier avec les nouveaux modèles d'IA et les méthodes avancées conçues pour tromper les détecteurs.*"
           }
         },
         "textCleanup": {
-          "question": "Qu’est-ce que la fonction « Text Cleanup » ?",
-          "answer": "Le texte généré par IA contient souvent des caractères invisibles ou un formatage étrange qui peuvent agir comme des filigranes invisibles. Notre fonction Text Cleanup supprime ces traces d’un simple geste. Elle enlève : les caractères cachés (comme les espaces à largeur nulle), la ponctuation suspecte et les homoglyphes (lettres qui ressemblent à d’autres). Elle peut également normaliser l’orthographe (par ex., de l’anglais US à l’anglais UK) et corriger la ponctuation."
+          "question": "Qu'est-ce que la fonctionnalité « Nettoyage de texte » ?",
+          "answer": "Le texte généré par l'IA contient souvent des caractères cachés ou une mise en forme étrange qui peuvent agir comme des filigranes invisibles. Notre fonctionnalité de Nettoyage de texte supprime ces traces en un seul clic. Elle supprime : les caractères cachés (comme les espaces sans chasse), la ponctuation suspecte et les homoglyphes (lettres qui ressemblent à d'autres). Elle peut également normaliser l'orthographe (par exemple, de l'anglais américain à l'anglais britannique) et corriger la ponctuation pour vous."
         },
         "stickerPacks": {
           "question": "Que sont les packs de stickers AI Slop ?",
-          "answer": "Ce sont des packs de stickers iMessage amusants inclus avec l’app ! Lorsque vous trouvez du contenu généré par IA en ligne ou dans des discussions, vous pouvez utiliser nos stickers pour le signaler de manière ludique."
+          "answer": "Ce sont des packs de stickers iMessage amusants inclus avec l'application ! Lorsque vous trouvez du contenu généré par l'IA en ligne ou dans des discussions, vous pouvez utiliser nos stickers pour le signaler de manière légère."
         },
         "incognitoMode": {
-          "question": "Qu’est-ce que le mode Incognito ?",
-          "answer": "Le mode Incognito offre une couche supplémentaire de confidentialité. Lorsqu’il est activé, l’app ne conserve pas l’historique du contenu que vous avez vérifié. C’est parfait lorsque vous gérez des informations extrêmement sensibles et souhaitez ne laisser aucune trace de la vérification sur votre appareil."
+          "question": "Qu'est-ce que le mode Incognito ?",
+          "answer": "Le mode Incognito offre une couche de confidentialité supplémentaire. Lorsqu'il est activé, l'application ne conserve pas d'historique du contenu que vous avez vérifié. C'est parfait lorsque vous traitez des informations ultra-sensibles et que vous ne voulez laisser aucune trace de la vérification sur votre appareil."
         }
       }
     },
     "troubleshooting": {
-      "name": "Dépannage & Support",
+      "name": "Dépannage et support",
       "questions": {
         "whyDownload": {
-          "question": "Pourquoi l’app télécharge-t-elle des fichiers après son installation ?",
-          "answer": "Pour vous proposer un téléchargement plus rapide depuis l’App Store et économiser de l’espace de stockage sur votre appareil, nous gardons la taille initiale de l’app réduite. Lors du premier lancement de Slop Or Not, elle télécharge automatiquement nos puissants modèles de détection IA via le système On-Demand Resources d’Apple. C’est un processus unique. Parfois, des problèmes avec le service d’Apple peuvent interrompre ce téléchargement. S’il semble bloqué, vérifiez votre connexion internet et redémarrez l’app après quelques minutes. Le téléchargement devrait reprendre automatiquement."
+          "question": "Pourquoi l'application télécharge-t-elle des fichiers après que je l'ai installée ?",
+          "answer": "Pour vous offrir un téléchargement plus rapide depuis l'App Store et économiser de l'espace de stockage sur votre appareil, nous maintenons une petite taille initiale pour l'application. La première fois que vous lancez Slop Or Not, elle télécharge automatiquement nos puissants modèles de détection IA en utilisant le système de ressources à la demande d'Apple. C'est un processus unique. Occasionnellement, des problèmes avec le service d'Apple peuvent interrompre ce téléchargement. S'il semble bloqué, veuillez vérifier votre connexion Internet et redémarrer l'application après quelques minutes. Le téléchargement devrait reprendre automatiquement."
         },
         "imageResolution": {
-          "question": "La résolution de l’image influence-t-elle les scores de détection ?",
-          "answer": "Oui. Lorsque vous utilisez une miniature basse résolution ou une capture d’écran, le modèle s’exécute toujours mais peut renvoyer un score de confiance plus faible car les détails fins sont perdus lors de notre étape de normalisation. Essayez toujours d’utiliser la version originale ou la plus haute qualité de l’image. Plus il y a de pixels, plus le détecteur dispose d’indices ; les résultats sont donc plus solides et stables."
+          "question": "La résolution de l'image affecte-t-elle les scores de détection ?",
+          "answer": "Oui. Lorsque vous utilisez une miniature en basse résolution ou une capture d'écran, le modèle fonctionne toujours mais peut renvoyer un score de confiance plus faible car les détails fins sont perdus lors de notre étape de normalisation. Essayez toujours d'utiliser la version originale ou de la plus haute qualité de l'image. Plus de pixels signifient plus d'indices pour le détecteur, donc les résultats sont plus fiables et plus stables."
         },
         "howMuchText": {
-          "question": "Quelle quantité de texte faut-il pour une détection fiable ?",
-          "answer": "Le détecteur de texte a besoin d’au moins deux phrases complètes. Des extraits très courts offrent trop peu de contexte pour que le modèle repère les empreintes IA. Dans la mesure du possible, collez un paragraphe entier ou le document complet. Plus le passage est long, plus la confiance de détection est élevée."
+          "question": "De combien de texte ai-je besoin pour une détection fiable ?",
+          "answer": "Le détecteur de texte a besoin d'au moins deux phrases complètes pour fonctionner. Les extraits très courts donnent trop peu de contexte au modèle pour repérer les empreintes de l'IA. Dans la mesure du possible, collez un paragraphe entier ou le document complet. Plus le passage est long, plus la confiance de la détection est élevée."
         },
         "notDetecting": {
-          "question": "L’app ne détecte pas un contenu IA dont je suis sûr qu’il est généré par IA. Pourquoi ?",
+          "question": "L'application ne détecte pas un contenu IA dont je suis certain qu'il est généré par l'IA. Pourquoi ?",
           "answer": {
-            "intro": "Le monde de l’IA évolue rapidement. Bien que notre détecteur soit très précis, certains nouveaux modèles IA peuvent produire du contenu plus difficile à détecter. Nous mettons régulièrement nos modèles à jour pour suivre le rythme.",
-            "checkImage": "L’image que vous avez vérifiée est peut-être une miniature basse résolution ou une capture d’écran fortement compressée. Réessayez avec la version la plus haute résolution disponible.",
-            "checkText": "L’extrait de texte est peut-être trop court. Assurez-vous de fournir au moins deux phrases ; plus de texte améliore les résultats.",
-            "outro": "Ces vérifications rapides résolvent la plupart des rapports de « faux négatifs ». Si le problème persiste, veuillez nous partager l’exemple pour que nous puissions améliorer l’app pour tous."
+            "intro": "Le monde de l'IA évolue rapidement. Bien que notre détecteur soit très précis, certains nouveaux modèles d'IA peuvent créer du contenu plus difficile à détecter. Nous mettons régulièrement à jour nos modèles pour rester à la pointe.",
+            "checkImage": "L'image que vous avez vérifiée pourrait être une miniature en basse résolution ou une capture d'écran fortement compressée. Réessayez avec la version de la plus haute résolution disponible.",
+            "checkText": "L'échantillon de texte pourrait être trop court. Assurez-vous de fournir au moins deux phrases ; plus de texte améliore les résultats.",
+            "outro": "Ces vérifications rapides résolvent la plupart des rapports de « faux négatifs ». Si le problème persiste, veuillez partager l'exemple avec nous afin que nous puissions continuer à améliorer l'application pour tout le monde."
           }
         }
       }
     }
   },
   "RelatedLinks": {
-    "title": "Besoin d’aide supplémentaire ?",
-    "description": "Vous ne trouvez pas la réponse qu’il vous faut ? Rejoignez notre communauté Discord pour des astuces, conseils et assistance en temps réel."
+    "title": "Besoin d'aide supplémentaire ?",
+    "description": "Vous ne trouvez pas la réponse dont vous avez besoin ? Rejoignez notre communauté Discord pour des astuces, des conseils et un support en temps réel."
   },
   "DiscordBadge": {
     "discord": "Discord",
@@ -312,29 +312,29 @@
   },
   "SupportPage": {
     "metadata": {
-      "title": "Assistance - Slop Or Not",
-      "description": "Obtenez de l'aide pour Slop Or Not, le détecteur de contenu IA gratuit et local. Contactez-nous via Discord ou par e-mail, ou consultez notre page d'aide."
+      "title": "Support - Slop Or Not",
+      "description": "Obtenez de l'aide pour Slop Or Not, le détecteur de contenu IA gratuit sur l'appareil. Contactez-nous via Discord ou par e-mail, ou consultez notre page d'Aide."
     },
-    "title": "Assistance",
-    "description": "Slop Or Not est développé par deux ingénieurs pour vous offrir un détecteur de contenu IA gratuit, fonctionnant directement sur votre appareil. Nous ne pouvons pas garantir une réponse immédiate, mais nous ferons de notre mieux pour vous aider.",
+    "title": "Support",
+    "description": "Slop Or Not est développé par deux ingénieurs qui vous proposent un détecteur de contenu IA gratuit et sur l'appareil. Nous ne pouvons pas promettre de réponses instantanées, mais nous ferons de notre mieux pour vous aider.",
     "contact": {
-      "title": "Contactez-nous",
+      "title": "Nous contacter",
       "discord": {
         "title": "Discord (recommandé)",
-        "description": "Rejoignez notre communauté pour une aide rapide, des conseils et le soutien des pairs."
+        "description": "Rejoignez notre communauté pour une aide rapide, des conseils et un support par les pairs."
       },
       "email": {
         "title": "E-mail",
-        "description": "Dans la mesure du possible, nous répondons aux e-mails de support."
+        "description": "Dans la mesure de nos capacités, nous répondons aux e-mails de support."
       }
     },
     "fastAnswers": {
-      "title": "Besoin d'une réponse rapide ?",
-      "description": "Pour les questions courantes, consultez notre <link>page d'aide</link>."
+      "title": "Besoin de réponses rapides ?",
+      "description": "Pour les questions fréquentes, consultez notre <link>page d'Aide</link>."
     },
     "feedback": {
-      "title": "Retour & Demandes de fonctionnalités",
-      "suggest": "<strong>Suggérer une fonctionnalité :</strong> Publiez dans le canal <code>#suggestions</code> sur Discord.",
+      "title": "Commentaires et demandes de fonctionnalités",
+      "suggest": "<strong>Suggérer une fonctionnalité :</strong> Publiez dans <code>#suggestions</code> sur Discord.",
       "report": "<strong>Signaler un bug :</strong> Envoyez-nous un message privé sur Discord ou un e-mail avec une capture d'écran ou un journal."
     }
   }
