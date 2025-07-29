@@ -1,0 +1,36 @@
+{
+  "LanguageSwitcher": {
+    "ar": "Arabiska",
+    "zh-HK": "Kinesiska (Hongkong)",
+    "zh-CN": "Kinesiska, förenklad",
+    "zh-TW": "Kinesiska, traditionell",
+    "cs": "Tjeckiska",
+    "nl": "Nederländska",
+    "fi": "Finska",
+    "fr": "Franska",
+    "de": "Tyska",
+    "he": "Hebreiska",
+    "hi": "Hindi",
+    "hu": "Ungerska",
+    "it": "Italienska",
+    "ja": "Japanska",
+    "ko": "Koreanska",
+    "nb": "Norska bokmål",
+    "pl": "Polska",
+    "pt-BR": "Portugisiska (Brasilien)",
+    "pt-PT": "Portugisiska (Portugal)",
+    "ro": "Rumänska",
+    "ru": "Ryska",
+    "es": "Spanska",
+    "sv": "Svenska",
+    "tr": "Turkiska",
+    "uk": "Ukrainska",
+    "ur": "Urdu",
+    "en": "Engelska (USA)",
+    "en-GB": "Engelska (Storbritannien)"
+  },
+  "DiscordBadge": {
+    "discord": "Discord",
+    "usersOnline": "{onlineCount, plural, one {# användare online} other {# användare online}}"
+  }
+}

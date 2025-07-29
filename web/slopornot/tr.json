@@ -8,36 +8,6 @@
     "help": "Yardım",
     "download": "İndir"
   },
-  "LanguageSwitcher": {
-    "ar": "Arapça",
-    "zh-HK": "Çince (Hong Kong)",
-    "zh-CN": "Çince, Basitleştirilmiş",
-    "zh-TW": "Çince, Geleneksel",
-    "cs": "Çekçe",
-    "nl": "Felemenkçe",
-    "fi": "Fince",
-    "fr": "Fransızca",
-    "de": "Almanca",
-    "he": "İbranice",
-    "hi": "Hintçe",
-    "hu": "Macarca",
-    "it": "İtalyanca",
-    "ja": "Japonca",
-    "ko": "Korece",
-    "nb": "Norveççe Bokmål",
-    "pl": "Lehçe",
-    "pt-BR": "Portekizce (Brezilya)",
-    "pt-PT": "Portekizce (Portekiz)",
-    "ro": "Rumence",
-    "ru": "Rusça",
-    "es": "İspanyolca",
-    "sv": "İsveççe",
-    "tr": "Türkçe",
-    "uk": "Ukraynaca",
-    "ur": "Urduca",
-    "en": "İngilizce (ABD)",
-    "en-GB": "İngilizce (BK)"
-  },
   "Header": {
     "logoAlt": "Slop Or Not",
     "navigation": {
@@ -305,10 +275,6 @@
   "RelatedLinks": {
     "title": "Daha Fazla Yardıma mı İhtiyacınız Var?",
     "description": "İhtiyacınız olan cevabı bulamadınız mı? Gerçek zamanlı ipuçları, püf noktaları ve destek için Discord topluluğumuza katılın."
-  },
-  "DiscordBadge": {
-    "discord": "Discord",
-    "usersOnline": "{onlineCount, plural, one {# çevrimiçi kullanıcı} other {# çevrimiçi kullanıcı}}"
   },
   "SupportPage": {
     "metadata": {

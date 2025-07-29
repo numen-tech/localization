@@ -8,36 +8,6 @@
     "help": "Súgó",
     "download": "Letöltés"
   },
-  "LanguageSwitcher": {
-    "ar": "Arab",
-    "zh-HK": "Kínai (Hongkong)",
-    "zh-CN": "Kínai, egyszerűsített",
-    "zh-TW": "Kínai, hagyományos",
-    "cs": "Cseh",
-    "nl": "Holland",
-    "fi": "Finn",
-    "fr": "Francia",
-    "de": "Német",
-    "he": "Héber",
-    "hi": "Hindi",
-    "hu": "Magyar",
-    "it": "Olasz",
-    "ja": "Japán",
-    "ko": "Koreai",
-    "nb": "Norvég bokmål",
-    "pl": "Lengyel",
-    "pt-BR": "Portugál (Brazília)",
-    "pt-PT": "Portugál (Portugália)",
-    "ro": "Román",
-    "ru": "Orosz",
-    "es": "Spanyol",
-    "sv": "Svéd",
-    "tr": "Török",
-    "uk": "Ukrán",
-    "ur": "Urdu",
-    "en": "Angol (USA)",
-    "en-GB": "Angol (Egyesült Királyság)"
-  },
   "Header": {
     "logoAlt": "Slop Or Not",
     "navigation": {
@@ -305,10 +275,6 @@
   "RelatedLinks": {
     "title": "További segítségre van szüksége?",
     "description": "Nem találja a szükséges választ? Csatlakozzon Discord közösségünkhöz valós idejű tippekért, trükkökért és támogatásért."
-  },
-  "DiscordBadge": {
-    "discord": "Discord",
-    "usersOnline": "{onlineCount, plural, one {# felhasználó online} other {# felhasználó online}}"
   },
   "SupportPage": {
     "metadata": {

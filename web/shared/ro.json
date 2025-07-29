@@ -1,0 +1,36 @@
+{
+  "LanguageSwitcher": {
+    "ar": "Arabă",
+    "zh-HK": "Chineză (Hong Kong)",
+    "zh-CN": "Chineză, Simplificată",
+    "zh-TW": "Chineză, Tradițională",
+    "cs": "Cehă",
+    "nl": "Olandeză",
+    "fi": "Finlandeză",
+    "fr": "Franceză",
+    "de": "Germană",
+    "he": "Ebraică",
+    "hi": "Hindi",
+    "hu": "Maghiară",
+    "it": "Italiană",
+    "ja": "Japoneză",
+    "ko": "Coreeană",
+    "nb": "Norvegiană Bokmål",
+    "pl": "Poloneză",
+    "pt-BR": "Portugheză (Brazilia)",
+    "pt-PT": "Portugheză (Portugalia)",
+    "ro": "Română",
+    "ru": "Rusă",
+    "es": "Spaniolă",
+    "sv": "Suedeză",
+    "tr": "Turcă",
+    "uk": "Ucraineană",
+    "ur": "Urdu",
+    "en": "Engleză (SUA)",
+    "en-GB": "Engleză (Regatul Unit)"
+  },
+  "DiscordBadge": {
+    "discord": "Discord",
+    "usersOnline": "{onlineCount, plural, one {# utilizator online} few {# utilizatori online} other {# de utilizatori online}}"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "LanguageSwitcher": {
+    "ar": "Arabe",
+    "zh-HK": "Chinois (Hong Kong)",
+    "zh-CN": "Chinois, simplifié",
+    "zh-TW": "Chinois, traditionnel",
+    "cs": "Tchèque",
+    "nl": "Néerlandais",
+    "fi": "Finnois",
+    "fr": "Français",
+    "de": "Allemand",
+    "he": "Hébreu",
+    "hi": "Hindi",
+    "hu": "Hongrois",
+    "it": "Italien",
+    "ja": "Japonais",
+    "ko": "Coréen",
+    "nb": "Norvégien Bokmål",
+    "pl": "Polonais",
+    "pt-BR": "Portugais (Brésil)",
+    "pt-PT": "Portugais (Portugal)",
+    "ro": "Roumain",
+    "ru": "Russe",
+    "es": "Espagnol",
+    "sv": "Suédois",
+    "tr": "Turc",
+    "uk": "Ukrainien",
+    "ur": "Ourdou",
+    "en": "Anglais (États-Unis)",
+    "en-GB": "Anglais (Royaume-Uni)"
+  },
+  "DiscordBadge": {
+    "discord": "Discord",
+    "usersOnline": "{onlineCount, plural, one {# utilisateur en ligne} other {# utilisateurs en ligne}}"
+  }
+}

@@ -8,36 +8,6 @@
     "help": "Ohjeet",
     "download": "Lataa"
   },
-  "LanguageSwitcher": {
-    "ar": "Arabia",
-    "zh-HK": "Kiina (Hongkong)",
-    "zh-CN": "Kiina, yksinkertaistettu",
-    "zh-TW": "Kiina, perinteinen",
-    "cs": "Tšekki",
-    "nl": "Hollanti",
-    "fi": "Suomi",
-    "fr": "Ranska",
-    "de": "Saksa",
-    "he": "Heprea",
-    "hi": "Hindi",
-    "hu": "Unkari",
-    "it": "Italia",
-    "ja": "Japani",
-    "ko": "Korea",
-    "nb": "Norja (bokmål)",
-    "pl": "Puola",
-    "pt-BR": "Portugali (Brasilia)",
-    "pt-PT": "Portugali (Portugali)",
-    "ro": "Romania",
-    "ru": "Venäjä",
-    "es": "Espanja",
-    "sv": "Ruotsi",
-    "tr": "Turkki",
-    "uk": "Ukraina",
-    "ur": "Urdu",
-    "en": "Englanti (Yhdysvallat)",
-    "en-GB": "Englanti (Iso-Britannia)"
-  },
   "Header": {
     "logoAlt": "Slop Or Not",
     "navigation": {
@@ -305,10 +275,6 @@
   "RelatedLinks": {
     "title": "Tarvitsetko lisää apua?",
     "description": "Etkö löydä tarvitsemaasi vastausta? Liity Discord-yhteisöömme saadaksesi reaaliaikaisia vinkkejä, niksejä ja tukea."
-  },
-  "DiscordBadge": {
-    "discord": "Discord",
-    "usersOnline": "{onlineCount, plural, one {# käyttäjä paikalla} other {# käyttäjää paikalla}}"
   },
   "SupportPage": {
     "metadata": {

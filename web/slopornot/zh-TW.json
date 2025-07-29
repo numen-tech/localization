@@ -8,36 +8,6 @@
     "help": "幫助",
     "download": "下載"
   },
-  "LanguageSwitcher": {
-    "ar": "阿拉伯文",
-    "zh-HK": "中文 (香港)",
-    "zh-CN": "簡體中文",
-    "zh-TW": "繁體中文",
-    "cs": "捷克文",
-    "nl": "荷蘭文",
-    "fi": "芬蘭文",
-    "fr": "法文",
-    "de": "德文",
-    "he": "希伯來文",
-    "hi": "印地文",
-    "hu": "匈牙利文",
-    "it": "義大利文",
-    "ja": "日文",
-    "ko": "韓文",
-    "nb": "挪威文（書面）",
-    "pl": "波蘭文",
-    "pt-BR": "葡萄牙文（巴西）",
-    "pt-PT": "葡萄牙文（葡萄牙）",
-    "ro": "羅馬尼亞文",
-    "ru": "俄文",
-    "es": "西班牙文",
-    "sv": "瑞典文",
-    "tr": "土耳其文",
-    "uk": "烏克蘭文",
-    "ur": "烏爾都文",
-    "en": "英文（美國）",
-    "en-GB": "英文（英國）"
-  },
   "Header": {
     "logoAlt": "Slop Or Not",
     "navigation": {
@@ -305,10 +275,6 @@
   "RelatedLinks": {
     "title": "需要更多幫助？",
     "description": "找不到您需要的答案嗎？加入我們的 Discord 社群，以獲得即時的訣竅、技巧和支援。"
-  },
-  "DiscordBadge": {
-    "discord": "Discord",
-    "usersOnline": "{onlineCount} 位使用者在線"
   },
   "SupportPage": {
     "metadata": {
