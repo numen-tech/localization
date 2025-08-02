@@ -8,36 +8,6 @@
     "help": "도움말",
     "download": "다운로드"
   },
-  "LanguageSwitcher": {
-    "ar": "아랍어",
-    "zh-HK": "중국어(홍콩)",
-    "zh-CN": "중국어, 간체",
-    "zh-TW": "중국어, 번체",
-    "cs": "체코어",
-    "nl": "네덜란드어",
-    "fi": "핀란드어",
-    "fr": "프랑스어",
-    "de": "독일어",
-    "he": "히브리어",
-    "hi": "힌디어",
-    "hu": "헝가리어",
-    "it": "이탈리아어",
-    "ja": "일본어",
-    "ko": "한국어",
-    "nb": "노르웨이어(보크몰)",
-    "pl": "폴란드어",
-    "pt-BR": "포르투갈어(브라질)",
-    "pt-PT": "포르투갈어(포르투갈)",
-    "ro": "루마니아어",
-    "ru": "러시아어",
-    "es": "스페인어",
-    "sv": "스웨덴어",
-    "tr": "터키어",
-    "uk": "우크라이나어",
-    "ur": "우르두어",
-    "en": "영어(미국)",
-    "en-GB": "영어(영국)"
-  },
   "Header": {
     "logoAlt": "Slop Or Not",
     "navigation": {
@@ -305,10 +275,6 @@
   "RelatedLinks": {
     "title": "도움이 더 필요하신가요?",
     "description": "필요한 답변을 찾을 수 없나요? 저희 Discord 커뮤니티에 참여하여 실시간 팁, 요령 및 지원을 받으세요."
-  },
-  "DiscordBadge": {
-    "discord": "Discord",
-    "usersOnline": "{onlineCount, plural, other {#명 온라인}}"
   },
   "SupportPage": {
     "metadata": {

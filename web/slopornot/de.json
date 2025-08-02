@@ -8,36 +8,6 @@
     "help": "Hilfe",
     "download": "Download"
   },
-  "LanguageSwitcher": {
-    "ar": "Arabisch",
-    "zh-HK": "Chinesisch (Hongkong)",
-    "zh-CN": "Chinesisch, Vereinfacht",
-    "zh-TW": "Chinesisch, Traditionell",
-    "cs": "Tschechisch",
-    "nl": "Niederländisch",
-    "fi": "Finnisch",
-    "fr": "Französisch",
-    "de": "Deutsch",
-    "he": "Hebräisch",
-    "hi": "Hindi",
-    "hu": "Ungarisch",
-    "it": "Italienisch",
-    "ja": "Japanisch",
-    "ko": "Koreanisch",
-    "nb": "Norwegisch (Bokmål)",
-    "pl": "Polnisch",
-    "pt-BR": "Portugiesisch (Brasilien)",
-    "pt-PT": "Portugiesisch (Portugal)",
-    "ro": "Rumänisch",
-    "ru": "Russisch",
-    "es": "Spanisch",
-    "sv": "Schwedisch",
-    "tr": "Türkisch",
-    "uk": "Ukrainisch",
-    "ur": "Urdu",
-    "en": "Englisch (US)",
-    "en-GB": "Englisch (UK)"
-  },
   "Header": {
     "logoAlt": "Slop Or Not",
     "navigation": {
@@ -305,10 +275,6 @@
   "RelatedLinks": {
     "title": "Benötigen Sie weitere Hilfe?",
     "description": "Finden Sie nicht die Antwort, die Sie benötigen? Treten Sie unserer Discord-Community bei, um in Echtzeit Tipps, Tricks und Unterstützung zu erhalten."
-  },
-  "DiscordBadge": {
-    "discord": "Discord",
-    "usersOnline": "{onlineCount, plural, one {# Benutzer online} other {# Benutzer online}}"
   },
   "SupportPage": {
     "metadata": {

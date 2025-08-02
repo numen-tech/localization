@@ -8,36 +8,6 @@
     "help": "Nápověda",
     "download": "Stáhnout"
   },
-  "LanguageSwitcher": {
-    "ar": "Arabština",
-    "zh-HK": "Čínština (Hongkong)",
-    "zh-CN": "Čínština, zjednodušená",
-    "zh-TW": "Čínština, tradiční",
-    "cs": "Čeština",
-    "nl": "Nizozemština",
-    "fi": "Finština",
-    "fr": "Francouzština",
-    "de": "Němčina",
-    "he": "Hebrejština",
-    "hi": "Hindština",
-    "hu": "Maďarština",
-    "it": "Italština",
-    "ja": "Japonština",
-    "ko": "Korejština",
-    "nb": "Norština (Bokmål)",
-    "pl": "Polština",
-    "pt-BR": "Portugalština (Brazílie)",
-    "pt-PT": "Portugalština (Portugalsko)",
-    "ro": "Rumunština",
-    "ru": "Ruština",
-    "es": "Španělština",
-    "sv": "Švédština",
-    "tr": "Turečtina",
-    "uk": "Ukrajinština",
-    "ur": "Urdština",
-    "en": "Angličtina (USA)",
-    "en-GB": "Angličtina (VB)"
-  },
   "Header": {
     "logoAlt": "Slop Or Not",
     "navigation": {
@@ -305,10 +275,6 @@
   "RelatedLinks": {
     "title": "Potřebujete další pomoc?",
     "description": "Nemůžete najít odpověď, kterou potřebujete? Připojte se k naší komunitě na Discordu pro tipy, triky a podporu v reálném čase."
-  },
-  "DiscordBadge": {
-    "discord": "Discord",
-    "usersOnline": "{onlineCount, plural, one {# uživatel online} few {# uživatelé online} other {# uživatelů online}}"
   },
   "SupportPage": {
     "metadata": {

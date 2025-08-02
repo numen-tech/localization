@@ -8,36 +8,6 @@
     "help": "Hjelp",
     "download": "Last ned"
   },
-  "LanguageSwitcher": {
-    "ar": "Arabisk",
-    "zh-HK": "Kinesisk (Hong Kong)",
-    "zh-CN": "Kinesisk, forenklet",
-    "zh-TW": "Kinesisk, tradisjonell",
-    "cs": "Tsjekkisk",
-    "nl": "Nederlandsk",
-    "fi": "Finsk",
-    "fr": "Fransk",
-    "de": "Tysk",
-    "he": "Hebraisk",
-    "hi": "Hindi",
-    "hu": "Ungarsk",
-    "it": "Italiensk",
-    "ja": "Japansk",
-    "ko": "Koreansk",
-    "nb": "Norsk bokmål",
-    "pl": "Polsk",
-    "pt-BR": "Portugisisk (Brasil)",
-    "pt-PT": "Portugisisk (Portugal)",
-    "ro": "Rumensk",
-    "ru": "Russisk",
-    "es": "Spansk",
-    "sv": "Svensk",
-    "tr": "Tyrkisk",
-    "uk": "Ukrainsk",
-    "ur": "Urdu",
-    "en": "Engelsk (USA)",
-    "en-GB": "Engelsk (Storbritannia)"
-  },
   "Header": {
     "logoAlt": "Slop Or Not",
     "navigation": {
@@ -305,10 +275,6 @@
   "RelatedLinks": {
     "title": "Trenger du mer hjelp?",
     "description": "Finner du ikke svaret du trenger? Bli med i vårt Discord-fellesskap for tips, triks og støtte i sanntid."
-  },
-  "DiscordBadge": {
-    "discord": "Discord",
-    "usersOnline": "{onlineCount, plural, one {# bruker online} other {# brukere online}}"
   },
   "SupportPage": {
     "metadata": {

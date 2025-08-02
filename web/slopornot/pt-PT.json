@@ -8,36 +8,6 @@
     "help": "Ajuda",
     "download": "Transferir"
   },
-  "LanguageSwitcher": {
-    "ar": "Árabe",
-    "zh-HK": "Chinês (Hong Kong)",
-    "zh-CN": "Chinês, Simplificado",
-    "zh-TW": "Chinês, Tradicional",
-    "cs": "Checo",
-    "nl": "Neerlandês",
-    "fi": "Finlandês",
-    "fr": "Francês",
-    "de": "Alemão",
-    "he": "Hebraico",
-    "hi": "Híndi",
-    "hu": "Húngaro",
-    "it": "Italiano",
-    "ja": "Japonês",
-    "ko": "Coreano",
-    "nb": "Norueguês Bokmål",
-    "pl": "Polaco",
-    "pt-BR": "Português (Brasil)",
-    "pt-PT": "Português (Portugal)",
-    "ro": "Romeno",
-    "ru": "Russo",
-    "es": "Espanhol",
-    "sv": "Sueco",
-    "tr": "Turco",
-    "uk": "Ucraniano",
-    "ur": "Urdu",
-    "en": "Inglês (EUA)",
-    "en-GB": "Inglês (Reino Unido)"
-  },
   "Header": {
     "logoAlt": "Slop Or Not",
     "navigation": {
@@ -305,10 +275,6 @@
   "RelatedLinks": {
     "title": "Precisa de Mais Ajuda?",
     "description": "Não consegue encontrar a resposta que precisa? Junte-se à nossa comunidade no Discord para dicas, truques e suporte em tempo real."
-  },
-  "DiscordBadge": {
-    "discord": "Discord",
-    "usersOnline": "{onlineCount, plural, one {# utilizador online} other {# utilizadores online}}"
   },
   "SupportPage": {
     "metadata": {
