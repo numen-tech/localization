@@ -32,5 +32,21 @@
   "DiscordBadge": {
     "discord": "Discord",
     "usersOnline": "{onlineCount, plural, one {# 位用户在线} other {# 位用户在线}}"
+  },
+  "Footer": {
+    "products": {
+      "slopOrNot": {
+        "name": "Slop Or Not",
+        "description": "用于文本和图像的 AI 内容检测器。"
+      },
+      "cleanLinks": {
+        "name": "Clean Links",
+        "description": "二维码扫描器与链接清理器"
+      },
+      "privateLlm": {
+        "name": "Private LLM",
+        "description": "适用于 Apple 设备的本地 AI 聊天机器人。"
+      }
+    }
   }
 }

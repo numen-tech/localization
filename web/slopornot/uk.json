@@ -23,16 +23,6 @@
       "resources": "Ресурси",
       "help": "Допомога"
     },
-    "products": {
-      "slopOrNot": {
-        "name": "Slop Or Not",
-        "description": "Детектор ШІ-контенту для тексту та зображень."
-      },
-      "privateLlm": {
-        "name": "Private LLM",
-        "description": "Локальний ШІ-чатбот для пристроїв Apple."
-      }
-    },
     "links": {
       "download": "Завантажити",
       "privacyPolicy": "Політика конфіденційності",

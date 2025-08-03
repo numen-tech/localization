@@ -23,16 +23,6 @@
       "resources": "Források",
       "help": "Súgó"
     },
-    "products": {
-      "slopOrNot": {
-        "name": "Slop Or Not",
-        "description": "MI tartalomdetektor szövegekhez és képekhez."
-      },
-      "privateLlm": {
-        "name": "Private LLM",
-        "description": "Helyi MI chatbot Apple eszközökre."
-      }
-    },
     "links": {
       "download": "Letöltés",
       "privacyPolicy": "Adatvédelmi irányelvek",

@@ -23,16 +23,6 @@
       "resources": "Zdroje",
       "help": "Nápověda"
     },
-    "products": {
-      "slopOrNot": {
-        "name": "Slop Or Not",
-        "description": "Detektor obsahu AI pro text a obrázky."
-      },
-      "privateLlm": {
-        "name": "Private LLM",
-        "description": "Lokální AI chatbot pro zařízení Apple."
-      }
-    },
     "links": {
       "download": "Stáhnout",
       "privacyPolicy": "Zásady ochrany osobních údajů",

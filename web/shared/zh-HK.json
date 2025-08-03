@@ -32,5 +32,21 @@
   "DiscordBadge": {
     "discord": "Discord",
     "usersOnline": "{onlineCount, plural, one {# 位用戶在線} other {# 位用戶在線}}"
+  },
+  "Footer": {
+    "products": {
+      "slopOrNot": {
+        "name": "Slop Or Not",
+        "description": "用於文字和圖像的 AI 內容檢測器。"
+      },
+      "cleanLinks": {
+        "name": "Clean Links",
+        "description": "QR Code 掃描器與連結清理器"
+      },
+      "privateLlm": {
+        "name": "Private LLM",
+        "description": "適用於 Apple 裝置的本機 AI 聊天機械人。"
+      }
+    }
   }
 }

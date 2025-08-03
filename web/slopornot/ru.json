@@ -23,16 +23,6 @@
       "resources": "Ресурсы",
       "help": "Помощь"
     },
-    "products": {
-      "slopOrNot": {
-        "name": "Slop Or Not",
-        "description": "Детектор ИИ-контента для текста и изображений."
-      },
-      "privateLlm": {
-        "name": "Private LLM",
-        "description": "Локальный ИИ-чат-бот для устройств Apple."
-      }
-    },
     "links": {
       "download": "Скачать",
       "privacyPolicy": "Политика конфиденциальности",

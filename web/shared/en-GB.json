@@ -32,5 +32,21 @@
   "DiscordBadge": {
     "discord": "Discord",
     "usersOnline": "{onlineCount, plural, one {# user online} other {# users online}}"
+  },
+  "Footer": {
+    "products": {
+      "slopOrNot": {
+        "name": "Slop Or Not",
+        "description": "AI content detector for text & images."
+      },
+      "cleanLinks": {
+        "name": "Clean Links",
+        "description": "QR Code Scanner & Link Cleaner"
+      },
+      "privateLlm": {
+        "name": "Private LLM",
+        "description": "Local AI chatbot for Apple devices."
+      }
+    }
   }
 }

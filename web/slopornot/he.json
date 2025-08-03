@@ -23,16 +23,6 @@
       "resources": "מקורות מידע",
       "help": "עזרה"
     },
-    "products": {
-      "slopOrNot": {
-        "name": "Slop Or Not",
-        "description": "גלאי תוכן AI לטקסט ותמונות."
-      },
-      "privateLlm": {
-        "name": "Private LLM",
-        "description": "צ'אטבוט AI מקומי למכשירי Apple."
-      }
-    },
     "links": {
       "download": "הורדה",
       "privacyPolicy": "מדיניות פרטיות",

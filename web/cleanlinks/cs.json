@@ -1,1 +1,218 @@
-{ "placeholder": "Placeholder for Clean Links translations" }
+{
+  "metadata": {
+    "title": "Skener QR kódů a čistič odkazů | Clean Links pro iPhone",
+    "description": "Chraňte se před skrytými přesměrováními, phishingem a quishingem. Skenujte, čistěte a sdílejte QR kódy nebo odkazy bez reklam a protokolování – vždy zdarma."
+  },
+  "navigation": {
+    "download": "Stáhnout",
+    "faq": "Časté dotazy",
+    "useCases": "Případy použití",
+    "menu": "Menu"
+  },
+  "hero": {
+    "logoAlt": "Logo Clean Links",
+    "title": "Clean Links",
+    "subtitle": "Skener QR kódů a čistič odkazů v jedné bezplatné aplikaci",
+    "description": "Clean Links odhalí skutečnou URL za každým kódem nebo zkráceným odkazem, odstraní sledovací prvky a vygeneruje čistý odkaz, kterému můžete důvěřovat."
+  },
+  "features": {
+    "qrScanner": {
+      "title": "Skener QR kódů, který blokuje podvody",
+      "description": "Skenujte s důvěrou. <strong>Čtečka QR kódů</strong> Clean Links zobrazí skutečnou URL <em>ještě před otevřením v prohlížeči</em>, přičemž jedním klepnutím odstraní skryté sledovací prvky a odmaskuje zkrácené odkazy. Phishing pomocí QR kódů („quishing“) za dva roky vzrostl 15krát – nyní 1 z 10 phishingových e-mailů skrývá QR kód.¹ Když cíl uvidíte jako první, můžete se <strong>vy</strong> rozhodnout vrátit, místo abyste skončili na falešné přihlašovací stránce.",
+      "qrCodeReader": "Čtečka QR kódů",
+      "beforeBrowserOpens": "ještě před otevřením v prohlížeči"
+    },
+    "linkCleaner": {
+      "title": "Čistič odkazů: vyčistěte jakýkoli odkaz, kdekoli",
+      "description": "Vložte, sdílejte nebo použijte zkratku pro URL a náš Čistič odkazů odstraní utm_source, fbclid, gclid a stovky dalších sledovacích prvků z více než 250 webů – a jejich počet stále roste. Výsledek? Zbraň proti ekonomice dohledu: odstraněním sledovacích stop vložených do zkrácených odkazů a parametrů URL připravíte giganty sociálních médií a reklamní zprostředkovatele o data, která shromažďují, aby vás profilovali a cílili na vás reklamu.",
+      "linkCleaner": "Čistič odkazů",
+      "utmSource": "utm_source",
+      "fbclid": "fbclid",
+      "gclid": "gclid"
+    },
+    "qrGenerator": {
+      "title": "Vytvářejte QR kódy bez sledování, připravené ke sdílení",
+      "description": "Naskenujte jídelní lístek v restauraci nebo jakýkoli jiný QR kód, odhalte skutečný odkaz a klepněte na Generovat QR. Během několika sekund máte nový kód, který mohou vaši přátelé naskenovat – žádné skryté sledování, jen stránka, kterou jste chtěli sdílet.",
+      "generateQR": "Generovat QR"
+    },
+    "controlCenter": {
+      "title": "Soukromí na jedno klepnutí v Ovládacím centru a Zkratkách Siri",
+      "description": "Přidejte Clean Links do Ovládacího centra nebo si vytvořte hlasovou zkratku jako „Hey Siri, vyčisti můj odkaz.“ Navrhněte si vlastní pracovní postup – například automatické čištění schránky a následné otevření výsledku ve vašem preferovaném prohlížeči – cokoli, co nejlépe vyhovuje vašemu stylu práce."
+    },
+    "shareSheet": {
+      "title": "Sdílejte čistý odkaz z jakékoli aplikace",
+      "description": "V aplikacích Mail, Safari, X, TikTok – kdekoli, kde se objeví list pro sdílení v iOS – klepněte na Clean Links. Okamžitě nahraďte přeplněný odkaz čistým, než stisknete Odeslat. Žádné složité kopírování a vkládání, jen naprostý klid."
+    }
+  },
+  "statistics": {
+    "threat": {
+      "title": "Phishing pomocí QR kódů a sledování odkazů: Rostoucí hrozba",
+      "description": "Skenerů QR kódů je dnes všude plno – a podvodů také. Za pouhé dva roky vzrostl podíl phishingu založeného na QR kódech z 0,8 % na 12,4 % všech útoků (15násobný nárůst)¹, přičemž 1 z 10 phishingových e-mailů skrývá QR kód. Ani „neškodné“ odkazy na sociálních sítích nejsou výjimkou: Facebook, X, TikTok a další označují každou odchozí URL značkami fbclid, t.co, igshid, gclid a více než 250 dalšími sledovacími prvky, které vás sledují po celém webu.",
+      "solution": "Clean Links odstraní sledovací prvky a odhalí skutečný cíl dříve, než klepnete – takže každé skenování a kliknutí probíhá podle vašich podmínek.",
+      "citation": {
+        "prefix": "¹Zdroj:",
+        "link": "Keepnet Labs 2025 Quishing Report & Global Research Brief on Malicious Links"
+      }
+    },
+    "qrPhishing": {
+      "title": "Nárůst phishingu pomocí QR kódů",
+      "year2021": "Phishingové útoky v roce 2021",
+      "year2023": "Phishingové útoky v roce 2023",
+      "growthMultiplier": "Násobek růstu",
+      "emailStat": "<strong>1 z 10</strong> phishingových e-mailů nyní obsahuje QR kódy",
+      "maliciousStat": "<strong>Téměř 2 %</strong> běžně používaných QR kódů je označeno jako škodlivé"
+    },
+    "socialTracking": {
+      "title": "Sledování na sociálních sítích",
+      "description": "Hlavní platformy obalují každý odchozí odkaz sledovacími identifikátory:",
+      "summary": "<strong>Každé kliknutí</strong> je zaznamenáno a označeno pro cílení reklam napříč <strong>více než 250 doménami</strong>"
+    }
+  },
+  "useCases": {
+    "title": "Případy použití a aplikace v reálném světě",
+    "description": "Od ochrany proti phishingu pomocí QR kódů po automatizaci pracovních postupů pro ochranu soukromí se Clean Links přizpůsobí vašemu digitálnímu životu v 17 klíčových scénářích.",
+    "ecommerce": {
+      "title": "Nakupování v e-shopech",
+      "description": "Clean Links odstraňuje affiliate a marketingové sledování (např. parametry „tag“ na Amazonu, affiliate ID), takže vidíte produktovou stránku přesně tak, jak ji prodejce zamýšlel, bez profilování reklamními technologiemi."
+    },
+    "socialMedia": {
+      "title": "Odkazy ze sociálních médií",
+      "description": "Odstraňte UTM a další značky kampaní z přesměrování Facebooku „fbclid“, Twitteru „t.co“, Instagramu „l.instagram.com“, LinkedIn „lnkd.in“, zkracovačů TikToku atd. a získejte skutečný náhled URL, než klepnete."
+    },
+    "searchEngine": {
+      "title": "Výsledky z vyhledávačů",
+      "description": "Odstraňte sledovací tokeny Google „gclid“, Bing „msclkid“, Yahoo a podobné parametry, takže klikání na výsledky vyhledávání bude působit stejně přímočaře jako ruční zadání URL."
+    },
+    "advertising": {
+      "title": "Reklamní odkazy",
+      "description": "Vyčistěte sledovací parametry z bannerových reklam, e-mailových promo akcí a vstupních stránek placeného vyhledávání, abyste zabránili neviditelným reklamním sítím ve vašem profilování."
+    },
+    "restaurantMenus": {
+      "title": "Jídelní lístky v restauracích a QR kódy na místě",
+      "description": "Než se dostanete na digitální jídelní lístek (nebo jakýkoli kód na veřejném místě), podívejte se na celý odkaz – vyhnete se tak falešným „quishingovým“ nálepkám, které přesměrovávají platby podvodníkům."
+    },
+    "eventTickets": {
+      "title": "Vstupenky na akce a palubní lístky",
+      "description": "Ověřte, že QR kód na vaší vstupence na festival, palubním lístku nebo konferenčním odznaku skutečně odkazuje na oficiální URL, a ne na podvrženou phishingovou stránku."
+    },
+    "paymentCodes": {
+      "title": "Kódy na platebních místech (parkovací automaty, doprava, prodejní automaty)",
+      "description": "Naskenujte veřejné platební QR kódy a potvrďte, že směřují na správný portál schválený městem nebo prodejcem, nikoli na podvodného výběrčího plateb."
+    },
+    "emailSms": {
+      "title": "QR přílohy v e-mailech/SMS",
+      "description": "Zkontrolujte kódy vložené v neočekávaných zprávách o „zmeškaném doručení“ nebo „problému s účtem“, abyste zmařili škodlivá přesměrování."
+    },
+    "shortLinks": {
+      "title": "Bit.ly, TinyURL, t.co, rb.gy",
+      "description": "Rozbalte a zobrazte náhled jakéhokoli zkráceného odkazu na straně klienta nebo platformy, abyste předem věděli, kam vás bit.ly/PayPal-update nebo t.co/UD3p5uZH17 zavedou."
+    },
+    "redirectChains": {
+      "title": "Řetězce s vícenásobným přesměrováním",
+      "description": "Sledujte a sbalte sekvence přesměrování – zabráníte tak zatemnění pomocí stránek CAPTCHA nebo vrstvených zkracovačů – až do konečného cíle."
+    },
+    "platformWrapped": {
+      "title": "Odkazy zabalené platformou",
+      "description": "Odhalte skutečnou URL za Link Shim od Facebooku/Instagramu, t.co od Twitteru/X, lnkd.in od LinkedInu, přesměrovávacími stránkami YouTube atd., abyste nikdy neklikali naslepo."
+    },
+    "emailForwarding": {
+      "title": "Přeposílání e-mailem nebo přes messenger",
+      "description": "Vyčistěte vložené URL předtím, než je přepošlete kolegům nebo přátelům – aby dostali „čistý“ odkaz bez sledovacích parametrů."
+    },
+    "marketingPosts": {
+      "title": "Marketingové a sociální příspěvky",
+      "description": "Vygenerujte nový QR kód z jakéhokoli vyčištěného odkazu pro tištěné letáky, plakáty nebo online kampaně – a nabídněte publiku zážitek respektující soukromí."
+    },
+    "businessCards": {
+      "title": "QR kódy na vizitkách",
+      "description": "Vytvářejte na svých tištěných materiálech krátké QR kódy bez sledování, čímž zajistíte, že každé skenování povede přesně na vámi určenou vstupní stránku."
+    },
+    "shareSheet": {
+      "title": "Rozšíření pro list sdílení",
+      "description": "Vyvolejte Clean Links z aplikací Safari, Mail, X, LinkedIn (a jakékoli aplikace podporující listy sdílení v iOS) a vyčistěte odkazy jedním klepnutím."
+    },
+    "controlCenter": {
+      "title": "Dlaždice v Ovládacím centru",
+      "description": "Přidejte tlačítko pro rychlý přístup do Ovládacího centra pro vyčištění URL ze schránky nebo naskenování QR kódu kdekoli v iOS."
+    },
+    "shortcuts": {
+      "title": "Integrace Zkratek a Siri",
+      "description": "Automatizujte čištění odkazů nebo generování QR kódů v rámci Apple Shortcuts nebo je volejte přes Siri („Hey Siri, vyčisti můj odkaz“) a začleňte soukromí do svých každodenních rutin."
+    }
+  },
+  "faq": {
+    "title": "Časté dotazy",
+    "description": "Často kladené otázky o Clean Links",
+    "whatIs": {
+      "question": "Co je Clean Links?",
+      "answer": "Clean Links je bezplatná utilita pro iOS, která odstraňuje sledovací parametry z URL a odhaluje skutečný cíl za QR kódy a zkrácenými odkazy – takže otevíráte jen to, co chcete, bez skrytých sledovacích prvků nebo přesměrování."
+    },
+    "deviceRequirements": {
+      "question": "Která zařízení a verze iOS Clean Links podporuje?",
+      "answer": "Clean Links vyžaduje zařízení, na kterém lze spustit iOS 18.0 nebo novější."
+    },
+    "whyCreate": {
+      "question": "Proč jsme vytvořili Clean Links?",
+      "answer": "Původně jsme jej vytvořili pro sebe, abychom se vyhnuli „quishingu“ (phishingu pomocí QR kódů) a chránili se před odkazy plnými sledování. Později jsme zjistili, že phishing a quishing postihuje mnoho dobrých lidí po celém světě, mnozí z nich s technickým vzděláním. Proto jsme se rozhodli jej uvolnit pro všechny a udělali jsme ho zcela zdarma."
+    },
+    "privacyProtection": {
+      "question": "Jak Clean Links chrání mé soukromí?",
+      "answer": "Veškeré zpracování probíhá na vašem zařízení – žádné cookies, identifikátory ani analytická data nikdy neopustí váš telefon. Clean Links jednoduše odstraní známé sledovací parametry (UTM tagy, affiliate ID, ad-tech tokeny) před načtením odkazu. U zkrácených odkazů provádíme požadavky v izolovaném kontextu, bez jakýchkoli cookies, relací atd. Tím maříme sledování pomocí cookies, které používají zkracovače URL, inzerenti a datoví brokeři ke sledování uživatelů."
+    },
+    "phishingProtection": {
+      "question": "Může Clean Links blokovat pokusy o phishing („quishing“)?",
+      "answer": "Ano. Když naskenujete QR kód, Clean Links vám ukáže plnou, neodmaskovanou URL. Vy se rozhodnete, zda ji otevřete, nebo ne. To je rozdíl oproti aplikaci Fotoaparát v iOS a jiným placeným aplikacím pro čtení QR kódů, které jednoduše otevřou odkaz, na který QR kód ukazuje, bez vašeho souhlasu."
+    },
+    "historyStorage": {
+      "question": "Ukládá Clean Links moji historii nebo naskenované QR kódy?",
+      "answer": "Ne. Clean Links záměrně nezaznamenává ani neukládá odkazy, které čistíte nebo skenujete."
+    },
+    "cleanWorkflow": {
+      "question": "Jak vyčistím odkaz, který jsem zkopíroval?",
+      "answer": "Můžete si vytvořit Apple Shortcut, který vezme URL z vaší schránky, vyčistí ji a vloží vyčištěný odkaz zpět. Například si stáhněte tuto zkratku na jedno klepnutí: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0. Pro ještě rychlejší přístup přiřaďte tuto zkratku k akčnímu tlačítku vašeho iPhonu (iPhone 15 Pro a novější), takže jediným stisknutím kdekoli vyčistíte odkaz ve schránce. Můžete přidat Clean Links do Ovládacího centra: vyberte si ze dvou akcí – „Otevřít aplikaci“ nebo „Čtečka QR.“ K těmto akcím máte přístup přímo v Ovládacím centru nebo na zamykací obrazovce, nebo je přiřaďte k akčnímu tlačítku pro čištění jedním klepnutím odkudkoli. Aplikaci Clean Links můžete také otevřít ručně a vložit svou URL k vyčištění."
+    },
+    "qrScanning": {
+      "question": "Jak naskenuji QR kód?",
+      "answer": "Spusťte Clean Links z domovské obrazovky, pomocí zkratky nebo akčního tlačítka a namiřte fotoaparát na kód. Uvidíte skutečnou cílovou URL, než se rozhodnete ji otevřít. Clean Links sleduje všechna přesměrování a odstraňuje sledovací parametry z konečného cíle – čímž brání phishingovým odkazům skrytým za službami pro zkracování odkazů nebo přesměrování."
+    },
+    "urlExpansion": {
+      "question": "Mohu rozbalit a zobrazit náhled zkrácených URL?",
+      "answer": "Rozhodně. Vložte nebo sdílejte jakýkoli bit.ly, TinyURL, t.co nebo jiný krátký odkaz do Clean Links. Rozbalí všechny řetězce přesměrování a ukáže vám konečnou URL, než klepnete."
+    },
+    "qrGeneration": {
+      "question": "Mohu vygenerovat bezpečný QR kód z vyčištěného odkazu?",
+      "answer": "Ano. Po vyčištění URL klepněte na „Generovat QR“ a vytvořte nový kód, který můžete sdílet zcela bez sledovacích parametrů. To je obzvláště užitečné, když chcete sdílet vyčištěný odkaz s přáteli: jedním klepnutím mohou naskenovat váš QR kód a otevřít přesně stejnou URL bez sledování. Je to také užitečné, když se snažíte sdílet obsah s přáteli používajícími Android, aniž byste byli sledováni, ehm, jak se ta aplikace jmenuje? To vám a vašim přátelům pomůže vyhnout se tomu, abyste byli následující týden nebo dva bombardováni reklamami souvisejícími s obsahem, který jste právě sdíleli."
+    },
+    "systemIntegration": {
+      "question": "Funguje Clean Links v Safari, Mailu a dalších aplikacích?",
+      "answer": "Ano. Rozšíření Clean Links pro systémový list sdílení lze použít v Safari, Mailu, X (Twitter), Youtube, LinkedIn nebo jakékoli jiné aplikaci, která používá nativní listy sdílení v iOS."
+    },
+    "shortcutsAutomation": {
+      "question": "Mohu automatizovat čištění odkazů pomocí Zkratek nebo Siri?",
+      "answer": "Clean Links poskytuje App Intents, které fungují s Apple Shortcuts i Siri. Můžete si vytvořit zkratku, která čistí odkazy z vaší schránky nebo cokoli jiného. Například použijte tuto zkratku „Clean Links“ k získání odkazu ve vaší schránce, jeho vyčištění a vložení vyčištěné URL zpět do schránky: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+    }
+  },
+  "cta": {
+    "title": "Skener QR kódů a čistič odkazů - Chraňte své soukromí",
+    "description": "Okamžitě odhalte skutečnou URL, odstraňte skryté sledovací prvky a vytvářejte QR kódy připravené ke sdílení – vše 100% na zařízení, 100% zdarma."
+  },
+  "footer": {
+    "products": {
+      "title": "Produkty"
+    },
+    "resources": {
+      "title": "Zdroje",
+      "download": "Stáhnout",
+      "privacyPolicy": "Zásady ochrany osobních údajů",
+      "useCases": "Případy použití"
+    },
+    "help": {
+      "title": "Nápověda",
+      "faq": "Časté dotazy",
+      "privacyProtection": "Jak Clean Links chrání mé soukromí?",
+      "phishingProtection": "Může Clean Links blokovat pokusy o phishing („quishing“)?",
+      "systemIntegration": "Funguje Clean Links v Safari, Mailu a dalších aplikacích?"
+    },
+    "copyright": "Všechna práva vyhrazena."
+  }
+}

@@ -23,16 +23,6 @@
       "resources": "الموارد",
       "help": "المساعدة"
     },
-    "products": {
-      "slopOrNot": {
-        "name": "Slop Or Not",
-        "description": "كاشف محتوى الذكاء الاصطناعي للنصوص والصور."
-      },
-      "privateLlm": {
-        "name": "Private LLM",
-        "description": "بوت دردشة ذكاء اصطناعي محلي لأجهزة Apple."
-      }
-    },
     "links": {
       "download": "تنزيل",
       "privacyPolicy": "سياسة الخصوصية",

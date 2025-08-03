@@ -23,16 +23,6 @@
       "resources": "リソース",
       "help": "ヘルプ"
     },
-    "products": {
-      "slopOrNot": {
-        "name": "Slop Or Not",
-        "description": "テキストと画像のためのAIコンテンツ検出器。"
-      },
-      "privateLlm": {
-        "name": "Private LLM",
-        "description": "Appleデバイス向けのローカルAIチャットボット。"
-      }
-    },
     "links": {
       "download": "ダウンロード",
       "privacyPolicy": "プライバシーポリシー",

@@ -32,5 +32,21 @@
   "DiscordBadge": {
     "discord": "Discord",
     "usersOnline": "{onlineCount, plural, one {# felhasználó online} other {# felhasználó online}}"
+  },
+  "Footer": {
+    "products": {
+      "slopOrNot": {
+        "name": "Slop Or Not",
+        "description": "MI-tartalomérzékelő szöveghez és képekhez."
+      },
+      "cleanLinks": {
+        "name": "Clean Links",
+        "description": "QR-kód olvasó és linktisztító"
+      },
+      "privateLlm": {
+        "name": "Private LLM",
+        "description": "Helyi MI-chatbot Apple-eszközökhöz."
+      }
+    }
   }
 }

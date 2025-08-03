@@ -32,5 +32,21 @@
   "DiscordBadge": {
     "discord": "Discord",
     "usersOnline": "{onlineCount, plural, one {# uživatel online} few {# uživatelé online} other {# uživatelů online}}"
+  },
+  "Footer": {
+    "products": {
+      "slopOrNot": {
+        "name": "Slop Or Not",
+        "description": "Detektor obsahu AI pro text a obrázky."
+      },
+      "cleanLinks": {
+        "name": "Clean Links",
+        "description": "Skener QR kódů a čistič odkazů"
+      },
+      "privateLlm": {
+        "name": "Private LLM",
+        "description": "Lokální AI chatbot pro zařízení Apple."
+      }
+    }
   }
 }

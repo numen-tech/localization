@@ -1,1 +1,219 @@
-{ "placeholder": "Placeholder for Clean Links translations" }
+{
+  "metadata": {
+    "title": "二维码扫描器与链接清理器 | Clean Links for iPhone",
+    "description": "防范隐藏的重定向、网络钓鱼和二维码钓鱼。扫描、清理和分享二维码或链接，无广告，无日志 - 永久免费。"
+  },
+  "navigation": {
+    "download": "下载",
+    "faq": "常见问题",
+    "useCases": "使用场景",
+    "menu": "菜单"
+  },
+  "hero": {
+    "logoAlt": "Clean Links 标志",
+    "title": "Clean Links",
+    "subtitle": "一款免费的二维码扫描与链接清理应用",
+    "description": "Clean Links 能显示每个二维码或短链接背后的真实网址，清除跟踪器，并生成您可以信赖的干净链接。"
+  },
+  "features": {
+    "qrScanner": {
+      "title": "可拦截诈骗的二维码扫描器",
+      "description": "放心扫描。Clean Links 的<strong>二维码读取器</strong>会<em>在浏览器打开前</em>显示真实网址，一键清除隐藏的跟踪器并解析短链接。二维码网络钓鱼（“quishing”）在两年内激增了 15 倍——现在每 10 封网络钓鱼邮件中就有 1 封隐藏着二维码。¹ 首先看到目的地，让<strong>您</strong>可以及时退出，而不是登陆虚假的登录页面。",
+      "qrCodeReader": "二维码读取器",
+      "beforeBrowserOpens": "在浏览器打开前"
+    },
+    "linkCleaner": {
+      "title": "链接清理器：随时随地清理任何链接",
+      "description": "粘贴、分享或通过快捷指令发送一个网址，我们的链接清理器会从超过 250 个网站中删除 utm_source、fbclid、gclid 等数百种跟踪器——这个数字还在不断增加。结果呢？这是对抗监控经济学的武器：通过清除短链接和网址参数中隐藏的跟踪痕迹，您可以切断社交媒体巨头和广告中间商用来分析和重定向您的数据来源。",
+      "linkCleaner": "链接清理器",
+      "utmSource": "utm_source",
+      "fbclid": "fbclid",
+      "gclid": "gclid"
+    },
+    "qrGenerator": {
+      "title": "创建可随时分享、无跟踪器的二维码",
+      "description": "扫描餐厅菜单或任何其他二维码，揭示其真实链接，然后点击“生成二维码”。几秒钟内，您就可以得到一个全新的二维码供朋友扫描——没有偷偷摸摸的跟踪，只有您想分享的那个页面。",
+      "generateQR": "生成二维码"
+    },
+    "controlCenter": {
+      "title": "在控制中心和 Siri 快捷指令中一键保护隐私",
+      "description": "将 Clean Links 添加到控制中心，或创建一个语音快捷指令，如“嘿 Siri，清理我的链接”。设计您自己的工作流程——比如自动清理剪贴板，然后在您偏好的浏览器中打开结果——任何最适合您工作方式的流程都可以。"
+    },
+    "shareSheet": {
+      "title": "从任何应用分享干净的网址",
+      "description": "在邮件、Safari、X、TikTok——任何出现 iOS 分享表单的地方——点击 Clean Links。在发送前，即时将冗长的链接替换为纯净的链接。无需复杂的复制粘贴，纯粹的安心。",
+      "cleanLinks": "Clean Links"
+    }
+  },
+  "statistics": {
+    "threat": {
+      "title": "二维码钓鱼与链接跟踪：日益增长的威胁",
+      "description": "二维码扫描器如今无处不在，诈骗也是如此。在短短两年内，基于二维码的网络钓鱼攻击从占所有攻击的 0.8% 激增至 12.4%（增长了 15 倍）¹，同时每 10 封网络钓鱼邮件中就有 1 封隐藏着二维码。即使是“无害的”社交链接也未能幸免：Facebook、X、TikTok 等平台会给每个出站链接都打上 fbclid、t.co、igshid、gclid 等超过 250 种跟踪器，在网络上对您进行跟踪。",
+      "solution": "Clean Links 能在您点击前移除跟踪器并揭示真实目的地——因此每次扫描和点击都由您掌控。",
+      "citation": {
+        "prefix": "¹来源：",
+        "link": "Keepnet Labs 2025 年二维码钓鱼报告与全球恶意链接研究简报"
+      }
+    },
+    "qrPhishing": {
+      "title": "二维码网络钓鱼激增",
+      "year2021": "2021年网络钓鱼攻击",
+      "year2023": "2023年网络钓鱼攻击",
+      "growthMultiplier": "增长倍数",
+      "emailStat": "现在每 <strong>10</strong> 封网络钓鱼邮件中就有 <strong>1</strong> 封包含二维码",
+      "maliciousStat": "日常二维码中有近 <strong>2%</strong> 被标记为恶意"
+    },
+    "socialTracking": {
+      "title": "社交媒体跟踪",
+      "description": "各大平台都会用跟踪标识符包装每一个出站链接：",
+      "summary": "<strong>每一次点击</strong>都会被记录和标记，用于在超过 <strong>250</strong> 个域名上进行广告定位"
+    }
+  },
+  "useCases": {
+    "title": "使用场景与实际应用",
+    "description": "从防范二维码网络钓鱼到自动化隐私工作流，Clean Links 适应您数字生活中的 17 个关键场景",
+    "ecommerce": {
+      "title": "电子商务购物",
+      "description": "Clean Links 移除联盟和营销跟踪（例如亚马逊的“tag”参数、联盟 ID），让您看到零售商原本希望您看到的商品页面，不受广告技术分析的影响。"
+    },
+    "socialMedia": {
+      "title": "社交媒体链接",
+      "description": "从 Facebook 的“fbclid”、Twitter 的“t.co”、Instagram 的“l.instagram.com”重定向、LinkedIn 的“lnkd.in”、TikTok 的短链接等中剥离 UTM 和其他营销活动标签，在您点击前提供真实的网址预览。"
+    },
+    "searchEngine": {
+      "title": "搜索引擎结果",
+      "description": "移除 Google 的“gclid”、Bing 的“msclkid”、Yahoo 的跟踪令牌及类似参数，让点击搜索结果就像自己输入网址一样直接。"
+    },
+    "advertising": {
+      "title": "广告链接",
+      "description": "从横幅广告、电子邮件推广和付费搜索着陆页中清除跟踪参数，防止隐形的广告网络对您进行用户画像分析。"
+    },
+    "restaurantMenus": {
+      "title": "餐厅菜单与现场二维码",
+      "description": "在访问电子菜单（或任何公共场所的二维码）之前，先查看完整链接——避免那些将付款重定向至诈骗者的虚假“二维码钓鱼”贴纸。"
+    },
+    "eventTickets": {
+      "title": "活动门票与登机牌",
+      "description": "验证您的音乐节门票、登机牌或会议证件上的二维码是否真的指向官方网址，而不是一个伪造的网络钓鱼网站。"
+    },
+    "paymentCodes": {
+      "title": "支付点二维码（停车计时器、公共交通、自动售货机）",
+      "description": "扫描公共支付二维码，确认它们指向正确的城市或供应商批准的门户网站，而不是一个欺诈性的收款方。"
+    },
+    "emailSms": {
+      "title": "电子邮件/短信中的二维码附件",
+      "description": "检查嵌入在意外的“投递失败”或“账户问题”信息中的二维码，以挫败恶意重定向。"
+    },
+    "shortLinks": {
+      "title": "Bit.ly、TinyURL、t.co、rb.gy",
+      "description": "在客户端或平台侧展开并预览任何短链接，这样您就能提前知道 bit.ly/PayPal-update 或 t.co/UD3p5uZH17 会将您带到哪里。"
+    },
+    "redirectChains": {
+      "title": "多重重定向链",
+      "description": "跟踪并解析由验证码页面或层层嵌套的短链接所混淆的重定向序列，直达最终目的地。"
+    },
+    "platformWrapped": {
+      "title": "平台包装的链接",
+      "description": "揭示 Facebook/Instagram 的 Link Shim、Twitter/X 的 t.co、LinkedIn 的 lnkd.in、YouTube 的重定向页面等背后的真实网址，让您永远不会盲目点击。"
+    },
+    "emailForwarding": {
+      "title": "转发电子邮件或即时消息",
+      "description": "在转发给同事或朋友之前，先清理粘贴的网址——这样他们就能收到一个没有跟踪参数的“干净”链接。"
+    },
+    "marketingPosts": {
+      "title": "营销与社交媒体帖子",
+      "description": "从任何清理过的链接生成一个新的二维码，用于印刷传单、海报或在线活动——为受众提供一种注重隐私的体验。"
+    },
+    "businessCards": {
+      "title": "名片二维码",
+      "description": "在您的印刷材料上创建简短、无跟踪器的二维码，确保每次扫描都精确地指向您指定的着陆页。"
+    },
+    "shareSheet": {
+      "title": "分享表单扩展",
+      "description": "在 Safari、邮件、X、LinkedIn（以及任何支持 iOS 分享表单的应用）中调用 Clean Links，一键清除链接。"
+    },
+    "controlCenter": {
+      "title": "控制中心磁贴",
+      "description": "在控制中心添加一个快速访问按钮，以便在 iOS 的任何地方清理剪贴板网址或扫描二维码。"
+    },
+    "shortcuts": {
+      "title": "快捷指令与 Siri 集成",
+      "description": "在 Apple 快捷指令中自动化链接清理或二维码生成，或通过 Siri 调用（“嘿 Siri，清理我的链接”），将隐私保护融入您的日常。"
+    }
+  },
+  "faq": {
+    "title": "常见问题",
+    "description": "关于 Clean Links 的常见问题",
+    "whatIs": {
+      "question": "什么是 Clean Links？",
+      "answer": "Clean Links 是一款免费的 iOS 工具，它可以从网址中剥离跟踪参数，并揭示二维码和短链接背后的真实目标——这样您就只会打开您想要的内容，没有隐藏的跟踪器或重定向。"
+    },
+    "deviceRequirements": {
+      "question": "Clean Links 支持哪些设备和 iOS 版本？",
+      "answer": "Clean Links 需要运行 iOS 18.0 或更高版本的设备。"
+    },
+    "whyCreate": {
+      "question": "我们为什么创建 Clean Links？",
+      "answer": "我们最初是为自己开发的，以避免遭到“二维码钓鱼”并保护自己免受充满跟踪器的链接的侵害。后来我们了解到，网络钓鱼和二维码钓鱼正在影响世界各地许多善良的人，其中不乏有技术背景的人。因此，我们决定将其发布给所有人，并使其完全免费。"
+    },
+    "privacyProtection": {
+      "question": "Clean Links 如何保护我的隐私？",
+      "answer": "所有处理都在您的设备上进行——没有 Cookie、标识符或分析数据会离开您的手机。Clean Links 只是在加载链接前移除已知的跟踪参数（UTM 标签、联盟 ID、广告技术令牌）。对于短链接，我们在一个隔离的环境中发出请求，不带任何 Cookie、会话等。这挫败了网址缩短服务、广告商和数据代理商用来跟踪用户的基于 Cookie 的跟踪。"
+    },
+    "phishingProtection": {
+      "question": "Clean Links 能阻止网络钓鱼（“quishing”）尝试吗？",
+      "answer": "是的。当您扫描一个二维码时，Clean Links 会向您显示完整的、未被掩盖的网址。您可以决定是否打开它。这与 iOS 相机应用和其他付费二维码阅读器应用不同，后者会在未经您同意的情况下，直接打开二维码指向的链接。"
+    },
+    "historyStorage": {
+      "question": "Clean Links 会存储我的历史记录或扫描的二维码吗？",
+      "answer": "不会。根据设计，Clean Links 不会记录或存储您清理或扫描的链接。"
+    },
+    "cleanWorkflow": {
+      "question": "如何清理我复制的链接？",
+      "answer": "您可以创建一个 Apple 快捷指令，从剪贴板获取网址，进行清理，然后将清理后的链接放回剪贴板。例如，下载这个一键式快捷指令：https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0。为了更快地访问，将该快捷指令分配给您 iPhone 的操作按钮（iPhone 15 Pro 及更新机型），这样在任何地方只需按一下即可清理剪贴板链接。您可以将 Clean Links 添加到您的控制中心：从两个操作中选择——“打开应用”或“二维码读取器”。可以直接在控制中心或锁屏上访问这些功能，或将它们分配给操作按钮，以实现随时随地的一键清理。您也可以手动打开 Clean Links 应用并粘贴您的网址进行清理。"
+    },
+    "qrScanning": {
+      "question": "如何扫描二维码？",
+      "answer": "从您的主屏幕、快捷指令或操作按钮启动 Clean Links，然后将您的相机对准二维码。在选择打开之前，您会看到真实的目标网址。Clean Links 会跟踪所有重定向并从最终目的地剥离跟踪参数——防止隐藏在短链接或重定向服务背后的网络钓鱼链接。"
+    },
+    "urlExpansion": {
+      "question": "我可以展开并预览缩短的网址吗？",
+      "answer": "当然可以。将任何 bit.ly、TinyURL、t.co 或其他短链接粘贴或分享到 Clean Links。它会展开所有的重定向链，并在您点击前向您显示最终的网址。"
+    },
+    "qrGeneration": {
+      "question": "我可以从清理过的链接生成一个注重隐私的二维码吗？",
+      "answer": "可以。清理一个网址后，点击“生成二维码”来创建一个新的、完全不含跟踪参数的二维码，您可以分享出去。当您想与朋友分享清理后的链接时，这尤其方便：他们只需轻轻一点，扫描您的二维码，就可以打开完全相同、无跟踪的网址。当您试图与使用安卓的朋友分享内容，而又不想被某个应用监视时，这也很有用。这可以帮助您和您的朋友避免在接下来的一两周内，被与您刚刚分享的内容相关的广告轰炸。"
+    },
+    "systemIntegration": {
+      "question": "Clean Links 可以在 Safari、邮件和其他应用内工作吗？",
+      "answer": "可以。Clean Links 的全系统分享表单扩展可以在 Safari、邮件、X (Twitter)、Youtube、LinkedIn 或任何其他使用 iOS 原生分享表单的应用中使用。"
+    },
+    "shortcutsAutomation": {
+      "question": "我可以用快捷指令或 Siri 自动化链接清理吗？",
+      "answer": "Clean Links 提供了与 Apple 快捷指令和 Siri 兼容的 App Intents。您可以构建一个快捷指令来清理剪贴板中的链接或任何其他内容。例如，使用这个“Clean Links”快捷指令来获取剪贴板中的链接，进行清理，然后将清理后的网址粘贴回剪贴板：https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+    }
+  },
+  "cta": {
+    "title": "二维码扫描器与链接清理器 - 保护您的隐私",
+    "description": "即时揭示真实网址，清除隐藏的跟踪器，并创建可随时分享的二维码——全部 100% 在设备上完成，100% 免费。"
+  },
+  "footer": {
+    "products": {
+      "title": "产品"
+    },
+    "resources": {
+      "title": "资源",
+      "download": "下载",
+      "privacyPolicy": "隐私政策",
+      "useCases": "使用场景"
+    },
+    "help": {
+      "title": "帮助",
+      "faq": "常见问题",
+      "privacyProtection": "Clean Links 如何保护我的隐私？",
+      "phishingProtection": "Clean Links 能阻止网络钓鱼（“quishing”）尝试吗？",
+      "systemIntegration": "Clean Links 可以在 Safari、邮件和其他应用内工作吗？"
+    },
+    "copyright": "版权所有。"
+  }
+}

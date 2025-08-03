@@ -32,5 +32,21 @@
   "DiscordBadge": {
     "discord": "Discord",
     "usersOnline": "{onlineCount, plural, one {# çevrimiçi kullanıcı} other {# çevrimiçi kullanıcı}}"
+  },
+  "Footer": {
+    "products": {
+      "slopOrNot": {
+        "name": "Slop Or Not",
+        "description": "Metin ve görseller için yapay zeka içerik dedektörü."
+      },
+      "cleanLinks": {
+        "name": "Clean Links",
+        "description": "QR Kod Tarayıcı ve Bağlantı Temizleyici"
+      },
+      "privateLlm": {
+        "name": "Private LLM",
+        "description": "Apple cihazları için yerel yapay zeka sohbet robotu."
+      }
+    }
   }
 }

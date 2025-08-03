@@ -23,16 +23,6 @@
       "resources": "리소스",
       "help": "도움말"
     },
-    "products": {
-      "slopOrNot": {
-        "name": "Slop Or Not",
-        "description": "텍스트 및 이미지를 위한 AI 콘텐츠 탐지기."
-      },
-      "privateLlm": {
-        "name": "Private LLM",
-        "description": "Apple 기기를 위한 로컬 AI 챗봇."
-      }
-    },
     "links": {
       "download": "다운로드",
       "privacyPolicy": "개인정보 처리방침",

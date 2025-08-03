@@ -32,5 +32,21 @@
   "DiscordBadge": {
     "discord": "Discord",
     "usersOnline": "{onlineCount, plural, one {# उपयोगकर्ता ऑनलाइन} other {# उपयोगकर्ता ऑनलाइन}}"
+  },
+  "Footer": {
+    "products": {
+      "slopOrNot": {
+        "name": "Slop Or Not",
+        "description": "टेक्स्ट और इमेज के लिए एआई कंटेंट डिटेक्टर।"
+      },
+      "cleanLinks": {
+        "name": "Clean Links",
+        "description": "क्यूआर कोड स्कैनर और लिंक क्लीनर"
+      },
+      "privateLlm": {
+        "name": "Private LLM",
+        "description": "Apple डिवाइस के लिए स्थानीय एआई चैटबॉट।"
+      }
+    }
   }
 }

@@ -23,16 +23,6 @@
       "resources": "Ressourcen",
       "help": "Hilfe"
     },
-    "products": {
-      "slopOrNot": {
-        "name": "Slop Or Not",
-        "description": "KI-Inhaltsdetektor für Text & Bilder."
-      },
-      "privateLlm": {
-        "name": "Private LLM",
-        "description": "Lokaler KI-Chatbot für Apple-Geräte."
-      }
-    },
     "links": {
       "download": "Download",
       "privacyPolicy": "Datenschutzrichtlinie",
