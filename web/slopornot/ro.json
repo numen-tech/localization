@@ -23,16 +23,6 @@
       "resources": "Resurse",
       "help": "Ajutor"
     },
-    "products": {
-      "slopOrNot": {
-        "name": "Slop Or Not",
-        "description": "Detector de conținut AI pentru text și imagini."
-      },
-      "privateLlm": {
-        "name": "Private LLM",
-        "description": "Chatbot AI local pentru dispozitive Apple."
-      }
-    },
     "links": {
       "download": "Descărcare",
       "privacyPolicy": "Politică de Confidențialitate",

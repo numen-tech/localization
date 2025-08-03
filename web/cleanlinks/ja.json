@@ -1,1 +1,219 @@
-{ "placeholder": "Placeholder for Clean Links translations" }
+{
+  "metadata": {
+    "title": "QRコードスキャナー＆リンククリーナー | Clean Links for iPhone",
+    "description": "隠れたリダイレクト、フィッシング、クイッシングから保護します。広告、ログは一切なしでQRコードやリンクをスキャン、クリーン、共有 - いつでも無料です。"
+  },
+  "navigation": {
+    "download": "ダウンロード",
+    "faq": "よくある質問",
+    "useCases": "使用例",
+    "menu": "メニュー"
+  },
+  "hero": {
+    "logoAlt": "Clean Links ロゴ",
+    "title": "Clean Links",
+    "subtitle": "QRコードスキャナー＆リンククリーナーが1つになった無料アプリ",
+    "description": "Clean Linksは、すべてのQRコードや短縮リンクの背後にある実際のURLを表示し、トラッカーを削除し、信頼できるクリーンなURLを生成します。"
+  },
+  "features": {
+    "qrScanner": {
+      "title": "詐欺をブロックするQRコードスキャナー",
+      "description": "安心してスキャン。Clean Linksの<strong>QRコードリーダー</strong>は、<em>ブラウザが開く前に</em>実際のURLを表示し、隠れたトラッカーを削除し、短縮リンクを一度のタップで明らかにします。QRコードフィッシング（「クイッシング」）は2年間で15倍に急増し、今ではフィッシングメールの10件に1件がQRコードを隠しています¹。最初にリンク先を確認できるため、偽のログインページにアクセスする代わりに<strong>あなた自身</strong>が操作を中止できます。",
+      "qrCodeReader": "QRコードリーダー",
+      "beforeBrowserOpens": "ブラウザが開く前に"
+    },
+    "linkCleaner": {
+      "title": "Link Cleaner：どこでも、どんなリンクもクリーンに",
+      "description": "URLをペースト、共有、またはショートカットで指定すると、当社のLink Cleanerがutm_source、fbclid、gclidなど、250以上のサイトからの数百ものトラッカーを削減します。その結果は？監視経済に対する武器です。短縮リンクやURLパラメータに組み込まれた追跡用の痕跡を剥ぎ取ることで、SNS大手や広告ブローカーがあなたをプロファイリングし、リターゲティングするために収集するデータを断ち切ります。",
+      "linkCleaner": "Link Cleaner",
+      "utmSource": "utm_source",
+      "fbclid": "fbclid",
+      "gclid": "gclid"
+    },
+    "qrGenerator": {
+      "title": "共有可能でトラッカーフリーなQRコードを作成",
+      "description": "レストランのメニューや他のQRコードをスキャンし、本当のリンクを明らかにしてから「QRを生成」をタップ。数秒で友人がスキャンできる新しいコードが作成されます。こっそり追跡されることなく、共有したかったページそのものを渡せます。",
+      "generateQR": "QRを生成"
+    },
+    "controlCenter": {
+      "title": "コントロールセンターとSiriショートカットでワンタッププライバシー",
+      "description": "Clean Linksをコントロールセンターに追加するか、「Hey Siri, リンクをきれいにして」のような音声ショートカットを作成。クリップボードを自動でクリーンにしてから、好みのブラウザで結果を開くなど、自分の作業スタイルに最適なワークフローを設計できます。"
+    },
+    "shareSheet": {
+      "title": "どのアプリからでもクリーンなURLを共有",
+      "description": "Mail、Safari、X、TikTokなど、iOSの共有シートが表示される場所ならどこでもClean Linksをタップ。送信ボタンを押す前に、肥大化したリンクを瞬時にクリーンなものに置き換えられます。コピー＆ペーストの面倒な手間はなく、純粋な安心感だけです。",
+      "cleanLinks": "Clean Links"
+    }
+  },
+  "statistics": {
+    "threat": {
+      "title": "QRコードフィッシングとリンクトラッキング：増大する脅威",
+      "description": "QRコードスキャナーは今やどこにでもあり、詐欺も同様です。わずか2年で、QRベースのフィッシングは全攻撃の0.8%から12.4%に急増（15倍の増加）¹し、フィッシングメールの10件に1件はQRコードを隠しています。「無害な」ソーシャルリンクでさえ例外ではありません。Facebook、X、TikTokなどは、すべての外部リンクにfbclid、t.co、igshid、gclidなど250以上のトラッカーを付与し、ウェブ上であなたを追跡します。",
+      "solution": "Clean Linksはタップする前にトラッカーを削除し、本当のリンク先を明らかにします。そのため、すべてのスキャンとクリックがあなたの思い通りになります。",
+      "citation": {
+        "prefix": "¹出典：",
+        "link": "Keepnet Labs 2025年クイッシングレポート＆悪意のあるリンクに関するグローバルリサーチブリーフ"
+      }
+    },
+    "qrPhishing": {
+      "title": "QRコードフィッシングの急増",
+      "year2021": "2021年のフィッシング攻撃",
+      "year2023": "2023年のフィッシング攻撃",
+      "growthMultiplier": "増加率",
+      "emailStat": "フィッシングメールの<strong>10件に1件</strong>がQRコードを含む",
+      "maliciousStat": "日常的なQRコードの<strong>約2%</strong>が悪意のあるものとして報告されている"
+    },
+    "socialTracking": {
+      "title": "ソーシャルメディアのトラッキング",
+      "description": "主要プラットフォームはすべての外部リンクを追跡識別子でラップしています：",
+      "summary": "<strong>すべてのクリック</strong>が記録され、<strong>250以上</strong>のドメインで広告ターゲティングのためにタグ付けされます"
+    }
+  },
+  "useCases": {
+    "title": "使用例と実際の応用",
+    "description": "QRコードフィッシングからの保護からプライバシーワークフローの自動化まで、Clean Linksは17の主要なシナリオであなたのデジタルライフに適応します",
+    "ecommerce": {
+      "title": "Eコマースでのショッピング",
+      "description": "Clean Linksはアフィリエイトやマーケティングトラッキング（例：Amazonの「tag」パラメータ、アフィリエイトID）を削除するため、広告技術によるプロファイリングなしで、小売業者が意図した通りの商品ページを見ることができます。"
+    },
+    "socialMedia": {
+      "title": "ソーシャルメディアのリンク",
+      "description": "Facebookの「fbclid」、Twitterの「t.co」、Instagramの「l.instagram.com」リダイレクト、LinkedInの「lnkd.in」、TikTokの短縮URLなどからUTMやその他のキャンペーンタグを取り除き、タップする前に本当のURLプレビューを提供します。"
+    },
+    "searchEngine": {
+      "title": "検索エンジンの結果",
+      "description": "Googleの「gclid」、Bingの「msclkid」、Yahooの追跡トークンなどを削除し、検索結果のクリックがURLを直接入力するのと同じくらいダイレクトに感じられるようにします。"
+    },
+    "advertising": {
+      "title": "広告リンク",
+      "description": "バナー広告、メールプロモーション、有料検索のランディングページから追跡パラメータを削除し、見えない広告ネットワークによるプロファイリングを防ぎます。"
+    },
+    "restaurantMenus": {
+      "title": "レストランのメニューと店内のQRコード",
+      "description": "デジタルメニュー（や公共の場のコード）にアクセスする前に、完全なリンクを確認し、支払いを詐欺師にリダイレクトする偽の「クイッシング」ステッカーを回避します。"
+    },
+    "eventTickets": {
+      "title": "イベントチケットと搭乗券",
+      "description": "フェスのチケット、搭乗券、会議バッジのQRコードが、偽のフィッシングサイトではなく、本当に公式サイトのURLを指していることを確認します。"
+    },
+    "paymentCodes": {
+      "title": "決済ポイントのコード（駐車場、交通機関、自動販売機）",
+      "description": "公共の支払い用QRコードをスキャンして、正しい市やベンダーが承認したポータルにつながることを確認し、不正な支払い請求者を回避します。"
+    },
+    "emailSms": {
+      "title": "メール/SMSのQR添付ファイル",
+      "description": "予期しない「配達不在」や「アカウントの問題」メッセージに埋め込まれたコードを検査し、悪意のあるリダイレクトを阻止します。"
+    },
+    "shortLinks": {
+      "title": "Bit.ly, TinyURL, t.co, rb.gy",
+      "description": "bit.ly/PayPal-updateやt.co/UD3p5uZH17などの短縮リンクをクライアント側またはプラットフォーム側で展開・プレビューし、どこに着地するかを事前に把握できます。"
+    },
+    "redirectChains": {
+      "title": "複数のリダイレクトチェーン",
+      "description": "リダイレクトの連鎖を追跡・集約し、CAPTCHAページや多層の短縮URLによる難読化を防ぎ、最終的なリンク先を表示します。"
+    },
+    "platformWrapped": {
+      "title": "プラットフォームでラップされたリンク",
+      "description": "Facebook/InstagramのLink Shim、Twitter/Xのt.co、LinkedInのlnkd.in、YouTubeのリダイレクトページなどの背後にある本当のURLを明らかにし、決して盲目的にクリックすることがないようにします。"
+    },
+    "emailForwarding": {
+      "title": "メールやメッセンジャーでの転送",
+      "description": "同僚や友人に転送する前に、貼り付けたURLをクリーンにし、追跡パラメータのない「クリーンな」リンクを渡せます。"
+    },
+    "marketingPosts": {
+      "title": "マーケティングとソーシャルメディア投稿",
+      "description": "クリーンにしたリンクから新しいQRコードを生成し、印刷されたチラシ、ポスター、オンラインキャンペーンで使用することで、オーディエンスにプライバシーを重視した体験を提供します。"
+    },
+    "businessCards": {
+      "title": "名刺のQRコード",
+      "description": "印刷物に短く、トラッカーフリーのQRコードを作成し、すべてのスキャンが指定したランディングページに正確につながるようにします。"
+    },
+    "shareSheet": {
+      "title": "共有シート拡張機能",
+      "description": "Safari、Mail、X、LinkedIn（およびiOSの共有シートをサポートするすべてのアプリ）内からClean Linksを呼び出し、ワンタップでリンクをきれいにします。"
+    },
+    "controlCenter": {
+      "title": "コントロールセンターのタイル",
+      "description": "コントロールセンターにクイックアクセスボタンを追加して、iOSのどこからでもクリップボードのURLをクリーンにしたり、QRコードをスキャンしたりできます。"
+    },
+    "shortcuts": {
+      "title": "ショートカットとSiriの連携",
+      "description": "Appleのショートカット内でリンクのクリーン化やQR生成を自動化したり、Siri経由で（「Hey Siri, リンクをきれいにして」）呼び出したりして、プライバシーを日々のルーティンに組み込みます。"
+    }
+  },
+  "faq": {
+    "title": "よくある質問",
+    "description": "Clean Linksに関するよくある質問",
+    "whatIs": {
+      "question": "Clean Linksとは何ですか？",
+      "answer": "Clean Linksは、URLからトラッキングパラメータを削除し、QRコードや短縮リンクの背後にある本当のリンク先を明らかにする無料のiOSユーティリティです。これにより、隠れたトラッカーやリダイレクトなしで、開きたいものだけを開くことができます。"
+    },
+    "deviceRequirements": {
+      "question": "Clean LinksはどのデバイスとiOSバージョンをサポートしていますか？",
+      "answer": "Clean Linksは、iOS 18.0以降を実行できるデバイスが必要です。"
+    },
+    "whyCreate": {
+      "question": "なぜClean Linksを作成したのですか？",
+      "answer": "私たちは当初、「クイッシング」を避け、トラッキングだらけのリンクから身を守るために自分たち用に作りました。その後、フィッシングやクイッシングが、技術的な背景を持つ人々を含め、世界中の多くの善良な人々に影響を与えていることを知りました。そこで、皆さんのために公開し、完全に無料にすることにしました。"
+    },
+    "privacyProtection": {
+      "question": "Clean Linksはどのように私のプライバシーを保護しますか？",
+      "answer": "すべての処理はあなたのデバイス上で行われます。クッキー、識別子、分析データがあなたの携帯電話から出ることは一切ありません。Clean Linksは、リンクを読み込む前に既知の追跡パラメータ（UTMタグ、アフィリエイトID、広告技術トークン）を単に削除します。短縮リンクについては、クッキーやセッションなどを使わずに、隔離されたコンテキストでリクエストを行います。これにより、URL短縮サービス、広告主、データブローカーがユーザーを追跡するために使用するクッキーによる追跡を無効化します。"
+    },
+    "phishingProtection": {
+      "question": "Clean Linksはフィッシング（「クイッシング」）の試みをブロックできますか？",
+      "answer": "はい。QRコードをスキャンすると、Clean Linksは完全でマスクされていないURLを表示します。それを開くかどうかはあなたが決められます。これは、あなたの同意なしにQRコードが指し示すリンクを単に開いてしまうiOSのカメラアプリや他の有料QRコードリーダーアプリとは異なります。"
+    },
+    "historyStorage": {
+      "question": "Clean Linksは私の履歴やスキャンしたQRコードを保存しますか？",
+      "answer": "いいえ。設計上、Clean Linksはあなたがクリーンまたはスキャンしたリンクを記録または保存しません。"
+    },
+    "cleanWorkflow": {
+      "question": "コピーしたリンクをきれいにするにはどうすればよいですか？",
+      "answer": "クリップボードからURLを取得し、それをクリーンにして、クリーンになったリンクをクリップボードに戻すAppleショートカットを作成できます。例えば、このワンタップショートカットをダウンロードしてください：https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0。さらに高速にアクセスするには、そのショートカットをiPhoneのアクションボタン（iPhone 15 Pro以降）に割り当てれば、どこからでも一押しでクリップボードのリンクをきれいにできます。Clean Linksをコントロールセンターに追加することもできます：「アプリを開く」または「QRリーダー」の2つのアクションから選択してください。これらはコントロールセンターやロック画面から直接アクセスでき、アクションボタンに割り当ててどこからでもワンタップでクリーニングできます。また、Clean Linksアプリを手動で開いてURLを貼り付けてきれいにすることもできます。"
+    },
+    "qrScanning": {
+      "question": "QRコードをスキャンするにはどうすればよいですか？",
+      "answer": "ホーム画面、ショートカット、またはアクションボタンからClean Linksを起動し、カメラをコードに向けます。開く前に本当のリンク先URLが表示されます。Clean Linksはすべてのリダイレクトをたどり、最終的なリンク先から追跡パラメータを削除することで、短縮リンクやリダイレクションサービスの背後に隠れたフィッシングリンクを防ぎます。"
+    },
+    "urlExpansion": {
+      "question": "短縮URLを展開してプレビューできますか？",
+      "answer": "もちろんです。bit.ly、TinyURL、t.co、その他の短縮リンクをClean Linksに貼り付けるか共有してください。すべてのリダイレクトチェーンを解除し、タップする前に最終的なURLを表示します。"
+    },
+    "qrGeneration": {
+      "question": "クリーンにしたリンクからプライバシーセーフなQRコードを生成できますか？",
+      "answer": "はい。URLをクリーンにした後、「QRを生成」をタップすると、追跡パラメータが一切ない共有可能な新しいコードが作成されます。これは、クリーンにしたリンクを友人と共有したいときに特に便利です：ワンタップで彼らがあなたのQRコードをスキャンし、全く同じトラッカーフリーのURLを開くことができます。また、咳、咳：あのアプリは何でしたっけ？に監視されることなく、Androidを使っている友人とコンテンツを共有しようとするときにも便利です。これにより、あなたとあなたの友人が、共有したばかりのコンテンツに関連する広告で今後1〜2週間悩まされるのを避けることができます。"
+    },
+    "systemIntegration": {
+      "question": "Clean LinksはSafari、Mail、その他のアプリ内で動作しますか？",
+      "answer": "はい。Clean Linksのシステムワイドな共有シート拡張機能は、Safari、Mail、X（Twitter）、Youtube、LinkedIn、またはiOSのネイティブ共有シートを使用する他のどのアプリ内でも使用できます。"
+    },
+    "shortcutsAutomation": {
+      "question": "ショートカットやSiriでリンクのクリーン化を自動化できますか？",
+      "answer": "Clean Linksは、AppleショートカットとSiriの両方で動作するApp Intentsを提供します。クリップボードや他のものからリンクをクリーンにするショートカットを構築できます。例えば、この「Clean Links」ショートカットを使用して、クリップボードのリンクを取得し、それをクリーンにして、クリーンになったURLをクリップボードに貼り付け直すことができます：https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+    }
+  },
+  "cta": {
+    "title": "QRコードスキャナー＆リンククリーナー - あなたのプライバシーを守る",
+    "description": "本当のURLを瞬時に明らかにし、隠れたトラッカーを削除し、共有可能なQRコードを作成 - すべて100%デバイス上で、100%無料。"
+  },
+  "footer": {
+    "products": {
+      "title": "製品"
+    },
+    "resources": {
+      "title": "リソース",
+      "download": "ダウンロード",
+      "privacyPolicy": "プライバシーポリシー",
+      "useCases": "使用例"
+    },
+    "help": {
+      "title": "ヘルプ",
+      "faq": "よくある質問",
+      "privacyProtection": "Clean Linksはどのように私のプライバシーを保護しますか？",
+      "phishingProtection": "Clean Linksはフィッシング（「クイッシング」）の試みをブロックできますか？",
+      "systemIntegration": "Clean LinksはSafari、Mail、その他のアプリ内で動作しますか？"
+    },
+    "copyright": "無断複写・転載を禁じます。"
+  }
+}

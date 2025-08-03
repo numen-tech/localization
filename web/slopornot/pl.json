@@ -23,16 +23,6 @@
       "resources": "Zasoby",
       "help": "Pomoc"
     },
-    "products": {
-      "slopOrNot": {
-        "name": "Slop Or Not",
-        "description": "Wykrywacz treści AI dla tekstu i obrazów."
-      },
-      "privateLlm": {
-        "name": "Private LLM",
-        "description": "Lokalny chatbot AI na urządzenia Apple."
-      }
-    },
     "links": {
       "download": "Pobierz",
       "privacyPolicy": "Polityka Prywatności",

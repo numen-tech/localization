@@ -32,5 +32,21 @@
   "DiscordBadge": {
     "discord": "Discord",
     "usersOnline": "{onlineCount, plural, zero {لا يوجد مستخدمون متصلون} one {مستخدم واحد متصل} two {مستخدمان متصلان} few {# مستخدمين متصلين} many {# مستخدمًا متصلًا} other {# مستخدم متصل}}"
+  },
+  "Footer": {
+    "products": {
+      "slopOrNot": {
+        "name": "Slop Or Not",
+        "description": "كاشف محتوى الذكاء الاصطناعي للنصوص والصور."
+      },
+      "cleanLinks": {
+        "name": "Clean Links",
+        "description": "ماسح رمز QR ومنظف الروابط"
+      },
+      "privateLlm": {
+        "name": "Private LLM",
+        "description": "روبوت محادثة ذكاء اصطناعي محلي لأجهزة Apple."
+      }
+    }
   }
 }

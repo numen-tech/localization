@@ -23,16 +23,6 @@
       "resources": "संसाधन",
       "help": "सहायता"
     },
-    "products": {
-      "slopOrNot": {
-        "name": "Slop Or Not",
-        "description": "टेक्स्ट और इमेज के लिए AI कंटेंट डिटेक्टर।"
-      },
-      "privateLlm": {
-        "name": "Private LLM",
-        "description": "Apple डिवाइस के लिए लोकल AI चैटबॉट।"
-      }
-    },
     "links": {
       "download": "डाउनलोड",
       "privacyPolicy": "गोपनीयता नीति",

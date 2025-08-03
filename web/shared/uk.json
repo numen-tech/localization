@@ -32,5 +32,21 @@
   "DiscordBadge": {
     "discord": "Discord",
     "usersOnline": "{onlineCount, plural, one {# користувач онлайн} few {# користувачі онлайн} many {# користувачів онлайн} other {# користувача онлайн}}"
+  },
+  "Footer": {
+    "products": {
+      "slopOrNot": {
+        "name": "Slop Or Not",
+        "description": "Детектор контенту ШІ для тексту та зображень."
+      },
+      "cleanLinks": {
+        "name": "Clean Links",
+        "description": "Сканер QR-кодів та очищувач посилань"
+      },
+      "privateLlm": {
+        "name": "Private LLM",
+        "description": "Локальний чат-бот ШІ для пристроїв Apple."
+      }
+    }
   }
 }

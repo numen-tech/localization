@@ -23,16 +23,6 @@
       "resources": "Kaynaklar",
       "help": "Yardım"
     },
-    "products": {
-      "slopOrNot": {
-        "name": "Slop Or Not",
-        "description": "Metin ve görseller için yapay zeka içerik dedektörü."
-      },
-      "privateLlm": {
-        "name": "Private LLM",
-        "description": "Apple cihazları için yerel yapay zeka sohbet botu."
-      }
-    },
     "links": {
       "download": "İndir",
       "privacyPolicy": "Gizlilik Politikası",

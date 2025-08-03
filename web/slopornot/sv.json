@@ -23,16 +23,6 @@
       "resources": "Resurser",
       "help": "Hjälp"
     },
-    "products": {
-      "slopOrNot": {
-        "name": "Slop Or Not",
-        "description": "AI-innehållsdetektor för text & bilder."
-      },
-      "privateLlm": {
-        "name": "Private LLM",
-        "description": "Lokal AI-chattbot för Apple-enheter."
-      }
-    },
     "links": {
       "download": "Ladda ner",
       "privacyPolicy": "Integritetspolicy",

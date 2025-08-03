@@ -23,16 +23,6 @@
       "resources": "Resurssit",
       "help": "Ohjeet"
     },
-    "products": {
-      "slopOrNot": {
-        "name": "Slop Or Not",
-        "description": "Tekoälysisällön tunnistin tekstille & kuville."
-      },
-      "privateLlm": {
-        "name": "Private LLM",
-        "description": "Paikallinen tekoäly-chatbot Apple-laitteille."
-      }
-    },
     "links": {
       "download": "Lataa",
       "privacyPolicy": "Tietosuojakäytäntö",

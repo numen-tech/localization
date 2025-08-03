@@ -23,16 +23,6 @@
       "resources": "Recursos",
       "help": "Ajuda"
     },
-    "products": {
-      "slopOrNot": {
-        "name": "Slop Or Not",
-        "description": "Detector de conteúdo de IA para texto e imagens."
-      },
-      "privateLlm": {
-        "name": "Private LLM",
-        "description": "Chatbot de IA local para dispositivos Apple."
-      }
-    },
     "links": {
       "download": "Baixar",
       "privacyPolicy": "Política de Privacidade",

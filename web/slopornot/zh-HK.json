@@ -23,16 +23,6 @@
       "resources": "資源",
       "help": "幫助"
     },
-    "products": {
-      "slopOrNot": {
-        "name": "Slop Or Not",
-        "description": "文字與圖像的 AI 內容偵測器。"
-      },
-      "privateLlm": {
-        "name": "Private LLM",
-        "description": "適用於 Apple 裝置的本地 AI 聊天機器人。"
-      }
-    },
     "links": {
       "download": "下載",
       "privacyPolicy": "私隱政策",

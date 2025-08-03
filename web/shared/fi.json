@@ -32,5 +32,21 @@
   "DiscordBadge": {
     "discord": "Discord",
     "usersOnline": "{onlineCount, plural, one {# käyttäjä paikalla} other {# käyttäjää paikalla}}"
+  },
+  "Footer": {
+    "products": {
+      "slopOrNot": {
+        "name": "Slop Or Not",
+        "description": "Tekoälysisällön tunnistin tekstille ja kuville."
+      },
+      "cleanLinks": {
+        "name": "Clean Links",
+        "description": "QR-koodinlukija ja linkkien puhdistaja"
+      },
+      "privateLlm": {
+        "name": "Private LLM",
+        "description": "Paikallinen tekoäly-chatbot Apple-laitteille."
+      }
+    }
   }
 }

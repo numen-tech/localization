@@ -23,16 +23,6 @@
       "resources": "Bronnen",
       "help": "Help"
     },
-    "products": {
-      "slopOrNot": {
-        "name": "Slop Or Not",
-        "description": "AI-contentdetector voor tekst & afbeeldingen."
-      },
-      "privateLlm": {
-        "name": "Private LLM",
-        "description": "Lokale AI-chatbot voor Apple-apparaten."
-      }
-    },
     "links": {
       "download": "Download",
       "privacyPolicy": "Privacybeleid",

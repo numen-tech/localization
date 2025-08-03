@@ -23,16 +23,6 @@
       "resources": "وسائل",
       "help": "مدد"
     },
-    "products": {
-      "slopOrNot": {
-        "name": "Slop Or Not",
-        "description": "متن اور تصاویر کے لیے AI مواد کا پتہ لگانے والا۔"
-      },
-      "privateLlm": {
-        "name": "Private LLM",
-        "description": "Apple ڈیوائسز کے لیے مقامی AI چیٹ بوٹ۔"
-      }
-    },
     "links": {
       "download": "ڈاؤن لوڈ",
       "privacyPolicy": "رازداری کی پالیسی",

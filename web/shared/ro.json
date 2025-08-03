@@ -32,5 +32,21 @@
   "DiscordBadge": {
     "discord": "Discord",
     "usersOnline": "{onlineCount, plural, one {# utilizator online} few {# utilizatori online} other {# de utilizatori online}}"
+  },
+  "Footer": {
+    "products": {
+      "slopOrNot": {
+        "name": "Slop Or Not",
+        "description": "Detector de conținut AI pentru text și imagini."
+      },
+      "cleanLinks": {
+        "name": "Clean Links",
+        "description": "Scaner de coduri QR și curățător de linkuri"
+      },
+      "privateLlm": {
+        "name": "Private LLM",
+        "description": "Chatbot AI local pentru dispozitivele Apple."
+      }
+    }
   }
 }

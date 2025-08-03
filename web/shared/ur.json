@@ -32,5 +32,21 @@
   "DiscordBadge": {
     "discord": "Discord",
     "usersOnline": "{onlineCount, plural, one {# صارف آن لائن} other {# صارفین آن لائن}}"
+  },
+  "Footer": {
+    "products": {
+      "slopOrNot": {
+        "name": "Slop Or Not",
+        "description": "متن اور تصاویر کے لیے AI مواد کا پتہ لگانے والا۔"
+      },
+      "cleanLinks": {
+        "name": "Clean Links",
+        "description": "کیو آر کوڈ اسکینر اور لنک کلینر"
+      },
+      "privateLlm": {
+        "name": "Private LLM",
+        "description": "ایپل ڈیوائسز کے لیے مقامی AI چیٹ بوٹ۔"
+      }
+    }
   }
 }

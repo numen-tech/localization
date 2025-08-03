@@ -1,1 +1,219 @@
-{ "placeholder": "Placeholder for Clean Links translations" }
+{
+  "metadata": {
+    "title": "QR-kodeskanner og lenkerenser | Clean Links for iPhone",
+    "description": "Beskytt deg mot skjulte omdirigeringer, phishing og QR-kode-svindel. Skann, rens og del QR-koder eller lenker uten reklame og logger – alltid gratis."
+  },
+  "navigation": {
+    "download": "Last ned",
+    "faq": "FAQ",
+    "useCases": "Bruksområder",
+    "menu": "Meny"
+  },
+  "hero": {
+    "logoAlt": "Clean Links-logo",
+    "title": "Clean Links",
+    "subtitle": "QR-kodeskanner og lenkerenser i én gratis app",
+    "description": "Clean Links viser den ekte URL-en bak hver kode eller kortlenke, fjerner sporere og genererer en ren URL du kan stole på."
+  },
+  "features": {
+    "qrScanner": {
+      "title": "QR-kodeskanner som blokkerer svindel",
+      "description": "Skann trygt. Clean Links' <strong>QR-kodeleser</strong> viser den ekte URL-en <em>før nettleseren din åpnes</em>, fjerner skjulte sporere og avslører kortlenker med samme trykk. Phishing med QR-koder («quishing») har eksplodert med 15 ganger på to år – nå skjuler 1 av 10 phishing-e-poster en QR-kode.¹ Ved å se destinasjonen først kan <strong>du</strong> trekke deg tilbake i stedet for å lande på en falsk innloggingsside.",
+      "qrCodeReader": "QR-kodeleser",
+      "beforeBrowserOpens": "før nettleseren din åpnes"
+    },
+    "linkCleaner": {
+      "title": "Link Cleaner: rens enhver lenke, hvor som helst",
+      "description": "Lim inn, del eller lag en snarvei til en URL, og vår Link Cleaner fjerner utm_source, fbclid, gclid og hundrevis av andre sporere fra over 250 nettsteder – og tallet øker. Resultatet? Et våpen mot overvåkingsøkonomien: ved å fjerne sporingssmulene som er innebygd i kortlenker og URL-parametere, sulter du ut sosiale mediegiganter og annonsemeglere for dataene de hamstrer for å profilere og målrette deg.",
+      "linkCleaner": "Link Cleaner",
+      "utmSource": "utm_source",
+      "fbclid": "fbclid",
+      "gclid": "gclid"
+    },
+    "qrGenerator": {
+      "title": "Lag delingsklare, sporingsfrie QR-koder",
+      "description": "Skann en restaurantmeny eller en annen QR-kode, avslør den ekte lenken, og trykk deretter på Generer QR. På sekunder har du en ny kode vennene dine kan skanne – ingen skjult sporing, bare siden du mente å dele.",
+      "generateQR": "Generer QR"
+    },
+    "controlCenter": {
+      "title": "Personvern med ett trykk i Kontrollsenter og Siri-snarveier",
+      "description": "Legg til Clean Links i Kontrollsenter eller lag en talestyrt snarvei som «Hei Siri, rens lenken min». Design din egen arbeidsflyt – kanskje automatisk rensing av utklippstavlen, for så å åpne resultatet i din foretrukne nettleser – det som passer deg best."
+    },
+    "shareSheet": {
+      "title": "Del en ren URL fra hvilken som helst app",
+      "description": "I Mail, Safari, X, TikTok – overalt hvor iOS' delingsark vises – trykk på Clean Links. Erstatt den oppblåste lenken umiddelbart med en plettfri en før du trykker på Send. Null kopier-og-lim-inn-gymnastikk, kun trygghet.",
+      "cleanLinks": "Clean Links"
+    }
+  },
+  "statistics": {
+    "threat": {
+      "title": "QR-kode-phishing og lenkesporing: Den økende trusselen",
+      "description": "QR-kodeskannere er nå overalt – og det samme er svindelen. På bare to år har QR-basert phishing eksplodert fra 0,8 % til 12,4 % av alle angrep (en 15-dobling)¹, mens 1 av 10 phishing-e-poster skjuler en QR-kode. Selv «ufarlige» sosiale lenker er ikke unntatt: Facebook, X, TikTok og flere merker hver utgående URL med fbclid, t.co, igshid, gclid og over 250 andre sporere som følger deg over hele nettet.",
+      "solution": "Clean Links fjerner sporerne og avslører den virkelige destinasjonen før du trykker – slik at hver skanning og hvert klikk skjer på dine premisser.",
+      "citation": {
+        "prefix": "¹Kilde:",
+        "link": "Keepnet Labs 2025 Quishing Report & Global Research Brief on Malicious Links"
+      }
+    },
+    "qrPhishing": {
+      "title": "Økning i QR-kode-phishing",
+      "year2021": "Phishing-angrep i 2021",
+      "year2023": "Phishing-angrep i 2023",
+      "growthMultiplier": "Vekstmultiplikator",
+      "emailStat": "<strong>1 av 10</strong> phishing-e-poster inneholder nå QR-koder",
+      "maliciousStat": "<strong>Nesten 2 %</strong> av dagligdagse QR-koder flagges som ondsinnede"
+    },
+    "socialTracking": {
+      "title": "Sporing på sosiale medier",
+      "description": "Store plattformer pakker inn hver utgående lenke med sporingsidentifikatorer:",
+      "summary": "<strong>Hvert klikk</strong> logges og merkes for annonsemålretting på tvers av <strong>over 250 domener</strong>"
+    }
+  },
+  "useCases": {
+    "title": "Bruksområder og eksempler fra den virkelige verden",
+    "description": "Fra beskyttelse mot QR-kode-phishing til automatisering av personvern-arbeidsflyter, tilpasser Clean Links seg ditt digitale liv i 17 nøkkelscenarioer.",
+    "ecommerce": {
+      "title": "Netthandel",
+      "description": "Clean Links fjerner sporing fra partnermarkedsføring og reklame (f.eks. Amazon «tag»-parametere, affiliate-ID-er), slik at du ser en produktside nøyaktig slik forhandleren mente den skulle være, uten annonseteknologisk profilering."
+    },
+    "socialMedia": {
+      "title": "Lenker fra sosiale medier",
+      "description": "Fjern UTM og andre kampanjekoder fra Facebooks «fbclid», Twitters «t.co», Instagrams «l.instagram.com»-omdirigeringer, LinkedIns «lnkd.in», TikTok-kortlenker osv., og få en ekte forhåndsvisning av URL-en før du trykker."
+    },
+    "searchEngine": {
+      "title": "Søkemotorresultater",
+      "description": "Fjern Google «gclid», Bing «msclkid», Yahoo-sporingskoder og lignende parametere, slik at det å klikke på søkeresultater føles like direkte som å skrive inn URL-en selv."
+    },
+    "advertising": {
+      "title": "Reklamelenker",
+      "description": "Rens ut sporingsparametere fra bannerannonser, e-postkampanjer og landingssider fra betalte søk for å hindre usynlige annonsenettverk i å profilere deg."
+    },
+    "restaurantMenus": {
+      "title": "Restaurantmenyer og QR-koder på stedet",
+      "description": "Før du lander på en digital meny (eller en annen offentlig kode), se hele lenken – og unngå falske «quishing»-klistremerker som omdirigerer betalinger til svindlere."
+    },
+    "eventTickets": {
+      "title": "Arrangementsbilletter og boardingkort",
+      "description": "Verifiser at QR-koden på festivalbilletten, boardingkortet eller konferansebeviset ditt virkelig peker til den offisielle URL-en, og ikke til et forfalsket phishing-nettsted."
+    },
+    "paymentCodes": {
+      "title": "Betalingskoder (parkeringsautomater, kollektivtransport, automater)",
+      "description": "Skann offentlige betalings-QR-koder for å bekrefte at de går til riktig bys eller leverandørs godkjente portal, ikke til en falsk betalingsinnkrever."
+    },
+    "emailSms": {
+      "title": "QR-vedlegg i e-post/SMS",
+      "description": "Inspiser koder i uventede meldinger om «glippet levering» eller «kontoproblemer» for å avverge ondsinnede omdirigeringer."
+    },
+    "shortLinks": {
+      "title": "Bit.ly, TinyURL, t.co, rb.gy",
+      "description": "Utvid og forhåndsvis enhver kortlenke på klient- eller plattformsiden, slik at du på forhånd vet hvor bit.ly/PayPal-update eller t.co/UD3p5uZH17 vil ta deg."
+    },
+    "redirectChains": {
+      "title": "Kjeder med flere omdirigeringer",
+      "description": "Følg og komprimer sekvenser av omdirigeringer – for å forhindre tilsløring via CAPTCHA-sider eller lagdelte kortlenker – til den endelige destinasjonen."
+    },
+    "platformWrapped": {
+      "title": "Plattform-innpakkede lenker",
+      "description": "Avslør den ekte URL-en bak Facebook/Instagrams Link Shim, Twitter/Xs t.co, LinkedIns lnkd.in, YouTubes omdirigeringssider osv., slik at du aldri klikker blindt."
+    },
+    "emailForwarding": {
+      "title": "Videresending av e-post eller meldinger",
+      "description": "Rens innlimte URL-er før du videresender dem til kolleger eller venner – slik at de får en «ren» lenke uten sporingsparametere."
+    },
+    "marketingPosts": {
+      "title": "Markedsførings- og sosiale medieinnlegg",
+      "description": "Generer en ny QR-kode fra enhver renset lenke for trykte løpesedler, plakater eller nettkampanjer – og tilby publikum en personvernfokusert opplevelse."
+    },
+    "businessCards": {
+      "title": "QR-koder på visittkort",
+      "description": "Lag korte, sporingsfrie QR-koder på ditt trykte materiale, og sørg for at hver skanning går nøyaktig til din spesifiserte landingsside."
+    },
+    "shareSheet": {
+      "title": "Delingsark-utvidelse",
+      "description": "Aktiver Clean Links fra Safari, Mail, X, LinkedIn (og enhver app som støtter iOS' delingsark) for å rense lenker med ett trykk."
+    },
+    "controlCenter": {
+      "title": "Kontrollsenter-flis",
+      "description": "Legg til en hurtigtilgangsknapp i Kontrollsenter for å rense URL-en på utklippstavlen eller skanne en QR-kode hvor som helst i iOS."
+    },
+    "shortcuts": {
+      "title": "Snarveier og Siri-integrasjon",
+      "description": "Automatiser lenkerensing eller QR-generering i Apple Snarveier eller kall via Siri («Hei Siri, rens lenken min»), og bygg personvern inn i dine daglige rutiner."
+    }
+  },
+  "faq": {
+    "title": "FAQ",
+    "description": "Ofte stilte spørsmål om Clean Links",
+    "whatIs": {
+      "question": "Hva er Clean Links?",
+      "answer": "Clean Links er et gratis iOS-verktøy som fjerner sporingsparametere fra URL-er og avslører det sanne målet bak QR-koder og kortlenker – slik at du kun åpner det du ønsker, uten skjulte sporere eller omdirigeringer."
+    },
+    "deviceRequirements": {
+      "question": "Hvilke enheter og iOS-versjoner støtter Clean Links?",
+      "answer": "Clean Links krever en enhet som kan kjøre iOS 18.0 eller nyere."
+    },
+    "whyCreate": {
+      "question": "Hvorfor laget vi Clean Links?",
+      "answer": "Vi bygde den opprinnelig for oss selv for å unngå å bli utsatt for «quishing» og for å beskytte oss mot lenker fulle av sporing. Senere lærte vi at phishing og quishing rammer mange bra folk, mange av dem med teknisk bakgrunn, over hele verden. Derfor bestemte vi oss for å gi den ut til alle, helt gratis."
+    },
+    "privacyProtection": {
+      "question": "Hvordan beskytter Clean Links personvernet mitt?",
+      "answer": "All behandling skjer på enheten din – ingen informasjonskapsler, identifikatorer eller analysedata forlater noensinne telefonen din. Clean Links fjerner bare kjente sporingsparametere (UTM-koder, affiliate-ID-er, annonseteknologiske identifikatorer) før en lenke lastes. For kortlenker gjør vi forespørsler i en isolert kontekst, uten informasjonskapsler, økter osv. Dette stanser sporingen via informasjonskapsler som URL-forkortere, annonsører og datameglere bruker for å spore brukere."
+    },
+    "phishingProtection": {
+      "question": "Kan Clean Links blokkere phishing-forsøk («quishing»)?",
+      "answer": "Ja. Når du skanner en QR-kode, viser Clean Links deg den fullstendige, umaskerte URL-en. Du får bestemme om du vil åpne den eller ikke. Dette er i motsetning til iOS-kameraappen og andre betalte QR-kodeleserapper, som bare åpner lenken QR-koden peker til, uten ditt samtykke."
+    },
+    "historyStorage": {
+      "question": "Lagrer Clean Links historikken min eller skannede QR-koder?",
+      "answer": "Nei. Clean Links er designet for ikke å logge eller lagre lenker du renser eller skanner."
+    },
+    "cleanWorkflow": {
+      "question": "Hvordan renser jeg en lenke jeg har kopiert?",
+      "answer": "Du kan lage en Apple Snarvei som henter URL-en fra utklippstavlen din, renser den, og legger den rensede lenken tilbake. For eksempel, last ned denne ett-trykks-snarveien: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0. For enda raskere tilgang, tilordne den snarveien til iPhonens handlingsknapp (iPhone 15 Pro og nyere), slik at et enkelt trykk hvor som helst renser lenken på utklippstavlen. Du kan legge til Clean Links i Kontrollsenter: velg mellom to handlinger – «Åpne app» eller «QR-leser». Få tilgang til disse direkte i Kontrollsenter eller på låseskjermen, eller tilordne dem til handlingsknappen for ett-trykks rensing fra hvor som helst. Du kan også åpne Clean Links-appen manuelt og lime inn URL-en din for å rense den."
+    },
+    "qrScanning": {
+      "question": "Hvordan skanner jeg en QR-kode?",
+      "answer": "Start Clean Links fra Hjem-skjermen, en snarvei, eller handlingsknappen og pek kameraet mot koden. Du vil se den virkelige destinasjons-URL-en før du velger å åpne den. Clean Links følger alle omdirigeringer og fjerner sporingsparametere fra den endelige destinasjonen – og forhindrer dermed phishing-lenker som er skjult bak kortlenke- eller omdirigeringstjenester."
+    },
+    "urlExpansion": {
+      "question": "Kan jeg utvide og forhåndsvise forkortede URL-er?",
+      "answer": "Absolutt. Lim inn eller del en hvilken som helst bit.ly, TinyURL, t.co eller annen kortlenke i Clean Links. Den forkorter opp alle omdirigeringskjeder og viser deg den endelige URL-en før du trykker."
+    },
+    "qrGeneration": {
+      "question": "Kan jeg generere en personvernsikker QR-kode fra en renset lenke?",
+      "answer": "Ja. Etter å ha renset en URL, trykk på «Generer QR» for å lage en ny kode du kan dele helt fri for sporingsparametere. Dette er spesielt nyttig når du vil dele den rensede lenken med venner: ett trykk, og de kan skanne QR-koden din for å åpne nøyaktig den samme, sporingsfrie URL-en. Også nyttig når du prøver å dele innhold med Android-vennene dine, uten å bli overvåket av, kremt, kremt: Hva heter den appen igjen? Dette hjelper deg og vennene dine å unngå å bli bombardert med annonser relatert til innholdet du nettopp delte, i en uke eller to fremover."
+    },
+    "systemIntegration": {
+      "question": "Fungerer Clean Links i Safari, Mail og andre apper?",
+      "answer": "Ja. Clean Links' systemomfattende Delingsark-utvidelse kan brukes i Safari, Mail, X (Twitter), Youtube, LinkedIn eller enhver annen app som bruker iOS' native delingsark."
+    },
+    "shortcutsAutomation": {
+      "question": "Kan jeg automatisere lenkerensing med Snarveier eller Siri?",
+      "answer": "Clean Links tilbyr App Intents som fungerer med både Apple Snarveier og Siri. Du kan bygge en snarvei som renser lenker fra utklippstavlen din eller noe annet. For eksempel, bruk denne «Clean Links»-snarveien for å hente lenken i utklippstavlen, rense den, og lime den rensede URL-en tilbake til utklippstavlen: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+    }
+  },
+  "cta": {
+    "title": "QR-kodeskanner og lenkerenser - Beskytt personvernet ditt",
+    "description": "Avslør umiddelbart den ekte URL-en, fjern skjulte sporere, og lag delingsklare QR-koder – alt 100 % på enheten, 100 % gratis."
+  },
+  "footer": {
+    "products": {
+      "title": "Produkter"
+    },
+    "resources": {
+      "title": "Ressurser",
+      "download": "Last ned",
+      "privacyPolicy": "Personvernerklæring",
+      "useCases": "Bruksområder"
+    },
+    "help": {
+      "title": "Hjelp",
+      "faq": "FAQ",
+      "privacyProtection": "Hvordan beskytter Clean Links personvernet mitt?",
+      "phishingProtection": "Kan Clean Links blokkere phishing-forsøk («quishing»)?",
+      "systemIntegration": "Fungerer Clean Links i Safari, Mail og andre apper?"
+    },
+    "copyright": "Alle rettigheter forbeholdt."
+  }
+}

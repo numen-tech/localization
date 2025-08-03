@@ -32,5 +32,21 @@
   "DiscordBadge": {
     "discord": "Discord",
     "usersOnline": "{onlineCount, plural, one {# משתמש מחובר} other {# משתמשים מחוברים}}"
+  },
+  "Footer": {
+    "products": {
+      "slopOrNot": {
+        "name": "Slop Or Not",
+        "description": "גלאי תוכן בינה מלאכותית לטקסט ותמונות."
+      },
+      "cleanLinks": {
+        "name": "Clean Links",
+        "description": "סורק קוד QR ומנקה קישורים"
+      },
+      "privateLlm": {
+        "name": "Private LLM",
+        "description": "צ'אטבוט בינה מלאכותית מקומי למכשירי Apple."
+      }
+    }
   }
 }
