@@ -33,7 +33,7 @@
     "discord": "Discord",
     "usersOnline": "{onlineCount, plural, other {#명 온라인}}"
   },
-  "Footer": {
+  "SharedFooter": {
     "products": {
       "slopOrNot": {
         "name": "Slop Or Not",
