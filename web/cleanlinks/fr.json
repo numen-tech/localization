@@ -198,6 +198,7 @@
     "description": "Révélez instantanément la véritable URL, effacez les traceurs cachés et créez des codes QR prêts à partager - le tout 100 % sur l'appareil, 100 % gratuit."
   },
   "footer": {
+    "tagline": "Clean Links. Meilleure confidentialité",
     "products": {
       "title": "Produits"
     },

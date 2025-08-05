@@ -198,6 +198,7 @@
     "description": "Instantly reveal the real URL, erase hidden trackers, and create share-ready QR codes - all 100% on device, 100% free."
   },
   "footer": {
+    "tagline": "Clean Links. Better Privacy",
     "products": {
       "title": "Products"
     },

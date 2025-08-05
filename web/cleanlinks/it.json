@@ -198,6 +198,7 @@
     "description": "Rivela istantaneamente l'URL reale, cancella i tracker nascosti e crea codici QR pronti da condividere - tutto 100% sul dispositivo, 100% gratuito."
   },
   "footer": {
+    "tagline": "Clean Links. Più privacy",
     "products": {
       "title": "Prodotti"
     },

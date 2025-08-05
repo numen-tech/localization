@@ -198,6 +198,7 @@
     "description": "Avslør umiddelbart den ekte URL-en, fjern skjulte sporere, og lag delingsklare QR-koder – alt 100 % på enheten, 100 % gratis."
   },
   "footer": {
+     "tagline": "Clean Links. Bedre personvern",
     "products": {
       "title": "Produkter"
     },

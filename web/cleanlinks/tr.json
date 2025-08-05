@@ -198,6 +198,7 @@
     "description": "Gerçek URL'yi anında ortaya çıkarın, gizli izleyicileri silin ve paylaşıma hazır QR kodları oluşturun - hepsi %100 cihazda, %100 ücretsiz."
   },
   "footer": {
+    "tagline": "Clean Links. Daha iyi gizlilik",
     "products": {
       "title": "Ürünler"
     },

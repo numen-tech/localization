@@ -198,6 +198,7 @@
     "description": "Azonnal fedje fel a valódi URL-t, törölje a rejtett követőket, és hozzon létre megosztásra kész QR-kódokat – mindezt 100%-ban az eszközön, 100%-ban ingyenesen."
   },
   "footer": {
+    "tagline": "Clean Links. Jobb adatvédelem",
     "products": {
       "title": "Termékek"
     },
