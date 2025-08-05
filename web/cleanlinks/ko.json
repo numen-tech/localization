@@ -198,6 +198,7 @@
     "description": "실제 URL을 즉시 확인하고, 숨겨진 추적기를 지우고, 공유 가능한 QR 코드를 만드세요 - 모든 작업은 100% 기기 내에서, 100% 무료로 이루어집니다."
   },
   "footer": {
+    "tagline": "Clean Links. 더 나은 개인 정보 보호",
     "products": {
       "title": "제품"
     },

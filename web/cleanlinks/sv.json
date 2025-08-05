@@ -198,6 +198,7 @@
     "description": "Avslöja omedelbart den verkliga URL:en, radera dolda spårare och skapa delningsklara QR-koder – allt 100 % på din enhet, 100 % gratis."
   },
   "footer": {
+    "tagline": "Clean Links. Bättre integritet",
     "products": {
       "title": "Produkter"
     },

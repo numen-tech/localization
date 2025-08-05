@@ -198,6 +198,7 @@
     "description": "Paljasta todellinen URL-osoite välittömästi, poista piilotetut seuraimet ja luo jakovalmiita QR-koodeja – kaikki 100 % laitteella, 100 % ilmaiseksi."
   },
   "footer": {
+    "tagline": "Clean Links. Parempi yksityisyys",
     "products": {
       "title": "Tuotteet"
     },
