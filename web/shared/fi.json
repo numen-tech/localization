@@ -47,6 +47,10 @@
         "name": "Private LLM",
         "description": "Paikallinen tekoäly-chatbot Apple-laitteille."
       }
+    },
+    "compliance": {
+      "gdprAlt": "GDPR-yhteensopiva",
+      "ccpaAlt": "CCPA-yhteensopiva"
     }
   }
 }

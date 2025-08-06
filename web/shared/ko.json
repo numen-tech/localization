@@ -47,6 +47,10 @@
         "name": "Private LLM",
         "description": "Apple 기기용 로컬 AI 챗봇."
       }
+    },
+    "compliance": {
+      "gdprAlt": "GDPR 준수",
+      "ccpaAlt": "CCPA 준수"
     }
   }
 }

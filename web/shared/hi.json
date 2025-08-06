@@ -47,6 +47,10 @@
         "name": "Private LLM",
         "description": "Apple डिवाइस के लिए स्थानीय एआई चैटबॉट।"
       }
+    },
+    "compliance": {
+      "gdprAlt": "GDPR अनुपालक",
+      "ccpaAlt": "CCPA अनुपालक"
     }
   }
 }

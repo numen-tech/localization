@@ -47,6 +47,10 @@
         "name": "Private LLM",
         "description": "צ'אטבוט בינה מלאכותית מקומי למכשירי Apple."
       }
+    },
+    "compliance": {
+      "gdprAlt": "תואם GDPR",
+      "ccpaAlt": "תואם CCPA"
     }
   }
 }

@@ -33,10 +33,6 @@
       "isDataPrivate": "I miei dati sono privati?",
       "textCleanup": "Cos'è la Pulizia Testo?"
     },
-    "compliance": {
-      "gdprAlt": "Conforme al GDPR",
-      "ccpaAlt": "Conforme al CCPA"
-    },
     "copyright": "Tutti i diritti riservati. Sviluppato con ❤️ in 🇪🇺"
   },
   "Hero": {

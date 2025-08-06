@@ -47,6 +47,10 @@
         "name": "Private LLM",
         "description": "Chatbot AI locale per dispositivi Apple."
       }
+    },
+    "compliance": {
+      "gdprAlt": "Conforme al GDPR",
+      "ccpaAlt": "Conforme al CCPA"
     }
   }
 }

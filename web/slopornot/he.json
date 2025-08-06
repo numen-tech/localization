@@ -33,10 +33,6 @@
       "isDataPrivate": "האם המידע שלי פרטי?",
       "textCleanup": "מה זה 'ניקוי טקסט'?"
     },
-    "compliance": {
-      "gdprAlt": "תואם GDPR",
-      "ccpaAlt": "תואם CCPA"
-    },
     "copyright": "כל הזכויות שמורות. נבנה ב-❤️ באיחוד האירופי 🇪🇺"
   },
   "Hero": {

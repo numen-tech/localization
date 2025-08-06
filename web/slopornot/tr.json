@@ -33,10 +33,6 @@
       "isDataPrivate": "Verilerim güvende mi?",
       "textCleanup": "Metin Temizleme nedir?"
     },
-    "compliance": {
-      "gdprAlt": "GDPR Uyumlu",
-      "ccpaAlt": "CCPA Uyumlu"
-    },
     "copyright": "Tüm hakları saklıdır. ❤️ ile 🇪🇺'da geliştirildi."
   },
   "Hero": {

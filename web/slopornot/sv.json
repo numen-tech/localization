@@ -33,10 +33,6 @@
       "isDataPrivate": "Är min data privat?",
       "textCleanup": "Vad är Text Cleanup?"
     },
-    "compliance": {
-      "gdprAlt": "GDPR-kompatibel",
-      "ccpaAlt": "CCPA-kompatibel"
-    },
     "copyright": "Alla rättigheter förbehållna. Byggd med ❤️ i 🇪🇺"
   },
   "Hero": {

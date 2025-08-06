@@ -33,10 +33,6 @@
       "isDataPrivate": "Ovatko tietoni yksityisiä?",
       "textCleanup": "Mikä on tekstin puhdistus?"
     },
-    "compliance": {
-      "gdprAlt": "GDPR-yhteensopiva",
-      "ccpaAlt": "CCPA-yhteensopiva"
-    },
     "copyright": "Kaikki oikeudet pidätetään. Rakennettu ❤️:llä 🇪🇺:ssa"
   },
   "Hero": {

@@ -47,6 +47,10 @@
         "name": "Private LLM",
         "description": "روبوت محادثة ذكاء اصطناعي محلي لأجهزة Apple."
       }
+    },
+    "compliance": {
+      "gdprAlt": "متوافق مع GDPR",
+      "ccpaAlt": "متوافق مع CCPA"
     }
   }
 }

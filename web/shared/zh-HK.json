@@ -47,6 +47,10 @@
         "name": "Private LLM",
         "description": "適用於 Apple 裝置的本機 AI 聊天機械人。"
       }
+    },
+    "compliance": {
+      "gdprAlt": "符合 GDPR",
+      "ccpaAlt": "符合 CCPA"
     }
   }
 }

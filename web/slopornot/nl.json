@@ -33,10 +33,6 @@
       "isDataPrivate": "Zijn mijn gegevens privé?",
       "textCleanup": "Wat is Tekst Opschonen?"
     },
-    "compliance": {
-      "gdprAlt": "GDPR-conform",
-      "ccpaAlt": "CCPA-conform"
-    },
     "copyright": "Alle rechten voorbehouden. Met ❤️ gebouwd in 🇪🇺"
   },
   "Hero": {
