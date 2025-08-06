@@ -33,10 +33,6 @@
       "isDataPrivate": "Biztonságban vannak az adataim?",
       "textCleanup": "Mi az a Szövegtisztítás?"
     },
-    "compliance": {
-      "gdprAlt": "GDPR-kompatibilis",
-      "ccpaAlt": "CCPA-kompatibilis"
-    },
     "copyright": "Minden jog fenntartva. ❤️-el készült 🇪🇺-ban"
   },
   "Hero": {

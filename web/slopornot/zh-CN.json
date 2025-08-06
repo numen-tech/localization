@@ -33,10 +33,6 @@
       "isDataPrivate": "我的数据是私密的吗？",
       "textCleanup": "什么是文本清理？"
     },
-    "compliance": {
-      "gdprAlt": "符合GDPR",
-      "ccpaAlt": "符合CCPA"
-    },
     "copyright": "版权所有。在欧盟用 ❤️ 构建"
   },
   "Hero": {

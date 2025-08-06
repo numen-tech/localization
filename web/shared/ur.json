@@ -47,6 +47,10 @@
         "name": "Private LLM",
         "description": "ایپل ڈیوائسز کے لیے مقامی AI چیٹ بوٹ۔"
       }
+    },
+    "compliance": {
+      "gdprAlt": "GDPR کے مطابق",
+      "ccpaAlt": "CCPA کے مطابق"
     }
   }
 }

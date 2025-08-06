@@ -47,6 +47,10 @@
         "name": "Private LLM",
         "description": "适用于 Apple 设备的本地 AI 聊天机器人。"
       }
+    },
+    "compliance": {
+      "gdprAlt": "符合GDPR",
+      "ccpaAlt": "符合CCPA"
     }
   }
 }

@@ -47,6 +47,10 @@
         "name": "Private LLM",
         "description": "Appleデバイス向けのローカルAIチャットボット。"
       }
+    },
+    "compliance": {
+      "gdprAlt": "GDPR準拠",
+      "ccpaAlt": "CCPA準拠"
     }
   }
 }

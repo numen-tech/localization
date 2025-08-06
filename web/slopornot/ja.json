@@ -33,10 +33,6 @@
       "isDataPrivate": "データはプライベートですか？",
       "textCleanup": "「テキストクリーンアップ」とは？"
     },
-    "compliance": {
-      "gdprAlt": "GDPR準拠",
-      "ccpaAlt": "CCPA準拠"
-    },
     "copyright": "All rights reserved. 🇪🇺で❤️を込めて開発"
   },
   "Hero": {

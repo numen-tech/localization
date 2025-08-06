@@ -47,6 +47,10 @@
         "name": "Private LLM",
         "description": "Локальний чат-бот ШІ для пристроїв Apple."
       }
+    },
+    "compliance": {
+      "gdprAlt": "Відповідає GDPR",
+      "ccpaAlt": "Відповідає CCPA"
     }
   }
 }

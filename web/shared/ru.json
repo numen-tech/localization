@@ -47,6 +47,10 @@
         "name": "Private LLM",
         "description": "Локальный чат-бот с ИИ для устройств Apple."
       }
+    },
+    "compliance": {
+      "gdprAlt": "Соответствует GDPR",
+      "ccpaAlt": "Соответствует CCPA"
     }
   }
 }

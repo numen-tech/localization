@@ -47,6 +47,10 @@
         "name": "Private LLM",
         "description": "Helyi MI-chatbot Apple-eszközökhöz."
       }
+    },
+    "compliance": {
+      "gdprAlt": "GDPR-kompatibilis",
+      "ccpaAlt": "CCPA-kompatibilis"
     }
   }
 }

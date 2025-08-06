@@ -33,10 +33,6 @@
       "isDataPrivate": "Is my data private?",
       "textCleanup": "What is Text Cleanup?"
     },
-    "compliance": {
-      "gdprAlt": "GDPR Compliant",
-      "ccpaAlt": "CCPA Compliant"
-    },
     "copyright": "All rights reserved. Built with ❤️ in 🇪🇺"
   },
   "Hero": {

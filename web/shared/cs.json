@@ -47,6 +47,10 @@
         "name": "Private LLM",
         "description": "Lokální AI chatbot pro zařízení Apple."
       }
+    },
+    "compliance": {
+      "gdprAlt": "V souladu s GDPR",
+      "ccpaAlt": "V souladu s CCPA"
     }
   }
 }

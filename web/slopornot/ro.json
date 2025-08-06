@@ -33,10 +33,6 @@
       "isDataPrivate": "Sunt datele mele private?",
       "textCleanup": "Ce este Text Cleanup?"
     },
-    "compliance": {
-      "gdprAlt": "Conform GDPR",
-      "ccpaAlt": "Conform CCPA"
-    },
     "copyright": "Toate drepturile rezervate. Creat cu ❤️ în 🇪🇺"
   },
   "Hero": {

@@ -47,6 +47,10 @@
         "name": "Private LLM",
         "description": "Apple cihazları için yerel yapay zeka sohbet robotu."
       }
+    },
+    "compliance": {
+      "gdprAlt": "GDPR Uyumlu",
+      "ccpaAlt": "CCPA Uyumlu"
     }
   }
 }
