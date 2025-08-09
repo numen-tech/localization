@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "QR 코드 스캐너 및 링크 클리너 | iPhone용 Clean Links",
-    "description": "숨겨진 리디렉션, 피싱, 큐싱으로부터 보호하세요. 광고나 로그 기록 없이 QR 코드나 링크를 스캔, 정리, 공유하세요 - 항상 무료입니다."
+    "title": "Clean Links: iPhone 및 Mac을 위한 무료 링크 클리너 및 QR 코드 리더",
+    "description": "단축 링크와 코드 뒤에 숨겨진 실제 목적지를 확인하세요. iPhone에서 스캔하고 Mac 메뉴 막대에서 클립보드를 자동으로 정리하세요. 탭 한 번으로 추적기 없는 링크를 공유하고 새로운 QR 코드를 생성하세요."
   },
   "navigation": {
     "download": "다운로드",
@@ -12,8 +12,8 @@
   "hero": {
     "logoAlt": "Clean Links 로고",
     "title": "Clean Links",
-    "subtitle": "QR 코드 스캐너와 링크 클리너를 하나의 무료 앱으로",
-    "description": "Clean Links는 모든 코드나 단축 링크 뒤에 숨겨진 실제 URL을 보여주고, 추적기를 제거하며, 신뢰할 수 있는 깨끗한 URL을 생성합니다."
+    "subtitle": "iPhone 및 Mac을 위한 무료 링크 클리ナー 및 QR 코드 스캐너",
+    "description": "단축 링크와 코드 뒤에 숨겨진 실제 목적지를 확인하세요. 저희 QR 코드 리더는 전체 URL을 먼저 보여주어 피싱으로부터 사용자를 보호합니다. 수천 개의 도메인과 매개변수에서 추적기를 제거합니다. 탭 한 번으로 추적기 없는 링크를 공유하고 새로운 QR 코드를 생성하세요."
   },
   "features": {
     "qrScanner": {

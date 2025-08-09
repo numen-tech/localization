@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "QR-kód olvasó és linktisztító | Clean Links iPhone-ra",
-    "description": "Védje meg magát a rejtett átirányításoktól, az adathalászattól és a QR-kódos adathalászattól. Olvasson be, tisztítson meg és osszon meg QR-kódokat vagy linkeket hirdetések és naplózás nélkül - mindig ingyenesen."
+    "title": "Clean Links: Ingyenes linktisztító és QR-kód olvasó iPhone-ra és Mac-re",
+    "description": "Lássa a valódi célt a rövidített linkek és kódok mögött. Szkenneljen iPhone-on; tisztítsa meg automatikusan a vágólapot Mac-en a menüsorból. Osszon meg követésmentes linkeket és generáljon új QR-kódokat egyetlen érintéssel."
   },
   "navigation": {
     "download": "Letöltés",
@@ -12,8 +12,8 @@
   "hero": {
     "logoAlt": "Clean Links logó",
     "title": "Clean Links",
-    "subtitle": "QR-kód olvasó és linktisztító egyetlen ingyenes alkalmazásban",
-    "description": "A Clean Links megmutatja a valódi URL-t minden kód vagy rövidített link mögött, eltávolítja a követőket, és egy megbízható, tiszta URL-t hoz létre."
+    "subtitle": "Ingyenes linktisztító és QR-kód olvasó iPhone-ra és Mac-re",
+    "description": "Lássa a valódi célt a rövidített linkek és kódok mögött. QR-kód olvasónk megvéd az adathalászattól (phishing) azáltal, hogy először a teljes URL-t mutatja meg. Eltávolítja a követőket több ezer domainről és több ezer paraméterből. Osszon meg követésmentes linkeket és generáljon új QR-kódokat egyetlen érintéssel."
   },
   "features": {
     "qrScanner": {

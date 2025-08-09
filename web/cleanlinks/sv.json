@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "QR-kodsläsare & länkrensare | Clean Links för iPhone",
-    "description": "Skydda dig mot dolda omdirigeringar, nätfiske och nätfiske med QR-kod (quishing). Skanna, rensa och dela QR-koder eller länkar utan annonser, inga loggar – alltid gratis."
+    "title": "Clean Links: Gratis länkrensare och QR-kodläsare för iPhone och Mac",
+    "description": "Se den verkliga destinationen bakom korta länkar och koder. Skanna på iPhone; rensa urklipp automatiskt på Mac från menyraden. Dela spårningsfria länkar och generera nya QR-koder med ett tryck."
   },
   "navigation": {
     "download": "Ladda ned",
@@ -12,8 +12,8 @@
   "hero": {
     "logoAlt": "Clean Links logotyp",
     "title": "Clean Links",
-    "subtitle": "QR-kodsläsare och länkrensare i en gratisapp",
-    "description": "Clean Links visar den verkliga webbadressen bakom varje kod eller kortlänk, tar bort spårare och skapar en ren URL du kan lita på."
+    "subtitle": "Gratis länkrensare och QR-kodskanner för iPhone och Mac",
+    "description": "Se den verkliga destinationen bakom korta länkar och koder. Vår QR-kodläsare skyddar dig från nätfiske (phishing) genom att först visa hela URL:en. Tar bort spårare från tusentals domäner och tusentals parametrar. Dela spårningsfria länkar och generera nya QR-koder med ett tryck."
   },
   "features": {
     "qrScanner": {

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "QR-koodinlukija ja linkinpuhdistaja | Clean Links iPhonelle",
-    "description": "Suojaudu piilotetuilta uudelleenohjauksilta, phishingiltä ja quishingiltä. Skannaa, puhdista ja jaa QR-koodeja tai linkkejä ilman mainoksia ja lokeja – aina ilmainen."
+    "title": "Clean Links: Ilmainen linkkien puhdistaja & QR-koodinlukija iPhonelle & Macille",
+    "description": "Näe lyhytlinkkien ja koodien todellinen kohde. Skannaa iPhonella; puhdista leikepöytäsi automaattisesti Macissa valikkoriviltä. Jaa seurannasta vapaita linkkejä ja luo uusia QR-koodeja yhdellä napautuksella."
   },
   "navigation": {
     "download": "Lataa",
@@ -12,8 +12,8 @@
   "hero": {
     "logoAlt": "Clean Links -logo",
     "title": "Clean Links",
-    "subtitle": "QR-koodinlukija ja linkinpuhdistaja yhdessä ilmaisessa sovelluksessa",
-    "description": "Clean Links näyttää todellisen URL-osoitteen jokaisen koodin tai lyhytlinkin takana, poistaa seuraimet ja luo puhtaan URL-osoitteen, johon voit luottaa."
+    "subtitle": "Ilmainen linkkien puhdistaja & QR-koodinlukija iPhonelle ja Macille",
+    "description": "Näe lyhytlinkkien ja koodien todellinen kohde. QR-koodinlukijamme suojaa sinua tietojenkalastelulta (phishing) näyttämällä ensin koko URL-osoitteen. Poistaa seurantaelementit tuhansista verkkotunnuksista ja tuhansista parametreista. Jaa seurannasta vapaita linkkejä ja luo uusia QR-koodeja yhdellä napautuksella."
   },
   "features": {
     "qrScanner": {

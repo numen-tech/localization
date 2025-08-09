@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "Escáner de Códigos QR y Limpiador de Enlaces | Clean Links para iPhone",
-    "description": "Protégete contra redirecciones ocultas, phishing y quishing. Escanea, limpia y comparte códigos QR o enlaces sin anuncios, sin registros, siempre gratis."
+    "title": "Clean Links: Limpiador de enlaces y lector de códigos QR gratis para iPhone y Mac",
+    "description": "Descubre el destino real detrás de los enlaces cortos y los códigos. Escanea en el iPhone; limpia automáticamente tu portapapeles en el Mac desde la barra de menús. Comparte enlaces sin rastreadores y genera nuevos códigos QR con un toque."
   },
   "navigation": {
     "download": "Descargar",
@@ -12,8 +12,8 @@
   "hero": {
     "logoAlt": "Logo de Clean Links",
     "title": "Clean Links",
-    "subtitle": "Escáner de Códigos QR y Limpiador de Enlaces en una Sola App Gratuita",
-    "description": "Clean Links te muestra la URL real detrás de cada código o enlace corto, elimina los rastreadores y genera una URL limpia en la que puedes confiar."
+    "subtitle": "Limpiador de enlaces y escáner de códigos QR gratis para iPhone y Mac",
+    "description": "Descubre el destino real detrás de los enlaces cortos y los códigos. Nuestro lector de códigos QR te protege del phishing mostrando primero la URL completa. Elimina los rastreadores de miles de dominios y miles de parámetros. Comparte enlaces sin rastreadores y genera nuevos códigos QR con un toque."
   },
   "features": {
     "qrScanner": {
