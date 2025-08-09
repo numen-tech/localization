@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "二维码扫描器与链接清理器 | Clean Links for iPhone",
-    "description": "防范隐藏的重定向、网络钓鱼和二维码钓鱼。扫描、清理和分享二维码或链接，无广告，无日志 - 永久免费。"
+    "title": "Clean Links：免费链接清理器与二维码阅读器，适用于 iPhone 和 Mac",
+    "description": "查看短链接和代码背后的真正目的地。在 iPhone 上扫描；在 Mac 上从菜单栏自动清理剪贴板。一键分享无跟踪链接并生成全新的二维码。"
   },
   "navigation": {
     "download": "下载",
@@ -12,8 +12,8 @@
   "hero": {
     "logoAlt": "Clean Links 标志",
     "title": "Clean Links",
-    "subtitle": "一款免费的二维码扫描与链接清理应用",
-    "description": "Clean Links 能显示每个二维码或短链接背后的真实网址，清除跟踪器，并生成您可以信赖的干净链接。"
+    "subtitle": "免费链接清理器与二维码扫描器，适用于 iPhone 和 Mac",
+    "description": "查看短链接和代码背后的真正目的地。我们的二维码阅读器会首先显示完整网址，保护您免受网络钓鱼 (phishing) 的侵害。去除数千个域名和数千个参数中的跟踪器。一键分享无跟踪链接并生成全新的二维码。"
   },
   "features": {
     "qrScanner": {

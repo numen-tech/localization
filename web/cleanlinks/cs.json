@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "Skener QR kódů a čistič odkazů | Clean Links pro iPhone",
-    "description": "Chraňte se před skrytými přesměrováními, phishingem a quishingem. Skenujte, čistěte a sdílejte QR kódy nebo odkazy bez reklam a protokolování – vždy zdarma."
+    "title": "Clean Links: Bezplatný čistič odkazů a čtečka QR kódů pro iPhone a Mac",
+    "description": "Podívejte se na skutečný cíl za krátkými odkazy a kódy. Skenujte na iPhonu; automaticky čistěte schránku na Macu z panelu nabídek. Sdílejte odkazy bez sledování a generujte nové QR kódy jedním klepnutím."
   },
   "navigation": {
     "download": "Stáhnout",
@@ -12,8 +12,8 @@
   "hero": {
     "logoAlt": "Logo Clean Links",
     "title": "Clean Links",
-    "subtitle": "Skener QR kódů a čistič odkazů v jedné bezplatné aplikaci",
-    "description": "Clean Links odhalí skutečnou URL za každým kódem nebo zkráceným odkazem, odstraní sledovací prvky a vygeneruje čistý odkaz, kterému můžete důvěřovat."
+    "subtitle": "Bezplatný čistič odkazů a skener QR kódů pro iPhone a Mac",
+    "description": "Podívejte se na skutečný cíl za krátkými odkazy a kódy. Naše čtečka QR kódů vás chrání před phishingem tím, že nejprve zobrazí celou URL. Odstraňuje sledovací prvky z tisíců domén a tisíců parametrů. Sdílejte odkazy bez sledování a generujte nové QR kódy jedním klepnutím."
   },
   "features": {
     "qrScanner": {

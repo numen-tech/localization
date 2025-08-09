@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "QR-codescanner & linkopschoner | Clean Links voor iPhone",
-    "description": "Bescherm uzelf tegen verborgen omleidingen, phishing en quishing. Scan, schoon en deel QR-codes of links zonder advertenties, zonder logboeken - altijd gratis."
+    "title": "Clean Links: Gratis linkopschoner & QR-codelezer voor iPhone & Mac",
+    "description": "Zie de echte bestemming achter korte links en codes. Scan op iPhone; maak automatisch je klembord schoon op Mac vanuit de menubalk. Deel trackervrije links en genereer nieuwe QR-codes met één tik."
   },
   "navigation": {
     "download": "Downloaden",
@@ -12,8 +12,8 @@
   "hero": {
     "logoAlt": "Clean Links Logo",
     "title": "Clean Links",
-    "subtitle": "QR-codescanner & linkopschoner in één gratis app",
-    "description": "Clean Links toont de echte URL achter elke code of verkorte link, verwijdert trackers en genereert een schone URL die u kunt vertrouwen."
+    "subtitle": "Gratis linkopschoner & QR-codescanner voor iPhone en Mac",
+    "description": "Zie de echte bestemming achter korte links en codes. Onze QR-codelezer beschermt je tegen phishing door eerst de volledige URL te tonen. Verwijdert trackers van duizenden domeinen en duizenden parameters. Deel trackervrije links en genereer nieuwe QR-codes met één tik."
   },
   "features": {
     "qrScanner": {

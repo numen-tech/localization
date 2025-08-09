@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "QR-kodeskanner og lenkerenser | Clean Links for iPhone",
-    "description": "Beskytt deg mot skjulte omdirigeringer, phishing og QR-kode-svindel. Skann, rens og del QR-koder eller lenker uten reklame og logger – alltid gratis."
+    "title": "Clean Links: Gratis lenkerenser og QR-kodeleser for iPhone og Mac",
+    "description": "Se den virkelige destinasjonen bak korte lenker og koder. Skann på iPhone; rens utklippstavlen automatisk på Mac fra menylinjen. Del sporingsfrie lenker og generer nye QR-koder med ett trykk."
   },
   "navigation": {
     "download": "Last ned",
@@ -12,8 +12,8 @@
   "hero": {
     "logoAlt": "Clean Links-logo",
     "title": "Clean Links",
-    "subtitle": "QR-kodeskanner og lenkerenser i én gratis app",
-    "description": "Clean Links viser den ekte URL-en bak hver kode eller kortlenke, fjerner sporere og genererer en ren URL du kan stole på."
+    "subtitle": "Gratis lenkerenser og QR-kodeskanner for iPhone og Mac",
+    "description": "Se den virkelige destinasjonen bak korte lenker og koder. Vår QR-kodeleser beskytter deg mot phishing ved å vise hele URL-en først. Fjerner sporere fra tusenvis av domener og tusenvis av parametere. Del sporingsfrie lenker og generer nye QR-koder med ett trykk."
   },
   "features": {
     "qrScanner": {

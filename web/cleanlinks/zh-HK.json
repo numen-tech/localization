@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "QR Code 掃描器與連結清理器 | Clean Links for iPhone",
-    "description": "防範隱藏重定向、網絡釣魚和 QR Code 釣魚。掃描、清理和分享 QR Code 或連結，無廣告、無日誌——永久免費。"
+    "title": "Clean Links：免費連結清理器與 QR Code 閱讀器，適用於 iPhone 和 Mac",
+    "description": "查看短連結和代碼背後的真正目的地。在 iPhone 上掃描；在 Mac 上從選單列自動清理剪貼簿。一鍵分享無追蹤連結並生成全新的 QR Code。"
   },
   "navigation": {
     "download": "下載",
@@ -12,8 +12,8 @@
   "hero": {
     "logoAlt": "Clean Links 標誌",
     "title": "Clean Links",
-    "subtitle": "QR Code 掃描器與連結清理器，盡在一個免費 App",
-    "description": "Clean Links 揭示每個代碼或短連結背後的真實網址，清除追蹤器，並產生您可信賴的乾淨連結。"
+    "subtitle": "免費連結清理器與 QR Code 掃描器，適用於 iPhone 和 Mac",
+    "description": "查看短連結和代碼背後的真正目的地。我們的 QR Code 閱讀器會先顯示完整網址，保護您免受網絡釣魚 (phishing) 的侵害。去除數千個網域和數千個參數中的追蹤器。一鍵分享無追蹤連結並生成全新的 QR Code。"
   },
   "features": {
     "qrScanner": {

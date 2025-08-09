@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "QR Code Scanner & Link Cleaner | Clean Links for iPhone",
-    "description": "Protect against hidden redirects, phishing and quishing. Scan, clean and share QR codes or links with zero ads, zero logs - always free."
+    "title": "Clean Links: Free Link Cleaner & QR Code Reader for iPhone & Mac",
+    "description": "See the real destination behind short links and codes. Scan on iPhone; auto-clean your clipboard on Mac from the menu bar. Share tracker-free links and generate fresh QR codes in a tap."
   },
   "navigation": {
     "download": "Download",
@@ -12,8 +12,8 @@
   "hero": {
     "logoAlt": "Clean Links Logo",
     "title": "Clean Links",
-    "subtitle": "QR Code Scanner & Link Cleaner in One Free App",
-    "description": "Clean Links shows the real URL behind every code or short link, strips trackers, and generates a clean URL you can trust."
+    "subtitle": "Free Link Cleaner & QR Code Scanner for iPhone and Mac",
+    "description": "See the real destination behind short links and codes. Our QR code reader protects you from phishing by showing the full URL first. Stripping trackers across thousands of domains and thousands of parameters. Share tracker-free links and generate fresh QR codes in a tap."
   },
   "features": {
     "qrScanner": {

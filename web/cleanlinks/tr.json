@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "QR Kod Tarayıcı ve Bağlantı Temizleyici | iPhone için Clean Links",
-    "description": "Gizli yönlendirmelere, kimlik avı (phishing) ve QR kod dolandırıcılığına (quishing) karşı korunun. QR kodları veya bağlantıları sıfır reklam, sıfır kayıt ile tarayın, temizleyin ve paylaşın - her zaman ücretsiz."
+    "title": "Clean Links: iPhone ve Mac için Ücretsiz Bağlantı Temizleyici ve QR Kod Okuyucu",
+    "description": "Kısa bağlantıların ve kodların arkasındaki gerçek hedefi görün. iPhone'da tarayın; Mac'te menü çubuğundan panonuzu otomatik olarak temizleyin. İzleyicisiz bağlantılar paylaşın ve tek dokunuşla yeni QR kodları oluşturun."
   },
   "navigation": {
     "download": "İndir",
@@ -12,8 +12,8 @@
   "hero": {
     "logoAlt": "Clean Links Logosu",
     "title": "Clean Links",
-    "subtitle": "Tek Bir Ücretsiz Uygulamada QR Kod Tarayıcı ve Bağlantı Temizleyici",
-    "description": "Clean Links, her kodun veya kısa bağlantının arkasındaki gerçek URL'yi gösterir, izleyicileri kaldırır ve güvenebileceğiniz temiz bir URL oluşturur."
+    "subtitle": "iPhone ve Mac için Ücretsiz Bağlantı Temizleyici ve QR Kod Tarayıcı",
+    "description": "Kısa bağlantıların ve kodların arkasındaki gerçek hedefi görün. QR kod okuyucumuz, önce tam URL'yi göstererek sizi kimlik avı (phishing) saldırılarından korur. Binlerce alan adından ve binlerce parametreden izleyicileri kaldırır. İzleyicisiz bağlantılar paylaşın ve tek dokunuşla yeni QR kodları oluşturun."
   },
   "features": {
     "qrScanner": {

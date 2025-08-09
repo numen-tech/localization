@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "QRコードスキャナー＆リンククリーナー | Clean Links for iPhone",
-    "description": "隠れたリダイレクト、フィッシング、クイッシングから保護します。広告、ログは一切なしでQRコードやリンクをスキャン、クリーン、共有 - いつでも無料です。"
+    "title": "Clean Links：iPhone & Mac対応の無料リンククリーナー＆QRコードリーダー",
+    "description": "短縮リンクやQRコードの本当のリンク先を確認。iPhoneでスキャン、Macではメニューバーからクリップボードを自動でクリーン。トラッカーなしのリンクを共有し、新しいQRコードをワンタップで生成。"
   },
   "navigation": {
     "download": "ダウンロード",
@@ -12,8 +12,8 @@
   "hero": {
     "logoAlt": "Clean Links ロゴ",
     "title": "Clean Links",
-    "subtitle": "QRコードスキャナー＆リンククリーナーが1つになった無料アプリ",
-    "description": "Clean Linksは、すべてのQRコードや短縮リンクの背後にある実際のURLを表示し、トラッカーを削除し、信頼できるクリーンなURLを生成します。"
+    "subtitle": "iPhone & Mac対応の無料リンククリーナー＆QRコードスキャナー",
+    "description": "短縮リンクやQRコードの本当のリンク先を確認。当社のQRコードリーダーは、完全なURLを先に表示することでフィッシング詐欺からあなたを保護します。数千ものドメインとパラメータからトラッカーを削除。トラッカーなしのリンクを共有し、新しいQRコードをワンタップで生成。"
   },
   "features": {
     "qrScanner": {
