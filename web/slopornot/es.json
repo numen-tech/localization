@@ -39,8 +39,7 @@
     "logoAlt": "Logo de Slop Or Not",
     "title": "Detector de texto generado por IA y detector de imágenes generadas por IA en una sola App",
     "srOnlyPrefix": "Slop Or Not: ",
-    "description": "Verifica si el contenido es generado con IA en pocos segundos y de manera gratuita, manteniendo tus datos en tu iPhone.",
-    "testflightLink": "Descargar Beta de TestFlight"
+    "description": "Verifica si el contenido es generado con IA en pocos segundos y de manera gratuita, manteniendo tus datos en tu iPhone."
   },
   "NotFound": {
     "logoAlt": "Logo de Slop Or Not",

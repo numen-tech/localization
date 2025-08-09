@@ -39,8 +39,7 @@
     "logoAlt": "Slop or Not ロゴ",
     "title": "AIテキスト検出とAI画像検出を1つのアプリで",
     "srOnlyPrefix": "Slop or Not: ",
-    "description": "iPhone上のデータをプライベートに保ちながら、コンテンツがAI製か無料で数秒でチェックします。",
-    "testflightLink": "TestFlightベータ版をダウンロード"
+    "description": "iPhone上のデータをプライベートに保ちながら、コンテンツがAI製か無料で数秒でチェックします。"
   },
   "NotFound": {
     "logoAlt": "Slop Or Not ロゴ",

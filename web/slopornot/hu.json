@@ -39,8 +39,7 @@
     "logoAlt": "Slop or Not logó",
     "title": "MI Szövegdetektor és MI Képdetektor Egyetlen Alkalmazásban",
     "srOnlyPrefix": "Slop or Not: ",
-    "description": "Ellenőrizze másodpercek alatt ingyenesen, hogy a tartalom MI-generált-e, miközben adatai az iPhone-ján maradnak.",
-    "testflightLink": "TestFlight Béta Letöltése"
+    "description": "Ellenőrizze másodpercek alatt ingyenesen, hogy a tartalom MI-generált-e, miközben adatai az iPhone-ján maradnak."
   },
   "NotFound": {
     "logoAlt": "Slop Or Not Logó",
