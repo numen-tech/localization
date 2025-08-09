@@ -39,8 +39,7 @@
     "logoAlt": "Slop or Not -logo",
     "title": "Tekoälytekstin ja -kuvien tunnistin yhdessä sovelluksessa",
     "srOnlyPrefix": "Slop or Not: ",
-    "description": "Tarkista ilmaiseksi sekunneissa, onko sisältö tekoälyn luomaa, ja pidä tietosi iPhonessasi.",
-    "testflightLink": "Lataa TestFlight Beta"
+    "description": "Tarkista ilmaiseksi sekunneissa, onko sisältö tekoälyn luomaa, ja pidä tietosi iPhonessasi."
   },
   "NotFound": {
     "logoAlt": "Slop Or Not -logo",

@@ -39,8 +39,7 @@
     "logoAlt": "Slop or Not 로고",
     "title": "AI 텍스트 탐지기와 AI 이미지 탐지기를 하나의 앱에서",
     "srOnlyPrefix": "Slop or Not: ",
-    "description": "데이터를 iPhone에 안전하게 보관하면서 콘텐츠가 AI인지 몇 초 만에 무료로 확인하세요.",
-    "testflightLink": "TestFlight 베타 다운로드"
+    "description": "데이터를 iPhone에 안전하게 보관하면서 콘텐츠가 AI인지 몇 초 만에 무료로 확인하세요."
   },
   "NotFound": {
     "logoAlt": "Slop Or Not 로고",

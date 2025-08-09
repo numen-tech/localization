@@ -39,8 +39,7 @@
     "logoAlt": "Slop or Not 徽标",
     "title": "AI文本检测器与AI图像检测器，二合一应用",
     "srOnlyPrefix": "Slop or Not: ",
-    "description": "在iPhone上免费秒速检测内容是否为AI生成，同时确保您的数据安全。",
-    "testflightLink": "下载 TestFlight 测试版"
+    "description": "在iPhone上免费秒速检测内容是否为AI生成，同时确保您的数据安全。"
   },
   "NotFound": {
     "logoAlt": "Slop Or Not 徽标",
