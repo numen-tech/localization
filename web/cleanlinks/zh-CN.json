@@ -43,6 +43,10 @@
       "title": "从任何应用分享干净的网址",
       "description": "在邮件、Safari、X、TikTok——任何出现 iOS 分享表单的地方——点击 Clean Links。在发送前，即时将冗长的链接替换为纯净的链接。无需复杂的复制粘贴，纯粹的安心。",
       "cleanLinks": "Clean Links"
+    },
+    "macMenuBar": {
+      "title": "适用于 Mac 的菜单栏链接清理器",
+      "description": "打开剪贴板监控，Clean Links 会自动清理您复制的每个 URL。它会从菜单栏中清除 UTM 标签、fbclid/gclid，并在您粘贴之前取消缩短 t.co 或 bit.ly。<strong>设计私密</strong> - 任何内容都不会离开您的 Mac。"
     }
   },
   "statistics": {

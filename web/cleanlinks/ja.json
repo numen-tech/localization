@@ -43,6 +43,10 @@
       "title": "どのアプリからでもクリーンなURLを共有",
       "description": "Mail、Safari、X、TikTokなど、iOSの共有シートが表示される場所ならどこでもClean Linksをタップ。送信ボタンを押す前に、肥大化したリンクを瞬時にクリーンなものに置き換えられます。コピー＆ペーストの面倒な手間はなく、純粋な安心感だけです。",
       "cleanLinks": "Clean Links"
+    },
+    "macMenuBar": {
+      "title": "Mac用メニューバーリンククリーナー",
+      "description": "クリップボードの監視をオンにすると、Clean LinksがコピーしたすべてのURLを自動的にクリーンアップします。メニューバーからUTMタグ、fbclid/gclidを削除し、貼り付ける前にt.coまたはbit.lyの短縮を解除します。<strong>プライベートな設計</strong> - Macからデータが漏洩することはありません。"
     }
   },
   "statistics": {

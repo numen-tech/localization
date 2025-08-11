@@ -43,6 +43,10 @@
       "title": "Deel een schone URL vanuit elke app",
       "description": "In Mail, Safari, X, TikTok - overal waar het Deel-menu van iOS verschijnt - tikt u op Clean Links. Vervang de opgeblazen link onmiddellijk door een zuivere voordat u op Verstuur drukt. Geen gedoe met kopiëren en plakken, pure gemoedsrust.",
       "cleanLinks": "Clean Links"
+    },
+    "macMenuBar": {
+      "title": "Menubalk Link Cleaner voor Mac",
+      "description": "Schakel Klembordbewaking in en Clean Links reinigt automatisch elke URL die u kopieert. Vanaf de menubalk verwijdert het UTM-tags, fbclid/gclid en verkort het t.co of bit.ly voordat u plakt. <strong>Privacy by design</strong> - niets verlaat ooit uw Mac."
     }
   },
   "statistics": {

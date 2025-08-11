@@ -43,6 +43,10 @@
       "title": "Teilen Sie eine saubere URL aus jeder App",
       "description": "Tippen Sie in Mail, Safari, X, TikTok – überall dort, wo das iOS-Teilen-Menü erscheint – auf Clean Links. Ersetzen Sie den überladenen Link sofort durch einen sauberen, bevor Sie auf Senden tippen. Kein umständliches Kopieren und Einfügen, nur pure Sorgenfreiheit.",
       "cleanLinks": "Clean Links"
+    },
+    "macMenuBar": {
+      "title": "Menüleisten-Link-Reiniger für Mac",
+      "description": "Aktivieren Sie die Zwischenablageüberwachung und Clean Links bereinigt automatisch jede URL, die Sie kopieren. Über die Menüleiste entfernt es UTM-Tags, fbclid/gclid und kürzt t.co oder bit.ly, bevor Sie sie einfügen. <strong>Von Grund auf privat</strong> – nichts verlässt jemals Ihren Mac."
     }
   },
   "statistics": {

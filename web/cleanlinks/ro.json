@@ -43,6 +43,10 @@
       "title": "Partajați un URL curat din orice aplicație",
       "description": "În Mail, Safari, X, TikTok - oriunde apare Foaia de partajare iOS - atingeți Clean Links. Înlocuiți instantaneu linkul umflat cu unul impecabil înainte de a trimite. Fără gimnastică de copiere-lipire, doar liniște sufletească.",
       "cleanLinks": "Clean Links"
+    },
+    "macMenuBar": {
+      "title": "Curățător de linkuri din bara de meniu pentru Mac",
+      "description": "Activați monitorizarea clipboardului și Clean Links curăță automat fiecare adresă URL pe care o copiați. Din bara de meniu, elimină etichetele UTM, fbclid/gclid și anulează scurtarea t.co sau bit.ly înainte de a lipi. <strong>Confidențialitate prin design</strong> - nimic nu părăsește vreodată Mac-ul dvs."
     }
   },
   "statistics": {

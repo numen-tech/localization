@@ -43,6 +43,10 @@
       "title": "Jaa puhdas URL mistä tahansa sovelluksesta",
       "description": "Mailissa, Safarissa, X:ssä, TikTokissa – missä tahansa iOS:n jakonäkymä (Share Sheet) on käytössä – napauta Clean Links. Korvaa välittömästi paisunut linkki puhtaalla versiolla ennen lähettämistä. Ei kopioi-liitä-jumppaa, vain puhdasta mielenrauhaa.",
       "cleanLinks": "Clean Links"
+    },
+    "macMenuBar": {
+      "title": "Valikkorivin linkkien puhdistaja Macille",
+      "description": "Ota leikepöydän seuranta käyttöön, ja Clean Links puhdistaa automaattisesti jokaisen kopioimasi URL-osoitteen. Valikkoriviltä se poistaa UTM-tunnisteet, fbclid/gclid-tunnisteet ja lyhentää t.co- tai bit.ly-linkit ennen liittämistä. <strong>Suunniteltu yksityiseksi</strong> - mikään ei koskaan poistu Macistasi."
     }
   },
   "statistics": {

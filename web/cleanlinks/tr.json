@@ -43,6 +43,10 @@
       "title": "Herhangi bir uygulamadan temiz bir URL paylaşın",
       "description": "Mail, Safari, X, TikTok'ta - iOS Paylaşım Sayfası'nın göründüğü her yerde - Clean Links'e dokunun. Gönder'e basmadan önce şişirilmiş bağlantıyı anında temiz bir bağlantıyla değiştirin. Kopyala-yapıştır jimnastiği yok, yalnızca tam bir iç rahatlığı.",
       "cleanLinks": "Clean Links"
+    },
+    "macMenuBar": {
+      "title": "Mac için Menü Çubuğu Bağlantı Temizleyici",
+      "description": "Pano İzlemeyi açtığınızda Clean Links, kopyaladığınız her URL'yi otomatik olarak temizler. Menü çubuğundan UTM etiketlerini, fbclid/gclid'yi kaldırır ve yapıştırmadan önce t.co veya bit.ly'yi kısaltır. <strong>Tasarım gereği özeldir</strong> - hiçbir şey Mac'inizden ayrılmaz."
     }
   },
   "statistics": {

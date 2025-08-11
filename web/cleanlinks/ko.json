@@ -43,6 +43,10 @@
       "title": "모든 앱에서 깨끗한 URL 공유하기",
       "description": "Mail, Safari, X, TikTok 등 iOS 공유 시트가 나타나는 어디에서나 Clean Links를 탭하세요. 전송을 누르기 전에 불필요한 정보로 가득 찬 링크를 즉시 깨끗한 링크로 바꾸세요. 복사-붙여넣기 없이, 마음의 평화를 얻으세요.",
       "cleanLinks": "Clean Links"
+    },
+    "macMenuBar": {
+      "title": "Mac용 메뉴 막대 링크 클리너",
+      "description": "클립보드 모니터링을 켜면 Clean Links가 복사하는 모든 URL을 자동으로 정리합니다. 메뉴 막대에서 UTM 태그, fbclid/gclid를 제거하고 붙여넣기 전에 t.co 또는 bit.ly의 단축을 해제합니다. <strong>개인 정보 보호 설계</strong> - Mac에서 아무것도 벗어나지 않습니다."
     }
   },
   "statistics": {

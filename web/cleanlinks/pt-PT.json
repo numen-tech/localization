@@ -43,6 +43,10 @@
       "title": "Partilhe um URL limpo a partir de qualquer aplicação",
       "description": "No Mail, Safari, X, TikTok - em qualquer lugar onde o menu de Partilha do iOS apareça - toque em Clean Links. Substitua instantaneamente o link sobrecarregado por um limpo antes de carregar em Enviar. Sem ginásticas de copiar e colar, pura paz de espírito.",
       "cleanLinks": "Clean Links"
+    },
+    "macMenuBar": {
+      "title": "Limpador de links da barra de menus para Mac",
+      "description": "Ative a Monitorização da Área de Transferência e o Clean Links limpa automaticamente todos os URLs que copiar. A partir da barra de menus, remove as etiquetas UTM, fbclid/gclid e anula o encurtamento de t.co ou bit.ly antes de colar. <strong>Privado por predefinição</strong> - nada sai do seu Mac."
     }
   },
   "statistics": {

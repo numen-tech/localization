@@ -42,6 +42,10 @@
     "shareSheet": {
       "title": "Sdílejte čistý odkaz z jakékoli aplikace",
       "description": "V aplikacích Mail, Safari, X, TikTok – kdekoli, kde se objeví list pro sdílení v iOS – klepněte na Clean Links. Okamžitě nahraďte přeplněný odkaz čistým, než stisknete Odeslat. Žádné složité kopírování a vkládání, jen naprostý klid."
+    },
+    "macMenuBar": {
+      "title": "Čistič odkazů v řádku nabídek pro Mac",
+      "description": "Zapněte sledování schránky a Clean Links automaticky vyčistí každou adresu URL, kterou zkopírujete. Z řádku nabídek odstraní značky UTM, fbclid/gclid a před vložením zkrátí odkazy t.co nebo bit.ly. <strong>Soukromí již od návrhu</strong> - nic nikdy neopustí váš Mac."
     }
   },
   "statistics": {
