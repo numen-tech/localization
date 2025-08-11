@@ -17,43 +17,35 @@
   },
   "features": {
     "qrScanner": {
-      "title": "QR-codescanner die oplichting blokkeert",
-      "description": "Scan met vertrouwen. De <strong>QR-codelezer</strong> van Clean Links toont de echte URL <em>voordat uw browser opent</em>, verwijdert verborgen trackers en onthult verkorte links met dezelfde tik. QR-code phishing (\"quishing\") is in twee jaar tijd 15× zo vaak voorgekomen - nu verbergt 1 op de 10 phishing-e-mails een QR-code.¹ Door eerst de bestemming te zien, kunt <strong>u</strong> afhaken in plaats van op een valse inlogpagina te belanden.",
-      "qrCodeReader": "QR-codelezer",
-      "beforeBrowserOpens": "voordat uw browser opent"
+      "title": "QR-codescanner beschermt tegen 'quishing'-fraude",
+      "description": "Gebruik Clean Links als je favoriete QR-codescanner om verborgen gevaren te onthullen. Bekijk de echte bestemming voordat je opent, verwijder trackers en vouw verkorte links direct uit. Nu 'quishing' (QR-code phishing) in 2025 met 25% op jaarbasis toeneemt en verantwoordelijk is voor 26% van de schadelijke links, helpt deze functie je om valse sites vroegtijdig te herkennen. Blijf fraude een stap voor door elke scan te verifiëren-essentieel om oplichting via e-mails, op parkeerplaatsen of in openbare ruimtes te vermijden."
     },
     "linkCleaner": {
-      "title": "Linkopschoner: schoon elke link op, overal",
-      "description": "Plak, deel of gebruik een snelkoppeling voor een URL en onze Linkopschoner verwijdert utm_source, fbclid, gclid en honderden andere trackers van meer dan 250 sites - en dat worden er steeds meer. Het resultaat? Een wapen tegen de surveillance-economie: door de tracking-kruimels in verkorte links en URL-parameters te verwijderen, ontneemt u socialemediagiganten en advertentiebemiddelaars de gegevens die ze verzamelen om u te profileren en opnieuw te targeten.",
-      "linkCleaner": "Linkopschoner",
-      "utmSource": "utm_source",
-      "fbclid": "fbclid",
-      "gclid": "gclid"
+      "title": "Link-opschoner verwijdert trackers uit elke URL",
+      "description": "Schoon URL's moeiteloos op met de link-opschoner van Clean Links-plak, deel of automatiseer om utm_source, fbclid, gclid en duizenden andere trackers van e-commerce-, sociale en advertentiedomeinen te verwijderen. Vecht terug tegen tracking door grote techbedrijven, aangezien sociale platforms links verpakken met unieke ID's. Omdat kwaadaardige verkorte links phishing verbergen in 26% van de aanvallen, onthult Clean Links omleidingen zoals bit.ly of t.co-zo blijven je gegevens privé en je workflows naadloos, zonder ooit informatie van je apparaat te sturen."
     },
     "qrGenerator": {
-      "title": "Maak deelklare, trackervrije QR-codes",
-      "description": "Scan een menukaart van een restaurant of een andere QR-code, onthul de echte link en tik vervolgens op Genereer QR-code. Binnen enkele seconden heeft u een nieuwe code die uw vrienden kunnen scannen - geen stiekeme tracking, alleen de pagina die u wilde delen.",
-      "generateQR": "Genereer QR-code"
+      "title": "Genereer schone QR-codes om sociaal te delen",
+      "description": "Gebruik de QR-codegenerator van Clean Links om trackervrije codes te maken van elke gescande of opgeschoonde URL. Help vrienden veilig te scannen door een nieuwe QR-code te genereren-ideaal voor sociale situaties, zoals een groepswandeling waarbij je een QR-code van een wandelkaart scant, trackers verwijdert en de nieuwe code deelt zodat iedereen toegang heeft tot de juiste informatie zonder phishingrisico's of datalekken."
     },
     "controlCenter": {
-      "title": "Privacy met één tik in Bedieningspaneel & Siri Opdrachten",
-      "description": "Voeg Clean Links toe aan het Bedieningspaneel of maak een spraakopdracht zoals \"Hé Siri, schoon mijn link op.\" Ontwerp uw eigen workflow - bijvoorbeeld het automatisch opschonen van het klembord en vervolgens het resultaat openen in uw favoriete browser - wat het beste bij uw werkwijze past."
+      "title": "Creëer geavanceerde workflows met het bedieningspaneel & opdrachten",
+      "description": "Integreer Clean Links in het bedieningspaneel of opdrachten om complexe workflows te maken. Stel je een opdracht voor die een gekopieerde link pakt, deze door de URL-opschoner haalt om trackers te verwijderen, en vervolgens de schone versie direct deelt in WhatsApp-chats-op maat gemaakt voor gebruikers die met meerdere apps werken, met eindeloze opties zoals spraakgestuurd opschonen via Siri voor ultieme efficiëntie en privacy."
     },
     "shareSheet": {
-      "title": "Deel een schone URL vanuit elke app",
-      "description": "In Mail, Safari, X, TikTok - overal waar het Deel-menu van iOS verschijnt - tikt u op Clean Links. Vervang de opgeblazen link onmiddellijk door een zuivere voordat u op Verstuur drukt. Geen gedoe met kopiëren en plakken, pure gemoedsrust.",
-      "cleanLinks": "Clean Links"
+      "title": "Moeiteloos opschonen in het deelpaneel van elke app",
+      "description": "De integratie van Clean Links in het deelpaneel maakt het opschonen van links heel eenvoudig: selecteer vanuit Safari, X of Mail de extensie om direct trackingparameters te verwijderen en de ware bestemmingen te onthullen. Deel de opgeschoonde URL onmiddellijk met familie-eenvoudige, snelle bescherming tegen datatracking, zodat je kring veilig blijft bij dagelijkse digitale uitwisselingen."
     },
     "macMenuBar": {
-      "title": "Menubalk Link Cleaner voor Mac",
-      "description": "Schakel Klembordbewaking in en Clean Links reinigt automatisch elke URL die u kopieert. Vanaf de menubalk verwijdert het UTM-tags, fbclid/gclid en verkort het t.co of bit.ly voordat u plakt. <strong>Privacy by design</strong> - niets verlaat ooit uw Mac."
+      "title": "Altijd actieve link-opschoner in de Mac-menubalk",
+      "description": "Draai Clean Links in de menubalk van je Mac met klembordbewaking om URL's automatisch op te schonen terwijl je ze kopieert. Verwijder UTM-tags, vouw t.co uit en verwijder trackers-alles op het apparaat voor totale privacy. Perfect voor dagelijkse workflows, het verwerkt omleidingsketens zonder ooit je Mac te verlaten."
     }
   },
   "statistics": {
     "threat": {
       "title": "QR-code phishing & link-tracking: de groeiende dreiging",
-      "description": "QR-codescanners zijn nu overal - en dat geldt ook voor oplichting. In slechts twee jaar tijd is phishing op basis van QR-codes geëxplodeerd van 0,8% naar 12,4% van alle aanvallen (een 15-voudige stijging)¹, terwijl 1 op de 10 phishing-e-mails een QR-code verbergt. Zelfs 'onschuldige' sociale links zijn niet vrijgesteld: Facebook, X, TikTok en meer taggen elke uitgaande URL met fbclid, t.co, igshid, gclid en meer dan 250 andere trackers die u over het web volgen.",
-      "solution": "Clean Links verwijdert de trackers en onthult de echte bestemming voordat u tikt - zodat elke scan en klik op uw voorwaarden gebeurt.",
+      "description": "QR-codescanners zijn nu overal - en oplichting ook. In slechts twee jaar tijd <link>explodeerde QR-gebaseerde phishing van 0,8% naar 12,4% van alle aanvallen (een 15-voudige stijging)</link>, terwijl 1 op de 10 phishing-e-mails een QR-code verbergt. Zelfs 'onschuldige' sociale links zijn niet vrijgesteld: Facebook, X, TikTok en meer taggen elke uitgaande URL met fbclid, t.co, igshid, gclid en duizenden andere trackers die je over het web volgen - die Clean Links automatisch verwijdert, met een catalogus die bij elke update groeit.",
+      "solution": "Clean Links verwijdert de trackers en onthult de echte bestemming voordat je tikt - zodat elke scan en klik op jouw voorwaarden is.",
       "citation": {
         "prefix": "¹Bron:",
         "link": "Keepnet Labs 2025 Quishing Report & Global Research Brief on Malicious Links"
@@ -70,7 +62,7 @@
     "socialTracking": {
       "title": "Tracking door sociale media",
       "description": "Grote platforms verpakken elke uitgaande link met tracking-ID's:",
-      "summary": "<strong>Elke klik</strong> wordt gelogd en getagd voor advertentietargeting op <strong>meer dan 250 domeinen</strong>"
+      "summary": "<strong>Elke klik</strong> wordt gelogd en getagd voor advertentietargeting op <strong>duizenden domeinen</strong> - en breidt zich uit met elke update."
     }
   },
   "useCases": {

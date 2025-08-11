@@ -17,43 +17,35 @@
   },
   "features": {
     "qrScanner": {
-      "title": "QR-kód olvasó, amely blokkolja az átveréseket",
-      "description": "Olvasson be magabiztosan. A Clean Links <strong>QR-kód olvasója</strong> megmutatja a valódi URL-t, <em>mielőtt a böngésző megnyílna</em>, egyetlen érintéssel eltávolítva a rejtett követőket és leleplezve a rövidített linkeket. A QR-kódos adathalászat („quishing”) két év alatt 15-szörösére nőtt – ma már minden 10 adathalász e-mail egy QR-kódot rejt.¹ Ha először látja a céloldalt, <strong>Ön</strong> dönthet úgy, hogy visszalép, ahelyett, hogy egy hamis bejelentkezési oldalon kötne ki.",
-      "qrCodeReader": "QR-kód olvasó",
-      "beforeBrowserOpens": "mielőtt a böngésző megnyílna"
+      "title": "A QR-kód olvasó véd a quishing (QR-kódos adathalászat) ellen",
+      "description": "Használja a Clean Links alkalmazást elsődleges QR-kód olvasóként a rejtett veszélyek leleplezésére. Tekintse meg a valós célhelyet megnyitás előtt, távolítsa el a követőket, és bontsa ki azonnal a rövidített linkeket. Mivel a QR-kódos adathalászat ('quishing') 2025-ben évről évre 25%-kal növekszik, és a rosszindulatú linkek 26%-át teszi ki, ez a funkció lehetővé teszi a hamis webhelyek korai felismerését, és segít előrébb járni minden beolvasás ellenőrzésével – ami elengedhetetlen az e-mailekben, parkolókban vagy nyilvános helyeken előforduló csalások elkerüléséhez."
     },
     "linkCleaner": {
-      "title": "Link Cleaner: tisztítson meg bármilyen linket, bárhol",
-      "description": "Illesszen be, osszon meg vagy használjon parancsikont egy URL-hez, és a Link Cleaner eltávolítja az utm_source, fbclid, gclid és több száz más követőt több mint 250 webhelyről – és ez a szám folyamatosan nő. Az eredmény? Fegyver a megfigyelésen alapuló gazdaság ellen: a rövid linkekbe és URL-paraméterekbe sütött követési morzsák eltávolításával megfosztja a közösségi média óriásait és a hirdetési brókereket azoktól az adatoktól, amelyeket profilalkotásra és újracélzásra használnak.",
-      "linkCleaner": "Link Cleaner",
-      "utmSource": "utm_source",
-      "fbclid": "fbclid",
-      "gclid": "gclid"
+      "title": "A linktisztító eltávolítja a követőket bármely URL-ből",
+      "description": "Tisztítsa meg az URL-eket könnyedén a Clean Links linktisztítójával – illessze be, ossza meg vagy automatizálja az utm_source, fbclid, gclid és több ezer más követő eltávolítását az e-kereskedelmi, közösségi és hirdetési domainekről. Védekezzen a nagy technológiai cégek követése ellen, miközben a közösségi platformok egyedi azonosítókkal látják el a linkeket. Mivel a rosszindulatú rövidített linkek a támadások 26%-ában adathalászatot rejtenek, a Clean Links leleplezi az átirányításokat, mint a bit.ly vagy a t.co – megőrizve adatai privát szféráját és a zökkenőmentes munkafolyamatokat, anélkül, hogy bármilyen információ elhagyná az eszközt."
     },
     "qrGenerator": {
-      "title": "Hozzon létre megosztásra kész, követőmentes QR-kódokat",
-      "description": "Olvasson be egy éttermi étlapot vagy bármilyen más QR-kódot, fedje fel a valódi linket, majd koppintson a QR-kód generálása gombra. Másodpercek alatt kész egy friss kód, amelyet barátai is beolvashatnak – nincsenek alattomos követők, csak az az oldal, amit meg akart osztani.",
-      "generateQR": "QR-kód generálása"
+      "title": "Hozzon létre tiszta QR-kódokat a közösségi megosztáshoz",
+      "description": "Használja a Clean Links QR-kód generátorát követőktől mentes kódok létrehozásához bármely beolvasott vagy megtisztított URL-ből. Segítsen barátainak biztonságosan beolvasni egy új QR-kód generálásával – tökéletes közösségi helyzetekre, például egy csoportos túrára, ahol beolvas egy túratérkép QR-kódját, eltávolítja a követőket, és megosztja az új kódot, hogy mindenki a valós információkhoz férjen hozzá adathalászat kockázata vagy adatszivárgás nélkül."
     },
     "controlCenter": {
-      "title": "Egyérintéses adatvédelem a Vezérlőközpontban és a Siri Parancsokban",
-      "description": "Adja hozzá a Clean Links alkalmazást a Vezérlőközponthoz, vagy hozzon létre egy hangparancsot, például „Hey Siri, tisztítsd meg a linkemet”. Tervezze meg saját munkafolyamatát – talán a vágólap automatikus tisztítását, majd az eredmény megnyitását a preferált böngészőben – bármi is illik a legjobban a munkamódszeréhez."
+      "title": "Hozzon létre fejlett munkafolyamatokat a Vezérlőközpont és a Parancsok segítségével",
+      "description": "Integrálja a Clean Links alkalmazást a Vezérlőközpontba vagy a Parancsokba (Shortcuts) összetett munkafolyamatok létrehozásához. Képzeljen el egy Parancsot, amely fog egy másolt linket, átfuttatja az URL-tisztítón a követők eltávolításához, majd megosztja a tiszta verziót közvetlenül a WhatsApp csevegésekben – azoknak a felhasználóknak szabva, akik több alkalmazással zsonglőrködnek, végtelen lehetőségekkel, mint például a hangvezérelt tisztítás Siri segítségével a maximális hatékonyság és adatvédelem érdekében."
     },
     "shareSheet": {
-      "title": "Osszon meg tiszta URL-t bármely alkalmazásból",
-      "description": "A Mail, Safari, X, TikTok alkalmazásokban – bárhol, ahol megjelenik az iOS Megosztási lapja – koppintson a Clean Links ikonra. Azonnal cserélje le a túlzsúfolt linket egy makulátlanra, mielőtt a Küldés gombra kattintana. Nincs másolás-beillesztés gimnasztika, csak tiszta lelkiismeret.",
-      "cleanLinks": "Clean Links"
+      "title": "Könnyed tisztítás bármely alkalmazás megosztási lapján",
+      "description": "A Clean Links Megosztás lap (Share Sheet) integrációja gyerekjátékká teszi a linktisztítást: a Safariból, az X-ről vagy a Mailből válassza ki a bővítményt a követő paraméterek azonnali eltávolításához és a valódi célhelyek felfedéséhez. Ossza meg a megtisztított URL-t azonnal a családjával – egyszerű, gyors védelem az adatkövetés ellen, biztonságban tartva ismerőseit a mindennapi digitális interakciók során."
     },
     "macMenuBar": {
-      "title": "Menüsori linktisztító Macre",
-      "description": "Kapcsolja be a vágólapfigyelést, és a Clean Links automatikusan megtisztítja minden másolt URL-címét. A menüsorból eltávolítja az UTM-címkéket, az fbclid/gclid-t és lerövidíti a t.co vagy a bit.ly címeket beillesztés előtt. <strong>Tervezés szerint privát</strong> - semmi sem hagyja el soha a Mac-et."
+      "title": "Folyamatosan aktív linktisztító a Mac menüsorában",
+      "description": "Futtassa a Clean Links alkalmazást a Mac menüsorában a Vágólap figyelése (Clipboard Monitoring) funkcióval, hogy automatikusan megtisztítsa az URL-eket, amint másolja őket. Távolítsa el az UTM címkéket, bontsa ki a t.co linkeket, és távolítsa el a követőket – mindezt az eszközön a teljes adatvédelem érdekében. Tökéletes a napi munkafolyamatokhoz, kezeli az átirányítási láncokat anélkül, hogy valaha is elhagyná a Mac gépét."
     }
   },
   "statistics": {
     "threat": {
       "title": "QR-kódos adathalászat és linkkövetés: A növekvő fenyegetés",
-      "description": "A QR-kód olvasók ma már mindenütt jelen vannak – és az átverések is. Mindössze két év alatt a QR-alapú adathalászat az összes támadás 0,8%-áról 12,4%-ára ugrott (15-szörös növekedés)¹, miközben minden 10 adathalász e-mail egy QR-kódot rejt. Még az „ártalmatlan” közösségi linkek sem kivételek: a Facebook, X, TikTok és mások minden kimenő URL-t fbclid, t.co, igshid, gclid és több mint 250 egyéb követővel címkéznek fel, amelyek árnyékként követik Önt az interneten.",
-      "solution": "A Clean Links eltávolítja a követőket és felfedi a valódi céloldalt, mielőtt Ön rákattintana – így minden beolvasás és kattintás az Ön feltételei szerint történik.",
+      "description": "A QR-kód olvasók ma már mindenhol ott vannak - és a csalások is. Mindössze két év alatt <link>a QR-alapú adathalászat az összes támadás 0,8%-áról 12,4%-ára ugrott (15-szörös növekedés)</link>, miközben 10 adathalász e-mailből 1 QR-kódot rejt. Még az \"ártalmatlan\" közösségi linkek sem kivételek: a Facebook, az X, a TikTok és mások minden kimenő URL-t ellátnak fbclid, t.co, igshid, gclid és több ezer egyéb követővel, amelyek követik Önt az interneten - ezeket a Clean Links automatikusan eltávolítja, egy olyan katalógussal, amely minden frissítéssel bővül.",
+      "solution": "A Clean Links eltávolítja a követőket és felfedi a valódi célt, mielőtt Ön koppintana - így minden beolvasás és kattintás az Ön feltételei szerint történik.",
       "citation": {
         "prefix": "¹Forrás:",
         "link": "Keepnet Labs 2025 Quishing Report & Global Research Brief on Malicious Links"
@@ -70,7 +62,7 @@
     "socialTracking": {
       "title": "Közösségi média követés",
       "description": "A nagy platformok minden kimenő linket követő azonosítókkal látnak el:",
-      "summary": "<strong>Minden kattintást</strong> naplóznak és megcímkéznek hirdetési célzásra <strong>több mint 250 domainen</strong> keresztül"
+      "summary": "<strong>Minden kattintást</strong> naplózunk és megcímkézünk a hirdetések célzása érdekében <strong>több ezer domainen</strong> keresztül - és minden frissítéssel bővül."
     }
   },
   "useCases": {

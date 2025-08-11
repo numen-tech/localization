@@ -17,43 +17,35 @@
   },
   "features": {
     "qrScanner": {
-      "title": "Dolandırıcılığı engelleyen QR kod tarayıcı",
-      "description": "Güvenle tarayın. Clean Links'in <strong>QR kod okuyucusu</strong>, <em>tarayıcınız açılmadan önce</em> gerçek URL'yi gösterir, gizli izleyicileri kaldırır ve kısa bağlantıları tek dokunuşla ortaya çıkarır. QR kod ile oltalama (\"quishing\") iki yılda 15 kat arttı - artık her 10 kimlik avı e-postasından 1'i bir QR kodu gizliyor.¹ Hedefi önce görmek, sahte bir giriş sayfasına düşmek yerine <strong>sizin</strong> geri çekilmenizi sağlar.",
-      "qrCodeReader": "QR kod okuyucusu",
-      "beforeBrowserOpens": "tarayıcınız açılmadan önce"
+      "title": "QR Kod Tarayıcı, 'Quishing' Dolandırıcılıklarına Karşı Korur",
+      "description": "Gizli tehlikeleri ortaya çıkarmak için Clean Links'i varsayılan QR kod tarayıcınız olarak kullanın. Açmadan önce gerçek hedefi önizleyin, izleyicileri temizleyin ve kısa bağlantıları anında genişletin. QR kodu kimlik avı ('quishing') dolandırıcılığının 2025'te bir önceki yıla göre %25 artması ve kötü amaçlı bağlantıların %26'sını oluşturmasıyla, bu özellik sahte siteleri erkenden fark etmenizi sağlar. Her taramayı doğrulayarak bir adım önde olun; e-postalardaki, otoparklardaki veya halka açık alanlardaki dolandırıcılıklardan kaçınmak için bu çok önemlidir."
     },
     "linkCleaner": {
-      "title": "Link Cleaner: her yerde, her bağlantıyı temizleyin",
-      "description": "Bir URL'yi yapıştırın, paylaşın veya kestirme oluşturun; Link Cleaner aracımız 250'den fazla sitedeki utm_source, fbclid, gclid ve yüzlerce diğer izleyiciyi temizler - ve bu sayı artmaya devam ediyor. Sonuç mu? Gözetim ekonomisine karşı bir silah: kısa bağlantılara ve URL parametrelerine gömülü izleme kırıntılarını temizleyerek, sosyal medya devlerini ve reklam aracılarını sizi profillemek ve yeniden hedeflemek için topladıkları verilerden mahrum bırakırsınız.",
-      "linkCleaner": "Link Cleaner",
-      "utmSource": "utm_source",
-      "fbclid": "fbclid",
-      "gclid": "gclid"
+      "title": "Bağlantı Temizleyici, Her URL'den İzleyicileri Kaldırır",
+      "description": "Clean Links'in bağlantı temizleyicisi ile URL'leri zahmetsizce temizleyin; e-ticaret, sosyal medya ve reklam alanlarındaki utm_source, fbclid, gclid ve binlerce diğer parametreyi kaldırmak için yapıştırın, paylaşın veya otomatikleştirin. Sosyal platformlar bağlantıları benzersiz tanımlayıcılarla sarmalarken büyük teknoloji takibine karşı savaşın. Kötü amaçlı kısa bağlantılar saldırıların %26'sında kimlik avını gizlerken, Clean Links bit.ly veya t.co gibi yönlendirmelerin maskesini düşürür, verilerinizi gizli tutar ve hiçbir bilgiyi cihaz dışına göndermeden iş akışlarınızı sorunsuz hale getirir."
     },
     "qrGenerator": {
-      "title": "Paylaşıma hazır, izleyicisiz QR kodları oluşturun",
-      "description": "Bir restoran menüsünü veya başka bir QR kodunu tarayın, gerçek bağlantıyı ortaya çıkarın, ardından QR Oluştur'a dokunun. Saniyeler içinde arkadaşlarınızın tarayabileceği yepyeni bir kodunuz olur - gizli izleme yok, sadece paylaşmak istediğiniz sayfa.",
-      "generateQR": "QR Oluştur"
+      "title": "Sosyal Paylaşım İçin Temiz QR Kodları Oluşturun",
+      "description": "Taranmış veya temizlenmiş herhangi bir URL'den izleyici içermeyen kodlar oluşturmak için Clean Links'in QR kod oluşturucusunu kullanın. Yeni bir QR oluşturarak arkadaşlarınızın güvenle tarama yapmasına yardımcı olun. Bu özellik, bir grup yürüyüşünde patika haritası QR'ını tarayıp izleyicileri temizledikten sonra yeni kodu paylaşarak herkesin kimlik avı riskleri veya veri sızıntıları olmadan gerçek bilgilere erişmesini sağladığınız sosyal ortamlar için mükemmeldir."
     },
     "controlCenter": {
-      "title": "Denetim Merkezi ve Siri Kestirmeleri'nde tek dokunuşla gizlilik",
-      "description": "Clean Links'i Denetim Merkezi'ne ekleyin veya \"Hey Siri, bağlantımı temizle\" gibi bir sesli Kestirme oluşturun. Kendi iş akışınızı tasarlayın - belki panoyu otomatik olarak temizleyip sonucu tercih ettiğiniz tarayıcıda açmak gibi - çalışma şeklinize en uygun olan ne ise."
+      "title": "Denetim Merkezi ve Kestirmeler ile Gelişmiş İş Akışları Oluşturun",
+      "description": "Karmaşık iş akışları oluşturmak için Clean Links'i Denetim Merkezi veya Kestirmeler'e entegre edin. Kopyalanan bir bağlantıyı alan, izleyicileri kaldırmak için URL temizleyiciden geçiren ve ardından temiz sürümü doğrudan WhatsApp sohbetlerine paylaşan bir Kestirme hayal edin. Bu özellik, birden fazla uygulamayı aynı anda kullanan kullanıcılar için özel olarak tasarlanmıştır ve en üst düzeyde verimlilik ve gizlilik için Siri aracılığıyla sesle etkinleştirilen temizleme gibi sonsuz seçenekler sunar."
     },
     "shareSheet": {
-      "title": "Herhangi bir uygulamadan temiz bir URL paylaşın",
-      "description": "Mail, Safari, X, TikTok'ta - iOS Paylaşım Sayfası'nın göründüğü her yerde - Clean Links'e dokunun. Gönder'e basmadan önce şişirilmiş bağlantıyı anında temiz bir bağlantıyla değiştirin. Kopyala-yapıştır jimnastiği yok, yalnızca tam bir iç rahatlığı.",
-      "cleanLinks": "Clean Links"
+      "title": "Herhangi Bir Uygulamanın Paylaşım Menüsünde Zahmetsiz Temizleme",
+      "description": "Clean Links'in Paylaşım Menüsü entegrasyonu bağlantı temizlemeyi çok kolaylaştırır: Safari, X veya Mail'den uzantıyı seçerek izleme parametrelerini anında kaldırın ve gerçek hedefleri ortaya çıkarın. Temizlenmiş URL'yi hemen ailenizle paylaşın; veri takibine karşı bu basit ve hızlı koruma, çevrenizi günlük dijital etkileşimlerde güvende tutar."
     },
     "macMenuBar": {
-      "title": "Mac için Menü Çubuğu Bağlantı Temizleyici",
-      "description": "Pano İzlemeyi açtığınızda Clean Links, kopyaladığınız her URL'yi otomatik olarak temizler. Menü çubuğundan UTM etiketlerini, fbclid/gclid'yi kaldırır ve yapıştırmadan önce t.co veya bit.ly'yi kısaltır. <strong>Tasarım gereği özeldir</strong> - hiçbir şey Mac'inizden ayrılmaz."
+      "title": "Mac Menü Çubuğunda Her Zaman Açık Bağlantı Temizleyici",
+      "description": "URL'leri kopyalarken otomatik olarak temizlemek için Clean Links'i Mac'inizin menü çubuğunda Pano İzleme özelliğiyle çalıştırın. UTM etiketlerini kaldırın, t.co bağlantılarının kısaltmasını geri alın ve izleyicileri silin. Tam gizlilik için tüm işlemler cihazınızda yapılır. Günlük iş akışları için mükemmel olan bu özellik, yönlendirme zincirlerini Mac'inizden hiçbir veri çıkmadan yönetir."
     }
   },
   "statistics": {
     "threat": {
       "title": "QR Kod ile Oltalama ve Bağlantı Takibi: Büyüyen Tehdit",
-      "description": "QR kod tarayıcıları artık her yerde - dolandırıcılıklar da öyle. Sadece iki yıl içinde, QR tabanlı oltalama tüm saldırıların %0,8'inden %12,4'üne fırladı (15 kat artış)¹, ve her 10 oltalama e-postasından 1'i bir QR kodu gizliyor. \"Zararsız\" görünen sosyal medya bağlantıları bile istisna değil: Facebook, X, TikTok ve daha fazlası, her giden URL'yi fbclid, t.co, igshid, gclid ve sizi web'de takip eden 250'den fazla diğer izleyiciyle etiketler.",
-      "solution": "Clean Links, izleyicileri kaldırır ve dokunmadan önce gerçek hedefi ortaya çıkarır - böylece her tarama ve tıklama sizin kontrolünüzde olur.",
+      "description": "QR kod tarayıcıları artık her yerde - dolandırıcılıklar da öyle. Sadece iki yıl içinde, <link>QR tabanlı kimlik avı saldırıları tüm saldırıların %0,8'inden %12,4'üne fırladı (15 kat artış)</link> ve her 10 kimlik avı e-postasından 1'i bir QR kodu saklıyor. \"Zararsız\" sosyal bağlantılar bile istisna değil: Facebook, X, TikTok ve daha fazlası, her giden URL'yi sizi web'de takip eden fbclid, t.co, igshid, gclid ve binlerce diğer izleyiciyle etiketler - Clean Links bunları otomatik olarak kaldırır ve kataloğu her güncellemeyle büyür.",
+      "solution": "Clean Links, dokunmadan önce izleyicileri kaldırır ve gerçek hedefi gösterir - böylece her tarama ve tıklama sizin şartlarınızda gerçekleşir.",
       "citation": {
         "prefix": "¹Kaynak:",
         "link": "Keepnet Labs 2025 Quishing Raporu ve Kötü Amaçlı Bağlantılar Üzerine Küresel Araştırma Özeti"
@@ -70,7 +62,7 @@
     "socialTracking": {
       "title": "Sosyal Medya Takibi",
       "description": "Büyük platformlar her giden bağlantıyı izleme tanımlayıcılarıyla sarmalar:",
-      "summary": "<strong>Her tıklama</strong>, <strong>250'den fazla alan adında</strong> reklam hedeflemesi için kaydedilir ve etiketlenir"
+      "summary": "<strong>Her tıklama</strong>, <strong>binlerce alanda</strong> reklam hedeflemesi için günlüğe kaydedilir ve etiketlenir - her güncellemeyle genişler."
     }
   },
   "useCases": {

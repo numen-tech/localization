@@ -17,42 +17,35 @@
   },
   "features": {
     "qrScanner": {
-      "title": "Skener QR kódů, který blokuje podvody",
-      "description": "Skenujte s důvěrou. <strong>Čtečka QR kódů</strong> Clean Links zobrazí skutečnou URL <em>ještě před otevřením v prohlížeči</em>, přičemž jedním klepnutím odstraní skryté sledovací prvky a odmaskuje zkrácené odkazy. Phishing pomocí QR kódů („quishing“) za dva roky vzrostl 15krát – nyní 1 z 10 phishingových e-mailů skrývá QR kód.¹ Když cíl uvidíte jako první, můžete se <strong>vy</strong> rozhodnout vrátit, místo abyste skončili na falešné přihlašovací stránce.",
-      "qrCodeReader": "Čtečka QR kódů",
-      "beforeBrowserOpens": "ještě před otevřením v prohlížeči"
+      "title": "Skener QR kódů chrání proti quishingovým podvodům",
+      "description": "Používejte Clean Links jako svůj primární skener QR kódů k odhalení skrytých nebezpečí. Zobrazte si náhled skutečného cíle před otevřením, odstraňte sledovací prvky a okamžitě rozbalte zkrácené odkazy. Vzhledem k tomu, že phishing pomocí QR kódů ('quishing') v roce 2025 meziročně vzrostl o 25 % a tvoří 26 % škodlivých odkazů, tato funkce vám umožní včas odhalit podvodné stránky a být o krok napřed díky ověření každého skenování – což je nezbytné pro vyhýbání se podvodům v e-mailech, na parkovištích nebo na veřejných místech."
     },
     "linkCleaner": {
-      "title": "Čistič odkazů: vyčistěte jakýkoli odkaz, kdekoli",
-      "description": "Vložte, sdílejte nebo použijte zkratku pro URL a náš Čistič odkazů odstraní utm_source, fbclid, gclid a stovky dalších sledovacích prvků z více než 250 webů – a jejich počet stále roste. Výsledek? Zbraň proti ekonomice dohledu: odstraněním sledovacích stop vložených do zkrácených odkazů a parametrů URL připravíte giganty sociálních médií a reklamní zprostředkovatele o data, která shromažďují, aby vás profilovali a cílili na vás reklamu.",
-      "linkCleaner": "Čistič odkazů",
-      "utmSource": "utm_source",
-      "fbclid": "fbclid",
-      "gclid": "gclid"
+      "title": "Čistič odkazů odstraňuje sledovací prvky z jakékoli URL",
+      "description": "Čistěte URL adresy bez námahy pomocí čističe odkazů v Clean Links – vložte, sdílejte nebo automatizujte odstraňování parametrů utm_source, fbclid, gclid a tisíců dalších napříč e-commerce, sociálními a reklamními doménami. Braňte se sledování velkými technologickými společnostmi, protože sociální platformy balí odkazy do jedinečných identifikátorů. Jelikož škodlivé zkrácené odkazy skrývají phishing ve 26 % útoků, Clean Links odhaluje přesměrování jako bit.ly nebo t.co – udržuje vaše data v soukromí a pracovní postupy plynulé, aniž by kdy odeslal informace z vašeho zařízení."
     },
     "qrGenerator": {
-      "title": "Vytvářejte QR kódy bez sledování, připravené ke sdílení",
-      "description": "Naskenujte jídelní lístek v restauraci nebo jakýkoli jiný QR kód, odhalte skutečný odkaz a klepněte na Generovat QR. Během několika sekund máte nový kód, který mohou vaši přátelé naskenovat – žádné skryté sledování, jen stránka, kterou jste chtěli sdílet.",
-      "generateQR": "Generovat QR"
+      "title": "Generujte čisté QR kódy pro sdílení na sociálních sítích",
+      "description": "Použijte generátor QR kódů v Clean Links k vytváření kódů bez sledovacích prvků z jakékoli naskenované nebo vyčištěné URL. Pomozte přátelům skenovat bezpečně tím, že vygenerujete nový QR kód – ideální pro společenské situace, jako je skupinová túra, kde naskenujete QR kód mapy trasy, odstraníte sledovací prvky a sdílíte nový kód, aby všichni získali přístup ke skutečným informacím bez rizika phishingu nebo úniku dat."
     },
     "controlCenter": {
-      "title": "Soukromí na jedno klepnutí v Ovládacím centru a Zkratkách Siri",
-      "description": "Přidejte Clean Links do Ovládacího centra nebo si vytvořte hlasovou zkratku jako „Hey Siri, vyčisti můj odkaz.“ Navrhněte si vlastní pracovní postup – například automatické čištění schránky a následné otevření výsledku ve vašem preferovaném prohlížeči – cokoli, co nejlépe vyhovuje vašemu stylu práce."
+      "title": "Vytvářejte pokročilé pracovní postupy s Ovládacím centrem a Zkratkami",
+      "description": "Integrujte Clean Links do Ovládacího centra nebo Zkratek a vytvářejte složité pracovní postupy. Představte si Zkratku, která vezme zkopírovaný odkaz, projde jej čističem URL k odstranění sledovacích prvků a poté sdílí čistou verzi přímo do chatů na WhatsApp – přizpůsobeno pro uživatele, kteří pracují s více aplikacemi, s nekonečnými možnostmi, jako je hlasem aktivované čištění přes Siri pro maximální efektivitu a soukromí."
     },
     "shareSheet": {
-      "title": "Sdílejte čistý odkaz z jakékoli aplikace",
-      "description": "V aplikacích Mail, Safari, X, TikTok – kdekoli, kde se objeví list pro sdílení v iOS – klepněte na Clean Links. Okamžitě nahraďte přeplněný odkaz čistým, než stisknete Odeslat. Žádné složité kopírování a vkládání, jen naprostý klid."
+      "title": "Snadné čištění v nabídce sdílení jakékoli aplikace",
+      "description": "Integrace Clean Links do nabídky sdílení činí čištění odkazů hračkou: v Safari, X nebo Mailu vyberte rozšíření, abyste okamžitě odstranili sledovací parametry a odhalili skutečné cíle. Vyčištěnou URL adresu ihned sdílejte s rodinou – jednoduchá a rychlá ochrana proti sledování dat, která udrží vaše blízké v bezpečí při každodenních digitálních interakcích."
     },
     "macMenuBar": {
-      "title": "Čistič odkazů v řádku nabídek pro Mac",
-      "description": "Zapněte sledování schránky a Clean Links automaticky vyčistí každou adresu URL, kterou zkopírujete. Z řádku nabídek odstraní značky UTM, fbclid/gclid a před vložením zkrátí odkazy t.co nebo bit.ly. <strong>Soukromí již od návrhu</strong> - nic nikdy neopustí váš Mac."
+      "title": "Stále aktivní čistič odkazů v menu na Macu",
+      "description": "Spusťte Clean Links v menu na vašem Macu s funkcí Sledování schránky, která automaticky čistí URL adresy, jakmile je zkopírujete. Odstraňte UTM tagy, rozbalte t.co a odstraňte sledovací prvky – vše probíhá na zařízení pro naprosté soukromí. Ideální pro každodenní pracovní postupy, zvládá řetězce přesměrování, aniž by cokoli opustilo váš Mac."
     }
   },
   "statistics": {
     "threat": {
       "title": "Phishing pomocí QR kódů a sledování odkazů: Rostoucí hrozba",
-      "description": "Skenerů QR kódů je dnes všude plno – a podvodů také. Za pouhé dva roky vzrostl podíl phishingu založeného na QR kódech z 0,8 % na 12,4 % všech útoků (15násobný nárůst)¹, přičemž 1 z 10 phishingových e-mailů skrývá QR kód. Ani „neškodné“ odkazy na sociálních sítích nejsou výjimkou: Facebook, X, TikTok a další označují každou odchozí URL značkami fbclid, t.co, igshid, gclid a více než 250 dalšími sledovacími prvky, které vás sledují po celém webu.",
-      "solution": "Clean Links odstraní sledovací prvky a odhalí skutečný cíl dříve, než klepnete – takže každé skenování a kliknutí probíhá podle vašich podmínek.",
+      "description": "Skenery QR kódů jsou nyní všude - a podvody také. Během pouhých dvou let <link>phishing založený na QR kódech explodoval z 0,8 % na 12,4 % všech útoků (15násobný skok)</link>, přičemž 1 z 10 phishingových e-mailů skrývá QR kód. Ani \"neškodné\" sociální odkazy nejsou výjimkou: Facebook, X, TikTok a další označují každý odchozí URL tagy fbclid, t.co, igshid, gclid a tisíci dalšími sledovači, které vás sledují po celém webu - Clean Links je automaticky odstraňuje a jeho katalog se s každou aktualizací rozrůstá.",
+      "solution": "Clean Links odstraní sledovače a odhalí skutečný cíl dříve, než klepnete - takže každé skenování a kliknutí je podle vašich podmínek.",
       "citation": {
         "prefix": "¹Zdroj:",
         "link": "Keepnet Labs 2025 Quishing Report & Global Research Brief on Malicious Links"
@@ -69,7 +62,7 @@
     "socialTracking": {
       "title": "Sledování na sociálních sítích",
       "description": "Hlavní platformy obalují každý odchozí odkaz sledovacími identifikátory:",
-      "summary": "<strong>Každé kliknutí</strong> je zaznamenáno a označeno pro cílení reklam napříč <strong>více než 250 doménami</strong>"
+      "summary": "<strong>Každé kliknutí</strong> je zaznamenáno a označeno pro cílení reklam napříč <strong>tisíci doménami</strong> - a s každou aktualizací se rozšiřuje."
     }
   },
   "useCases": {

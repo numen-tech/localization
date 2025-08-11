@@ -17,43 +17,35 @@
   },
   "features": {
     "qrScanner": {
-      "title": "Un scanner de QR code qui bloque les arnaques",
-      "description": "Scannez en toute confiance. Le <strong>lecteur de QR code</strong> de Clean Links affiche la véritable URL <em>avant que votre navigateur ne s'ouvre</em>, supprimant les traceurs cachés et démasquant les liens courts en un seul geste. L'hameçonnage par QR code (« quishing ») a été multiplié par 15 en deux ans - désormais, 1 e-mail de phishing sur 10 cache un QR code.¹ Voir la destination en premier vous permet de <strong>faire marche arrière</strong> au lieu d'atterrir sur une fausse page de connexion.",
-      "qrCodeReader": "lecteur de QR code",
-      "beforeBrowserOpens": "avant que votre navigateur ne s'ouvre"
+      "title": "Un lecteur de codes QR qui protège contre l'hameçonnage",
+      "description": "Utilisez Clean Links comme votre lecteur de codes QR de référence pour démasquer les dangers cachés. Prévisualisez la destination réelle avant de l'ouvrir, supprimez les traqueurs et développez les liens courts instantanément. Avec l'hameçonnage par QR code ('quishing') qui a augmenté de 25 % d'une année sur l'autre en 2025 et qui représente 26 % des liens malveillants, cette fonction vous permet de repérer tôt les faux sites et de garder une longueur d'avance en vérifiant chaque scan - essentiel pour éviter les arnaques dans les e-mails, les parkings ou les espaces publics."
     },
     "linkCleaner": {
-      "title": "Nettoyeur de Liens : nettoyez n'importe quel lien, n'importe où",
-      "description": "Collez, partagez ou utilisez un raccourci pour une URL et notre Nettoyeur de Liens supprime les utm_source, fbclid, gclid et des centaines d'autres traceurs sur plus de 250 sites, et ce n'est pas fini. Le résultat ? Une arme contre l'économie de la surveillance : en supprimant les miettes de suivi intégrées dans les liens courts et les paramètres d'URL, vous privez les géants des réseaux sociaux et les courtiers en publicité des données qu'ils accumulent pour vous profiler et vous recibler.",
-      "linkCleaner": "Nettoyeur de Liens",
-      "utmSource": "utm_source",
-      "fbclid": "fbclid",
-      "gclid": "gclid"
+      "title": "Un nettoyeur de liens qui supprime les traqueurs de n'importe quelle URL",
+      "description": "Nettoyez les URL sans effort avec le nettoyeur de liens de Clean Links - collez, partagez ou automatisez pour supprimer utm_source, fbclid, gclid et des milliers d'autres sur les domaines de e-commerce, sociaux et publicitaires. Luttez contre le suivi des géants de la tech alors que les plateformes sociales enveloppent les liens d'identifiants uniques. Comme les liens courts malveillants masquent l'hameçonnage dans 26 % des attaques, Clean Links démasque les redirections comme bit.ly ou t.co - gardant vos données privées et vos flux de travail fluides, sans jamais envoyer d'informations hors de votre appareil."
     },
     "qrGenerator": {
-      "title": "Créez des codes QR sans traceurs, prêts à être partagés",
-      "description": "Scannez un menu de restaurant ou tout autre QR code, révélez le véritable lien, puis appuyez sur Générer un QR code. En quelques secondes, vous obtenez un nouveau code que vos amis peuvent scanner, sans suivi sournois, juste la page que vous vouliez partager.",
-      "generateQR": "Générer un QR code"
+      "title": "Générez des codes QR propres pour le partage social",
+      "description": "Utilisez le générateur de codes QR de Clean Links pour créer des codes sans traqueurs à partir de n'importe quelle URL scannée ou nettoyée. Aidez vos amis à scanner en toute sécurité en générant un nouveau QR - parfait pour les situations sociales comme une randonnée en groupe où vous scannez un QR de carte de sentier, supprimez les traqueurs et partagez le nouveau code pour que tout le monde accède à la vraie information sans risque d'hameçonnage ou de fuite de données."
     },
     "controlCenter": {
-      "title": "Confidentialité en un clic avec le Centre de contrôle et les Raccourcis Siri",
-      "description": "Ajoutez Clean Links au Centre de contrôle ou créez un raccourci vocal comme « Dis Siri, nettoie mon lien ». Concevez votre propre flux de travail, par exemple en nettoyant automatiquement le presse-papiers puis en ouvrant le résultat dans votre navigateur préféré, ce qui convient le mieux à votre façon de travailler."
+      "title": "Créez des flux de travail avancés avec le Centre de contrôle et Raccourcis",
+      "description": "Intégrez Clean Links au Centre de contrôle ou à Raccourcis pour élaborer des flux de travail complexes. Imaginez un Raccourci qui récupère un lien copié, le passe dans le nettoyeur d'URL pour supprimer les traqueurs, puis partage la version propre directement dans des discussions WhatsApp - conçu pour les utilisateurs qui jonglent avec plusieurs applications, avec des options infinies comme le nettoyage activé par la voix via Siri pour une efficacité et une confidentialité maximales."
     },
     "shareSheet": {
-      "title": "Partagez une URL propre depuis n'importe quelle application",
-      "description": "Dans Mail, Safari, X, TikTok, partout où la feuille de partage iOS apparaît, appuyez sur Clean Links. Remplacez instantanément le lien surchargé par un lien impeccable avant de l'envoyer. Aucune gymnastique de copier-coller, juste une tranquillité d'esprit totale.",
-      "cleanLinks": "Clean Links"
+      "title": "Nettoyage facile depuis la feuille de partage de n'importe quelle app",
+      "description": "L'intégration de Clean Links à la Feuille de partage rend le nettoyage de liens très simple : depuis Safari, X ou Mail, sélectionnez l'extension pour supprimer instantanément les paramètres de suivi et révéler les vraies destinations. Partagez l'URL nettoyée avec votre famille immédiatement - une protection simple et rapide contre le suivi des données, gardant votre entourage en sécurité dans les échanges numériques quotidiens."
     },
     "macMenuBar": {
-      "title": "Nettoyeur de liens pour la barre des menus sur Mac",
-      "description": "Activez la surveillance du presse-papiers et Clean Links nettoie automatiquement chaque URL que vous copiez. Depuis la barre des menus, il supprime les balises UTM, fbclid/gclid, et déraccourcit les liens t.co ou bit.ly avant que vous ne les colliez. <strong>Privé par conception</strong> - rien ne quitte jamais votre Mac."
+      "title": "Nettoyeur de liens toujours actif dans la barre de menus du Mac",
+      "description": "Exécutez Clean Links dans la barre de menus de votre Mac avec la surveillance du presse-papiers pour nettoyer automatiquement les URL que vous copiez. Supprimez les balises UTM, développez les liens t.co et éliminez les traqueurs - le tout sur l'appareil pour une confidentialité totale. Parfait pour les flux de travail quotidiens, il gère les chaînes de redirection sans jamais quitter votre Mac."
     }
   },
   "statistics": {
     "threat": {
       "title": "Hameçonnage par QR Code et Suivi de Liens : La Menace Croissante",
-      "description": "Les scanners de QR code sont désormais partout, tout comme les arnaques. En seulement deux ans, l'hameçonnage par QR code a explosé, passant de 0,8 % à 12,4 % de toutes les attaques (une multiplication par 15)¹, tandis que 1 e-mail de phishing sur 10 cache un QR code. Même les liens sociaux « inoffensifs » ne sont pas épargnés : Facebook, X, TikTok et d'autres marquent chaque URL sortante avec fbclid, t.co, igshid, gclid et plus de 250 autres traceurs qui vous suivent sur le web.",
-      "solution": "Clean Links supprime les traceurs et expose la destination réelle avant que vous ne cliquiez, afin que chaque scan et chaque clic se fassent selon vos conditions.",
+      "description": "Les scanners de codes QR sont désormais partout - et les arnaques aussi. En seulement deux ans, <link>l'hameçonnage par code QR a explosé, passant de 0,8 % à 12,4 % de toutes les attaques (une multiplication par 15)</link>, tandis qu'un e-mail d'hameçonnage sur 10 cache un code QR. Même les liens \"inoffensifs\" des réseaux sociaux ne sont pas épargnés : Facebook, X, TikTok et d'autres ajoutent à chaque URL sortante des traqueurs comme fbclid, t.co, igshid, gclid et des milliers d'autres qui vous suivent à la trace sur le web - que Clean Links supprime automatiquement, avec un catalogue qui s'enrichit à chaque mise à jour.",
+      "solution": "Clean Links supprime les traqueurs et révèle la véritable destination avant que vous ne cliquiez - ainsi, chaque scan et chaque clic se fait selon vos conditions.",
       "citation": {
         "prefix": "¹Source :",
         "link": "Rapport 2025 sur le Quishing et Note de Recherche Mondiale sur les Liens Malveillants de Keepnet Labs"
@@ -70,7 +62,7 @@
     "socialTracking": {
       "title": "Suivi sur les Réseaux Sociaux",
       "description": "Les principales plateformes enveloppent chaque lien sortant avec des identifiants de suivi :",
-      "summary": "<strong>Chaque clic</strong> est enregistré et marqué pour le ciblage publicitaire sur <strong>plus de 250 domaines</strong>"
+      "summary": "<strong>Chaque clic</strong> est enregistré et marqué pour le ciblage publicitaire sur des <strong>milliers de domaines</strong> - s'étendant à chaque mise à jour."
     }
   },
   "useCases": {

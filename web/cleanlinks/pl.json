@@ -17,43 +17,35 @@
   },
   "features": {
     "qrScanner": {
-      "title": "Skaner kodów QR, który blokuje oszustwa",
-      "description": "Skanuj bez obaw. <strong>Czytnik kodów QR</strong> Clean Links pokazuje prawdziwy URL, <em>zanim otworzy się przeglądarka</em>, usuwając ukryte moduły śledzące i demaskując skrócone linki jednym dotknięciem. Phishing za pomocą kodów QR („quishing”) wzrósł 15-krotnie w ciągu dwóch lat – teraz co dziesiąta wiadomość phishingowa zawiera kod QR.¹ Widząc cel jako pierwszy, <strong>Ty</strong> decydujesz, czy się wycofać, zamiast trafić na fałszywą stronę logowania.",
-      "qrCodeReader": "Czytnik kodów QR",
-      "beforeBrowserOpens": "zanim otworzy się przeglądarka"
+      "title": "Skaner kodów QR chroni przed oszustwami typu quishing",
+      "description": "Używaj Clean Links jako swojego głównego skanera kodów QR, aby demaskować ukryte zagrożenia. Zobacz prawdziwy cel przed otwarciem, usuń moduły śledzące i natychmiast rozwijaj skrócone linki. W związku z tym, że liczba przypadków phishingu za pomocą kodów QR („quishing”) wzrosła o 25% rok do roku w 2025 r. i stanowi 26% złośliwych linków, ta funkcja pozwala wcześnie wykrywać fałszywe strony i być o krok do przodu, weryfikując każdy skan – co jest niezbędne do unikania oszustw w e-mailach, na parkingach czy w miejscach publicznych."
     },
     "linkCleaner": {
-      "title": "Link Cleaner: wyczyść każdy link, wszędzie",
-      "description": "Wklej, udostępnij lub użyj skrótu do adresu URL, a nasz Link Cleaner usunie utm_source, fbclid, gclid i setki innych modułów śledzących z ponad 250 witryn – i ta liczba wciąż rośnie. Rezultat? Broń przeciwko ekonomii nadzoru: usuwając ślady śledzenia wbudowane w skrócone linki i parametry URL, odcinasz gigantów mediów społecznościowych i brokerów reklamowych od danych, które gromadzą, aby Cię profilować i retargetować.",
-      "linkCleaner": "Link Cleaner",
-      "utmSource": "utm_source",
-      "fbclid": "fbclid",
-      "gclid": "gclid"
+      "title": "Narzędzie do czyszczenia linków usuwa moduły śledzące z każdego adresu URL",
+      "description": "Czyść adresy URL bez wysiłku za pomocą narzędzia do czyszczenia linków Clean Links – wklej, udostępnij lub zautomatyzuj, aby usunąć parametry utm_source, fbclid, gclid i tysiące innych w domenach e-commerce, społecznościowych i reklamowych. Walcz ze śledzeniem przez wielkie koncerny technologiczne, gdy platformy społecznościowe dodają do linków unikalne identyfikatory. Ponieważ złośliwe skrócone linki ukrywają phishing w 26% ataków, Clean Links demaskuje przekierowania takie jak bit.ly czy t.co, chroniąc Twoją prywatność i zapewniając płynność pracy, nigdy nie wysyłając danych z urządzenia."
     },
     "qrGenerator": {
-      "title": "Twórz gotowe do udostępnienia kody QR bez trackerów",
-      "description": "Zeskanuj menu w restauracji lub dowolny inny kod QR, odkryj prawdziwy link, a następnie dotknij „Generuj QR”. W kilka sekund otrzymasz nowy kod, który Twoi znajomi mogą zeskanować – bez podstępnego śledzenia, tylko strona, którą chciałeś udostępnić.",
-      "generateQR": "Generuj QR"
+      "title": "Generuj czyste kody QR do udostępniania w mediach społecznościowych",
+      "description": "Użyj generatora kodów QR w Clean Links, aby tworzyć kody wolne od modułów śledzących z dowolnego zeskanowanego lub wyczyszczonego adresu URL. Pomóż znajomym bezpiecznie skanować, generując świeży kod QR – idealny w sytuacjach towarzyskich, jak np. grupowa wycieczka, gdzie skanujesz kod QR z mapą szlaku, usuwasz moduły śledzące i udostępniasz nowy kod, aby wszyscy mieli dostęp do prawdziwych informacji bez ryzyka phishingu czy wycieku danych."
     },
     "controlCenter": {
-      "title": "Prywatność jednym dotknięciem w Centrum sterowania i Skrótach Siri",
-      "description": "Dodaj Clean Links do Centrum sterowania lub stwórz skrót głosowy, np. „Hej Siri, wyczyść mój link”. Zaprojektuj własny przepływ pracy – może to być automatyczne czyszczenie schowka, a następnie otwieranie wyniku w ulubionej przeglądarce – cokolwiek najlepiej pasuje do Twojego stylu pracy."
+      "title": "Twórz zaawansowane przepływy pracy z Centrum sterowania i Skrótami",
+      "description": "Zintegruj Clean Links z Centrum sterowania lub Skrótami, aby tworzyć złożone przepływy pracy. Wyobraź sobie Skrót, który pobiera skopiowany link, przepuszcza go przez narzędzie do czyszczenia adresów URL w celu usunięcia modułów śledzących, a następnie udostępnia czystą wersję bezpośrednio w czatach WhatsApp – dostosowany dla użytkowników, którzy żonglują wieloma aplikacjami, z nieskończonymi opcjami, takimi jak aktywowane głosem czyszczenie przez Siri dla maksymalnej wydajności i prywatności."
     },
     "shareSheet": {
-      "title": "Udostępniaj czysty URL z dowolnej aplikacji",
-      "description": "W Mail, Safari, X, TikTok – wszędzie tam, gdzie pojawia się arkusz udostępniania iOS – dotknij Clean Links. Natychmiast zamień przeładowany link na czysty, zanim naciśniesz „Wyślij”. Zero gimnastyki z kopiowaniem i wklejaniem, czysty spokój.",
-      "cleanLinks": "Clean Links"
+      "title": "Łatwe czyszczenie w arkuszu udostępniania każdej aplikacji",
+      "description": "Integracja Clean Links z arkuszem udostępniania sprawia, że czyszczenie linków jest dziecinnie proste: z Safari, X czy Mail wybierz rozszerzenie, aby natychmiast usunąć parametry śledzące i odkryć prawdziwe cele. Udostępnij wyczyszczony adres URL rodzinie od razu – prosta i szybka ochrona przed śledzeniem danych, zapewniająca bezpieczeństwo Twoim bliskim w codziennej cyfrowej wymianie informacji."
     },
     "macMenuBar": {
-      "title": "Czyszczenie linków na pasku menu dla komputerów Mac",
-      "description": "Włącz monitorowanie schowka, a Clean Links automatycznie wyczyści każdy skopiowany adres URL. Z paska menu usuwa tagi UTM, fbclid/gclid i skraca linki t.co lub bit.ly przed wklejeniem. <strong>Prywatność z założenia</strong> — nic nigdy не opuszcza Twojego Maca."
+      "title": "Zawsze aktywne czyszczenie linków na pasku menu Maca",
+      "description": "Uruchom Clean Links na pasku menu swojego Maca z funkcją Monitorowania Schowka, aby automatycznie czyścić adresy URL podczas ich kopiowania. Usuwaj tagi UTM, rozwijaj linki t.co i eliminuj moduły śledzące – wszystko na urządzeniu dla całkowitej prywatności. Idealne do codziennych przepływów pracy, obsługuje łańcuchy przekierowań, nigdy nie opuszczając Twojego Maca."
     }
   },
   "statistics": {
     "threat": {
       "title": "Phishing za pomocą kodów QR i śledzenie linków: rosnące zagrożenie",
-      "description": "Skanery kodów QR są teraz wszędzie – podobnie jak oszustwa. W ciągu zaledwie dwóch lat phishing oparty na kodach QR wzrósł z 0,8% do 12,4% wszystkich ataków (15-krotny wzrost)¹, a co dziesiąta wiadomość phishingowa zawiera kod QR. Nawet „nieszkodliwe” linki społecznościowe nie są wyjątkiem: Facebook, X, TikTok i inne oznaczają każdy wychodzący adres URL za pomocą fbclid, t.co, igshid, gclid i ponad 250 innych trackerów, które śledzą Cię w całej sieci.",
-      "solution": "Clean Links usuwa moduły śledzące i ujawnia prawdziwy cel, zanim klikniesz – dzięki czemu każde skanowanie i kliknięcie odbywa się na Twoich warunkach.",
+      "description": "Skanery kodów QR są teraz wszędzie - podobnie jak oszustwa. W ciągu zaledwie dwóch lat <link>phishing oparty na kodach QR eksplodował z 0,8% do 12,4% wszystkich ataków (15-krotny skok)</link>, a co dziesiąty e-mail phishingowy ukrywa kod QR. Nawet \"nieszkodliwe\" linki społecznościowe nie są wyjątkiem: Facebook, X, TikTok i inne oznaczają każdy wychodzący adres URL za pomocą fbclid, t.co, igshid, gclid i tysięcy innych trackerów, które śledzą Cię w sieci - Clean Links usuwa je automatycznie, a katalog rośnie z każdą aktualizacją.",
+      "solution": "Clean Links usuwa trackery i ujawnia prawdziwy cel przed stuknięciem - więc każde skanowanie i kliknięcie odbywa się na Twoich warunkach.",
       "citation": {
         "prefix": "¹Źródło:",
         "link": "Keepnet Labs 2025 Quishing Report & Global Research Brief on Malicious Links"
@@ -70,7 +62,7 @@
     "socialTracking": {
       "title": "Śledzenie w mediach społecznościowych",
       "description": "Główne platformy opakowują każdy wychodzący link w identyfikatory śledzące:",
-      "summary": "<strong>Każde kliknięcie</strong> jest rejestrowane i oznaczane w celu targetowania reklam na <strong>ponad 250 domenach</strong>"
+      "summary": "<strong>Każde kliknięcie</strong> jest rejestrowane i tagowane w celu targetowania reklam w <strong>tysiącach domen</strong> - rozszerzając się z każdą aktualizacją."
     }
   },
   "useCases": {

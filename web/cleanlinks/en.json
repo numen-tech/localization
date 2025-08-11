@@ -17,47 +17,35 @@
   },
   "features": {
     "qrScanner": {
-      "title": "QR code scanner that blocks scams",
-      "description": "Scan with confidence. Clean Links' <strong>QR code reader</strong> shows the real URL <em>before your browser opens</em>, stripping hidden trackers and unmasking short links in the same tap. QR-code phishing (\"quishing\") exploded 15 × in two years-now 1 in 10 phishing emails hides a QR code.¹ Seeing the destination first lets <strong>you</strong> back out instead of landing on a fake login page.",
-      "qrCodeReader": "QR code reader",
-      "beforeBrowserOpens": "before your browser opens"
+      "title": "QR Code Scanner Protects Against Quishing Scams",
+      "description": "Use Clean Links as your go-to QR code scanner to unmask hidden dangers. Preview the real destination before opening, clean away trackers, and expand short links instantly. With QR code phishing ('quishing') surging 25% year-over-year in 2025 and accounting for 26% of malicious links, this feature empowers you to spot fake sites early, stay ahead by verifying every scan-essential for dodging scams in emails, parking lots, or public spaces."
     },
     "linkCleaner": {
-      "title": "Link Cleaner: clean any link, anywhere",
-      "description": "Paste, share, or shortcut a URL and our Link Cleaner slashes utm_source, fbclid, gclid and hundreds more trackers from 250-plus sites-and counting. The result? A weapon against surveillance economics: by stripping the tracking breadcrumbs baked into short links and URL parameters, you starve social-media giants and ad brokers of the data they hoard to profile and retarget you.",
-      "linkCleaner": "Link Cleaner",
-      "utmSource": "utm_source",
-      "fbclid": "fbclid",
-      "gclid": "gclid"
+      "title": "Link Cleaner Removes Trackers From Any URL",
+      "description": "Clean URLs effortlessly with Clean Links' link cleaner-paste, share, or automate to strip utm_source, fbclid, gclid, and thousands more across e-commerce, social, and ad domains. Fight back against big tech tracking as social platforms wrap links with unique identifiers. As malicious short links obscure phishing in 26% of attacks, Clean Links unmasks redirects like bit.ly or t.co-keeping your data private and workflows seamless, without ever sending info off-device."
     },
     "qrGenerator": {
-      "title": "Create share-ready, tracker-free QR codes",
-      "description": "Scan a restaurant menu or any other QR code, reveal the true link, then tap Generate QR. In seconds you have a fresh code your friends can scan-no sneaky tracking, just the page you meant to share.",
-      "generateQR": "Generate QR"
+      "title": "Generate Clean QR Codes for Social Sharing",
+      "description": "Use Clean Links' QR code generator to create tracker-free codes from any scanned or cleaned URL. Help friends scan safely by generating a fresh QR-perfect for social settings like a group hike where you scan a trail map QR, clean away trackers, and share the new code so everyone accesses the real info without phishing risks or data leaks."
     },
     "controlCenter": {
-      "title": "One-tap privacy in Control Center & Siri Shortcuts",
-      "description": "Add Clean Links to Control Center or build a voice Shortcut like \"Hey Siri, clean my link.\" Design your own workflow-perhaps auto-cleaning the clipboard, then opening the result in your preferred browser-whatever fits how you work best."
+      "title": "Build Advanced Workflows with Control Center & Shortcuts",
+      "description": "Integrate Clean Links into Control Center or Shortcuts to craft complex workflows. Imagine a Shortcut that grabs a copied link, runs it through the URL cleaner to remove trackers, then shares the clean version directly to WhatsApp chats-tailored for users who juggle multiple apps, with infinite options like voice-activated cleaning via Siri for ultimate efficiency and privacy."
     },
     "shareSheet": {
-      "title": "Share a clean URL from any app",
-      "description": "In Mail, Safari, X, TikTok-anywhere the iOS Share Sheet appears-tap Clean Links. Instantly replace the bloated link with a pristine one before you hit Send. Zero copy-and-paste gymnastics, pure peace of mind.",
-      "cleanLinks": "Clean Links"
+      "title": "Effortless Cleaning in Any App's Share Sheet",
+      "description": "Clean Links' Share Sheet integration makes link cleaning a breeze: from Safari, X, or Mail, select the extension to instantly remove tracking parameters and reveal true destinations. Share the cleaned URL with family right away-simple, fast protection against data tracking, keeping your circle safe in daily digital exchanges."
     },
     "macMenuBar": {
-      "title": "Menu Bar Link Cleaner for Mac",
-      "description": "Turn on Clipboard Monitoring and Clean Links auto-cleans every URL you copy. From the menu bar it strips UTM tags, fbclid/gclid, and unshortens t.co or bit.ly before you paste. <strong>Private by design</strong> - nothing ever leaves your Mac."
+      "title": "Always-On Link Cleaner in Mac Menu Bar",
+      "description": "Run Clean Links in your Mac's menu bar with Clipboard Monitoring to auto-clean URLs as you copy them. Strip UTM tags, unshorten t.co, and remove trackers-all on-device for total privacy. Perfect for daily workflows, it handles redirect chains without ever leaving your Mac."
     }
   },
   "statistics": {
     "threat": {
       "title": "QR Code Phishing & Link-Tracking: The Growing Threat",
-      "description": "QR code scanners are now everywhere - and so are the scams. In just two years, QR-based phishing exploded from 0.8% to 12.4% of all attacks (a 15× jump)¹, while 1 in 10 phishing emails hides a QR code. Even \"harmless\" social links aren't exempt: Facebook, X, TikTok and more tag every outbound URL with fbclid, t.co, igshid, gclid and 250+ other trackers that shadow you across the web.",
-      "solution": "Clean Links removes the trackers and exposes the real destination before you tap-so every scan and click is on your terms.",
-      "citation": {
-        "prefix": "¹Source:",
-        "link": "Keepnet Labs 2025 Quishing Report & Global Research Brief on Malicious Links"
-      }
+      "description": "QR code scanners are now everywhere - and so are the scams. In just two years, <link>QR-based phishing exploded from 0.8% to 12.4% of all attacks (a 15× jump)</link>, while 1 in 10 phishing emails hides a QR code. Even 'harmless' social links aren't exempt: Facebook, X, TikTok and more tag every outbound URL with fbclid, t.co, igshid, gclid and thousands of other trackers that shadow you across the web - which Clean Links strips automatically, with a catalog that grows every update.",
+      "solution": "Clean Links removes the trackers and exposes the real destination before you tap-so every scan and click is on your terms."
     },
     "qrPhishing": {
       "title": "QR Code Phishing Surge",
@@ -70,7 +58,7 @@
     "socialTracking": {
       "title": "Social Media Tracking",
       "description": "Major platforms wrap every outbound link with tracking identifiers:",
-      "summary": "<strong>Every click</strong> is logged and tagged for ad targeting across <strong>250+ domains</strong>"
+      "summary": "<strong>Every click</strong> is logged and tagged for ad targeting across <strong>thousands of domains</strong> - expanding with each update."
     }
   },
   "useCases": {
