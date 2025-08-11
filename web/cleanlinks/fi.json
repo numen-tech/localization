@@ -17,43 +17,35 @@
   },
   "features": {
     "qrScanner": {
-      "title": "QR-koodinlukija, joka torjuu huijaukset",
-      "description": "Skannaa luottavaisin mielin. Clean Linksin <strong>QR-koodinlukija</strong> näyttää todellisen URL-osoitteen <em>ennen kuin selaimesi avautuu</em>, poistaen piilotetut seuraimet ja paljastaen lyhytlinkit samalla napautuksella. QR-koodi-kalastelu (\"quishing\") kasvoi 15-kertaiseksi kahdessa vuodessa – nyt joka kymmenes kalasteluviesti sisältää QR-koodin.¹ Kohteen näkeminen etukäteen antaa <strong>sinulle</strong> mahdollisuuden perääntyä sen sijaan, että päätyisit väärennetylle kirjautumissivulle.",
-      "qrCodeReader": "QR-koodinlukija",
-      "beforeBrowserOpens": "ennen kuin selaimesi avautuu"
+      "title": "QR-koodinlukija suojaa tietojenkalasteluhuijauksilta",
+      "description": "Käytä Clean Linksiä QR-koodinlukijanasi paljastaaksesi piilotetut vaarat. Esikatsele todellinen kohde ennen avaamista, puhdista seuraimet ja laajenna lyhyet linkit välittömästi. Kun QR-koodikalastelu ('quishing') kasvaa 25 % vuosittain vuonna 2025 ja muodostaa 26 % haitallisista linkeistä, tämä ominaisuus antaa sinulle mahdollisuuden tunnistaa väärennetyt sivustot ajoissa ja pysyä edellä varmentamalla jokaisen skannauksen - mikä on olennaista huijausten välttämiseksi sähköposteissa, parkkipaikoilla tai julkisissa tiloissa."
     },
     "linkCleaner": {
-      "title": "Linkinpuhdistaja: puhdista mikä tahansa linkki, missä tahansa",
-      "description": "Liitä, jaa tai luo oikotie URL-osoitteelle, ja Linkinpuhdistajamme poistaa utm_sourcen, fbclidin, gclidin ja sadat muut seuraimet yli 250 sivustolta – ja määrä kasvaa. Tulos? Ase valvontataloutta vastaan: poistamalla lyhytlinkkeihin ja URL-parametreihin leivotut seurantajäljet estät sosiaalisen median jättejä ja mainosvälittäjiä keräämästä dataa, jota he käyttävät sinun profilointiisi ja uudelleenkohdentamiseesi.",
-      "linkCleaner": "Linkinpuhdistaja",
-      "utmSource": "utm_source",
-      "fbclid": "fbclid",
-      "gclid": "gclid"
+      "title": "Linkkien puhdistaja poistaa seuraimet mistä tahansa URL-osoitteesta",
+      "description": "Puhdista URL-osoitteet vaivattomasti Clean Linksin linkinpuhdistajalla - liitä, jaa tai automatisoi poistaaksesi utm_source-, fbclid-, gclid-parametrit ja tuhansia muita verkkokauppa-, sosiaalisen median ja mainosalustojen seuraimia. Taistele suurten teknologiayritysten seurantaa vastaan, kun sosiaalisen median alustat kääräisevät linkit yksilöllisillä tunnisteilla. Koska haitalliset lyhyet linkit piilottavat tietojenkalastelua 26 %:ssa hyökkäyksistä, Clean Links paljastaa bit.ly- tai t.co-kaltaiset uudelleenohjaukset - pitäen tietosi yksityisinä ja työnkulut saumattomina lähettämättä koskaan tietoja laitteeltasi."
     },
     "qrGenerator": {
-      "title": "Luo jakovalmiita, seuraimettomia QR-koodeja",
-      "description": "Skannaa ravintolan ruokalista tai mikä tahansa muu QR-koodi, paljasta todellinen linkki ja napauta sitten Luo QR-koodi. Saat sekunneissa uuden koodin, jonka ystäväsi voivat skannata – ei salakavalia seuraimia, vain sivu, jonka halusit jakaa.",
-      "generateQR": "Luo QR-koodi"
+      "title": "Luo puhtaita QR-koodeja sosiaaliseen jakamiseen",
+      "description": "Käytä Clean Linksin QR-koodigeneraattoria luodaksesi seuraimista vapaita koodeja mistä tahansa skannatusta tai puhdistetusta URL-osoitteesta. Auta ystäviäsi skannaamaan turvallisesti luomalla uusi QR-koodi - täydellinen sosiaalisiin tilanteisiin, kuten ryhmävaellukselle, jossa skannaat reittikartan QR-koodin, puhdistat seuraimet ja jaat uuden koodin, jotta kaikki pääsevät käsiksi oikeisiin tietoihin ilman tietojenkalasteluriskejä tai tietovuotoja."
     },
     "controlCenter": {
-      "title": "Yhden napautuksen yksityisyys Ohjauskeskuksessa ja Siri-oikoteissä",
-      "description": "Lisää Clean Links Ohjauskeskukseen tai luo äänikomento, kuten \"Hei Siri, puhdista linkkini\". Suunnittele oma työnkulkusi – esimerkiksi automaattinen leikepöydän puhdistus ja tuloksen avaaminen haluamassasi selaimessa – mikä parhaiten sopii sinun työskentelytapaasi."
+      "title": "Rakenna edistyneitä työnkulkuja Ohjauskeskuksella ja Oikopoluilla",
+      "description": "Integroi Clean Links Ohjauskeskukseen tai Oikopolkuihin luodaksesi monimutkaisia työnkulkuja. Kuvittele Oikopolku, joka ottaa kopioidun linkin, ajaa sen URL-puhdistajan läpi poistaakseen seuraimet ja jakaa sitten puhtaan version suoraan WhatsApp-keskusteluihin - räätälöity käyttäjille, jotka jongleeraavat useita sovelluksia, ja tarjoaa loputtomia mahdollisuuksia, kuten ääniohjatun puhdistuksen Sirin kautta äärimmäisen tehokkuuden ja yksityisyyden saavuttamiseksi."
     },
     "shareSheet": {
-      "title": "Jaa puhdas URL mistä tahansa sovelluksesta",
-      "description": "Mailissa, Safarissa, X:ssä, TikTokissa – missä tahansa iOS:n jakonäkymä (Share Sheet) on käytössä – napauta Clean Links. Korvaa välittömästi paisunut linkki puhtaalla versiolla ennen lähettämistä. Ei kopioi-liitä-jumppaa, vain puhdasta mielenrauhaa.",
-      "cleanLinks": "Clean Links"
+      "title": "Vaivaton puhdistus minkä tahansa sovelluksen jakonäkymässä",
+      "description": "Clean Linksin jakonäkymän integraatio tekee linkkien puhdistamisesta helppoa: Safarista, X:stä tai Mailista voit valita laajennuksen poistaaksesi välittömästi seurantaparametrit ja paljastaaksesi todelliset kohteet. Jaa puhdistettu URL-osoite perheesi kanssa heti - yksinkertainen ja nopea suoja tietojen seurantaa vastaan, joka pitää lähipiirisi turvassa päivittäisissä digitaalisissa vaihdoissa."
     },
     "macMenuBar": {
-      "title": "Valikkorivin linkkien puhdistaja Macille",
-      "description": "Ota leikepöydän seuranta käyttöön, ja Clean Links puhdistaa automaattisesti jokaisen kopioimasi URL-osoitteen. Valikkoriviltä se poistaa UTM-tunnisteet, fbclid/gclid-tunnisteet ja lyhentää t.co- tai bit.ly-linkit ennen liittämistä. <strong>Suunniteltu yksityiseksi</strong> - mikään ei koskaan poistu Macistasi."
+      "title": "Aina päällä oleva linkkien puhdistaja Macin valikkorivillä",
+      "description": "Käytä Clean Linksiä Macisi valikkorivillä Leikepöydän seurannan kanssa puhdistaaksesi URL-osoitteet automaattisesti kopioidessasi niitä. Poista UTM-tunnisteet, pura t.co-linkit ja poista seuraimet - kaikki laitteella täydellisen yksityisyyden takaamiseksi. Täydellinen päivittäisiin työnkulkuihin, se käsittelee uudelleenohjausketjut poistumatta koskaan Maciltasi."
     }
   },
   "statistics": {
     "threat": {
       "title": "QR-koodi-kalastelu ja linkkiseuranta: kasvava uhka",
-      "description": "QR-koodinlukijoita on nyt kaikkialla – ja niin on myös huijauksia. Vain kahdessa vuodessa QR-pohjainen kalastelu räjähti 0,8 prosentista 12,4 prosenttiin kaikista hyökkäyksistä (15-kertainen kasvu)¹, ja joka kymmenes kalasteluviesti sisältää QR-koodin. Edes \"harmittomat\" some-linkit eivät ole poikkeus: Facebook, X, TikTok ja muut merkitsevät jokaisen lähtevän URL-osoitteen fbclid-, t.co-, igshid-, gclid-tunnisteilla ja yli 250 muulla seuraimella, jotka varjostavat sinua verkossa.",
-      "solution": "Clean Links poistaa seuraimet ja paljastaa todellisen kohteen ennen napautusta – joten jokainen skannaus ja klikkaus tapahtuu sinun ehdoillasi.",
+      "description": "QR-koodinlukijat ovat nyt kaikkialla - ja niin ovat myös huijaukset. Vain kahdessa vuodessa <link>QR-pohjainen tietojenkalastelu räjähti 0,8 prosentista 12,4 prosenttiin kaikista hyökkäyksistä (15-kertainen hyppy)</link>, ja joka kymmenes tietojenkalastelusähköposti piilottaa QR-koodin. Edes \"harmittomat\" sosiaalisen median linkit eivät ole poikkeus: Facebook, X, TikTok ja muut merkitsevät jokaisen lähtevän URL-osoitteen fbclid-, t.co-, igshid-, gclid-tunnisteilla ja tuhansilla muilla seuraimilla, jotka seuraavat sinua verkossa - Clean Links poistaa ne automaattisesti, ja sen luettelo kasvaa jokaisen päivityksen myötä.",
+      "solution": "Clean Links poistaa seuraimet ja paljastaa todellisen kohteen ennen napauttamista - joten jokainen skannaus ja napsautus tapahtuu sinun ehdoillasi.",
       "citation": {
         "prefix": "¹Lähde:",
         "link": "Keepnet Labs 2025 Quishing Report & Global Research Brief on Malicious Links"
@@ -70,7 +62,7 @@
     "socialTracking": {
       "title": "Sosiaalisen median seuranta",
       "description": "Suurimmat alustat kääräisevät jokaisen lähtevän linkin seurantatunnisteilla:",
-      "summary": "<strong>Jokainen klikkaus</strong> kirjataan ja merkitään mainosten kohdentamista varten <strong>yli 250 verkkotunnuksessa</strong>"
+      "summary": "<strong>Jokainen napsautus</strong> kirjataan ja merkitään mainosten kohdentamista varten <strong>tuhansissa verkkotunnuksissa</strong> - ja laajenee jokaisen päivityksen myötä."
     }
   },
   "useCases": {

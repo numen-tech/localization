@@ -17,43 +17,35 @@
   },
   "features": {
     "qrScanner": {
-      "title": "阻擋詐騙的 QR Code 掃描器",
-      "description": "安心掃描。Clean Links 的 <strong>QR Code 讀取器</strong>會<em>在瀏覽器開啟前</em>顯示真實網址，一鍵清除隱藏的追蹤器並揭示短連結。QR Code 釣魚（「quishing」）在兩年內激增 15 倍——現在每 10 封釣魚郵件中就有 1 封隱藏了 QR Code¹。先看到目的地，讓<strong>您</strong>可以退出，而不是登陸假的登入頁面。",
-      "qrCodeReader": "QR Code 讀取器",
-      "beforeBrowserOpens": "在瀏覽器開啟前"
+      "title": "QR碼掃描器可防範網釣 (Quishing) 詐騙",
+      "description": "使用 Clean Links 作為您的首選 QR 碼掃描器，揭露隱藏危險。開啟前預覽真實目的地，清除追蹤器，並即時展開短連結。隨著 QR 碼網絡釣魚 ('quishing') 在 2025 年按年增長 25%，並佔所有惡意連結的 26%，此功能讓您能及早識別假冒網站，透過驗證每次掃描保持領先 - 這對於避開電郵、停車場或公共場所中的騙局至關重要。"
     },
     "linkCleaner": {
-      "title": "連結清理器：隨時隨地清理任何連結",
-      "description": "貼上、分享或透過捷徑傳送網址，我們的連結清理器會從超過 250 個網站中（且數量持續增加）刪除 utm_source、fbclid、gclid 及數百種其他追蹤器。結果如何？這是一把對抗監控經濟的利器：透過剝離短連結和網址參數中暗藏的追蹤痕跡，您可以讓社交媒體巨頭和廣告中介無法獲取他們用來分析和重定向您的數據。",
-      "linkCleaner": "連結清理器",
-      "utmSource": "utm_source",
-      "fbclid": "fbclid",
-      "gclid": "gclid"
+      "title": "連結清理器可從任何 URL 移除追蹤器",
+      "description": "使用 Clean Links 的連結清理器輕鬆清理 URL - 貼上、分享或自動化操作，即可移除數以千計的電子商務、社交和廣告網域中的 utm_source、fbclid、gclid 等追蹤參數。當社交平台用獨特識別碼包裝連結時，反擊科技巨頭的追蹤行為。由於 26% 的攻擊中惡意短連結隱藏了網絡釣魚，Clean Links 能揭示 bit.ly 或 t.co 等重定向連結的真實面目 - 保護您的數據私隱和工作流程暢順，且絕不將資訊傳送到裝置以外。"
     },
     "qrGenerator": {
-      "title": "建立可供分享、無追蹤器的 QR Code",
-      "description": "掃描餐廳菜單或任何其他 QR Code，揭示真實連結，然後點擊「產生 QR Code」。幾秒鐘內，您就能得到一個全新的 QR Code 讓朋友掃描——沒有鬼祟的追蹤，只有您想分享的頁面。",
-      "generateQR": "產生 QR Code"
+      "title": "生成用於社交分享的乾淨 QR 碼",
+      "description": "使用 Clean Links 的 QR 碼生成器，從任何已掃描或已清理的 URL 創建無追蹤器的代碼。透過生成一個全新的 QR 碼來幫助朋友安全掃描 - 非常適合社交場景，例如在團體遠足時掃描路線圖 QR 碼，清除追蹤器，然後分享新代碼，這樣每個人都能獲取真實資訊，而沒有網絡釣魚風險或資料洩漏。"
     },
     "controlCenter": {
-      "title": "在控制中心和 Siri 捷徑中一鍵保護私隱",
-      "description": "將 Clean Links 加入控制中心，或建立一個語音捷徑，例如「喂 Siri，清理我的連結」。設計您自己的工作流程——例如自動清理剪貼簿，然後在您偏好的瀏覽器中開啟結果——任何最適合您工作方式的流程都可以。"
+      "title": "透過控制中心與捷徑建立進階工作流程",
+      "description": "將 Clean Links 整合到控制中心或捷徑中，以創建複雜的工作流程。想像一下，一個捷徑可以擷取複製的連結，透過 URL 清理器運行以移除追蹤器，然後將乾淨的版本直接分享到 WhatsApp 對話中 - 專為那些需要在多個 App 之間切換的用戶度身訂造，並提供無限可能，例如透過 Siri 進行語音啟動清理，以實現極致的效率和私隱。"
     },
     "shareSheet": {
-      "title": "從任何 App 分享乾淨連結",
-      "description": "在 Mail、Safari、X、TikTok——任何出現 iOS 分享頁的地方——點擊 Clean Links。在傳送前，立即將臃腫的連結替換為純淨的連結。無需複雜的複製貼上操作，純粹安心。",
-      "cleanLinks": "Clean Links"
+      "title": "在任何 App 的分享表單中輕鬆清理",
+      "description": "Clean Links 的分享表單整合讓連結清理變得輕而易舉：在 Safari、X 或郵件 App 中，選取擴充功能即可立即移除追蹤參數並揭示真實目的地。立即與家人分享清理後的 URL - 簡單、快速地防範資料追蹤，在日常數碼交流中保護您的社交圈安全。"
     },
     "macMenuBar": {
-      "title": "適用於 Mac 的選單列連結清理器",
-      "description": "開啟剪貼簿監控，Clean Links 會自動清理您複製的每個 URL。它會從選單列中清除 UTM 標籤、fbclid/gclid，並在您貼上之前取消縮短 t.co 或 bit.ly。<strong>設計私密</strong> - 任何內容都不會離開您的 Mac。"
+      "title": "Mac 選單列中常駐的連結清理器",
+      "description": "在您的 Mac 選單列中運行 Clean Links，並啟用剪貼簿監控，以便在您複製 URL 時自動清理。移除 UTM 標籤，展開 t.co 連結，並移除追蹤器 - 所有操作均在裝置上完成，確保完全的私隱。它非常適合日常工作流程，無需離開您的 Mac 即可處理重定向鏈。"
     }
   },
   "statistics": {
     "threat": {
       "title": "QR Code 釣魚與連結追蹤：日益嚴重的威脅",
-      "description": "QR Code 掃描器現在無處不在——詐騙也是。僅僅兩年，基於 QR Code 的釣魚攻擊從所有攻擊的 0.8% 激增至 12.4%（增長 15 倍）¹，同時每 10 封釣魚郵件中就有 1 封隱藏了 QR Code。即使是「無害」的社交連結也無法倖免：Facebook、X、TikTok 等平台會為每個外連網址標記 fbclid、t.co、igshid、gclid 及超過 250 種其他追蹤器，在網絡上跟蹤您。",
-      "solution": "Clean Links 在您點擊前移除追蹤器並揭示真實目的地——讓每次掃描和點擊都由您掌控。",
+      "description": "QR 碼掃描器現在無處不在 - 騙局也是如此。在短短兩年內，<link>基於 QR 碼的網絡釣魚攻擊從佔所有攻擊的 0.8% 激增至 12.4%（增長了 15 倍）</link>，而每 10 封網絡釣魚電郵中就有 1 封隱藏著 QR 碼。即使是「無害」的社交連結也無法倖免：Facebook、X、TikTok 等平台會為每個出站 URL 標記 fbclid、t.co、igshid、gclid 以及成千上萬個在網絡上跟蹤您的其他跟蹤器 - Clean Links 會自動剝離這些跟蹤器，其目錄每次更新都會增長。",
+      "solution": "Clean Links 會在您點擊前移除跟蹤器並揭示真實目的地 - 因此每次掃描和點擊都由您掌控。",
       "citation": {
         "prefix": "¹資料來源：",
         "link": "Keepnet Labs 2025 年 Quishing 報告與全球惡意連結研究簡報"
@@ -70,7 +62,7 @@
     "socialTracking": {
       "title": "社交媒體追蹤",
       "description": "主要平台會為每個外連連結加上追蹤識別碼：",
-      "summary": "<strong>每次點擊</strong>都會被記錄並標記，用於跨越 <strong>250+ 個網域</strong>的廣告定位"
+      "summary": "<strong>每一次點擊</strong>都會被記錄和標記，用於在<strong>成千上萬的網域</strong>中進行廣告定位 - 且範圍隨每次更新而擴大。"
     }
   },
   "useCases": {

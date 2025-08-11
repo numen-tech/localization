@@ -17,43 +17,35 @@
   },
   "features": {
     "qrScanner": {
-      "title": "Scaner de coduri QR care blochează înșelătoriile",
-      "description": "Scanați cu încredere. <strong>Cititorul de coduri QR</strong> al Clean Links afișează URL-ul real <em>înainte ca browserul să se deschidă</em>, eliminând trackerii ascunși și demascând linkurile scurte cu aceeași atingere. Phishingul prin coduri QR („quishing”) a explodat de 15 ori în doi ani - acum 1 din 10 e-mailuri de phishing ascunde un cod QR.¹ Vizualizarea destinației vă permite <strong>să</strong> renunțați în loc să ajungeți pe o pagină de autentificare falsă.",
-      "qrCodeReader": "Cititor de coduri QR",
-      "beforeBrowserOpens": "înainte ca browserul să se deschidă"
+      "title": "Scanerul de Coduri QR Protejează Împotriva Înșelătoriilor de Tip Quishing",
+      "description": "Folosește Clean Links ca scanerul tău de coduri QR pentru a demasca pericolele ascunse. Previzualizează destinația reală înainte de a o deschide, elimină tracker-ele și extinde linkurile scurte instantaneu. Având în vedere că phishing-ul prin coduri QR ('quishing') crește cu 25% de la an la an în 2025 și reprezintă 26% din linkurile malițioase, această funcție te ajută să identifici site-urile false din timp, rămânând în siguranță prin verificarea fiecărei scanări - esențial pentru a evita înșelătoriile din e-mailuri, parcări sau spații publice."
     },
     "linkCleaner": {
-      "title": "Link Cleaner: curățați orice link, oriunde",
-      "description": "Lipiți, partajați sau creați o scurtătură pentru un URL, iar Link Cleaner-ul nostru elimină utm_source, fbclid, gclid și sute de alți trackeri de pe peste 250 de site-uri - și numărul continuă să crească. Rezultatul? O armă împotriva economiei de supraveghere: eliminând urmele de tracking integrate în linkurile scurte și parametrii URL, lăsați giganții social-media și brokerii de publicitate fără datele pe care le acumulează pentru a vă profila și a vă retargeta.",
-      "linkCleaner": "Link Cleaner",
-      "utmSource": "utm_source",
-      "fbclid": "fbclid",
-      "gclid": "gclid"
+      "title": "Curățătorul de Linkuri Elimină Tracker-ele din Orice URL",
+      "description": "Curăță URL-uri fără efort cu curățătorul de linkuri de la Clean Links - lipește, partajează sau automatizează pentru a elimina utm_source, fbclid, gclid și mii de altele din domeniile de e-commerce, social media și publicitate. Luptă împotriva urmăririi de către giganții tehnologici, deoarece platformele sociale învelesc linkurile cu identificatori unici. Deoarece linkurile scurte malițioase ascund phishing-ul în 26% dintre atacuri, Clean Links demască redirecționări precum bit.ly sau t.co - păstrându-ți datele private și fluxurile de lucru neîntrerupte, fără a trimite vreodată informații în afara dispozitivului."
     },
     "qrGenerator": {
-      "title": "Creați coduri QR fără trackeri, gata de partajat",
-      "description": "Scanați meniul unui restaurant sau orice alt cod QR, descoperiți linkul real, apoi atingeți Generare QR. În câteva secunde aveți un cod nou pe care prietenii îl pot scana - fără tracking ascuns, doar pagina pe care ați intenționat să o partajați.",
-      "generateQR": "Generare QR"
+      "title": "Generează Coduri QR Curate pentru Partajare Socială",
+      "description": "Folosește generatorul de coduri QR de la Clean Links pentru a crea coduri fără trackere din orice URL scanat sau curățat. Ajută-ți prietenii să scaneze în siguranță generând un cod QR nou - perfect pentru contexte sociale, cum ar fi o drumeție de grup unde scanezi un cod QR al unei hărți de traseu, elimini tracker-ele și partajezi noul cod, astfel încât toată lumea să acceseze informațiile reale fără riscuri de phishing sau scurgeri de date."
     },
     "controlCenter": {
-      "title": "Confidențialitate la o atingere în Centrul de control și Scurtături Siri",
-      "description": "Adăugați Clean Links în Centrul de control sau creați o scurtătură vocală precum „Hey Siri, curăță-mi linkul”. Proiectați-vă propriul flux de lucru - poate curățarea automată a clipboardului, apoi deschiderea rezultatului în browserul preferat - orice se potrivește cel mai bine modului dvs. de lucru."
+      "title": "Creează Fluxuri de Lucru Avansate cu Centrul de Control și Scurtături",
+      "description": "Integrează Clean Links în Centrul de Control sau Scurtături pentru a crea fluxuri de lucru complexe. Imaginează-ți o Scurtătură care preia un link copiat, îl trece prin curățătorul de URL-uri pentru a elimina tracker-ele, apoi partajează versiunea curată direct în conversațiile WhatsApp - personalizat pentru utilizatorii care jonglează cu mai multe aplicații, cu opțiuni infinite, precum curățarea activată vocal prin Siri pentru eficiență și confidențialitate maxime."
     },
     "shareSheet": {
-      "title": "Partajați un URL curat din orice aplicație",
-      "description": "În Mail, Safari, X, TikTok - oriunde apare Foaia de partajare iOS - atingeți Clean Links. Înlocuiți instantaneu linkul umflat cu unul impecabil înainte de a trimite. Fără gimnastică de copiere-lipire, doar liniște sufletească.",
-      "cleanLinks": "Clean Links"
+      "title": "Curățare Fără Efort din Foaia de Partajare a Oricărei Aplicații",
+      "description": "Integrarea Clean Links în Foaia de Partajare face curățarea linkurilor extrem de simplă: din Safari, X sau Mail, selectează extensia pentru a elimina instantaneu parametrii de urmărire și a dezvălui destinațiile reale. Partajează URL-ul curățat imediat cu familia - protecție simplă și rapidă împotriva urmăririi datelor, menținând cercul tău în siguranță în schimburile digitale zilnice."
     },
     "macMenuBar": {
-      "title": "Curățător de linkuri din bara de meniu pentru Mac",
-      "description": "Activați monitorizarea clipboardului și Clean Links curăță automat fiecare adresă URL pe care o copiați. Din bara de meniu, elimină etichetele UTM, fbclid/gclid și anulează scurtarea t.co sau bit.ly înainte de a lipi. <strong>Confidențialitate prin design</strong> - nimic nu părăsește vreodată Mac-ul dvs."
+      "title": "Curățător de Linkuri Mereu Activ în Bara de Meniu a Mac-ului",
+      "description": "Rulează Clean Links în bara de meniu a Mac-ului tău cu Monitorizarea Clipboard-ului pentru a curăța automat URL-urile pe măsură ce le copiezi. Elimină etichetele UTM, extinde linkurile t.co și elimină tracker-ele - totul pe dispozitiv pentru confidențialitate totală. Perfect pentru fluxurile de lucru zilnice, gestionează lanțurile de redirecționare fără a părăsi vreodată Mac-ul."
     }
   },
   "statistics": {
     "threat": {
       "title": "Phishing prin coduri QR și urmărirea linkurilor: Amenințarea în creștere",
-      "description": "Scanerele de coduri QR sunt acum peste tot - la fel și înșelătoriile. În doar doi ani, phishingul bazat pe QR a explodat de la 0,8% la 12,4% din totalul atacurilor (o creștere de 15 ori)¹, în timp ce 1 din 10 e-mailuri de phishing ascunde un cod QR. Nici măcar linkurile sociale „inofensive” nu sunt scutite: Facebook, X, TikTok și altele etichetează fiecare URL de ieșire cu fbclid, t.co, igshid, gclid și peste 250 de alți trackeri care vă urmăresc pe web.",
-      "solution": "Clean Links elimină trackerii și expune destinația reală înainte de a atinge - astfel încât fiecare scanare și clic să fie în termenii dvs.",
+      "description": "Scanerele de coduri QR sunt acum peste tot - la fel și înșelătoriile. În doar doi ani, <link>phishing-ul bazat pe QR a explodat de la 0,8% la 12,4% din totalul atacurilor (un salt de 15 ori)</link>, în timp ce 1 din 10 e-mailuri de phishing ascunde un cod QR. Nici măcar linkurile sociale \"inofensive\" nu sunt scutite: Facebook, X, TikTok și altele etichetează fiecare URL extern cu fbclid, t.co, igshid, gclid și mii de alte trackere care vă urmăresc pe web - pe care Clean Links le elimină automat, cu un catalog care crește la fiecare actualizare.",
+      "solution": "Clean Links elimină trackerele și expune destinația reală înainte de a atinge - astfel încât fiecare scanare și clic este în termenii tăi.",
       "citation": {
         "prefix": "¹Sursa:",
         "link": "Keepnet Labs 2025 Quishing Report & Global Research Brief on Malicious Links"
@@ -70,7 +62,7 @@
     "socialTracking": {
       "title": "Urmărire pe rețelele sociale",
       "description": "Platformele majore învelesc fiecare link de ieșire cu identificatori de urmărire:",
-      "summary": "<strong>Fiecare clic</strong> este înregistrat și etichetat pentru direcționarea anunțurilor pe <strong>peste 250 de domenii</strong>"
+      "summary": "<strong>Fiecare clic</strong> este înregistrat și etichetat pentru direcționarea anunțurilor pe <strong>mii de domenii</strong> - extinzându-se cu fiecare actualizare."
     }
   },
   "useCases": {

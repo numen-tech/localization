@@ -17,43 +17,35 @@
   },
   "features": {
     "qrScanner": {
-      "title": "QR-kodsläsare som blockerar bedrägerier",
-      "description": "Skanna tryggt. Clean Links <strong>QR-kodsläsare</strong> visar den verkliga URL:en <em>innan din webbläsare öppnas</em>, tar bort dolda spårare och avmaskerar kortlänkar med samma tryck. Nätfiske via QR-kod (”quishing”) har exploderat 15 gånger på två år – nu döljer 1 av 10 nätfiskemejl en QR-kod.¹ Genom att se destinationen först kan <strong>du</strong> backa istället för att hamna på en falsk inloggningssida.",
-      "qrCodeReader": "QR-kodsläsare",
-      "beforeBrowserOpens": "innan din webbläsare öppnas"
+      "title": "QR-kodsläsare skyddar mot nätfiske med QR-koder",
+      "description": "Använd Clean Links som din QR-kodsläsare för att avslöja dolda faror. Förhandsgranska den verkliga destinationen innan du öppnar, rensa bort spårare och expandera kortlänkar direkt. Då nätfiske via QR-kod ('quishing') ökar med 25 % per år 2025 och utgör 26 % av alla skadliga länkar, hjälper den här funktionen dig att tidigt upptäcka falska webbplatser. Ligg steget före genom att verifiera varje skanning – ett måste för att undvika bedrägerier i mejl, på parkeringsplatser och offentliga platser."
     },
     "linkCleaner": {
-      "title": "Link Cleaner: rensa vilken länk som helst, var som helst",
-      "description": "Klistra in, dela eller skapa ett genväg till en URL och vår Link Cleaner tar bort utm_source, fbclid, gclid och hundratals andra spårare från över 250 webbplatser – och fler blir det. Resultatet? Ett vapen mot övervakningsekonomin: genom att ta bort de spårningssmulor som är inbakade i kortlänkar och URL-parametrar svälter du ut sociala mediejättar och annonsmäklare på den data de samlar för att profilera och rikta annonser mot dig.",
-      "linkCleaner": "Link Cleaner",
-      "utmSource": "utm_source",
-      "fbclid": "fbclid",
-      "gclid": "gclid"
+      "title": "Länkrensare tar bort spårare från alla URL:er",
+      "description": "Rensa URL:er enkelt med Clean Links länkrensare – klistra in, dela eller automatisera för att ta bort utm_source, fbclid, gclid och tusentals andra från e-handel, sociala medier och annonsdomäner. Stå emot spårning från stora teknikföretag när sociala plattformar kapslar in länkar med unika identifierare. Eftersom skadliga kortlänkar döljer nätfiske i 26 % av attackerna, avslöjar Clean Links omdirigeringar som bit.ly eller t.co – vilket håller dina data privata och dina arbetsflöden smidiga, utan att någonsin skicka information från din enhet."
     },
     "qrGenerator": {
-      "title": "Skapa delningsklara, spårningsfria QR-koder",
-      "description": "Skanna en restaurangmeny eller en annan QR-kod, se den verkliga länken och tryck sedan på Skapa QR. På några sekunder har du en ny kod som dina vänner kan skanna – ingen lömsk spårning, bara sidan du ville dela.",
-      "generateQR": "Skapa QR"
+      "title": "Generera rena QR-koder för social delning",
+      "description": "Använd Clean Links QR-kodgenerator för att skapa spårningsfria koder från vilken skannad eller rensad URL som helst. Hjälp vänner att skanna säkert genom att generera en ny QR-kod – perfekt för sociala sammanhang som en gruppvandring där du skannar en QR-kod för en ledkarta, rensar bort spårare och delar den nya koden så att alla får tillgång till den riktiga informationen utan risk för nätfiske eller dataläckor."
     },
     "controlCenter": {
-      "title": "Integritet med ett tryck i Kontrollcenter & Siri-genvägar",
-      "description": "Lägg till Clean Links i Kontrollcenter eller skapa en röstgenväg som \"Hej Siri, rensa min länk.\" Skapa ditt eget arbetsflöde – kanske rensa urklippet automatiskt och sedan öppna resultatet i din favoritwebbläsare – vad som än passar dig bäst."
+      "title": "Skapa avancerade arbetsflöden med Kontrollcenter och Genvägar",
+      "description": "Integrera Clean Links i Kontrollcenter eller Genvägar för att skapa komplexa arbetsflöden. Föreställ dig en genväg som hämtar en kopierad länk, kör den genom länkrensaren för att ta bort spårare och sedan delar den rensade versionen direkt till WhatsApp-chattar – skräddarsydd för användare som hanterar flera appar, med oändliga alternativ som röstaktiverad rensning via Siri för ultimat effektivitet och integritet."
     },
     "shareSheet": {
-      "title": "Dela en ren URL från vilken app som helst",
-      "description": "I Mail, Safari, X, TikTok – överallt där iOS delningsblad visas – tryck på Clean Links. Byt omedelbart ut den uppblåsta länken mot en ren innan du skickar. Inget krångel med att kopiera och klistra in, bara sinnesro.",
-      "cleanLinks": "Clean Links"
+      "title": "Enkel rensning i alla appars delningsblad",
+      "description": "Clean Links delningsbladsintegration gör länkrensning till en barnlek: från Safari, X eller Mail, välj tillägget för att omedelbart ta bort spårningsparametrar och avslöja verkliga destinationer. Dela den rensade URL:en med familjen direkt – enkelt, snabbt skydd mot dataspårning som håller din krets säker i dagliga digitala utbyten."
     },
     "macMenuBar": {
-      "title": "Menyfältslänkrengörare för Mac",
-      "description": "Aktivera urklippsövervakning så rensar Clean Links automatiskt varje webbadress du kopierar. Från menyfältet tar det bort UTM-taggar, fbclid/gclid och förkortar inte t.co eller bit.ly innan du klistrar in. <strong>Privat av design</strong> – ingenting lämnar någonsin din Mac."
+      "title": "Alltid påslagen länkrensare i Macs menyrad",
+      "description": "Kör Clean Links i din Macs menyrad med Urklippsövervakning för att automatiskt rensa URL:er när du kopierar dem. Ta bort UTM-taggar, expandera t.co och ta bort spårare – allt på enheten för total integritet. Perfekt för dagliga arbetsflöden, hanterar den omdirigeringskedjor utan att någonsin lämna din Mac."
     }
   },
   "statistics": {
     "threat": {
       "title": "Nätfiske med QR-kod & länkspårning: Det växande hotet",
-      "description": "QR-kodsläsare finns nu överallt – och det gör även bedrägerierna. På bara två år har nätfiske via QR-kod exploderat från 0,8 % till 12,4 % av alla attacker (en 15× ökning)¹, medan 1 av 10 nätfiskemejl döljer en QR-kod. Inte ens \"ofarliga\" sociala länkar är undantagna: Facebook, X, TikTok och fler taggar varje utgående URL med fbclid, t.co, igshid, gclid och över 250 andra spårare som följer dig över hela webben.",
-      "solution": "Clean Links tar bort spårarna och avslöjar den verkliga destinationen innan du trycker – så varje skanning och klick sker på dina villkor.",
+      "description": "QR-kodsläsare finns nu överallt - och det gör även bedrägerierna. På bara två år <link>exploderade QR-baserat nätfiske från 0,8 % till 12,4 % av alla attacker (en 15-faldig ökning)</link>, medan 1 av 10 nätfiskemejl döljer en QR-kod. Inte ens \"ofarliga\" sociala länkar är undantagna: Facebook, X, TikTok och fler taggar varje utgående URL med fbclid, t.co, igshid, gclid och tusentals andra spårare som följer dig över webben - vilka Clean Links tar bort automatiskt, med en katalog som växer med varje uppdatering.",
+      "solution": "Clean Links tar bort spårarna och visar den verkliga destinationen innan du trycker - så varje skanning och klick sker på dina villkor.",
       "citation": {
         "prefix": "¹Källa:",
         "link": "Keepnet Labs 2025 Quishing Report & Global Research Brief on Malicious Links"
@@ -70,7 +62,7 @@
     "socialTracking": {
       "title": "Spårning på sociala medier",
       "description": "Stora plattformar kapslar in varje utgående länk med spårningsidentifierare:",
-      "summary": "<strong>Varje klick</strong> loggas och taggas för annonsinriktning över <strong>250+ domäner</strong>"
+      "summary": "<strong>Varje klick</strong> loggas och taggas för annonsinriktning över <strong>tusentals domäner</strong> - och expanderar med varje uppdatering."
     }
   },
   "useCases": {

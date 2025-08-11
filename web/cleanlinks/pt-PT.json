@@ -17,43 +17,35 @@
   },
   "features": {
     "qrScanner": {
-      "title": "Leitor de códigos QR que bloqueia burlas",
-      "description": "Digitalize com confiança. O <strong>leitor de códigos QR</strong> do Clean Links mostra o URL real <em>antes de o seu browser abrir</em>, removendo rastreadores ocultos e desmascarando links curtos no mesmo toque. O phishing por código QR (\"quishing\") explodiu 15 vezes em dois anos - agora, 1 em cada 10 e-mails de phishing esconde um código QR.¹ Ver o destino primeiro permite-lhe <strong>a si</strong> recuar em vez de aterrar numa página de login falsa.",
-      "qrCodeReader": "leitor de códigos QR",
-      "beforeBrowserOpens": "antes de o seu browser abrir"
+      "title": "Scanner de Códigos QR Protege Contra Burlas de Quishing",
+      "description": "Use o Clean Links como o seu scanner de códigos QR de eleição para revelar perigos ocultos. Pré-visualize o destino real antes de o abrir, remova rastreadores e expanda links curtos instantaneamente. Com o phishing por código QR ('quishing') a aumentar 25% anualmente em 2025 e a representar 26% dos links maliciosos, esta funcionalidade permite-lhe detetar sites falsos atempadamente, mantendo-se à frente ao verificar cada leitura - essencial para evitar burlas em e-mails, parques de estacionamento ou espaços públicos."
     },
     "linkCleaner": {
-      "title": "Limpador de Links: limpe qualquer link, em qualquer lugar",
-      "description": "Cole, partilhe ou use um atalho para um URL e o nosso Limpador de Links remove utm_source, fbclid, gclid e centenas de outros rastreadores de mais de 250 sites - e a contar. O resultado? Uma arma contra a economia da vigilância: ao remover os vestígios de rastreamento integrados em links curtos e parâmetros de URL, impede que os gigantes das redes sociais e os corretores de dados acumulem os dados que usam para criar o seu perfil e o redirecionar.",
-      "linkCleaner": "Limpador de Links",
-      "utmSource": "utm_source",
-      "fbclid": "fbclid",
-      "gclid": "gclid"
+      "title": "Limpador de Links Remove Rastreadores de Qualquer URL",
+      "description": "Limpe URLs sem esforço com o limpador de links do Clean Links - cole, partilhe ou automatize para remover utm_source, fbclid, gclid e milhares de outros em domínios de e-commerce, sociais e de publicidade. Lute contra o rastreamento das grandes tecnológicas, uma vez que as plataformas sociais envolvem os links com identificadores únicos. Como os links curtos maliciosos ocultam o phishing em 26% dos ataques, o Clean Links revela redirecionamentos como bit.ly ou t.co - mantendo os seus dados privados e os fluxos de trabalho fluidos, sem nunca enviar informações para fora do dispositivo."
     },
     "qrGenerator": {
-      "title": "Crie códigos QR prontos a partilhar e sem rastreadores",
-      "description": "Digitalize o menu de um restaurante ou qualquer outro código QR, revele o verdadeiro link e, de seguida, toque em Gerar QR. Em segundos, tem um novo código que os seus amigos podem digitalizar - sem rastreamento dissimulado, apenas a página que queria partilhar.",
-      "generateQR": "Gerar QR"
+      "title": "Gerar Códigos QR Limpos para Partilha Social",
+      "description": "Use o gerador de códigos QR do Clean Links para criar códigos sem rastreadores a partir de qualquer URL lido ou limpo. Ajude os amigos a lerem códigos em segurança, gerando um novo QR - perfeito para ambientes sociais como uma caminhada em grupo, onde lê um QR de um mapa de trilhos, remove os rastreadores e partilha o novo código para que todos acedam à informação real sem riscos de phishing ou fugas de dados."
     },
     "controlCenter": {
-      "title": "Privacidade com um toque na Central de Controlo e Atalhos da Siri",
-      "description": "Adicione o Clean Links à Central de Controlo ou crie um Atalho de voz como \"Ei Siri, limpa o meu link\". Crie o seu próprio fluxo de trabalho - talvez limpando automaticamente a área de transferência e abrindo o resultado no seu browser preferido - o que melhor se adaptar à sua forma de trabalhar."
+      "title": "Crie Fluxos de Trabalho Avançados com a Central de Controlo e os Atalhos",
+      "description": "Integre o Clean Links na Central de Controlo ou nos Atalhos para criar fluxos de trabalho complexos. Imagine um Atalho que obtém um link copiado, passa-o pelo limpador de URLs para remover rastreadores e, em seguida, partilha a versão limpa diretamente em conversas do WhatsApp - adaptado para utilizadores que gerem várias aplicações, com opções infinitas como a limpeza ativada por voz através da Siri para máxima eficiência e privacidade."
     },
     "shareSheet": {
-      "title": "Partilhe um URL limpo a partir de qualquer aplicação",
-      "description": "No Mail, Safari, X, TikTok - em qualquer lugar onde o menu de Partilha do iOS apareça - toque em Clean Links. Substitua instantaneamente o link sobrecarregado por um limpo antes de carregar em Enviar. Sem ginásticas de copiar e colar, pura paz de espírito.",
-      "cleanLinks": "Clean Links"
+      "title": "Limpeza Sem Esforço na Folha de Partilha de Qualquer Aplicação",
+      "description": "A integração da Folha de Partilha do Clean Links torna a limpeza de links muito fácil: a partir do Safari, X ou Mail, selecione a extensão para remover instantaneamente os parâmetros de rastreamento e revelar os destinos verdadeiros. Partilhe o URL limpo com a família imediatamente - proteção simples e rápida contra o rastreamento de dados, mantendo o seu círculo seguro nas trocas digitais diárias."
     },
     "macMenuBar": {
-      "title": "Limpador de links da barra de menus para Mac",
-      "description": "Ative a Monitorização da Área de Transferência e o Clean Links limpa automaticamente todos os URLs que copiar. A partir da barra de menus, remove as etiquetas UTM, fbclid/gclid e anula o encurtamento de t.co ou bit.ly antes de colar. <strong>Privado por predefinição</strong> - nada sai do seu Mac."
+      "title": "Limpador de Links Sempre Ativo na Barra de Menus do Mac",
+      "description": "Execute o Clean Links na barra de menus do seu Mac com a Monitorização da Área de Transferência para limpar automaticamente os URLs à medida que os copia. Remova tags UTM, expanda t.co e remova rastreadores - tudo no dispositivo para total privacidade. Perfeito para os fluxos de trabalho diários, lida com cadeias de redirecionamento sem nunca sair do seu Mac."
     }
   },
   "statistics": {
     "threat": {
       "title": "Phishing por Código QR e Rastreamento de Links: A Ameaça Crescente",
-      "description": "Os leitores de códigos QR estão agora por todo o lado - e as burlas também. Em apenas dois anos, o phishing baseado em QR explodiu de 0,8% para 12,4% de todos os ataques (um aumento de 15 vezes)¹, enquanto 1 em cada 10 e-mails de phishing esconde um código QR. Mesmo os links \"inofensivos\" das redes sociais não estão isentos: Facebook, X, TikTok e outros marcam cada URL de saída com fbclid, t.co, igshid, gclid e mais de 250 outros rastreadores que o seguem pela web.",
-      "solution": "O Clean Links remove os rastreadores e expõe o destino real antes de você tocar - para que cada digitalização e clique seja nos seus termos.",
+      "description": "Os leitores de códigos QR estão agora por todo o lado - e as fraudes também. Em apenas dois anos, <link>o phishing baseado em QR explodiu de 0,8% para 12,4% de todos os ataques (um salto de 15 vezes)</link>, enquanto 1 em cada 10 e-mails de phishing esconde um código QR. Nem mesmo as ligações de redes sociais \"inofensivas\" estão isentas: Facebook, X, TikTok e outros marcam cada URL de saída com fbclid, t.co, igshid, gclid e milhares de outros rastreadores que o seguem pela web - que o Clean Links remove automaticamente, com um catálogo que cresce a cada atualização.",
+      "solution": "O Clean Links remove os rastreadores e expõe o destino real antes de tocar - para que cada leitura e clique seja nos seus termos.",
       "citation": {
         "prefix": "¹Fonte:",
         "link": "Relatório de Quishing de 2025 da Keepnet Labs e Resumo de Investigação Global sobre Links Maliciosos"
@@ -70,7 +62,7 @@
     "socialTracking": {
       "title": "Rastreamento nas Redes Sociais",
       "description": "As principais plataformas envolvem cada link de saída com identificadores de rastreamento:",
-      "summary": "<strong>Cada clique</strong> é registado e etiquetado para publicidade direcionada em <strong>mais de 250 domínios</strong>"
+      "summary": "<strong>Cada clique</strong> é registado e etiquetado para fins de publicidade direcionada em <strong>milhares de domínios</strong> - expandindo-se a cada atualização."
     }
   },
   "useCases": {
