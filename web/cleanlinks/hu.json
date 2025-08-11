@@ -43,6 +43,10 @@
       "title": "Osszon meg tiszta URL-t bármely alkalmazásból",
       "description": "A Mail, Safari, X, TikTok alkalmazásokban – bárhol, ahol megjelenik az iOS Megosztási lapja – koppintson a Clean Links ikonra. Azonnal cserélje le a túlzsúfolt linket egy makulátlanra, mielőtt a Küldés gombra kattintana. Nincs másolás-beillesztés gimnasztika, csak tiszta lelkiismeret.",
       "cleanLinks": "Clean Links"
+    },
+    "macMenuBar": {
+      "title": "Menüsori linktisztító Macre",
+      "description": "Kapcsolja be a vágólapfigyelést, és a Clean Links automatikusan megtisztítja minden másolt URL-címét. A menüsorból eltávolítja az UTM-címkéket, az fbclid/gclid-t és lerövidíti a t.co vagy a bit.ly címeket beillesztés előtt. <strong>Tervezés szerint privát</strong> - semmi sem hagyja el soha a Mac-et."
     }
   },
   "statistics": {

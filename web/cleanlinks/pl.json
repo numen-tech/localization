@@ -43,6 +43,10 @@
       "title": "Udostępniaj czysty URL z dowolnej aplikacji",
       "description": "W Mail, Safari, X, TikTok – wszędzie tam, gdzie pojawia się arkusz udostępniania iOS – dotknij Clean Links. Natychmiast zamień przeładowany link na czysty, zanim naciśniesz „Wyślij”. Zero gimnastyki z kopiowaniem i wklejaniem, czysty spokój.",
       "cleanLinks": "Clean Links"
+    },
+    "macMenuBar": {
+      "title": "Czyszczenie linków na pasku menu dla komputerów Mac",
+      "description": "Włącz monitorowanie schowka, a Clean Links automatycznie wyczyści każdy skopiowany adres URL. Z paska menu usuwa tagi UTM, fbclid/gclid i skraca linki t.co lub bit.ly przed wklejeniem. <strong>Prywatność z założenia</strong> — nic nigdy не opuszcza Twojego Maca."
     }
   },
   "statistics": {

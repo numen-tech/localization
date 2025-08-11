@@ -43,6 +43,10 @@
       "title": "Del en ren URL fra hvilken som helst app",
       "description": "I Mail, Safari, X, TikTok – overalt hvor iOS' delingsark vises – trykk på Clean Links. Erstatt den oppblåste lenken umiddelbart med en plettfri en før du trykker på Send. Null kopier-og-lim-inn-gymnastikk, kun trygghet.",
       "cleanLinks": "Clean Links"
+    },
+    "macMenuBar": {
+      "title": "Menylinje-lenkerenser for Mac",
+      "description": "Slå på overvåking av utklippstavlen, og Clean Links renser automatisk hver URL du kopierer. Fra menylinjen fjerner den UTM-koder, fbclid/gclid, og forkorter ikke t.co eller bit.ly før du limer inn. <strong>Privatliv som standard</strong> – ingenting forlater noen gang Mac-en din."
     }
   },
   "statistics": {

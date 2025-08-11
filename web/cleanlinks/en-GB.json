@@ -43,6 +43,10 @@
       "title": "Share a clean URL from any app",
       "description": "In Mail, Safari, X, TikTok-anywhere the iOS Share Sheet appears-tap Clean Links. Instantly replace the bloated link with a pristine one before you hit Send. Zero copy-and-paste gymnastics, pure peace of mind.",
       "cleanLinks": "Clean Links"
+    },
+    "macMenuBar": {
+      "title": "Menu Bar Link Cleaner for Mac",
+      "description": "Turn on Clipboard Monitoring and Clean Links auto-cleans every URL you copy. From the menu bar it strips UTM tags, fbclid/gclid, and unshortens t.co or bit.ly before you paste. <strong>Private by design</strong> - nothing ever leaves your Mac."
     }
   },
   "statistics": {

@@ -43,6 +43,10 @@
       "title": "Partagez une URL propre depuis n'importe quelle application",
       "description": "Dans Mail, Safari, X, TikTok, partout où la feuille de partage iOS apparaît, appuyez sur Clean Links. Remplacez instantanément le lien surchargé par un lien impeccable avant de l'envoyer. Aucune gymnastique de copier-coller, juste une tranquillité d'esprit totale.",
       "cleanLinks": "Clean Links"
+    },
+    "macMenuBar": {
+      "title": "Nettoyeur de liens pour la barre des menus sur Mac",
+      "description": "Activez la surveillance du presse-papiers et Clean Links nettoie automatiquement chaque URL que vous copiez. Depuis la barre des menus, il supprime les balises UTM, fbclid/gclid, et déraccourcit les liens t.co ou bit.ly avant que vous ne les colliez. <strong>Privé par conception</strong> - rien ne quitte jamais votre Mac."
     }
   },
   "statistics": {
