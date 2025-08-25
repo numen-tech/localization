@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "Clean Links: Gratis länkrensare och QR-kodläsare för iPhone och Mac",
-    "description": "Se den verkliga destinationen bakom korta länkar och koder. Skanna på iPhone; rensa urklipp automatiskt på Mac från menyraden. Dela spårningsfria länkar och generera nya QR-koder med ett tryck."
+    "title": "Clean Links: Gratis länkrensare och QR-kodsläsare för iPhone, iPad och Mac",
+    "description": "Se den verkliga destinationen bakom kortlänkar och koder. Skanna QR-koder på iPhone och iPad; rensa urklipp automatiskt på Mac från menyraden. Dela spårningsfria länkar och skapa nya QR-koder med ett tryck."
   },
   "navigation": {
     "download": "Ladda ned",
@@ -12,29 +12,29 @@
   "hero": {
     "logoAlt": "Clean Links logotyp",
     "title": "Clean Links",
-    "subtitle": "Gratis länkrensare och QR-kodskanner för iPhone och Mac",
+    "subtitle": "Gratis länkrensare och QR-kodsläsare för iPhone, iPad och Mac",
     "description": "Se den verkliga destinationen bakom korta länkar och koder. Vår QR-kodläsare skyddar dig från nätfiske (phishing) genom att först visa hela URL:en. Tar bort spårare från tusentals domäner och tusentals parametrar. Dela spårningsfria länkar och generera nya QR-koder med ett tryck."
   },
   "features": {
     "qrScanner": {
-      "title": "QR-kodsläsare skyddar mot nätfiske med QR-koder",
-      "description": "Använd Clean Links som din QR-kodsläsare för att avslöja dolda faror. Förhandsgranska den verkliga destinationen innan du öppnar, rensa bort spårare och expandera kortlänkar direkt. Då nätfiske via QR-kod ('quishing') ökar med 25 % per år 2025 och utgör 26 % av alla skadliga länkar, hjälper den här funktionen dig att tidigt upptäcka falska webbplatser. Ligg steget före genom att verifiera varje skanning – ett måste för att undvika bedrägerier i mejl, på parkeringsplatser och offentliga platser."
+      "title": "QR-kodsläsare skyddar mot QR-kodsfiske",
+      "description": "Använd Clean Links som din primära QR-kodsläsare på iPhone, iPad och Mac för att avslöja dolda faror. Förhandsgranska den verkliga destinationen innan du öppnar, rensa bort spårare och expandera kortlänkar omedelbart. Eftersom QR-kodsfiske ('quishing') ökar med 25 % från år till år under 2025 och utgör 26 % av alla skadliga länkar, ger den här funktionen dig möjligheten att upptäcka falska webbplatser tidigt och ligga steget före genom att verifiera varje skanning - vilket är avgörande för att undvika bedrägerier i e-post, på parkeringsplatser eller offentliga platser."
     },
     "linkCleaner": {
       "title": "Länkrensare tar bort spårare från alla URL:er",
-      "description": "Rensa URL:er enkelt med Clean Links länkrensare – klistra in, dela eller automatisera för att ta bort utm_source, fbclid, gclid och tusentals andra från e-handel, sociala medier och annonsdomäner. Stå emot spårning från stora teknikföretag när sociala plattformar kapslar in länkar med unika identifierare. Eftersom skadliga kortlänkar döljer nätfiske i 26 % av attackerna, avslöjar Clean Links omdirigeringar som bit.ly eller t.co – vilket håller dina data privata och dina arbetsflöden smidiga, utan att någonsin skicka information från din enhet."
+      "description": "Rensa URL:er enkelt med Clean Links länkrensare på iPhone, iPad och Mac - klistra in, dela eller automatisera för att ta bort utm_source, fbclid, gclid och tusentals andra från e-handels-, sociala och annonsdomäner. Stå emot spårning från techjättar när sociala plattformar kapslar in länkar med unika identifierare. Då skadliga kortlänkar döljer nätfiske i 26 % av attackerna, avslöjar Clean Links omdirigeringar som bit.ly eller t.co - vilket håller dina data privata och dina arbetsflöden smidiga, utan att någonsin skicka information från din enhet."
     },
     "qrGenerator": {
       "title": "Generera rena QR-koder för social delning",
-      "description": "Använd Clean Links QR-kodgenerator för att skapa spårningsfria koder från vilken skannad eller rensad URL som helst. Hjälp vänner att skanna säkert genom att generera en ny QR-kod – perfekt för sociala sammanhang som en gruppvandring där du skannar en QR-kod för en ledkarta, rensar bort spårare och delar den nya koden så att alla får tillgång till den riktiga informationen utan risk för nätfiske eller dataläckor."
+      "description": "Använd Clean Links QR-kodsgenerator på iPhone, iPad och Mac för att skapa spårningsfria koder från valfri skannad eller rensad URL. Hjälp vänner att skanna säkert genom att skapa en ny QR-kod - perfekt för sociala sammanhang som en gruppvandring där du skannar en QR-kod för en ledkarta, rensar bort spårare och delar den nya koden så att alla får tillgång till den riktiga informationen utan risk för nätfiske eller dataläckor."
     },
     "controlCenter": {
       "title": "Skapa avancerade arbetsflöden med Kontrollcenter och Genvägar",
-      "description": "Integrera Clean Links i Kontrollcenter eller Genvägar för att skapa komplexa arbetsflöden. Föreställ dig en genväg som hämtar en kopierad länk, kör den genom länkrensaren för att ta bort spårare och sedan delar den rensade versionen direkt till WhatsApp-chattar – skräddarsydd för användare som hanterar flera appar, med oändliga alternativ som röstaktiverad rensning via Siri för ultimat effektivitet och integritet."
+      "description": "Integrera Clean Links i Kontrollcenter eller Genvägar på iPhone, iPad och Mac för att skapa komplexa arbetsflöden. Föreställ dig ett genväg som hämtar en kopierad länk, kör den genom URL-rensaren för att ta bort spårare och sedan delar den rensade versionen direkt till WhatsApp-chattar - skräddarsytt för användare som hanterar flera appar, med oändliga alternativ som röstaktiverad rensning via Siri för ultimat effektivitet och integritet."
     },
     "shareSheet": {
       "title": "Enkel rensning i alla appars delningsblad",
-      "description": "Clean Links delningsbladsintegration gör länkrensning till en barnlek: från Safari, X eller Mail, välj tillägget för att omedelbart ta bort spårningsparametrar och avslöja verkliga destinationer. Dela den rensade URL:en med familjen direkt – enkelt, snabbt skydd mot dataspårning som håller din krets säker i dagliga digitala utbyten."
+      "description": "Clean Links integration med delningsbladet på iPhone, iPad och Mac gör länkrensning superlätt: från Safari, X eller Mail, välj tillägget för att omedelbart ta bort spårningsparametrar och avslöja den sanna destinationen. Dela den rensade URL:en med familjen direkt - ett enkelt och snabbt skydd mot dataspårning som håller din krets säker i den dagliga digitala kommunikationen."
     },
     "macMenuBar": {
       "title": "Alltid påslagen länkrensare i Macs menyrad",
@@ -44,8 +44,8 @@
   "statistics": {
     "threat": {
       "title": "Nätfiske med QR-kod & länkspårning: Det växande hotet",
-      "description": "QR-kodsläsare finns nu överallt - och det gör även bedrägerierna. På bara två år <link>exploderade QR-baserat nätfiske från 0,8 % till 12,4 % av alla attacker (en 15-faldig ökning)</link>, medan 1 av 10 nätfiskemejl döljer en QR-kod. Inte ens \"ofarliga\" sociala länkar är undantagna: Facebook, X, TikTok och fler taggar varje utgående URL med fbclid, t.co, igshid, gclid och tusentals andra spårare som följer dig över webben - vilka Clean Links tar bort automatiskt, med en katalog som växer med varje uppdatering.",
-      "solution": "Clean Links tar bort spårarna och visar den verkliga destinationen innan du trycker - så varje skanning och klick sker på dina villkor.",
+      "description": "QR-kodsläsare finns nu överallt - och det gör även bedrägerierna. På bara två år <link>exploderade QR-baserat nätfiske från 0,8 % till 12,4 % av alla attacker (en 15-faldig ökning)</link>, medan 1 av 10 nätfiskemejl döljer en QR-kod. Även 'ofarliga' sociala länkar är inget undantag: Facebook, X, TikTok och andra taggar varje utgående URL med fbclid, t.co, igshid, gclid och tusentals andra spårare som följer dig över webben - vilka Clean Links tar bort automatiskt, med en katalog som växer med varje uppdatering.",
+      "solution": "Clean Links tar bort spårarna och avslöjar den verkliga destinationen innan du trycker - så att varje skanning och klick sker på dina villkor.",
       "citation": {
         "prefix": "¹Källa:",
         "link": "Keepnet Labs 2025 Quishing Report & Global Research Brief on Malicious Links"
@@ -67,7 +67,7 @@
   },
   "useCases": {
     "title": "Användningsfall & verkliga tillämpningar",
-    "description": "Från att skydda mot nätfiske med QR-kod till att automatisera integritetsflöden, anpassar Clean Links sig till ditt digitala liv i 17 nyckelscenarier",
+    "description": "Från att skydda mot QR-kodsfiske till att automatisera integritetsflöden, anpassar sig Clean Links till ditt digitala liv på iPhone, iPad och Mac i 17 nyckelscenarier",
     "ecommerce": {
       "title": "E-handel",
       "description": "Clean Links tar bort affiliate- och marknadsföringsspårning (t.ex. Amazons \"tag\"-parametrar, affiliate-ID) så att du ser en produktsida precis som återförsäljaren avsåg, utan profilering från annonsteknik."
@@ -94,7 +94,7 @@
     },
     "paymentCodes": {
       "title": "Betalningskoder (parkeringsautomater, kollektivtrafik, varuautomater)",
-      "description": "Skanna offentliga QR-koder för betalning för att bekräfta att de leder till rätt stads- eller leverantörsgodkänd portal, inte till en bedräglig betalningsinsamlare."
+      "description": "Skanna offentliga QR-koder för betalning för att bekräfta att de leder till rätt stads- eller leverantörsgodkända portal, inte till en bedräglig betalningsmottagare."
     },
     "emailSms": {
       "title": "QR-bilagor i e-post/SMS",
@@ -122,7 +122,7 @@
     },
     "businessCards": {
       "title": "QR-koder på visitkort",
-      "description": "Skapa korta, spårningsfria QR-koder på ditt tryckta material och säkerställ att varje skanning går exakt till din angivna landningssida."
+      "description": "Skapa korta, spårningsfria QR-koder på ditt tryckta material och säkerställ att varje skanning leder exakt till din angivna landningssida."
     },
     "shareSheet": {
       "title": "Tillägg för delningsblad",
@@ -130,7 +130,7 @@
     },
     "controlCenter": {
       "title": "Knapp i Kontrollcenter",
-      "description": "Lägg till en snabbåtkomstknapp i Kontrollcenter för att rensa URL:en i urklipp eller skanna en QR-kod var som helst i iOS."
+      "description": "Lägg till en snabbknapp i Kontrollcenter för att rensa URL:en i urklipp eller skanna en QR-kod var som helst i iOS."
     },
     "shortcuts": {
       "title": "Integrering med Genvägar & Siri",
@@ -142,11 +142,11 @@
     "description": "Vanliga frågor om Clean Links",
     "whatIs": {
       "question": "Vad är Clean Links?",
-      "answer": "Clean Links är ett gratis iOS-verktyg som tar bort spårningsparametrar från URL:er och avslöjar det verkliga målet bakom QR-koder och förkortade länkar – så du öppnar bara det du vill, utan dolda spårare eller omdirigeringar."
+      "answer": "Clean Links är ett gratisverktyg för iPhone, iPad och Mac som tar bort spårningsparametrar från URL:er och avslöjar det verkliga målet bakom QR-koder och förkortade länkar - så att du bara öppnar det du vill, utan dolda spårare eller omdirigeringar."
     },
     "deviceRequirements": {
       "question": "Vilka enheter och iOS-versioner stöder Clean Links?",
-      "answer": "Clean Links kräver en enhet som kan köra iOS 18.0 eller senare."
+      "answer": "Clean Links stöder iPhone-, iPad- och Mac-enheter som kan köra iOS 18.0 eller senare (iPhone/iPad) eller motsvarande macOS-versioner."
     },
     "whyCreate": {
       "question": "Varför skapade vi Clean Links?",
@@ -158,19 +158,19 @@
     },
     "phishingProtection": {
       "question": "Kan Clean Links blockera nätfiskeförsök (”quishing”)?",
-      "answer": "Ja. När du skannar en QR-kod visar Clean Links dig hela, omaskerade URL:en. Du får bestämma om du vill öppna den eller inte. Detta skiljer sig från iOS-kameraappen och andra betalda QR-kodsläsare, som helt enkelt öppnar länken som QR-koden pekar på, utan ditt medgivande."
+      "answer": "Ja. När du skannar en QR-kod visar Clean Links dig den fullständiga, omaskerade URL:en. Du får själv bestämma om du vill öppna den eller inte. Detta skiljer sig från iOS kameraapp och andra betalda QR-kodsläsare, som bara öppnar länken som QR-koden pekar på, utan ditt medgivande."
     },
     "historyStorage": {
-      "question": "Lagrar Clean Links min historik eller skannade QR-koder?",
-      "answer": "Nej. Genom sin design loggar eller lagrar Clean Links inte länkar du rensar eller skannar."
+      "question": "Sparar Clean Links min historik eller skannade QR-koder?",
+      "answer": "Nej. Clean Links är designat för att inte logga eller spara länkar som du rensar eller skannar."
     },
     "cleanWorkflow": {
       "question": "Hur rensar jag en länk som jag har kopierat?",
-      "answer": "Du kan skapa en Apple-genväg som tar URL:en från ditt urklipp, rensar den och lägger tillbaka den rensade länken. Till exempel, ladda ner denna genväg med ett tryck: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0. För ännu snabbare åtkomst, tilldela den genvägen till din iPhones snabbknapp (iPhone 15 Pro och senare) så att ett enda tryck var som helst rensar länken i urklippet. Du kan lägga till Clean Links i ditt Kontrollcenter: välj mellan två åtgärder – \"Öppna app\" eller \"QR-läsare\". Få tillgång till dessa direkt i Kontrollcenter eller på låsskärmen, eller tilldela dem till snabbknappen för rensning med ett tryck var som helst. Du kan också öppna Clean Links-appen manuellt och klistra in din URL för att rensa den."
+      "answer": "Du kan skapa ett Apple-genväg som tar URL:en från ditt urklipp, rensar den och lägger tillbaka den rensade länken. Ladda till exempel ner det här genväget som körs med ett tryck: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0. För ännu snabbare åtkomst, tilldela genväget till din iPhones åtgärdsknapp (iPhone 15 Pro och senare) så att ett enda tryck var som helst rensar länken i urklippet. Du kan lägga till Clean Links i Kontrollcenter på iPhone, iPad och Mac: välj mellan två åtgärder - \"Öppna app\" eller \"QR-läsare\". Använd dem direkt i Kontrollcenter eller på låsskärmen, eller tilldela dem till åtgärdsknappen för rensning med ett tryck var som helst. Du kan också öppna Clean Links-appen manuellt och klistra in din URL för att rensa den."
     },
     "qrScanning": {
       "question": "Hur skannar jag en QR-kod?",
-      "answer": "Starta Clean Links från din hemskärm, genväg eller snabbknapp och rikta kameran mot koden. Du ser den verkliga destinations-URL:en innan du väljer att öppna den. Clean Links följer alla omdirigeringar och tar bort spårningsparametrar från den slutliga destinationen – vilket förhindrar nätfiskelänkar som är gömda bakom kortlänkar eller omdirigeringstjänster."
+      "answer": "Starta Clean Links från hemskärmen, ett genväg eller åtgärdsknappen på iPhone, iPad eller Mac och rikta kameran mot koden. Du kommer att se den verkliga destinations-URL:en innan du väljer att öppna den. Clean Links följer alla omdirigeringar och tar bort spårningsparametrar från den slutliga destinationen - vilket förhindrar nätfiskelänkar som döljs bakom kortlänks- eller omdirigeringstjänster."
     },
     "urlExpansion": {
       "question": "Kan jag expandera och förhandsgranska förkortade URL:er?",
@@ -178,11 +178,11 @@
     },
     "qrGeneration": {
       "question": "Kan jag generera en integritetssäker QR-kod från en rensad länk?",
-      "answer": "Ja. Efter att ha rensat en URL, tryck på \"Skapa QR\" för att skapa en ny kod som du kan dela helt fri från spårningsparametrar. Detta är särskilt praktiskt när du vill dela den rensade länken med vänner: ett tryck och de kan skanna din QR-kod för att öppna exakt samma, spårningsfria URL. Också användbart när du försöker dela innehåll med dina Android-användande vänner, utan att bli övervakad av host host: Vad heter den där appen nu igen? Detta hjälper dig och dina vänner att undvika att bli bombarderade med annonser relaterade till innehållet du just delade, under nästa vecka eller två."
+      "answer": "Ja. Efter att ha rensat en URL, tryck på \"Skapa QR\" för att skapa en ny kod som du kan dela helt fri från spårningsparametrar. Detta är särskilt praktiskt när du vill dela den rensade länken med vänner: med ett tryck kan de skanna din QR-kod för att öppna exakt samma, spårningsfria URL. Också användbart när du försöker dela innehåll med vänner som använder Android, utan att bli övervakad av... host host... vad heter den där appen nu igen? Detta hjälper dig och dina vänner att slippa bli bombarderade med annonser relaterade till innehållet ni just delade, under de kommande en eller två veckorna."
     },
     "systemIntegration": {
       "question": "Fungerar Clean Links i Safari, Mail och andra appar?",
-      "answer": "Ja. Clean Links systemomfattande tillägg för delningsblad kan användas i Safari, Mail, X (Twitter), Youtube, LinkedIn eller någon annan app som använder iOS inbyggda delningsblad."
+      "answer": "Ja. Clean Links systemomfattande tillägg för delningsbladet på iPhone, iPad och Mac kan användas i Safari, Mail, X (Twitter), Youtube, LinkedIn eller andra appar som använder det inbyggda delningsbladet."
     },
     "shortcutsAutomation": {
       "question": "Kan jag automatisera länkrensning med Genvägar eller Siri?",
@@ -190,7 +190,7 @@
     }
   },
   "cta": {
-    "title": "QR-kodsläsare & länkrensare – skydda din integritet",
+    "title": "QR-kodsläsare och länkrensare - Skydda din integritet",
     "description": "Avslöja omedelbart den verkliga URL:en, radera dolda spårare och skapa delningsklara QR-koder – allt 100 % på din enhet, 100 % gratis."
   },
   "footer": {

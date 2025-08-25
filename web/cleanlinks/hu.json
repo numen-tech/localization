@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "Clean Links: Ingyenes linktisztító és QR-kód olvasó iPhone-ra és Mac-re",
-    "description": "Lássa a valódi célt a rövidített linkek és kódok mögött. Szkenneljen iPhone-on; tisztítsa meg automatikusan a vágólapot Mac-en a menüsorból. Osszon meg követésmentes linkeket és generáljon új QR-kódokat egyetlen érintéssel."
+    "title": "Clean Links: Ingyenes linktisztító és QR-kód olvasó iPhone, iPad és Mac eszközökre",
+    "description": "Lássa a rövidített linkek és kódok mögötti valódi célállomást. Ellenőrizzen QR-kódokat iPhone és iPad eszközön; tisztítsa meg automatikusan a vágólapot Macen a menüsávról. Osszon meg nyomkövetőmentes linkeket, és generáljon új QR-kódokat egyetlen koppintással."
   },
   "navigation": {
     "download": "Letöltés",
@@ -12,29 +12,29 @@
   "hero": {
     "logoAlt": "Clean Links logó",
     "title": "Clean Links",
-    "subtitle": "Ingyenes linktisztító és QR-kód olvasó iPhone-ra és Mac-re",
+    "subtitle": "Ingyenes linktisztító és QR-kód olvasó iPhone, iPad és Mac eszközökre",
     "description": "Lássa a valódi célt a rövidített linkek és kódok mögött. QR-kód olvasónk megvéd az adathalászattól (phishing) azáltal, hogy először a teljes URL-t mutatja meg. Eltávolítja a követőket több ezer domainről és több ezer paraméterből. Osszon meg követésmentes linkeket és generáljon új QR-kódokat egyetlen érintéssel."
   },
   "features": {
     "qrScanner": {
-      "title": "A QR-kód olvasó véd a quishing (QR-kódos adathalászat) ellen",
-      "description": "Használja a Clean Links alkalmazást elsődleges QR-kód olvasóként a rejtett veszélyek leleplezésére. Tekintse meg a valós célhelyet megnyitás előtt, távolítsa el a követőket, és bontsa ki azonnal a rövidített linkeket. Mivel a QR-kódos adathalászat ('quishing') 2025-ben évről évre 25%-kal növekszik, és a rosszindulatú linkek 26%-át teszi ki, ez a funkció lehetővé teszi a hamis webhelyek korai felismerését, és segít előrébb járni minden beolvasás ellenőrzésével – ami elengedhetetlen az e-mailekben, parkolókban vagy nyilvános helyeken előforduló csalások elkerüléséhez."
+      "title": "QR-kód olvasó, amely véd a QR-kódos adathalász átverések ellen",
+      "description": "Használja a Clean Links alkalmazást elsődleges QR-kód olvasóként iPhone, iPad és Mac eszközökön a rejtett veszélyek leleplezésére. Tekintse meg a valódi célállomást megnyitás előtt, távolítsa el a nyomkövetőket, és bontsa ki a rövidített linkeket azonnal. Mivel a QR-kódos adathalászat ('quishing') 2025-ben évről évre 25%-kal növekszik, és a rosszindulatú linkek 26%-át teszi ki, ez a funkció segít időben észrevenni az áloldalakat. Maradjon egy lépéssel előrébb minden egyes ellenőrzéssel - ez elengedhetetlen az e-mailekben, parkolókban vagy nyilvános helyeken előforduló átverések elkerüléséhez."
     },
     "linkCleaner": {
       "title": "A linktisztító eltávolítja a követőket bármely URL-ből",
-      "description": "Tisztítsa meg az URL-eket könnyedén a Clean Links linktisztítójával – illessze be, ossza meg vagy automatizálja az utm_source, fbclid, gclid és több ezer más követő eltávolítását az e-kereskedelmi, közösségi és hirdetési domainekről. Védekezzen a nagy technológiai cégek követése ellen, miközben a közösségi platformok egyedi azonosítókkal látják el a linkeket. Mivel a rosszindulatú rövidített linkek a támadások 26%-ában adathalászatot rejtenek, a Clean Links leleplezi az átirányításokat, mint a bit.ly vagy a t.co – megőrizve adatai privát szféráját és a zökkenőmentes munkafolyamatokat, anélkül, hogy bármilyen információ elhagyná az eszközt."
+      "description": "Tisztítsa meg az URL-eket könnyedén a Clean Links linktisztítójával iPhone, iPad és Mac eszközökön: illessze be, ossza meg vagy automatizálja az utm_source, fbclid, gclid és több ezer más paraméter eltávolítását e-kereskedelmi, közösségi és hirdetési oldalakról. Védekezzen a nagy tech cégek nyomkövetése ellen, hiszen a közösségi platformok egyedi azonosítókkal látják el a linkeket. Mivel a támadások 26%-ában rosszindulatú rövid linkek rejtik el az adathalászatot, a Clean Links leleplezi az olyan átirányításokat, mint a bit.ly vagy a t.co - így magánszférája védve marad, munkafolyamatai pedig zökkenőmentesek lesznek, anélkül, hogy bármilyen információt elküldene az eszközéről."
     },
     "qrGenerator": {
       "title": "Hozzon létre tiszta QR-kódokat a közösségi megosztáshoz",
-      "description": "Használja a Clean Links QR-kód generátorát követőktől mentes kódok létrehozásához bármely beolvasott vagy megtisztított URL-ből. Segítsen barátainak biztonságosan beolvasni egy új QR-kód generálásával – tökéletes közösségi helyzetekre, például egy csoportos túrára, ahol beolvas egy túratérkép QR-kódját, eltávolítja a követőket, és megosztja az új kódot, hogy mindenki a valós információkhoz férjen hozzá adathalászat kockázata vagy adatszivárgás nélkül."
+      "description": "Használja a Clean Links QR-kód generátorát iPhone, iPad és Mac eszközökön, hogy nyomkövetőmentes kódokat hozzon létre bármely ellenőrzött vagy megtisztított URL-ből. Segítsen barátainak a biztonságos beolvasásban egy új QR-kód generálásával - tökéletes olyan társasági helyzetekre, mint egy csoportos túra, ahol beolvas egy turistaútvonal QR-kódját, eltávolítja a nyomkövetőket, és megosztja az új kódot, hogy mindenki a valódi információkhoz férjen hozzá adathalászat vagy adatszivárgás veszélye nélkül."
     },
     "controlCenter": {
       "title": "Hozzon létre fejlett munkafolyamatokat a Vezérlőközpont és a Parancsok segítségével",
-      "description": "Integrálja a Clean Links alkalmazást a Vezérlőközpontba vagy a Parancsokba (Shortcuts) összetett munkafolyamatok létrehozásához. Képzeljen el egy Parancsot, amely fog egy másolt linket, átfuttatja az URL-tisztítón a követők eltávolításához, majd megosztja a tiszta verziót közvetlenül a WhatsApp csevegésekben – azoknak a felhasználóknak szabva, akik több alkalmazással zsonglőrködnek, végtelen lehetőségekkel, mint például a hangvezérelt tisztítás Siri segítségével a maximális hatékonyság és adatvédelem érdekében."
+      "description": "Integrálja a Clean Links alkalmazást a Vezérlőközpontba vagy a Parancsokba iPhone, iPad és Mac eszközökön, hogy összetett munkafolyamatokat hozzon létre. Képzeljen el egy Parancsot, amely fog egy másolt linket, átfuttatja az URL-tisztítón a nyomkövetők eltávolításához, majd a tiszta verziót közvetlenül megosztja a WhatsApp csevegésekben - testreszabva azoknak a felhasználóknak, akik több alkalmazással zsonglőrködnek, végtelen lehetőségekkel, mint például a hangvezérelt tisztítás a Siri segítségével a maximális hatékonyság és adatvédelem érdekében."
     },
     "shareSheet": {
       "title": "Könnyed tisztítás bármely alkalmazás megosztási lapján",
-      "description": "A Clean Links Megosztás lap (Share Sheet) integrációja gyerekjátékká teszi a linktisztítást: a Safariból, az X-ről vagy a Mailből válassza ki a bővítményt a követő paraméterek azonnali eltávolításához és a valódi célhelyek felfedéséhez. Ossza meg a megtisztított URL-t azonnal a családjával – egyszerű, gyors védelem az adatkövetés ellen, biztonságban tartva ismerőseit a mindennapi digitális interakciók során."
+      "description": "A Clean Links Megosztás menü integrációja iPhone, iPad és Mac eszközökön gyerekjátékká teszi a linktisztítást: a Safariból, X-ről vagy a Mailből válassza ki a bővítményt a nyomkövető paraméterek azonnali eltávolításához és a valódi célállomások felfedéséhez. Ossza meg a megtisztított URL-t azonnal a családjával - egyszerű, gyors védelem az adatkövetés ellen, biztonságban tartva ismerőseit a mindennapi digitális kommunikáció során."
     },
     "macMenuBar": {
       "title": "Folyamatosan aktív linktisztító a Mac menüsorában",
@@ -44,8 +44,8 @@
   "statistics": {
     "threat": {
       "title": "QR-kódos adathalászat és linkkövetés: A növekvő fenyegetés",
-      "description": "A QR-kód olvasók ma már mindenhol ott vannak - és a csalások is. Mindössze két év alatt <link>a QR-alapú adathalászat az összes támadás 0,8%-áról 12,4%-ára ugrott (15-szörös növekedés)</link>, miközben 10 adathalász e-mailből 1 QR-kódot rejt. Még az \"ártalmatlan\" közösségi linkek sem kivételek: a Facebook, az X, a TikTok és mások minden kimenő URL-t ellátnak fbclid, t.co, igshid, gclid és több ezer egyéb követővel, amelyek követik Önt az interneten - ezeket a Clean Links automatikusan eltávolítja, egy olyan katalógussal, amely minden frissítéssel bővül.",
-      "solution": "A Clean Links eltávolítja a követőket és felfedi a valódi célt, mielőtt Ön koppintana - így minden beolvasás és kattintás az Ön feltételei szerint történik.",
+      "description": "A QR-kód olvasók ma már mindenhol ott vannak - és velük együtt az átverések is. Mindössze két év alatt <link>a QR-kód alapú adathalászat az összes támadás 0,8%-áról 12,4%-ára ugrott (15-szörös növekedés)</link>, miközben minden 10. adathalász e-mail QR-kódot rejt. Még az 'ártalmatlannak' tűnő közösségi linkek sem kivételek: a Facebook, az X, a TikTok és mások minden kimenő URL-t ellátnak fbclid, t.co, igshid, gclid és több ezer más nyomkövetővel, amelyek árnyékként követik Önt a weben - ezeket a Clean Links automatikusan eltávolítja, egy minden frissítéssel bővülő katalógus segítségével.",
+      "solution": "A Clean Links eltávolítja a nyomkövetőket és felfedi a valódi célállomást, még mielőtt koppintana - így minden beolvasás és kattintás az Ön feltételei szerint történik.",
       "citation": {
         "prefix": "¹Forrás:",
         "link": "Keepnet Labs 2025 Quishing Report & Global Research Brief on Malicious Links"
@@ -67,7 +67,7 @@
   },
   "useCases": {
     "title": "Felhasználási esetek és valós alkalmazások",
-    "description": "A QR-kódos adathalászat elleni védelemtől az adatvédelmi munkafolyamatok automatizálásáig a Clean Links 17 kulcsfontosságú forgatókönyvön keresztül alkalmazkodik digitális életéhez",
+    "description": "A QR-kódos adathalászat elleni védelemtől kezdve az adatvédelmi munkafolyamatok automatizálásáig, a Clean Links 17 kulcsfontosságú helyzetben alkalmazkodik digitális életéhez iPhone, iPad és Mac eszközökön.",
     "ecommerce": {
       "title": "E-kereskedelmi vásárlás",
       "description": "A Clean Links eltávolítja a partner- és marketingkövetést (pl. Amazon „tag” paraméterek, partnerazonosítók), így pontosan úgy láthatja a termékoldalt, ahogy a kiskereskedő szánta, hirdetéstechnológiai profilalkotás nélkül."
@@ -94,7 +94,7 @@
     },
     "paymentCodes": {
       "title": "Fizetési pontok kódjai (parkolóórák, tömegközlekedés, automaták)",
-      "description": "Olvassa be a nyilvános fizetési QR-kódokat, hogy megbizonyosodjon arról, hogy a megfelelő városi vagy szolgáltató által jóváhagyott portálra vezetnek, nem pedig egy csaló fizetési begyűjtőhöz."
+      "description": "Ellenőrizze a nyilvános fizetési QR-kódokat, hogy megbizonyosodjon arról, hogy a megfelelő városi vagy szolgáltató által jóváhagyott portálra vezetnek, nem pedig egy csaló fizetési felületre."
     },
     "emailSms": {
       "title": "E-mail/SMS QR-mellékletek",
@@ -122,7 +122,7 @@
     },
     "businessCards": {
       "title": "Névjegykártya QR-kódok",
-      "description": "Hozzon létre rövid, követőmentes QR-kódokat nyomtatott anyagain, biztosítva, hogy minden beolvasás pontosan a megadott céloldalra vezessen."
+      "description": "Hozzon létre rövid, nyomkövetőmentes QR-kódokat a nyomtatott anyagain, biztosítva, hogy minden beolvasás pontosan az Ön által megadott céloldalra vezessen."
     },
     "shareSheet": {
       "title": "Megosztási lap kiterjesztés",
@@ -142,11 +142,11 @@
     "description": "Gyakran ismételt kérdések a Clean Links-ről",
     "whatIs": {
       "question": "Mi az a Clean Links?",
-      "answer": "A Clean Links egy ingyenes iOS segédprogram, amely eltávolítja a követési paramétereket az URL-ekből, és felfedi a valódi célt a QR-kódok és a rövidített linkek mögött – így csak azokat a dolgokat nyitja meg, amiket valóban szeretne, rejtett követők és átirányítások nélkül."
+      "answer": "A Clean Links egy ingyenes segédprogram iPhone, iPad és Mac eszközökre, amely eltávolítja a nyomkövető paramétereket az URL-ekből, és felfedi a QR-kódok és a rövidített linkek mögötti valódi célt - így csak azt nyitja meg, amit valóban szeretne, rejtett nyomkövetők vagy átirányítások nélkül."
     },
     "deviceRequirements": {
       "question": "Mely eszközöket és iOS verziókat támogatja a Clean Links?",
-      "answer": "A Clean Links használatához iOS 18.0 vagy újabb verziót futtató eszközre van szükség."
+      "answer": "A Clean Links támogatja azokat az iPhone, iPad és Mac eszközöket, amelyeken iOS 18.0 vagy újabb (iPhone/iPad), illetve annak megfelelő macOS verzió fut."
     },
     "whyCreate": {
       "question": "Miért hoztuk létre a Clean Links-et?",
@@ -158,19 +158,19 @@
     },
     "phishingProtection": {
       "question": "Képes a Clean Links blokkolni az adathalász („quishing”) kísérleteket?",
-      "answer": "Igen. Amikor beolvas egy QR-kódot, a Clean Links megmutatja a teljes, leplezetlen URL-t. Ön döntheti el, hogy megnyitja-e vagy sem. Ez ellentétben áll az iOS kameraalkalmazással és más fizetős QR-kód olvasó alkalmazásokkal, amelyek egyszerűen megnyitják a linket, amire a QR-kód mutat, az Ön hozzájárulása nélkül."
+      "answer": "Igen. Amikor beolvas egy QR-kódot, a Clean Links megmutatja a teljes, leleplezett URL-t. Ön döntheti el, hogy megnyitja-e vagy sem. Ez eltér az iOS Kamera alkalmazásától és más fizetős QR-kód olvasó appoktól, amelyek az Ön beleegyezése nélkül egyszerűen megnyitják a linket, amire a QR-kód mutat."
     },
     "historyStorage": {
       "question": "Tárolja a Clean Links az előzményeimet vagy a beolvasott QR-kódokat?",
-      "answer": "Nem. A Clean Links szándékosan nem naplózza és nem tárolja az Ön által megtisztított vagy beolvasott linkeket."
+      "answer": "Nem. A Clean Links szándékosan nem naplózza és nem tárolja a megtisztított vagy beolvasott linkeket."
     },
     "cleanWorkflow": {
       "question": "Hogyan tisztítsak meg egy másolt linket?",
-      "answer": "Létrehozhat egy Apple Parancsot, amely elveszi az URL-t a vágólapról, megtisztítja, és visszateszi a tiszta linket. Például töltse le ezt az egyérintéses parancsot: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0. A még gyorsabb elérés érdekében rendelje hozzá ezt a parancsot az iPhone Művelet gombjához (iPhone 15 Pro és újabb modellek esetén), így egyetlen gombnyomás bárhol megtisztítja a vágólapon lévő linket. Hozzáadhatja a Clean Links-et a Vezérlőközponthoz: válasszon két művelet közül – „Alkalmazás megnyitása” vagy „QR-olvasó”. Ezeket közvetlenül a Vezérlőközpontban vagy a lezárt képernyőn érheti el, vagy hozzárendelheti őket a Művelet gombhoz az egyérintéses tisztításhoz bárhonnan. A Clean Links alkalmazást manuálisan is megnyithatja, és beillesztheti az URL-t a tisztításhoz."
+      "answer": "Létrehozhat egy Apple Parancsot, amely elveszi az URL-t a vágólapról, megtisztítja, majd visszahelyezi a tiszta linket. Például töltse le ezt az egykoppintásos parancsot: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0. A még gyorsabb elérés érdekében rendelje hozzá ezt a parancsot az iPhone Műveletgombjához (iPhone 15 Pro és újabb modelleken), így egyetlen gombnyomással bárhol megtisztíthatja a vágólapon lévő linket. Hozzáadhatja a Clean Links alkalmazást a Vezérlőközponthoz iPhone, iPad és Mac eszközökön: válasszon a két művelet közül - \"Alkalmazás megnyitása\" vagy \"QR-olvasó\". Ezeket közvetlenül a Vezérlőközpontból vagy a Zárképernyőről érheti el, vagy hozzárendelheti őket a Műveletgombhoz az egykoppintásos tisztításhoz bárhonnan. Manuálisan is megnyithatja a Clean Links alkalmazást, és beillesztheti az URL-t a tisztításhoz."
     },
     "qrScanning": {
-      "question": "Hogyan olvassak be egy QR-kódot?",
-      "answer": "Indítsa el a Clean Links-et a kezdőképernyőről, egy Parancsból vagy a Művelet gombbal, és irányítsa a kamerát a kódra. Meglátja a valódi cél-URL-t, mielőtt a megnyitás mellett döntene. A Clean Links követi az összes átirányítást, és eltávolítja a követési paramétereket a végső céloldalról – megakadályozva a rövid linkek vagy átirányítási szolgáltatások mögé rejtett adathalász linkeket."
+      "question": "Hogyan tudok beolvasni egy QR-kódot?",
+      "answer": "Indítsa el a Clean Links alkalmazást a Főképernyőről, egy Parancsból vagy a Műveletgombbal iPhone, iPad vagy Mac eszközön, és irányítsa a kamerát a kódra. Látni fogja a valódi cél URL-t, mielőtt a megnyitás mellett döntene. A Clean Links követi az összes átirányítást, és eltávolítja a nyomkövető paramétereket a végső célállomásról - megelőzve a rövidített linkek vagy átirányítási szolgáltatások mögé rejtett adathalász linkeket."
     },
     "urlExpansion": {
       "question": "Kibonthatom és megnézhetem a rövidített URL-ek előnézetét?",
@@ -178,11 +178,11 @@
     },
     "qrGeneration": {
       "question": "Létrehozhatok adatvédelmi szempontból biztonságos QR-kódot egy megtisztított linkből?",
-      "answer": "Igen. Egy URL megtisztítása után koppintson a „QR-kód generálása” gombra egy új kód létrehozásához, amelyet teljesen követési paraméterek nélkül oszthat meg. Ez különösen hasznos, ha meg szeretné osztani a megtisztított linket barátaival: egy koppintás, és beolvashatják a QR-kódot, hogy ugyanazt a követőmentes URL-t nyissák meg. Akkor is hasznos, ha tartalmat próbál megosztani androidos barátaival anélkül, hogy megfigyelnék, khm... hogy is hívják azt az alkalmazást? Ez segít Önnek és barátainak elkerülni, hogy a következő egy-két hétben elárasszák Önöket a megosztott tartalommal kapcsolatos hirdetések."
+      "answer": "Igen. Egy URL megtisztítása után koppintson a \"QR generálása\" gombra egy új kód létrehozásához, amelyet teljesen nyomkövető paraméterektől mentesen oszthat meg. Ez különösen hasznos, ha meg szeretné osztani a megtisztított linket a barátaival: egy koppintás, és ők is beolvashatják a QR-kódját, hogy ugyanazt a nyomkövetőmentes URL-t nyissák meg. Akkor is hasznos, ha androidos barátaival próbál tartalmat megosztani, anélkül, hogy megfigyelnék Önöket, khm-khm: Hogy is hívják azt az alkalmazást? Ez segít Önnek és barátainak elkerülni, hogy a következő egy-két hétben elárasszák Önöket a megosztott tartalommal kapcsolatos hirdetések."
     },
     "systemIntegration": {
       "question": "Működik a Clean Links a Safari, Mail és más alkalmazásokban?",
-      "answer": "Igen. A Clean Links rendszerszintű Megosztási lap kiterjesztése használható a Safariban, Mailben, X-en (Twitter), Youtube-on, LinkedIn-en vagy bármely más alkalmazásban, amely az iOS natív Megosztási lapjait használja."
+      "answer": "Igen. A Clean Links rendszerszintű Megosztás menü bővítménye iPhone, iPad és Mac eszközökön használható a Safariban, a Mailben, az X-en (Twitter), a Youtube-on, a LinkedInen vagy bármely más olyan alkalmazásban, amely a natív Megosztás menüt használja."
     },
     "shortcutsAutomation": {
       "question": "Automatizálhatom a linktisztítást a Parancsokkal vagy a Sirivel?",
@@ -190,7 +190,7 @@
     }
   },
   "cta": {
-    "title": "QR-kód olvasó és linktisztító – Védje magánéletét",
+    "title": "QR-kód olvasó és linktisztító - Védje magánszféráját",
     "description": "Azonnal fedje fel a valódi URL-t, törölje a rejtett követőket, és hozzon létre megosztásra kész QR-kódokat – mindezt 100%-ban az eszközön, 100%-ban ingyenesen."
   },
   "footer": {
