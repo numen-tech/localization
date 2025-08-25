@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "Clean Links: Limpador de Links e Leitor de Códigos QR Grátis para iPhone e Mac",
-    "description": "Veja o destino real por trás de links curtos e códigos. Digitalize no iPhone; limpe automaticamente a sua área de transferência no Mac a partir da barra de menus. Partilhe links sem rastreadores e gere novos códigos QR com um toque."
+    "title": "Clean Links: Limpador de Links e Leitor de Códigos QR Grátis para iPhone, iPad e Mac",
+    "description": "Veja o destino real por trás de links curtos e códigos. Verifique códigos QR no iPhone e iPad; limpe automaticamente a sua área de transferência no Mac a partir da barra de menus. Partilhe links sem rastreadores e gere novos códigos QR com um toque."
   },
   "navigation": {
     "download": "Descarregar",
@@ -12,29 +12,29 @@
   "hero": {
     "logoAlt": "Logótipo do Clean Links",
     "title": "Clean Links",
-    "subtitle": "Limpador de Links e Scanner de Códigos QR Grátis para iPhone e Mac",
+    "subtitle": "Limpador de Links e Leitor de Códigos QR Grátis para iPhone, iPad e Mac",
     "description": "Veja o destino real por trás de links curtos e códigos. O nosso leitor de códigos QR protege-o de phishing ao mostrar primeiro o URL completo. Remove rastreadores de milhares de domínios e milhares de parâmetros. Partilhe links sem rastreadores e gere novos códigos QR com um toque."
   },
   "features": {
     "qrScanner": {
-      "title": "Scanner de Códigos QR Protege Contra Burlas de Quishing",
-      "description": "Use o Clean Links como o seu scanner de códigos QR de eleição para revelar perigos ocultos. Pré-visualize o destino real antes de o abrir, remova rastreadores e expanda links curtos instantaneamente. Com o phishing por código QR ('quishing') a aumentar 25% anualmente em 2025 e a representar 26% dos links maliciosos, esta funcionalidade permite-lhe detetar sites falsos atempadamente, mantendo-se à frente ao verificar cada leitura - essencial para evitar burlas em e-mails, parques de estacionamento ou espaços públicos."
+      "title": "Leitor de Códigos QR Protege Contra Burlas de Quishing",
+      "description": "Use o Clean Links como o seu leitor de códigos QR de eleição no iPhone, iPad e Mac para desmascarar perigos ocultos. Pré-visualize o destino real antes de o abrir, elimine rastreadores e expanda links curtos instantaneamente. Com o phishing por código QR ('quishing') a aumentar 25% ano após ano em 2025 e a representar 26% dos links maliciosos, esta funcionalidade permite-lhe detetar sites falsos mais cedo, mantendo-se um passo à frente ao verificar cada código - essencial para evitar burlas em e-mails, parques de estacionamento ou espaços públicos."
     },
     "linkCleaner": {
       "title": "Limpador de Links Remove Rastreadores de Qualquer URL",
-      "description": "Limpe URLs sem esforço com o limpador de links do Clean Links - cole, partilhe ou automatize para remover utm_source, fbclid, gclid e milhares de outros em domínios de e-commerce, sociais e de publicidade. Lute contra o rastreamento das grandes tecnológicas, uma vez que as plataformas sociais envolvem os links com identificadores únicos. Como os links curtos maliciosos ocultam o phishing em 26% dos ataques, o Clean Links revela redirecionamentos como bit.ly ou t.co - mantendo os seus dados privados e os fluxos de trabalho fluidos, sem nunca enviar informações para fora do dispositivo."
+      "description": "Limpe URLs sem esforço com o limpador de links do Clean Links no iPhone, iPad e Mac - cole, partilhe ou automatize para remover utm_source, fbclid, gclid e milhares de outros em domínios de e-commerce, redes sociais e publicidade. Lute contra o rastreio das grandes tecnológicas, já que as plataformas sociais envolvem os links com identificadores únicos. Como os links curtos maliciosos ocultam phishing em 26% dos ataques, o Clean Links desmascara redirecionamentos como bit.ly ou t.co - mantendo os seus dados privados e os fluxos de trabalho fluidos, sem nunca enviar informações para fora do dispositivo."
     },
     "qrGenerator": {
       "title": "Gerar Códigos QR Limpos para Partilha Social",
-      "description": "Use o gerador de códigos QR do Clean Links para criar códigos sem rastreadores a partir de qualquer URL lido ou limpo. Ajude os amigos a lerem códigos em segurança, gerando um novo QR - perfeito para ambientes sociais como uma caminhada em grupo, onde lê um QR de um mapa de trilhos, remove os rastreadores e partilha o novo código para que todos acedam à informação real sem riscos de phishing ou fugas de dados."
+      "description": "Use o gerador de códigos QR do Clean Links no iPhone, iPad e Mac para criar códigos sem rastreadores a partir de qualquer URL verificado ou limpo. Ajude os seus amigos a verificar em segurança, gerando um novo código QR - perfeito para situações sociais como uma caminhada em grupo, onde verifica o QR de um mapa de trilhos, remove os rastreadores e partilha o novo código para que todos acedam à informação real sem riscos de phishing ou fugas de dados."
     },
     "controlCenter": {
       "title": "Crie Fluxos de Trabalho Avançados com a Central de Controlo e os Atalhos",
-      "description": "Integre o Clean Links na Central de Controlo ou nos Atalhos para criar fluxos de trabalho complexos. Imagine um Atalho que obtém um link copiado, passa-o pelo limpador de URLs para remover rastreadores e, em seguida, partilha a versão limpa diretamente em conversas do WhatsApp - adaptado para utilizadores que gerem várias aplicações, com opções infinitas como a limpeza ativada por voz através da Siri para máxima eficiência e privacidade."
+      "description": "Integre o Clean Links na Central de Controlo ou nos Atalhos no iPhone, iPad e Mac para criar fluxos de trabalho complexos. Imagine um Atalho que obtém um link copiado, passa-o pelo limpador de URLs para remover rastreadores e, em seguida, partilha a versão limpa diretamente em conversas do WhatsApp - ideal para utilizadores que gerem várias apps, com opções infinitas como a limpeza ativada por voz via Siri para máxima eficiência e privacidade."
     },
     "shareSheet": {
       "title": "Limpeza Sem Esforço na Folha de Partilha de Qualquer Aplicação",
-      "description": "A integração da Folha de Partilha do Clean Links torna a limpeza de links muito fácil: a partir do Safari, X ou Mail, selecione a extensão para remover instantaneamente os parâmetros de rastreamento e revelar os destinos verdadeiros. Partilhe o URL limpo com a família imediatamente - proteção simples e rápida contra o rastreamento de dados, mantendo o seu círculo seguro nas trocas digitais diárias."
+      "description": "A integração do Clean Links com a Folha de Partilha no iPhone, iPad e Mac torna a limpeza de links muito fácil: a partir do Safari, X ou Mail, selecione a extensão para remover instantaneamente os parâmetros de rastreio e revelar os destinos verdadeiros. Partilhe o URL limpo com a sua família imediatamente - proteção simples e rápida contra o rastreio de dados, mantendo o seu círculo seguro nas trocas digitais diárias."
     },
     "macMenuBar": {
       "title": "Limpador de Links Sempre Ativo na Barra de Menus do Mac",
@@ -44,8 +44,8 @@
   "statistics": {
     "threat": {
       "title": "Phishing por Código QR e Rastreamento de Links: A Ameaça Crescente",
-      "description": "Os leitores de códigos QR estão agora por todo o lado - e as fraudes também. Em apenas dois anos, <link>o phishing baseado em QR explodiu de 0,8% para 12,4% de todos os ataques (um salto de 15 vezes)</link>, enquanto 1 em cada 10 e-mails de phishing esconde um código QR. Nem mesmo as ligações de redes sociais \"inofensivas\" estão isentas: Facebook, X, TikTok e outros marcam cada URL de saída com fbclid, t.co, igshid, gclid e milhares de outros rastreadores que o seguem pela web - que o Clean Links remove automaticamente, com um catálogo que cresce a cada atualização.",
-      "solution": "O Clean Links remove os rastreadores e expõe o destino real antes de tocar - para que cada leitura e clique seja nos seus termos.",
+      "description": "Os leitores de códigos QR estão agora por todo o lado - e as burlas também. Em apenas dois anos, <link>o phishing baseado em QR explodiu de 0,8% para 12,4% de todos os ataques (um aumento de 15 vezes)</link>, enquanto 1 em cada 10 e-mails de phishing esconde um código QR. Nem mesmo os links 'inofensivos' das redes sociais estão isentos: Facebook, X, TikTok e outros marcam cada URL de saída com fbclid, t.co, igshid, gclid e milhares de outros rastreadores que o seguem pela web - que o Clean Links remove automaticamente, com um catálogo que cresce a cada atualização.",
+      "solution": "O Clean Links remove os rastreadores e expõe o destino real antes de tocar - para que cada verificação e clique seja nos seus termos.",
       "citation": {
         "prefix": "¹Fonte:",
         "link": "Relatório de Quishing de 2025 da Keepnet Labs e Resumo de Investigação Global sobre Links Maliciosos"
@@ -67,7 +67,7 @@
   },
   "useCases": {
     "title": "Casos de Uso e Aplicações no Mundo Real",
-    "description": "Desde a proteção contra phishing por código QR à automação de fluxos de trabalho de privacidade, o Clean Links adapta-se à sua vida digital em 17 cenários-chave",
+    "description": "Desde a proteção contra phishing por código QR até à automatização de fluxos de trabalho de privacidade, o Clean Links adapta-se à sua vida digital no iPhone, iPad e Mac em 17 cenários principais.",
     "ecommerce": {
       "title": "Compras em e-commerce",
       "description": "O Clean Links remove o rastreamento de afiliados e marketing (por exemplo, parâmetros \"tag\" da Amazon, IDs de afiliados) para que veja uma página de produto exatamente como o retalhista a concebeu, sem perfis de ad-tech."
@@ -94,7 +94,7 @@
     },
     "paymentCodes": {
       "title": "Códigos em pontos de pagamento (parquímetros, transportes, máquinas de venda automática)",
-      "description": "Digitalize códigos QR de pagamento públicos para confirmar que vão para o portal correto da cidade ou do fornecedor aprovado, e não para um coletor de pagamentos fraudulento."
+      "description": "Verifique os códigos QR de pagamentos públicos para confirmar que direcionam para o portal correto da cidade ou do fornecedor aprovado, e não para um coletor de pagamentos fraudulento."
     },
     "emailSms": {
       "title": "Anexos de QR em e-mail/SMS",
@@ -122,7 +122,7 @@
     },
     "businessCards": {
       "title": "Códigos QR em cartões de visita",
-      "description": "Crie códigos QR curtos e sem rastreadores no seu material impresso, garantindo que cada digitalização vai exatamente para a sua página de destino especificada."
+      "description": "Crie códigos QR curtos e sem rastreadores no seu material impresso, garantindo que cada verificação vai exatamente para a sua página de destino especificada."
     },
     "shareSheet": {
       "title": "Extensão de Partilha",
@@ -130,7 +130,7 @@
     },
     "controlCenter": {
       "title": "Mosaico da Central de Controlo",
-      "description": "Adicione um botão de acesso rápido na Central de Controlo para limpar o URL da área de transferência ou digitalizar um código QR em qualquer lugar no iOS."
+      "description": "Adicione um botão de acesso rápido na Central de Controlo para limpar o URL da área de transferência ou verificar um código QR em qualquer lugar no iOS."
     },
     "shortcuts": {
       "title": "Integração com Atalhos e Siri",
@@ -142,11 +142,11 @@
     "description": "Perguntas frequentes sobre o Clean Links",
     "whatIs": {
       "question": "O que é o Clean Links?",
-      "answer": "O Clean Links é um utilitário gratuito para iOS que remove parâmetros de rastreamento de URLs e revela o verdadeiro alvo por trás de códigos QR e links encurtados - para que abra apenas o que deseja, sem rastreadores ou redirecionamentos ocultos."
+      "answer": "O Clean Links é um utilitário gratuito para iPhone, iPad e Mac que remove parâmetros de rastreio de URLs e revela o alvo verdadeiro por trás de códigos QR e links encurtados - para que abra apenas o que deseja, sem rastreadores ou redirecionamentos ocultos."
     },
     "deviceRequirements": {
       "question": "Que dispositivos e versões do iOS são suportados pelo Clean Links?",
-      "answer": "O Clean Links requer um dispositivo que possa executar o iOS 18.0 ou posterior."
+      "answer": "O Clean Links é compatível com dispositivos iPhone, iPad e Mac que possam executar o iOS 18.0 ou posterior (iPhone/iPad) ou versões equivalentes do macOS."
     },
     "whyCreate": {
       "question": "Porque criámos o Clean Links?",
@@ -158,19 +158,19 @@
     },
     "phishingProtection": {
       "question": "O Clean Links pode bloquear tentativas de phishing (\"quishing\")?",
-      "answer": "Sim. Quando digitaliza um código QR, o Clean Links mostra-lhe o URL completo e desmascarado. Você decide se o abre ou não. Isto é diferente da aplicação de câmara do iOS e de outras aplicações pagas de leitura de códigos QR, que simplesmente abrem o link para o qual o código QR aponta, sem o seu consentimento."
+      "answer": "Sim. Quando verifica um código QR, o Clean Links mostra-lhe o URL completo e desmascarado. Pode decidir se o abre ou não. Isto é diferente da app Câmara do iOS e de outras apps pagas de leitura de códigos QR, que simplesmente abrem o link para o qual o código QR aponta, sem o seu consentimento."
     },
     "historyStorage": {
-      "question": "O Clean Links guarda o meu histórico ou os códigos QR digitalizados?",
-      "answer": "Não. Por definição, o Clean Links não regista nem armazena os links que limpa ou digitaliza."
+      "question": "O Clean Links guarda o meu histórico ou os códigos QR verificados?",
+      "answer": "Não. Por definição, o Clean Links não regista nem armazena os links que limpa ou verifica."
     },
     "cleanWorkflow": {
       "question": "Como limpo um link que copiei?",
-      "answer": "Pode criar um Atalho da Apple que retira o URL da sua área de transferência, o limpa e coloca o link limpo de volta. Por exemplo, descarregue este atalho de um toque: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0. Para um acesso ainda mais rápido, atribua esse atalho ao Botão de Ação do seu iPhone (iPhone 15 Pro e posterior) para que uma única pressão em qualquer lugar limpe o link da área de transferência. Pode adicionar o Clean Links à sua Central de Controlo: escolha entre duas ações - \"Abrir App\" ou \"Leitor QR\". Aceda a estas diretamente na Central de Controlo ou no Ecrã Bloqueado, ou atribua-as ao Botão de Ação para uma limpeza com um toque a partir de qualquer lugar. Também pode abrir a app Clean Links manualmente e colar o seu URL para o limpar."
+      "answer": "Pode criar um Atalho da Apple que retira o URL da sua área de transferência, o limpa e coloca o link limpo de volta. Por exemplo, descarregue este atalho de um toque: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0. Para um acesso ainda mais rápido, atribua esse atalho ao Botão de Ação do seu iPhone (iPhone 15 Pro e posterior) para que um único toque em qualquer lugar limpe o link da área de transferência. Pode adicionar o Clean Links à sua Central de Controlo no iPhone, iPad e Mac: escolha entre duas ações - \"Abrir App\" ou \"Leitor QR\". Aceda a estas ações diretamente na Central de Controlo ou no Ecrã bloqueado, ou atribua-as ao Botão de Ação para uma limpeza com um só toque a partir de qualquer lugar. Também pode abrir a app Clean Links manualmente e colar o seu URL para o limpar."
     },
     "qrScanning": {
-      "question": "Como digitalizo um código QR?",
-      "answer": "Inicie o Clean Links a partir do seu Ecrã Principal, Atalho ou Botão de Ação e aponte a sua câmara para o código. Verá o URL de destino real antes de escolher abri-lo. O Clean Links segue quaisquer redirecionamentos e remove os parâmetros de rastreamento do destino final - impedindo que links de phishing se escondam por trás de serviços de encurtamento ou redirecionamento de links."
+      "question": "Como verifico um código QR?",
+      "answer": "Inicie o Clean Links a partir do seu Ecrã principal, Atalho ou Botão de Ação no iPhone, iPad ou Mac e aponte a sua câmara para o código. Verá o URL de destino real antes de escolher abri-lo. O Clean Links segue quaisquer redirecionamentos e remove os parâmetros de rastreio do destino final - prevenindo links de phishing ocultos por trás de serviços de links curtos ou de redirecionamento."
     },
     "urlExpansion": {
       "question": "Posso expandir e pré-visualizar URLs encurtados?",
@@ -178,11 +178,11 @@
     },
     "qrGeneration": {
       "question": "Posso gerar um código QR seguro para a privacidade a partir de um link limpo?",
-      "answer": "Sim. Depois de limpar um URL, toque em \"Gerar QR\" para criar um novo código que pode partilhar completamente livre de parâmetros de rastreamento. Isto é especialmente útil quando quer partilhar o link limpo com amigos: um toque e eles podem digitalizar o seu código QR para abrir exatamente o mesmo URL, sem rastreadores. Também é útil quando está a tentar partilhar conteúdo com os seus amigos que usam Android, sem ser vigiado por, cof cof: Como se chama aquela aplicação mesmo? Isto ajuda-o a si e aos seus amigos a evitar serem bombardeados com anúncios relacionados com o conteúdo que acabou de partilhar durante a próxima semana ou duas."
+      "answer": "Sim. Depois de limpar um URL, toque em \"Gerar QR\" para criar um novo código que pode partilhar, completamente livre de parâmetros de rastreio. Isto é especialmente útil quando quer partilhar o link limpo com amigos: um toque e eles podem verificar o seu código QR para abrir exatamente o mesmo URL sem rastreadores. Também é útil quando está a tentar partilhar conteúdo com os seus amigos que usam Android, sem ser vigiado por (cof cof)... como se chama aquela app mesmo? Isto ajuda-o a si e aos seus amigos a evitar serem bombardeados com anúncios relacionados com o conteúdo que acabaram de partilhar, durante a próxima semana ou duas."
     },
     "systemIntegration": {
       "question": "O Clean Links funciona dentro do Safari, Mail e outras aplicações?",
-      "answer": "Sim. A extensão de Partilha do Clean Links para todo o sistema pode ser usada no Safari, Mail, X (Twitter), Youtube, LinkedIn ou qualquer outra aplicação que utilize os menus de Partilha nativos do iOS."
+      "answer": "Sim. A extensão da Folha de Partilha do Clean Links, disponível em todo o sistema no iPhone, iPad e Mac, pode ser usada no Safari, Mail, X (Twitter), Youtube, LinkedIn ou em qualquer outra app que utilize as Folhas de Partilha nativas."
     },
     "shortcutsAutomation": {
       "question": "Posso automatizar a limpeza de links com os Atalhos ou a Siri?",

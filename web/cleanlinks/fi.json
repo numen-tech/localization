@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "Clean Links: Ilmainen linkkien puhdistaja & QR-koodinlukija iPhonelle & Macille",
-    "description": "Näe lyhytlinkkien ja koodien todellinen kohde. Skannaa iPhonella; puhdista leikepöytäsi automaattisesti Macissa valikkoriviltä. Jaa seurannasta vapaita linkkejä ja luo uusia QR-koodeja yhdellä napautuksella."
+    "title": "Clean Links: Ilmainen linkkien puhdistaja ja QR-koodinlukija iPhonelle, iPadille ja Macille",
+    "description": "Näe todellinen kohde lyhytlinkkien ja koodien takana. Tarkista QR-koodeja iPhonella ja iPadilla; puhdista leikepöytäsi automaattisesti Macin valikkoriviltä. Jaa seurannasta vapaita linkkejä ja luo uusia QR-koodeja yhdellä napautuksella."
   },
   "navigation": {
     "download": "Lataa",
@@ -12,29 +12,29 @@
   "hero": {
     "logoAlt": "Clean Links -logo",
     "title": "Clean Links",
-    "subtitle": "Ilmainen linkkien puhdistaja & QR-koodinlukija iPhonelle ja Macille",
+    "subtitle": "Ilmainen linkkien puhdistaja ja QR-koodinlukija iPhonelle, iPadille ja Macille",
     "description": "Näe lyhytlinkkien ja koodien todellinen kohde. QR-koodinlukijamme suojaa sinua tietojenkalastelulta (phishing) näyttämällä ensin koko URL-osoitteen. Poistaa seurantaelementit tuhansista verkkotunnuksista ja tuhansista parametreista. Jaa seurannasta vapaita linkkejä ja luo uusia QR-koodeja yhdellä napautuksella."
   },
   "features": {
     "qrScanner": {
-      "title": "QR-koodinlukija suojaa tietojenkalasteluhuijauksilta",
-      "description": "Käytä Clean Linksiä QR-koodinlukijanasi paljastaaksesi piilotetut vaarat. Esikatsele todellinen kohde ennen avaamista, puhdista seuraimet ja laajenna lyhyet linkit välittömästi. Kun QR-koodikalastelu ('quishing') kasvaa 25 % vuosittain vuonna 2025 ja muodostaa 26 % haitallisista linkeistä, tämä ominaisuus antaa sinulle mahdollisuuden tunnistaa väärennetyt sivustot ajoissa ja pysyä edellä varmentamalla jokaisen skannauksen - mikä on olennaista huijausten välttämiseksi sähköposteissa, parkkipaikoilla tai julkisissa tiloissa."
+      "title": "QR-koodinlukija suojaa QR-koodikalastelulta",
+      "description": "Käytä Clean Linksia QR-koodinlukijanasi iPhonella, iPadilla ja Macilla paljastaaksesi piilotetut vaarat. Esikatsele todellinen kohde ennen avaamista, puhdista seuraimet ja laajenna lyhytlinkit välittömästi. Kun QR-koodikalastelu ('quishing') kasvaa 25 % vuosittain vuonna 2025 ja muodostaa 26 % haitallisista linkeistä, tämä ominaisuus auttaa sinua tunnistamaan valesivustot ajoissa ja pysymään askeleen edellä tarkistamalla jokaisen koodin - elintärkeää huijausten välttämiseksi sähköposteissa, parkkipaikoilla tai julkisissa tiloissa."
     },
     "linkCleaner": {
       "title": "Linkkien puhdistaja poistaa seuraimet mistä tahansa URL-osoitteesta",
-      "description": "Puhdista URL-osoitteet vaivattomasti Clean Linksin linkinpuhdistajalla - liitä, jaa tai automatisoi poistaaksesi utm_source-, fbclid-, gclid-parametrit ja tuhansia muita verkkokauppa-, sosiaalisen median ja mainosalustojen seuraimia. Taistele suurten teknologiayritysten seurantaa vastaan, kun sosiaalisen median alustat kääräisevät linkit yksilöllisillä tunnisteilla. Koska haitalliset lyhyet linkit piilottavat tietojenkalastelua 26 %:ssa hyökkäyksistä, Clean Links paljastaa bit.ly- tai t.co-kaltaiset uudelleenohjaukset - pitäen tietosi yksityisinä ja työnkulut saumattomina lähettämättä koskaan tietoja laitteeltasi."
+      "description": "Puhdista URL-osoitteet vaivattomasti Clean Linksin linkinpuhdistajalla iPhonella, iPadilla ja Macilla - liitä, jaa tai automatisoi poistaaksesi utm_source-, fbclid-, gclid-tunnisteet ja tuhansia muita verkkokauppa-, sosiaalisen median ja mainossivustojen seuraimia. Taistele suurten teknologiayritysten seurantaa vastaan, kun sosiaalisen median alustat lisäävät linkkeihin yksilöllisiä tunnisteita. Koska haitalliset lyhytlinkit kätkevät tietojenkalastelua 26 %:ssa hyökkäyksistä, Clean Links paljastaa uudelleenohjaukset, kuten bit.ly tai t.co - pitäen tietosi yksityisinä ja työnkulut saumattomina lähettämättä koskaan tietoja laitteeltasi."
     },
     "qrGenerator": {
       "title": "Luo puhtaita QR-koodeja sosiaaliseen jakamiseen",
-      "description": "Käytä Clean Linksin QR-koodigeneraattoria luodaksesi seuraimista vapaita koodeja mistä tahansa skannatusta tai puhdistetusta URL-osoitteesta. Auta ystäviäsi skannaamaan turvallisesti luomalla uusi QR-koodi - täydellinen sosiaalisiin tilanteisiin, kuten ryhmävaellukselle, jossa skannaat reittikartan QR-koodin, puhdistat seuraimet ja jaat uuden koodin, jotta kaikki pääsevät käsiksi oikeisiin tietoihin ilman tietojenkalasteluriskejä tai tietovuotoja."
+      "description": "Käytä Clean Linksin QR-koodigeneraattoria iPhonella, iPadilla ja Macilla luodaksesi seurannasta vapaita koodeja mistä tahansa tarkistetusta tai puhdistetusta URL-osoitteesta. Auta ystäviäsi tarkistamaan koodeja turvallisesti luomalla uusi QR-koodi - täydellinen sosiaalisiin tilanteisiin, kuten ryhmävaellukselle, jossa tarkistat reittikartan QR-koodin, puhdistat seuraimet ja jaat uuden koodin, jotta kaikki pääsevät käsiksi oikeisiin tietoihin ilman tietojenkalasteluriskejä tai tietovuotoja."
     },
     "controlCenter": {
       "title": "Rakenna edistyneitä työnkulkuja Ohjauskeskuksella ja Oikopoluilla",
-      "description": "Integroi Clean Links Ohjauskeskukseen tai Oikopolkuihin luodaksesi monimutkaisia työnkulkuja. Kuvittele Oikopolku, joka ottaa kopioidun linkin, ajaa sen URL-puhdistajan läpi poistaakseen seuraimet ja jakaa sitten puhtaan version suoraan WhatsApp-keskusteluihin - räätälöity käyttäjille, jotka jongleeraavat useita sovelluksia, ja tarjoaa loputtomia mahdollisuuksia, kuten ääniohjatun puhdistuksen Sirin kautta äärimmäisen tehokkuuden ja yksityisyyden saavuttamiseksi."
+      "description": "Integroi Clean Links Ohjauskeskukseen tai Pikakomennot-sovellukseen iPhonella, iPadilla ja Macilla luodaksesi monimutkaisia työnkulkuja. Kuvittele pikakomento, joka nappaa kopioidun linkin, ajaa sen URL-puhdistajan läpi poistaakseen seuraimet ja jakaa sitten puhtaan version suoraan WhatsApp-keskusteluihin - räätälöity käyttäjille, jotka käyttävät useita sovelluksia, ja tarjoaa loputtomasti vaihtoehtoja, kuten ääniohjattu puhdistus Sirin kautta äärimmäisen tehokkuuden ja yksityisyyden saavuttamiseksi."
     },
     "shareSheet": {
       "title": "Vaivaton puhdistus minkä tahansa sovelluksen jakonäkymässä",
-      "description": "Clean Linksin jakonäkymän integraatio tekee linkkien puhdistamisesta helppoa: Safarista, X:stä tai Mailista voit valita laajennuksen poistaaksesi välittömästi seurantaparametrit ja paljastaaksesi todelliset kohteet. Jaa puhdistettu URL-osoite perheesi kanssa heti - yksinkertainen ja nopea suoja tietojen seurantaa vastaan, joka pitää lähipiirisi turvassa päivittäisissä digitaalisissa vaihdoissa."
+      "description": "Clean Linksin integrointi jakovalikkoon iPhonella, iPadilla ja Macilla tekee linkkien puhdistamisesta helppoa: valitse laajennus Safarista, X:stä tai Mailista poistaaksesi välittömästi seurantaparametrit ja paljastaaksesi todelliset kohteet. Jaa puhdistettu URL-osoite heti perheesi kanssa - yksinkertainen ja nopea suoja dataseurantaa vastaan, joka pitää lähipiirisi turvassa päivittäisessä digitaalisessa viestinnässä."
     },
     "macMenuBar": {
       "title": "Aina päällä oleva linkkien puhdistaja Macin valikkorivillä",
@@ -44,8 +44,8 @@
   "statistics": {
     "threat": {
       "title": "QR-koodi-kalastelu ja linkkiseuranta: kasvava uhka",
-      "description": "QR-koodinlukijat ovat nyt kaikkialla - ja niin ovat myös huijaukset. Vain kahdessa vuodessa <link>QR-pohjainen tietojenkalastelu räjähti 0,8 prosentista 12,4 prosenttiin kaikista hyökkäyksistä (15-kertainen hyppy)</link>, ja joka kymmenes tietojenkalastelusähköposti piilottaa QR-koodin. Edes \"harmittomat\" sosiaalisen median linkit eivät ole poikkeus: Facebook, X, TikTok ja muut merkitsevät jokaisen lähtevän URL-osoitteen fbclid-, t.co-, igshid-, gclid-tunnisteilla ja tuhansilla muilla seuraimilla, jotka seuraavat sinua verkossa - Clean Links poistaa ne automaattisesti, ja sen luettelo kasvaa jokaisen päivityksen myötä.",
-      "solution": "Clean Links poistaa seuraimet ja paljastaa todellisen kohteen ennen napauttamista - joten jokainen skannaus ja napsautus tapahtuu sinun ehdoillasi.",
+      "description": "QR-koodinlukijoita on nykyään kaikkialla - ja niin on myös huijauksia. Vain kahdessa vuodessa <link>QR-koodikalastelun osuus kaikista hyökkäyksistä räjähti 0,8 %:sta 12,4 %:iin (15-kertainen kasvu)</link>, ja joka kymmenes tietojenkalasteluviesti kätkee sisäänsä QR-koodin. Edes 'harmittomat' some-linkit eivät ole poikkeus: Facebook, X, TikTok ja muut lisäävät jokaiseen lähtevään URL-osoitteeseen fbclid-, t.co-, igshid-, gclid-tunnisteita ja tuhansia muita seuraimia, jotka varjostavat sinua verkossa - Clean Links poistaa ne automaattisesti, ja sen seurantaluettelo kasvaa jokaisen päivityksen myötä.",
+      "solution": "Clean Links poistaa seuraimet ja paljastaa todellisen kohteen ennen kuin napautat - joten jokainen tarkistus ja klikkaus tapahtuu sinun ehdoillasi.",
       "citation": {
         "prefix": "¹Lähde:",
         "link": "Keepnet Labs 2025 Quishing Report & Global Research Brief on Malicious Links"
@@ -67,7 +67,7 @@
   },
   "useCases": {
     "title": "Käyttötapaukset ja sovellukset todellisessa maailmassa",
-    "description": "QR-koodikalastelulta suojautumisesta yksityisyyden työnkulkujen automatisointiin, Clean Links mukautuu digitaaliseen elämääsi 17 keskeisessä skenaariossa",
+    "description": "QR-koodikalastelulta suojautumisesta yksityisyyttä parantavien työnkulkujen automatisointiin, Clean Links mukautuu digitaaliseen elämääsi iPhonella, iPadilla ja Macilla 17 keskeisessä käyttötilanteessa.",
     "ecommerce": {
       "title": "Verkkokauppaostokset",
       "description": "Clean Links poistaa kumppanuus- ja markkinointiseurannan (esim. Amazonin \"tag\"-parametrit, kumppanitunnisteet), joten näet tuotesivun juuri niin kuin jälleenmyyjä on sen tarkoittanut, ilman mainosteknologian profilointia."
@@ -94,7 +94,7 @@
     },
     "paymentCodes": {
       "title": "Maksupisteiden koodit (pysäköintimittarit, joukkoliikenne, myyntiautomaatit)",
-      "description": "Skannaa julkiset maksamisen QR-koodit varmistaaksesi, että ne ohjautuvat oikeaan kaupungin tai palveluntarjoajan hyväksymään portaaliin, eivätkä petolliselle maksujen kerääjälle."
+      "description": "Tarkista julkisten maksujen QR-koodit varmistaaksesi, että ne ohjaavat oikean kaupungin tai palveluntarjoajan hyväksymään portaaliin, eikä vilpilliselle maksunkerääjälle."
     },
     "emailSms": {
       "title": "Sähköpostin/tekstiviestin QR-liitteet",
@@ -122,7 +122,7 @@
     },
     "businessCards": {
       "title": "Käyntikorttien QR-koodit",
-      "description": "Luo lyhyitä, seuraimettomia QR-koodeja painettuun materiaaliisi varmistaen, että jokainen skannaus johtaa täsmälleen määrittämällesi aloitussivulle."
+      "description": "Luo lyhyitä, seurannasta vapaita QR-koodeja painettuihin materiaaleihisi, varmistaen, että jokainen skannaus ohjaa täsmälleen määrittämällesi aloitussivulle."
     },
     "shareSheet": {
       "title": "Share Sheet -laajennus (jakonäkymä)",
@@ -130,7 +130,7 @@
     },
     "controlCenter": {
       "title": "Ohjauskeskuksen painike",
-      "description": "Lisää pikapainike Ohjauskeskukseen puhdistaaksesi leikepöydän URL-osoitteen tai skannataksesi QR-koodin missä tahansa iOS:ssä."
+      "description": "Lisää pikapainike Ohjauskeskukseen puhdistaaksesi leikepöydän URL-osoitteen tai tarkistaaksesi QR-koodin missä tahansa iOS:ssä."
     },
     "shortcuts": {
       "title": "Oikotiet ja Siri-integraatio",
@@ -142,11 +142,11 @@
     "description": "Usein kysytyt kysymykset Clean Links -sovelluksesta",
     "whatIs": {
       "question": "Mikä on Clean Links?",
-      "answer": "Clean Links on ilmainen iOS-apuohjelma, joka poistaa seurantaparametrit URL-osoitteista ja paljastaa todellisen kohteen QR-koodien ja lyhennettyjen linkkien takana – jotta avaat vain asioita, jotka haluat, ilman piilotettuja seuraimia tai uudelleenohjauksia."
+      "answer": "Clean Links on ilmainen apuohjelma iPhonelle, iPadille ja Macille, joka poistaa seurantaparametrit URL-osoitteista ja paljastaa todellisen kohteen QR-koodien ja lyhennettyjen linkkien takana - jotta avaat vain haluamasi asiat, ilman piilotettuja seuraimia tai uudelleenohjauksia."
     },
     "deviceRequirements": {
       "question": "Mitä laitteita ja iOS-versioita Clean Links tukee?",
-      "answer": "Clean Links vaatii laitteen, joka voi käyttää iOS 18.0:aa tai uudempaa."
+      "answer": "Clean Links tukee iPhone-, iPad- ja Mac-laitteita, joissa on iOS 18.0 tai uudempi (iPhone/iPad) tai vastaava macOS-versio."
     },
     "whyCreate": {
       "question": "Miksi loimme Clean Links -sovelluksen?",
@@ -158,19 +158,19 @@
     },
     "phishingProtection": {
       "question": "Voiko Clean Links estää phishing (\"quishing\") -yritykset?",
-      "answer": "Kyllä. Kun skannaat QR-koodin, Clean Links näyttää sinulle koko, paljastetun URL-osoitteen. Saat itse päättää, avaatko sen vai et. Tämä eroaa iOS:n kamerasovelluksesta ja muista maksullisista QR-koodinlukijasovelluksista, jotka yksinkertaisesti avaavat linkin, johon QR-koodi osoittaa, ilman suostumustasi."
+      "answer": "Kyllä. Kun tarkistat QR-koodin, Clean Links näyttää sinulle koko, paljastetun URL-osoitteen. Saat itse päättää, avaatko sen vai et. Tämä eroaa iOS:n Kamerasovelluksesta ja muista maksullisista QR-koodinlukijasovelluksista, jotka avaavat linkin, johon QR-koodi osoittaa, ilman suostumustasi."
     },
     "historyStorage": {
-      "question": "Tallentaako Clean Links historiani tai skannaamani QR-koodit?",
-      "answer": "Ei. Suunnittelunsa mukaisesti Clean Links ei kirjaa tai tallenna puhdistamiasi tai skannaamiasi linkkejä."
+      "question": "Tallentaako Clean Links historiani tai tarkistamani QR-koodit?",
+      "answer": "Ei. Clean Links on suunniteltu siten, ettei se kirjaa tai tallenna puhdistamiasi tai tarkistamiasi linkkejä."
     },
     "cleanWorkflow": {
       "question": "Miten puhdistan kopioimani linkin?",
-      "answer": "Voit luoda Apple-oikotien, joka ottaa URL-osoitteen leikepöydältäsi, puhdistaa sen ja laittaa puhdistetun linkin takaisin. Lataa esimerkiksi tämä yhden napautuksen oikotie: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0. Vielä nopeampaa käyttöä varten voit määrittää oikotien iPhonen Toimintopainikkeeseen (iPhone 15 Pro ja uudemmat), jolloin yksi painallus missä tahansa puhdistaa leikepöydän linkin. Voit lisätä Clean Linksin Ohjauskeskukseen: valitse kahdesta toiminnosta – \"Avaa sovellus\" tai \"QR-lukija\". Käytä näitä suoraan Ohjauskeskuksesta tai lukitusnäytöltä, tai määritä ne Toimintopainikkeeseen yhden napautuksen puhdistusta varten mistä tahansa."
+      "answer": "Voit luoda Apple Pikakomennon, joka ottaa URL-osoitteen leikepöydältäsi, puhdistaa sen ja palauttaa puhdistetun linkin takaisin. Lataa esimerkiksi tämä yhden napautuksen pikakomento: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0. Vielä nopeampaa käyttöä varten voit määrittää pikakomennon iPhonesi Toimintopainikkeeseen (iPhone 15 Pro ja uudemmat), jolloin yksi painallus missä tahansa puhdistaa leikepöydän linkin. Voit lisätä Clean Linksin Ohjauskeskukseen iPhonella, iPadilla ja Macilla: valitse kahdesta toiminnosta - \"Avaa sovellus\" tai \"QR-lukija\". Käytä näitä suoraan Ohjauskeskuksesta tai lukitusnäytöltä, tai määritä ne Toimintopainikkeeseen yhden napautuksen puhdistusta varten missä tahansa. Voit myös avata Clean Links -sovelluksen manuaalisesti ja liittää URL-osoitteesi puhdistettavaksi."
     },
     "qrScanning": {
-      "question": "Miten skannaan QR-koodin?",
-      "answer": "Käynnistä Clean Links aloitusnäytöltä, oikotiestä tai Toimintopainikkeesta ja suuntaa kamerasi koodiin. Näet todellisen kohde-URL-osoitteen ennen kuin päätät avata sen. Clean Links seuraa kaikkia uudelleenohjauksia ja poistaa seurantaparametrit lopullisesta kohteesta – estäen lyhytlinkkien tai uudelleenohjauspalveluiden taakse piilotetut phishing-linkit."
+      "question": "Miten tarkistan QR-koodin?",
+      "answer": "Käynnistä Clean Links Koti-valikosta, Pikakomennosta tai Toimintopainikkeesta iPhonella, iPadilla tai Macilla ja suuntaa kamerasi koodiin. Näet todellisen kohde-URL-osoitteen ennen kuin päätät avata sen. Clean Links seuraa kaikkia uudelleenohjauksia ja poistaa seurantaparametrit lopullisesta kohteesta - estäen tietojenkalastelulinkit, jotka on piilotettu lyhytlinkki- tai uudelleenohjauspalveluiden taakse."
     },
     "urlExpansion": {
       "question": "Voinko laajentaa ja esikatsella lyhennettyjä URL-osoitteita?",
@@ -178,11 +178,11 @@
     },
     "qrGeneration": {
       "question": "Voinko luoda yksityisyyttä suojaavan QR-koodin puhdistetusta linkistä?",
-      "answer": "Kyllä. Kun olet puhdistanut URL-osoitteen, napauta \"Luo QR-koodi\" luodaksesi uuden koodin, jonka voit jakaa täysin ilman seurantaparametreja. Tämä on erityisen kätevää, kun haluat jakaa puhdistetun linkin ystävien kanssa: yhdellä napautuksella he voivat skannata QR-koodisi avatakseen täsmälleen saman, seuraimettoman URL-osoitteen. Hyödyllinen myös, kun yrität jakaa sisältöä Androidia käyttävien ystäviesi kanssa ilman, että teitä valvotaan, kröhöm: Mikä sen sovelluksen nimi olikaan? Tämä auttaa sinua ja ystäviäsi välttämään, että teille näytetään jakamaanne sisältöön liittyviä mainoksia seuraavan viikon tai kahden ajan."
+      "answer": "Kyllä. Puhdistettuasi URL-osoitteen, napauta \"Luo QR\" luodaksesi uuden koodin, jonka voit jakaa täysin ilman seurantaparametreja. Tämä on erityisen kätevää, kun haluat jakaa puhdistetun linkin ystävillesi: yhdellä napautuksella he voivat tarkistaa QR-koodisi ja avata täsmälleen saman, seurannasta vapaan URL-osoitteen. Hyödyllinen myös, kun yrität jakaa sisältöä Androidia käyttäville ystävillesi ilman, että teitä vakoilee, kröhöm: Mikä sen sovelluksen nimi olikaan? Tämä auttaa sinua ja ystäviäsi välttämään, että teitä pommitetaan juuri jakamaanne sisältöön liittyvillä mainoksilla seuraavan viikon tai parin ajan."
     },
     "systemIntegration": {
       "question": "Toimiiko Clean Links Safarissa, Mailissa ja muissa sovelluksissa?",
-      "answer": "Kyllä. Clean Linksin järjestelmänlaajuista Share Sheet -laajennusta voidaan käyttää Safarissa, Mailissa, X:ssä (Twitter), Youtubessa, LinkedInissä tai missä tahansa muussa sovelluksessa, joka käyttää iOS:n natiivia jakonäkymää."
+      "answer": "Kyllä. Clean Linksin järjestelmänlaajuista jakovalikkolaajennusta iPhonella, iPadilla ja Macilla voi käyttää Safarissa, Mailissa, X:ssä (Twitter), Youtubessa, LinkedInissä tai missä tahansa muussa sovelluksessa, joka käyttää natiivia jakovalikkoa."
     },
     "shortcutsAutomation": {
       "question": "Voinko automatisoida linkkien puhdistuksen Oikoteillä tai Sirillä?",
@@ -190,7 +190,7 @@
     }
   },
   "cta": {
-    "title": "QR-koodinlukija ja linkinpuhdistaja – suojaa yksityisyyttäsi",
+    "title": "QR-koodinlukija ja linkkien puhdistaja - Suojaa yksityisyyttäsi",
     "description": "Paljasta todellinen URL-osoite välittömästi, poista piilotetut seuraimet ja luo jakovalmiita QR-koodeja – kaikki 100 % laitteella, 100 % ilmaiseksi."
   },
   "footer": {

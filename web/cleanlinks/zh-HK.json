@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "Clean Links：免費連結清理器與 QR Code 閱讀器，適用於 iPhone 和 Mac",
-    "description": "查看短連結和代碼背後的真正目的地。在 iPhone 上掃描；在 Mac 上從選單列自動清理剪貼簿。一鍵分享無追蹤連結並生成全新的 QR Code。"
+    "title": "Clean Links：免費連結清理器與 QR 碼讀取器，適用於 iPhone、iPad 及 Mac",
+    "description": "查看短連結和代碼背後的真正目標網址。在 iPhone 和 iPad 上檢查 QR 碼；在 Mac 上從選單列自動清理你的剪貼簿。輕鬆一按即可分享無追蹤器的連結，並生成全新的 QR 碼。"
   },
   "navigation": {
     "download": "下載",
@@ -12,29 +12,29 @@
   "hero": {
     "logoAlt": "Clean Links 標誌",
     "title": "Clean Links",
-    "subtitle": "免費連結清理器與 QR Code 掃描器，適用於 iPhone 和 Mac",
+    "subtitle": "免費連結清理器與 QR 碼讀取器，適用於 iPhone、iPad 及 Mac",
     "description": "查看短連結和代碼背後的真正目的地。我們的 QR Code 閱讀器會先顯示完整網址，保護您免受網絡釣魚 (phishing) 的侵害。去除數千個網域和數千個參數中的追蹤器。一鍵分享無追蹤連結並生成全新的 QR Code。"
   },
   "features": {
     "qrScanner": {
-      "title": "QR碼掃描器可防範網釣 (Quishing) 詐騙",
-      "description": "使用 Clean Links 作為您的首選 QR 碼掃描器，揭露隱藏危險。開啟前預覽真實目的地，清除追蹤器，並即時展開短連結。隨著 QR 碼網絡釣魚 ('quishing') 在 2025 年按年增長 25%，並佔所有惡意連結的 26%，此功能讓您能及早識別假冒網站，透過驗證每次掃描保持領先 - 這對於避開電郵、停車場或公共場所中的騙局至關重要。"
+      "title": "QR 碼讀取器，防範網絡釣魚詐騙",
+      "description": "在 iPhone、iPad 和 Mac 上使用 Clean Links 作為你的首選 QR 碼讀取器，以揭露隱藏的危險。在開啟連結前預覽真正目標網址、清除追蹤器，並即時展開短連結。QR 碼網絡釣魚 ('quishing') 攻擊在 2025 年按年飆升 25%，並佔惡意連結的 26%。此功能讓你及早發現虛假網站，透過驗證每次掃描來保持領先——這對於避開電郵、停車場或公共場所的詐騙至關重要。"
     },
     "linkCleaner": {
       "title": "連結清理器可從任何 URL 移除追蹤器",
-      "description": "使用 Clean Links 的連結清理器輕鬆清理 URL - 貼上、分享或自動化操作，即可移除數以千計的電子商務、社交和廣告網域中的 utm_source、fbclid、gclid 等追蹤參數。當社交平台用獨特識別碼包裝連結時，反擊科技巨頭的追蹤行為。由於 26% 的攻擊中惡意短連結隱藏了網絡釣魚，Clean Links 能揭示 bit.ly 或 t.co 等重定向連結的真實面目 - 保護您的數據私隱和工作流程暢順，且絕不將資訊傳送到裝置以外。"
+      "description": "在 iPhone、iPad 和 Mac 上使用 Clean Links 的連結清理器，輕鬆清理網址——透過貼上、分享或自動化操作，移除來自電子商務、社交平台和廣告域名中成千上萬的追蹤參數，如 utm_source、fbclid、gclid 等。當社交平台用獨有識別碼包裝連結時，你可以反擊大型科技公司的追蹤。由於 26% 的攻擊利用惡意短連結隱藏網絡釣魚，Clean Links 能揭示 bit.ly 或 t.co 等重定向——保護你的資料私隱和工作流程順暢，且絕不將任何資訊傳送到裝置以外。"
     },
     "qrGenerator": {
       "title": "生成用於社交分享的乾淨 QR 碼",
-      "description": "使用 Clean Links 的 QR 碼生成器，從任何已掃描或已清理的 URL 創建無追蹤器的代碼。透過生成一個全新的 QR 碼來幫助朋友安全掃描 - 非常適合社交場景，例如在團體遠足時掃描路線圖 QR 碼，清除追蹤器，然後分享新代碼，這樣每個人都能獲取真實資訊，而沒有網絡釣魚風險或資料洩漏。"
+      "description": "在 iPhone、iPad 和 Mac 上使用 Clean Links 的 QR 碼生成器，從任何已檢查或已清理的網址創建無追蹤器的代碼。生成一個全新的 QR 碼，幫助朋友安全地掃描——這非常適合社交場景，例如在遠足時，你掃描了路線圖的 QR 碼，清除了追蹤器，然後分享新代碼，這樣每個人都能存取到真實資訊，而沒有網絡釣魚或資料洩露的風險。"
     },
     "controlCenter": {
       "title": "透過控制中心與捷徑建立進階工作流程",
-      "description": "將 Clean Links 整合到控制中心或捷徑中，以創建複雜的工作流程。想像一下，一個捷徑可以擷取複製的連結，透過 URL 清理器運行以移除追蹤器，然後將乾淨的版本直接分享到 WhatsApp 對話中 - 專為那些需要在多個 App 之間切換的用戶度身訂造，並提供無限可能，例如透過 Siri 進行語音啟動清理，以實現極致的效率和私隱。"
+      "description": "將 Clean Links 整合到 iPhone、iPad 和 Mac 的「控制中心」或「捷徑」中，以建立複雜的工作流程。想像一下，一個「捷徑」能抓取已複製的連結，透過網址清理器移除追蹤器，然後將乾淨的版本直接分享到 WhatsApp 對話——專為需要同時處理多個應用程式的用戶而設，更提供無限可能，例如透過 Siri 語音啟動清理功能，實現極致效率和私隱保護。"
     },
     "shareSheet": {
       "title": "在任何 App 的分享表單中輕鬆清理",
-      "description": "Clean Links 的分享表單整合讓連結清理變得輕而易舉：在 Safari、X 或郵件 App 中，選取擴充功能即可立即移除追蹤參數並揭示真實目的地。立即與家人分享清理後的 URL - 簡單、快速地防範資料追蹤，在日常數碼交流中保護您的社交圈安全。"
+      "description": "Clean Links 在 iPhone、iPad 和 Mac 上的「分享表單」整合功能，讓連結清理變得輕而易舉：在 Safari、X 或「郵件」中，選擇擴充功能即可即時移除追蹤參數並揭示真正目標網址。立即與家人分享已清理的網址——簡單、快速地防範資料追蹤，在日常數碼交流中保護你的社交圈安全。"
     },
     "macMenuBar": {
       "title": "Mac 選單列中常駐的連結清理器",
@@ -44,8 +44,8 @@
   "statistics": {
     "threat": {
       "title": "QR Code 釣魚與連結追蹤：日益嚴重的威脅",
-      "description": "QR 碼掃描器現在無處不在 - 騙局也是如此。在短短兩年內，<link>基於 QR 碼的網絡釣魚攻擊從佔所有攻擊的 0.8% 激增至 12.4%（增長了 15 倍）</link>，而每 10 封網絡釣魚電郵中就有 1 封隱藏著 QR 碼。即使是「無害」的社交連結也無法倖免：Facebook、X、TikTok 等平台會為每個出站 URL 標記 fbclid、t.co、igshid、gclid 以及成千上萬個在網絡上跟蹤您的其他跟蹤器 - Clean Links 會自動剝離這些跟蹤器，其目錄每次更新都會增長。",
-      "solution": "Clean Links 會在您點擊前移除跟蹤器並揭示真實目的地 - 因此每次掃描和點擊都由您掌控。",
+      "description": "QR 碼讀取器現在無處不在——詐騙也是如此。在短短兩年內，<link>基於 QR 碼的網絡釣魚攻擊佔所有攻擊的比例從 0.8% 激增至 12.4%（躍升 15 倍）</link>，同時每 10 封釣魚電郵中就有 1 封隱藏了 QR 碼。即使是「無害」的社交連結也無法倖免：Facebook、X、TikTok 等平台會為每個對外連結標上 fbclid、t.co、igshid、gclid 及成千上萬的其他追蹤器，在網絡上跟蹤你——而 Clean Links 會自動移除這些追蹤器，其目錄更會隨著每次更新而增長。",
+      "solution": "Clean Links 會在你點擊前移除追蹤器並揭示真正目標網址——讓你掌控每一次掃描和點擊。",
       "citation": {
         "prefix": "¹資料來源：",
         "link": "Keepnet Labs 2025 年 Quishing 報告與全球惡意連結研究簡報"
@@ -67,7 +67,7 @@
   },
   "useCases": {
     "title": "使用案例與真實場景應用",
-    "description": "從防範 QR Code 釣魚到自動化私隱工作流程，Clean Links 能適應您在 17 個關鍵場景中的數碼生活",
+    "description": "從防範 QR 碼網絡釣魚到自動化私隱工作流程，Clean Links 能夠適應你在 iPhone、iPad 和 Mac 上的數碼生活，涵蓋 17 個關鍵場景。",
     "ecommerce": {
       "title": "電子商務購物",
       "description": "Clean Links 移除聯盟和市場推廣追蹤（例如 Amazon 的「tag」參數、聯盟 ID），讓您看到零售商原意展示的產品頁面，免受廣告技術分析。"
@@ -94,7 +94,7 @@
     },
     "paymentCodes": {
       "title": "支付點代碼（停車收費錶、交通、自動販賣機）",
-      "description": "掃描公共支付 QR Code，確認它們會導向正確的市政府或供應商認可的門戶網站，而不是欺詐性的收款方。"
+      "description": "檢查公共場所的付款 QR 碼，以確認它們導向正確的城市或供應商認可的網站，而非詐騙收款方。"
     },
     "emailSms": {
       "title": "電郵/SMS 中的 QR Code 附件",
@@ -122,7 +122,7 @@
     },
     "businessCards": {
       "title": "名片 QR Code",
-      "description": "在您的印刷品上創建簡短、無追蹤器的 QR Code，確保每次掃描都準確地導向您指定的登陸頁面。"
+      "description": "在你的印刷品上創建簡潔、無追蹤器的 QR 碼，確保每次掃描都準確地導向你指定的登陸頁面。"
     },
     "shareSheet": {
       "title": "分享頁擴充功能",
@@ -130,7 +130,7 @@
     },
     "controlCenter": {
       "title": "控制中心板塊",
-      "description": "在控制中心新增一個快速存取按鈕，以便在 iOS 的任何地方清理剪貼簿網址或掃描 QR Code。"
+      "description": "在「控制中心」加入快速存取按鈕，以便在 iOS 任何地方清理剪貼簿網址或檢查 QR 碼。"
     },
     "shortcuts": {
       "title": "捷徑與 Siri 整合",
@@ -142,11 +142,11 @@
     "description": "關於 Clean Links 的常見問題",
     "whatIs": {
       "question": "什麼是 Clean Links？",
-      "answer": "Clean Links 是一款免費的 iOS 工具，可清除網址中的追蹤參數，並揭示 QR Code 和短連結背後的真實目標——讓您只打開您想看的內容，沒有隱藏的追蹤器或重定向。"
+      "answer": "Clean Links 是一款適用於 iPhone、iPad 和 Mac 的免費工具程式，它能移除網址中的追蹤參數，並揭示 QR 碼和短連結背後的真正目標——讓你只開啟你想要的內容，不受隱藏追蹤器或重定向的干擾。"
     },
     "deviceRequirements": {
       "question": "Clean Links 支援哪些裝置和 iOS 版本？",
-      "answer": "Clean Links 需要能夠運行 iOS 18.0 或更新版本的裝置。"
+      "answer": "Clean Links 支援可運行 iOS 18.0 或更新版本 (iPhone/iPad) 或同等 macOS 版本的 iPhone、iPad 和 Mac 裝置。"
     },
     "whyCreate": {
       "question": "我們為什麼要創建 Clean Links？",
@@ -158,19 +158,19 @@
     },
     "phishingProtection": {
       "question": "Clean Links 能否阻擋釣魚（「quishing」）攻擊？",
-      "answer": "可以。當您掃描 QR Code 時，Clean Links 會向您顯示完整、未經遮罩的網址。您可以決定是否開啟它。這與 iOS 的相機 App 和其他付費 QR Code 讀取器 App 不同，後者會未經您的同意就直接打開 QR Code 指向的連結。"
+      "answer": "是。當你檢查 QR 碼時，Clean Links 會向你顯示完整、未經掩飾的網址。你可以自行決定是否開啟它。這與 iOS 的「相機」應用程式和其他付費 QR 碼讀取器不同，它們會在未經你同意的情況下，直接開啟 QR 碼指向的連結。"
     },
     "historyStorage": {
-      "question": "Clean Links 會儲存我的歷史記錄或掃描過的 QR Code 嗎？",
-      "answer": "不會。根據設計，Clean Links 不會記錄或儲存您清理或掃描的連結。"
+      "question": "Clean Links 會儲存我的歷史記錄或已檢查的 QR 碼嗎？",
+      "answer": "不會。根據設計，Clean Links 不會記錄或儲存你清理或檢查的任何連結。"
     },
     "cleanWorkflow": {
       "question": "我如何清理已複製的連結？",
-      "answer": "您可以創建一個 Apple Shortcut，它會從您的剪貼簿獲取網址，進行清理，然後將清理後的連結放回剪貼簿。例如，下載這個一鍵捷徑：https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0。若要更快存取，可將該捷徑指派給您 iPhone 的動作按鈕（iPhone 15 Pro 及更新型號），這樣在任何地方只需按一下即可清理剪貼簿的連結。您也可以將 Clean Links 加入您的控制中心：從「開啟 App」或「QR 讀取器」兩個動作中選擇。可直接在控制中心或鎖定畫面上存取這些功能，或將它們指派給動作按鈕，以實現隨處一鍵清理。您也可以手動打開 Clean Links App 並貼上您的網址進行清理。"
+      "answer": "你可以建立一個 Apple「捷徑」，它會從你的剪貼簿取得網址，進行清理，然後將清理後的連結放回剪貼簿。例如，下載這個一鍵捷徑：https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0。要更快存取，可將該捷徑指定給你 iPhone 的「動作」按鈕 (適用於 iPhone 15 Pro 及更新型號)，這樣只需一按即可隨時隨地清理剪貼簿的連結。你可以在 iPhone、iPad 和 Mac 上將 Clean Links 加入「控制中心」：可選擇兩種動作——「開啟 App」或「QR 碼讀取器」。你可以直接在「控制中心」或「鎖定畫面」存取這些動作，或將它們指定給「動作」按鈕，以便隨時隨地一鍵清理。你也可以手動開啟 Clean Links 應用程式並貼上你的網址進行清理。"
     },
     "qrScanning": {
-      "question": "我如何掃描 QR Code？",
-      "answer": "從您的主畫面、捷徑或動作按鈕啟動 Clean Links，並將您的相機對準代碼。在選擇開啟之前，您會看到真實的目的地網址。Clean Links 會追蹤所有重定向並從最終目的地中移除追蹤參數——防止隱藏在短連結或重定向服務背後的釣魚連結。"
+      "question": "如何檢查 QR 碼？",
+      "answer": "在 iPhone、iPad 或 Mac 上，從「主畫面」、「捷徑」或「動作」按鈕啟動 Clean Links，然後將你的相機對準代碼。在選擇開啟之前，你會看到真正的目標網址。Clean Links 會追蹤所有重定向並從最終目標網址中移除追蹤參數，從而防止隱藏在短連結或重定向服務背後的網絡釣魚連結。"
     },
     "urlExpansion": {
       "question": "我能展開和預覽縮短的網址嗎？",
@@ -178,11 +178,11 @@
     },
     "qrGeneration": {
       "question": "我能從清理過的連結生成一個對私隱安全的 QR Code 嗎？",
-      "answer": "可以。清理網址後，點擊「產生 QR Code」即可創建一個新代碼，您可以完全無追蹤參數地分享。當您想與朋友分享清理過的連結時，這特別方便：他們只需輕點一下，掃描您的 QR Code，就能打開完全相同、無追蹤器的網址。當您試圖與使用 Android 的朋友分享內容，而不想被（咳咳：那個 App 叫什麼來著？）監視時，這也很有用。這有助於您和您的朋友避免在接下來的一兩週內，被與您剛分享的內容相關的廣告轟炸。"
+      "answer": "可以。清理網址後，點按「生成 QR 碼」即可創建一個完全不含追蹤參數的新代碼以供分享。當你想與朋友分享已清理的連結時，這功能特別方便：只需一按，他們便可掃描你的 QR 碼，開啟完全相同、無追蹤器的網址。當你嘗試與使用 Android 的朋友分享內容，又不想被 (咳咳，嗰個 App 叫咩名話？) 監視時，這也很有用。這能幫助你和你的朋友在未來一兩個星期內，避免被剛剛分享的內容相關廣告瘋狂轟炸。"
     },
     "systemIntegration": {
       "question": "Clean Links 能否在 Safari、Mail 和其他 App 內運作？",
-      "answer": "可以。Clean Links 的全系統分享頁擴充功能可用於 Safari、Mail、X (Twitter)、Youtube、LinkedIn 或任何其他使用 iOS 原生分享頁的 App。"
+      "answer": "是。Clean Links 在 iPhone、iPad 和 Mac 上的全系統「分享表單」擴充功能，可以在 Safari、「郵件」、X (Twitter)、Youtube、LinkedIn 或任何其他使用原生「分享表單」的應用程式中使用。"
     },
     "shortcutsAutomation": {
       "question": "我能用 Shortcuts 或 Siri 自動化連結清理嗎？",
@@ -190,7 +190,7 @@
     }
   },
   "cta": {
-    "title": "QR Code 掃描器與連結清理器 - 保護您的私隱",
+    "title": "QR 碼讀取器與連結清理器 - 保護你的私隱",
     "description": "即時揭示真實網址，清除隱藏的追蹤器，並建立可供分享的 QR Code——全部 100% 在裝置上處理，100% 免費。"
   },
   "footer": {

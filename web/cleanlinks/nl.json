@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "Clean Links: Gratis linkopschoner & QR-codelezer voor iPhone & Mac",
-    "description": "Zie de echte bestemming achter korte links en codes. Scan op iPhone; maak automatisch je klembord schoon op Mac vanuit de menubalk. Deel trackervrije links en genereer nieuwe QR-codes met één tik."
+    "title": "Clean Links: Gratis link-opschoner & QR-codelezer voor iPhone, iPad & Mac",
+    "description": "Ontdek de echte bestemming achter korte links en codes. Scan QR-codes op iPhone en iPad; schoon je klembord op Mac automatisch op vanuit de menubalk. Deel links zonder trackers en maak met één tik nieuwe QR-codes aan."
   },
   "navigation": {
     "download": "Downloaden",
@@ -12,29 +12,29 @@
   "hero": {
     "logoAlt": "Clean Links Logo",
     "title": "Clean Links",
-    "subtitle": "Gratis linkopschoner & QR-codescanner voor iPhone en Mac",
+    "subtitle": "Gratis link-opschoner & QR-codelezer voor iPhone, iPad en Mac",
     "description": "Zie de echte bestemming achter korte links en codes. Onze QR-codelezer beschermt je tegen phishing door eerst de volledige URL te tonen. Verwijdert trackers van duizenden domeinen en duizenden parameters. Deel trackervrije links en genereer nieuwe QR-codes met één tik."
   },
   "features": {
     "qrScanner": {
-      "title": "QR-codescanner beschermt tegen 'quishing'-fraude",
-      "description": "Gebruik Clean Links als je favoriete QR-codescanner om verborgen gevaren te onthullen. Bekijk de echte bestemming voordat je opent, verwijder trackers en vouw verkorte links direct uit. Nu 'quishing' (QR-code phishing) in 2025 met 25% op jaarbasis toeneemt en verantwoordelijk is voor 26% van de schadelijke links, helpt deze functie je om valse sites vroegtijdig te herkennen. Blijf fraude een stap voor door elke scan te verifiëren-essentieel om oplichting via e-mails, op parkeerplaatsen of in openbare ruimtes te vermijden."
+      "title": "QR-codelezer beschermt tegen quishing-oplichting",
+      "description": "Gebruik Clean Links als je vaste QR-codelezer op iPhone, iPad en Mac om verborgen gevaren te onthullen. Bekijk de echte bestemming voordat je opent, verwijder trackers en vouw korte links direct uit. Nu QR-codephishing ('quishing') in 2025 met 25% op jaarbasis toeneemt en 26% van de schadelijke links uitmaakt, helpt deze functie je om nepsites vroegtijdig te herkennen en een stap voor te blijven door elke scan te verifiëren - essentieel om oplichting in e-mails, op parkeerplaatsen of in openbare ruimtes te vermijden."
     },
     "linkCleaner": {
       "title": "Link-opschoner verwijdert trackers uit elke URL",
-      "description": "Schoon URL's moeiteloos op met de link-opschoner van Clean Links-plak, deel of automatiseer om utm_source, fbclid, gclid en duizenden andere trackers van e-commerce-, sociale en advertentiedomeinen te verwijderen. Vecht terug tegen tracking door grote techbedrijven, aangezien sociale platforms links verpakken met unieke ID's. Omdat kwaadaardige verkorte links phishing verbergen in 26% van de aanvallen, onthult Clean Links omleidingen zoals bit.ly of t.co-zo blijven je gegevens privé en je workflows naadloos, zonder ooit informatie van je apparaat te sturen."
+      "description": "Schoon moeiteloos URL's op met de link-opschoner van Clean Links op iPhone, iPad en Mac - plak, deel of automatiseer om utm_source, fbclid, gclid en duizenden andere trackers van e-commerce-, sociale en advertentiedomeinen te verwijderen. Vecht terug tegen de tracking van big tech, nu sociale platforms links verpakken in unieke identificatiecodes. Omdat schadelijke korte links in 26% van de aanvallen phishing verbergen, onthult Clean Links redirects zoals bit.ly of t.co - zo blijven je gegevens privé en je workflows naadloos, zonder ooit info van je apparaat te sturen."
     },
     "qrGenerator": {
       "title": "Genereer schone QR-codes om sociaal te delen",
-      "description": "Gebruik de QR-codegenerator van Clean Links om trackervrije codes te maken van elke gescande of opgeschoonde URL. Help vrienden veilig te scannen door een nieuwe QR-code te genereren-ideaal voor sociale situaties, zoals een groepswandeling waarbij je een QR-code van een wandelkaart scant, trackers verwijdert en de nieuwe code deelt zodat iedereen toegang heeft tot de juiste informatie zonder phishingrisico's of datalekken."
+      "description": "Gebruik de QR-codegenerator van Clean Links op iPhone, iPad en Mac om trackervrije codes te maken van elke gecontroleerde of opgeschoonde URL. Help vrienden veilig te scannen door een nieuwe QR-code te genereren - perfect voor sociale situaties zoals een groepswandeling waarbij je een QR-code van een wandelkaart scant, trackers verwijdert en de nieuwe code deelt, zodat iedereen toegang heeft tot de echte info zonder phishingrisico's of datalekken."
     },
     "controlCenter": {
       "title": "Creëer geavanceerde workflows met het bedieningspaneel & opdrachten",
-      "description": "Integreer Clean Links in het bedieningspaneel of opdrachten om complexe workflows te maken. Stel je een opdracht voor die een gekopieerde link pakt, deze door de URL-opschoner haalt om trackers te verwijderen, en vervolgens de schone versie direct deelt in WhatsApp-chats-op maat gemaakt voor gebruikers die met meerdere apps werken, met eindeloze opties zoals spraakgestuurd opschonen via Siri voor ultieme efficiëntie en privacy."
+      "description": "Integreer Clean Links in het Bedieningspaneel of Opdrachten op iPhone, iPad en Mac om complexe workflows te creëren. Stel je een Opdracht voor die een gekopieerde link pakt, deze door de URL-opschoner haalt om trackers te verwijderen, en vervolgens de schone versie direct deelt in WhatsApp-chats - op maat gemaakt voor gebruikers die met meerdere apps jongleren, met eindeloze opties zoals spraakgestuurd opschonen via Siri voor ultieme efficiëntie en privacy."
     },
     "shareSheet": {
       "title": "Moeiteloos opschonen in het deelpaneel van elke app",
-      "description": "De integratie van Clean Links in het deelpaneel maakt het opschonen van links heel eenvoudig: selecteer vanuit Safari, X of Mail de extensie om direct trackingparameters te verwijderen en de ware bestemmingen te onthullen. Deel de opgeschoonde URL onmiddellijk met familie-eenvoudige, snelle bescherming tegen datatracking, zodat je kring veilig blijft bij dagelijkse digitale uitwisselingen."
+      "description": "De integratie met het Deel-menu van Clean Links op iPhone, iPad en Mac maakt het opschonen van links een fluitje van een cent: vanuit Safari, X of Mail, selecteer de extensie om direct trackingparameters te verwijderen en de ware bestemmingen te onthullen. Deel de opgeschoonde URL meteen met familie - eenvoudige, snelle bescherming tegen datatracking, die je kring veilig houdt in de dagelijkse digitale uitwisselingen."
     },
     "macMenuBar": {
       "title": "Altijd actieve link-opschoner in de Mac-menubalk",
@@ -44,7 +44,7 @@
   "statistics": {
     "threat": {
       "title": "QR-code phishing & link-tracking: de groeiende dreiging",
-      "description": "QR-codescanners zijn nu overal - en oplichting ook. In slechts twee jaar tijd <link>explodeerde QR-gebaseerde phishing van 0,8% naar 12,4% van alle aanvallen (een 15-voudige stijging)</link>, terwijl 1 op de 10 phishing-e-mails een QR-code verbergt. Zelfs 'onschuldige' sociale links zijn niet vrijgesteld: Facebook, X, TikTok en meer taggen elke uitgaande URL met fbclid, t.co, igshid, gclid en duizenden andere trackers die je over het web volgen - die Clean Links automatisch verwijdert, met een catalogus die bij elke update groeit.",
+      "description": "QR-codelezers zijn nu overal - en dat geldt ook voor de oplichting. In slechts twee jaar tijd is <link>phishing via QR-codes geëxplodeerd van 0,8% naar 12,4% van alle aanvallen (een 15-voudige stijging)</link>, terwijl 1 op de 10 phishing-e-mails een QR-code verbergt. Zelfs 'onschuldige' sociale links zijn geen uitzondering: Facebook, X, TikTok en meer voegen aan elke uitgaande URL fbclid, t.co, igshid, gclid en duizenden andere trackers toe die je over het hele web volgen - die Clean Links automatisch verwijdert, met een catalogus die bij elke update groeit.",
       "solution": "Clean Links verwijdert de trackers en onthult de echte bestemming voordat je tikt - zodat elke scan en klik op jouw voorwaarden is.",
       "citation": {
         "prefix": "¹Bron:",
@@ -67,7 +67,7 @@
   },
   "useCases": {
     "title": "Gebruiksscenario's & Toepassingen in de praktijk",
-    "description": "Van bescherming tegen QR-code phishing tot het automatiseren van privacy-workflows, Clean Links past zich aan uw digitale leven aan in 17 belangrijke scenario's",
+    "description": "Van bescherming tegen QR-codephishing tot het automatiseren van privacy-workflows, Clean Links past zich aan je digitale leven aan op iPhone, iPad en Mac in 17 belangrijke scenario's.",
     "ecommerce": {
       "title": "E-commerce winkelen",
       "description": "Clean Links verwijdert affiliate- en marketingtracking (bijv. Amazon \"tag\"-parameters, affiliate-ID's) zodat u een productpagina precies ziet zoals de verkoper het bedoeld heeft, zonder profilering door ad-tech."
@@ -94,7 +94,7 @@
     },
     "paymentCodes": {
       "title": "Betaalautomaatcodes (parkeermeters, openbaar vervoer, verkoopautomaten)",
-      "description": "Scan openbare QR-codes voor betalingen om te bevestigen dat ze naar het juiste, door de stad of leverancier goedgekeurde portaal gaan, en niet naar een frauduleuze betalingsverzamelaar."
+      "description": "Controleer openbare QR-codes voor betalingen om te bevestigen dat ze naar de juiste stad of een door de leverancier goedgekeurd portaal leiden, en niet naar een frauduleuze betalingsverwerker."
     },
     "emailSms": {
       "title": "QR-bijlagen in e-mail/sms",
@@ -122,7 +122,7 @@
     },
     "businessCards": {
       "title": "QR-codes op visitekaartjes",
-      "description": "Creëer korte, trackervrije QR-codes op uw drukwerk, zodat elke scan precies naar de door u opgegeven landingspagina gaat."
+      "description": "Maak korte, trackervrije QR-codes voor je drukwerk, zodat elke scan precies naar de door jou opgegeven landingspagina leidt."
     },
     "shareSheet": {
       "title": "Deel-menu extensie",
@@ -130,7 +130,7 @@
     },
     "controlCenter": {
       "title": "Tegel in Bedieningspaneel",
-      "description": "Voeg een sneltoets toe in het Bedieningspaneel om de URL op het klembord op te schonen of een QR-code te scannen, overal in iOS."
+      "description": "Voeg een knop voor snelle toegang toe aan het Bedieningspaneel om de URL op het klembord op te schonen of overal in iOS een QR-code te scannen."
     },
     "shortcuts": {
       "title": "Opdrachten & Siri-integratie",
@@ -142,11 +142,11 @@
     "description": "Veelgestelde vragen over Clean Links",
     "whatIs": {
       "question": "Wat is Clean Links?",
-      "answer": "Clean Links is een gratis iOS-hulpprogramma dat trackingparameters uit URL's verwijdert en het ware doel achter QR-codes en verkorte links onthult - zodat u alleen opent wat u wilt, zonder verborgen trackers of omleidingen."
+      "answer": "Clean Links is een gratis hulpprogramma voor iPhone, iPad en Mac dat trackingparameters uit URL's verwijdert en het ware doel achter QR-codes en verkorte links onthult - zodat je alleen opent wat je wilt, zonder verborgen trackers of redirects."
     },
     "deviceRequirements": {
       "question": "Welke apparaten en iOS-versies ondersteunt Clean Links?",
-      "answer": "Clean Links vereist een apparaat dat iOS 18.0 of hoger kan draaien."
+      "answer": "Clean Links ondersteunt iPhone-, iPad- en Mac-apparaten die iOS 18.0 of nieuwer (iPhone/iPad) of gelijkwaardige macOS-versies kunnen draaien."
     },
     "whyCreate": {
       "question": "Waarom hebben we Clean Links gemaakt?",
@@ -158,19 +158,19 @@
     },
     "phishingProtection": {
       "question": "Kan Clean Links phishing- (\"quishing\") pogingen blokkeren?",
-      "answer": "Ja. Wanneer u een QR-code scant, toont Clean Links u de volledige, onversluierde URL. U beslist zelf of u deze opent of niet. Dit is anders dan de iOS Camera-app en andere betaalde QR-codelezers, die de link waar de QR-code naar wijst simpelweg openen, zonder uw toestemming."
+      "answer": "Ja. Wanneer je een QR-code scant, toont Clean Links je de volledige, onthulde URL. Jij beslist of je deze opent of niet. Dit in tegenstelling tot de Camera-app van iOS en andere betaalde QR-codelezer-apps, die de link waar de QR-code naar verwijst simpelweg openen, zonder jouw toestemming."
     },
     "historyStorage": {
       "question": "Slaat Clean Links mijn geschiedenis of gescande QR-codes op?",
-      "answer": "Nee. Clean Links is zo ontworpen dat het geen links die u opschoont of scant, logt of opslaat."
+      "answer": "Nee. Clean Links is zo ontworpen dat het geen links die je opschoont of scant, logt of opslaat."
     },
     "cleanWorkflow": {
       "question": "Hoe schoon ik een gekopieerde link op?",
-      "answer": "U kunt een Apple Opdracht maken die de URL van uw klembord haalt, deze opschoont en de opgeschoonde link terugplaatst. Download bijvoorbeeld deze een-tik-opdracht: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0. Voor nog snellere toegang, wijs die opdracht toe aan de Actieknop van uw iPhone (iPhone 15 Pro en later), zodat een enkele druk overal de klembordlink opschoont. U kunt Clean Links toevoegen aan uw Bedieningspaneel: kies uit twee acties - \"Open app\" of \"QR-lezer.\" Open deze direct in het Bedieningspaneel of op het vergrendelscherm, of wijs ze toe aan de Actieknop voor opschonen met één tik, waar dan ook. U kunt ook de Clean Links-app handmatig openen en uw URL plakken om deze op te schonen."
+      "answer": "Je kunt een Apple Opdracht aanmaken die de URL van je klembord pakt, opschoont en de schone link terugplaatst. Download bijvoorbeeld deze 'één-tik'-opdracht: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0. Voor nog snellere toegang, wijs die opdracht toe aan de Actieknop van je iPhone (iPhone 15 Pro en nieuwer), zodat één druk op de knop de link op je klembord opschoont. Je kunt Clean Links toevoegen aan je Bedieningspaneel op iPhone, iPad en Mac: kies uit twee acties - \"Open app\" of \"QR-lezer\". Open deze direct vanuit het Bedieningspaneel of het toegangsscherm, of wijs ze toe aan de Actieknop om overal met één tik op te schonen. Je kunt ook de Clean Links-app handmatig openen en je URL plakken om deze op te schonen."
     },
     "qrScanning": {
       "question": "Hoe scan ik een QR-code?",
-      "answer": "Start Clean Links vanaf uw startscherm, via een Opdracht of de Actieknop en richt uw camera op de code. U ziet de echte bestemmings-URL voordat u kiest om deze te openen. Clean Links volgt alle omleidingen en verwijdert trackingparameters van de eindbestemming, waardoor phishinglinks die verborgen zijn achter verkorte links of omleidingsdiensten worden voorkomen."
+      "answer": "Start Clean Links vanaf je beginscherm, via een Opdracht of de Actieknop op iPhone, iPad of Mac en richt je camera op de code. Je ziet de echte bestemmings-URL voordat je kiest om deze te openen. Clean Links volgt alle redirects en verwijdert trackingparameters van de eindbestemming - dit voorkomt phishinglinks die verborgen zijn achter verkorte links of redirect-diensten."
     },
     "urlExpansion": {
       "question": "Kan ik verkorte URL's uitvouwen en vooraf bekijken?",
@@ -178,11 +178,11 @@
     },
     "qrGeneration": {
       "question": "Kan ik een privacy-veilige QR-code genereren van een opgeschoonde link?",
-      "answer": "Ja. Na het opschonen van een URL, tikt u op \"Genereer QR-code\" om een nieuwe code te maken die u volledig vrij van trackingparameters kunt delen. Dit is vooral handig als u de opgeschoonde link met vrienden wilt delen: één tik en zij kunnen uw QR-code scannen om exact dezelfde, trackervrije URL te openen. Ook handig als u inhoud probeert te delen met uw Android-gebruikende vrienden, zonder bespioneerd te worden door kuch kuch: Hoe heet die app ook alweer? Dit helpt u en uw vrienden te voorkomen dat u de komende week of twee wordt bestookt met advertenties gerelateerd aan de inhoud die u zojuist hebt gedeeld."
+      "answer": "Ja. Tik na het opschonen van een URL op \"Genereer QR\" om een nieuwe code te maken die je volledig zonder trackingparameters kunt delen. Dit is vooral handig als je de opgeschoonde link met vrienden wilt delen: met één tik kunnen zij jouw QR-code scannen om exact dezelfde, trackervrije URL te openen. Ook handig als je content probeert te delen met je vrienden die Android gebruiken, zonder bespioneerd te worden door, kuch kuch, hoe heet die app ook alweer? Dit helpt jou en je vrienden te voorkomen dat jullie de komende week of twee worden overspoeld met advertenties die verband houden met de content die je zojuist hebt gedeeld."
     },
     "systemIntegration": {
       "question": "Werkt Clean Links in Safari, Mail en andere apps?",
-      "answer": "Ja. De systeembrede Deel-menu extensie van Clean Links kan worden gebruikt in Safari, Mail, X (Twitter), Youtube, LinkedIn of elke andere app die het native Deel-menu van iOS gebruikt."
+      "answer": "Ja. De systeembrede Deel-menu-extensie van Clean Links op iPhone, iPad en Mac kan worden gebruikt in Safari, Mail, X (Twitter), Youtube, LinkedIn of elke andere app die het standaard Deel-menu gebruikt."
     },
     "shortcutsAutomation": {
       "question": "Kan ik het opschonen van links automatiseren met Opdrachten of Siri?",
@@ -190,7 +190,7 @@
     }
   },
   "cta": {
-    "title": "QR-codescanner & linkopschoner - Bescherm uw privacy",
+    "title": "QR-codelezer & link-opschoner - Bescherm je privacy",
     "description": "Onthul direct de echte URL, wis verborgen trackers en maak deelklare QR-codes - allemaal 100% op uw apparaat, 100% gratis."
   },
   "footer": {

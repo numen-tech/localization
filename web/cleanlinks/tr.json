@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "Clean Links: iPhone ve Mac için Ücretsiz Bağlantı Temizleyici ve QR Kod Okuyucu",
-    "description": "Kısa bağlantıların ve kodların arkasındaki gerçek hedefi görün. iPhone'da tarayın; Mac'te menü çubuğundan panonuzu otomatik olarak temizleyin. İzleyicisiz bağlantılar paylaşın ve tek dokunuşla yeni QR kodları oluşturun."
+    "title": "Clean Links: iPhone, iPad ve Mac için Ücretsiz Bağlantı Temizleyici ve QR Kod Okuyucu",
+    "description": "Kısa bağlantıların ve kodların arkasındaki gerçek hedefi görün. iPhone ve iPad'de QR kodları kontrol edin; Mac'te menü çubuğundan panonuzu otomatik olarak temizleyin. İzleyicisiz bağlantılar paylaşın ve tek dokunuşla yeni QR kodlar oluşturun."
   },
   "navigation": {
     "download": "İndir",
@@ -12,29 +12,29 @@
   "hero": {
     "logoAlt": "Clean Links Logosu",
     "title": "Clean Links",
-    "subtitle": "iPhone ve Mac için Ücretsiz Bağlantı Temizleyici ve QR Kod Tarayıcı",
+    "subtitle": "iPhone, iPad ve Mac için Ücretsiz Bağlantı Temizleyici ve QR Kod Okuyucu",
     "description": "Kısa bağlantıların ve kodların arkasındaki gerçek hedefi görün. QR kod okuyucumuz, önce tam URL'yi göstererek sizi kimlik avı (phishing) saldırılarından korur. Binlerce alan adından ve binlerce parametreden izleyicileri kaldırır. İzleyicisiz bağlantılar paylaşın ve tek dokunuşla yeni QR kodları oluşturun."
   },
   "features": {
     "qrScanner": {
-      "title": "QR Kod Tarayıcı, 'Quishing' Dolandırıcılıklarına Karşı Korur",
-      "description": "Gizli tehlikeleri ortaya çıkarmak için Clean Links'i varsayılan QR kod tarayıcınız olarak kullanın. Açmadan önce gerçek hedefi önizleyin, izleyicileri temizleyin ve kısa bağlantıları anında genişletin. QR kodu kimlik avı ('quishing') dolandırıcılığının 2025'te bir önceki yıla göre %25 artması ve kötü amaçlı bağlantıların %26'sını oluşturmasıyla, bu özellik sahte siteleri erkenden fark etmenizi sağlar. Her taramayı doğrulayarak bir adım önde olun; e-postalardaki, otoparklardaki veya halka açık alanlardaki dolandırıcılıklardan kaçınmak için bu çok önemlidir."
+      "title": "QR Kod Okuyucu, Oltalama Dolandırıcılıklarına Karşı Korur",
+      "description": "Gizli tehlikeleri ortaya çıkarmak için iPhone, iPad ve Mac'te ana QR kod okuyucunuz olarak Clean Links'i kullanın. Açmadan önce gerçek hedefi önizleyin, izleyicileri temizleyin ve kısa bağlantıları anında genişletin. 2025'te QR kod ile oltalama ('quishing') saldırılarının yıldan yıla %25 artması ve kötü amaçlı bağlantıların %26'sını oluşturmasıyla, bu özellik sahte siteleri erkenden fark etmenize ve her kontrolü doğrulayarak bir adım önde olmanıza olanak tanır. Bu, e-postalardaki, otoparklardaki veya halka açık alanlardaki dolandırıcılıklardan kaçınmak için çok önemlidir."
     },
     "linkCleaner": {
       "title": "Bağlantı Temizleyici, Her URL'den İzleyicileri Kaldırır",
-      "description": "Clean Links'in bağlantı temizleyicisi ile URL'leri zahmetsizce temizleyin; e-ticaret, sosyal medya ve reklam alanlarındaki utm_source, fbclid, gclid ve binlerce diğer parametreyi kaldırmak için yapıştırın, paylaşın veya otomatikleştirin. Sosyal platformlar bağlantıları benzersiz tanımlayıcılarla sarmalarken büyük teknoloji takibine karşı savaşın. Kötü amaçlı kısa bağlantılar saldırıların %26'sında kimlik avını gizlerken, Clean Links bit.ly veya t.co gibi yönlendirmelerin maskesini düşürür, verilerinizi gizli tutar ve hiçbir bilgiyi cihaz dışına göndermeden iş akışlarınızı sorunsuz hale getirir."
+      "description": "iPhone, iPad ve Mac'te Clean Links'in bağlantı temizleyicisi ile URL'leri zahmetsizce temizleyin. E-ticaret, sosyal medya ve reklam alanlarındaki utm_source, fbclid, gclid ve binlerce diğer parametreyi kaldırmak için yapıştırın, paylaşın veya otomatikleştirin. Sosyal platformlar bağlantıları benzersiz tanımlayıcılarla sarmalarken, büyük teknoloji şirketlerinin takibine karşı savaşın. Saldırıların %26'sında kötü amaçlı kısa bağlantılar oltalama girişimlerini gizlerken, Clean Links bit.ly veya t.co gibi yönlendirmeleri ortaya çıkarır. Bilgilerinizi asla cihaz dışına göndermeden verilerinizi gizli tutar ve iş akışlarınızı sorunsuz hale getirir."
     },
     "qrGenerator": {
       "title": "Sosyal Paylaşım İçin Temiz QR Kodları Oluşturun",
-      "description": "Taranmış veya temizlenmiş herhangi bir URL'den izleyici içermeyen kodlar oluşturmak için Clean Links'in QR kod oluşturucusunu kullanın. Yeni bir QR oluşturarak arkadaşlarınızın güvenle tarama yapmasına yardımcı olun. Bu özellik, bir grup yürüyüşünde patika haritası QR'ını tarayıp izleyicileri temizledikten sonra yeni kodu paylaşarak herkesin kimlik avı riskleri veya veri sızıntıları olmadan gerçek bilgilere erişmesini sağladığınız sosyal ortamlar için mükemmeldir."
+      "description": "iPhone, iPad ve Mac'te Clean Links'in QR kod oluşturucusunu kullanarak kontrol edilmiş veya temizlenmiş herhangi bir URL'den izleyicisiz kodlar oluşturun. Yeni bir QR kodu oluşturarak arkadaşlarınızın güvenle kontrol etmesine yardımcı olun. Bu, bir patika haritası QR'ını kontrol ettiğiniz, izleyicileri temizlediğiniz ve herkesin oltalama riski veya veri sızıntısı olmadan gerçek bilgiye erişmesi için yeni kodu paylaştığınız bir grup yürüyüşü gibi sosyal ortamlar için mükemmeldir."
     },
     "controlCenter": {
       "title": "Denetim Merkezi ve Kestirmeler ile Gelişmiş İş Akışları Oluşturun",
-      "description": "Karmaşık iş akışları oluşturmak için Clean Links'i Denetim Merkezi veya Kestirmeler'e entegre edin. Kopyalanan bir bağlantıyı alan, izleyicileri kaldırmak için URL temizleyiciden geçiren ve ardından temiz sürümü doğrudan WhatsApp sohbetlerine paylaşan bir Kestirme hayal edin. Bu özellik, birden fazla uygulamayı aynı anda kullanan kullanıcılar için özel olarak tasarlanmıştır ve en üst düzeyde verimlilik ve gizlilik için Siri aracılığıyla sesle etkinleştirilen temizleme gibi sonsuz seçenekler sunar."
+      "description": "iPhone, iPad ve Mac'te karmaşık iş akışları oluşturmak için Clean Links'i Denetim Merkezi'ne veya Kestirmeler'e entegre edin. Kopyalanan bir bağlantıyı alan, izleyicileri kaldırmak için URL temizleyiciden geçiren ve ardından temizlenmiş sürümü doğrudan WhatsApp sohbetlerinde paylaşan bir Kestirme hayal edin. Bu, birden fazla uygulamayla uğraşan kullanıcılar için özel olarak tasarlanmıştır ve en üst düzeyde verimlilik ve gizlilik için Siri aracılığıyla sesle etkinleştirilen temizleme gibi sonsuz seçenekler sunar."
     },
     "shareSheet": {
       "title": "Herhangi Bir Uygulamanın Paylaşım Menüsünde Zahmetsiz Temizleme",
-      "description": "Clean Links'in Paylaşım Menüsü entegrasyonu bağlantı temizlemeyi çok kolaylaştırır: Safari, X veya Mail'den uzantıyı seçerek izleme parametrelerini anında kaldırın ve gerçek hedefleri ortaya çıkarın. Temizlenmiş URL'yi hemen ailenizle paylaşın; veri takibine karşı bu basit ve hızlı koruma, çevrenizi günlük dijital etkileşimlerde güvende tutar."
+      "description": "Clean Links'in iPhone, iPad ve Mac'teki Paylaşım Sayfası entegrasyonu, bağlantı temizlemeyi çocuk oyuncağı haline getirir: Safari, X veya Mail'den eklentiyi seçerek izleme parametrelerini anında kaldırın ve gerçek hedefleri ortaya çıkarın. Temizlenmiş URL'yi hemen ailenizle paylaşın. Veri takibine karşı basit ve hızlı koruma sağlayarak günlük dijital etkileşimlerinizde çevrenizi güvende tutun."
     },
     "macMenuBar": {
       "title": "Mac Menü Çubuğunda Her Zaman Açık Bağlantı Temizleyici",
@@ -44,8 +44,8 @@
   "statistics": {
     "threat": {
       "title": "QR Kod ile Oltalama ve Bağlantı Takibi: Büyüyen Tehdit",
-      "description": "QR kod tarayıcıları artık her yerde - dolandırıcılıklar da öyle. Sadece iki yıl içinde, <link>QR tabanlı kimlik avı saldırıları tüm saldırıların %0,8'inden %12,4'üne fırladı (15 kat artış)</link> ve her 10 kimlik avı e-postasından 1'i bir QR kodu saklıyor. \"Zararsız\" sosyal bağlantılar bile istisna değil: Facebook, X, TikTok ve daha fazlası, her giden URL'yi sizi web'de takip eden fbclid, t.co, igshid, gclid ve binlerce diğer izleyiciyle etiketler - Clean Links bunları otomatik olarak kaldırır ve kataloğu her güncellemeyle büyür.",
-      "solution": "Clean Links, dokunmadan önce izleyicileri kaldırır ve gerçek hedefi gösterir - böylece her tarama ve tıklama sizin şartlarınızda gerçekleşir.",
+      "description": "QR kod okuyucular artık her yerde, dolandırıcılıklar da öyle. Sadece iki yıl içinde, <link>QR tabanlı oltalama tüm saldırıların %0.8'inden %12.4'üne fırladı (15 kat artış)</link> ve her 10 oltalama e-postasından 1'i bir QR kodu gizliyor. Görünüşte 'zararsız' sosyal medya bağlantıları bile istisna değil: Facebook, X, TikTok ve daha fazlası, her giden URL'yi sizi web'de gölge gibi takip eden fbclid, t.co, igshid, gclid ve binlerce diğer izleyiciyle etiketler. Clean Links, her güncellemeyle büyüyen bir katalogla bunları otomatik olarak temizler.",
+      "solution": "Clean Links, siz dokunmadan önce izleyicileri kaldırır ve gerçek hedefi ortaya çıkarır, böylece her kontrol ve tıklama sizin kontrolünüzde olur.",
       "citation": {
         "prefix": "¹Kaynak:",
         "link": "Keepnet Labs 2025 Quishing Raporu ve Kötü Amaçlı Bağlantılar Üzerine Küresel Araştırma Özeti"
@@ -67,7 +67,7 @@
   },
   "useCases": {
     "title": "Kullanım Alanları ve Gerçek Dünya Uygulamaları",
-    "description": "QR kod ile oltalamadan korunmaktan gizlilik iş akışlarını otomatikleştirmeye kadar, Clean Links 17 temel senaryoda dijital yaşamınıza uyum sağlar",
+    "description": "QR kod ile oltalamaya karşı korumadan gizlilik iş akışlarını otomatikleştirmeye kadar, Clean Links iPhone, iPad ve Mac'teki dijital yaşamınıza 17 temel senaryoda uyum sağlar.",
     "ecommerce": {
       "title": "E-ticaret alışverişi",
       "description": "Clean Links, satış ortaklığı ve pazarlama takibini (ör. Amazon \"tag\" parametreleri, satış ortağı kimlikleri) kaldırır, böylece bir ürün sayfasını reklam teknolojisi profillemesi olmadan tam olarak satıcının amaçladığı gibi görürsünüz."
@@ -94,7 +94,7 @@
     },
     "paymentCodes": {
       "title": "Ödeme noktası kodları (otoparkmetreler, toplu taşıma, otomatlar)",
-      "description": "Halka açık ödeme QR kodlarını tarayarak, sahtekâr bir ödeme toplayıcısına değil, doğru belediye veya satıcı onaylı portala gittiklerini onaylayın."
+      "description": "Halka açık ödeme QR kodlarını kontrol ederek, sahte bir ödeme toplayıcısına değil, doğru şehre veya satıcı onaylı portala gittiklerini doğrulayın."
     },
     "emailSms": {
       "title": "E-posta/SMS QR ekleri",
@@ -122,7 +122,7 @@
     },
     "businessCards": {
       "title": "Kartvizit QR kodları",
-      "description": "Basılı materyallerinizde kısa, izleyicisiz QR kodları oluşturarak her taramanın tam olarak belirttiğiniz açılış sayfasına gitmesini sağlayın."
+      "description": "Basılı materyallerinizde kısa, izleyicisiz QR kodlar oluşturarak her taramanın tam olarak belirttiğiniz açılış sayfasına gitmesini sağlayın."
     },
     "shareSheet": {
       "title": "Paylaşım Sayfası uzantısı",
@@ -130,7 +130,7 @@
     },
     "controlCenter": {
       "title": "Denetim Merkezi kutucuğu",
-      "description": "iOS'ta herhangi bir yerde pano URL'sini temizlemek veya bir QR kodunu taramak için Denetim Merkezi'ne bir hızlı erişim düğmesi ekleyin."
+      "description": "Pano URL'sini temizlemek veya iOS'te herhangi bir yerde bir QR kodunu kontrol etmek için Denetim Merkezi'ne bir hızlı erişim düğmesi ekleyin."
     },
     "shortcuts": {
       "title": "Kestirmeler ve Siri entegrasyonu",
@@ -142,11 +142,11 @@
     "description": "Clean Links hakkında sıkça sorulan sorular",
     "whatIs": {
       "question": "Clean Links nedir?",
-      "answer": "Clean Links, URL'lerden izleme parametrelerini kaldıran ve QR kodları ile kısaltılmış bağlantıların arkasındaki gerçek hedefi ortaya çıkaran ücretsiz bir iOS yardımcı programıdır - böylece gizli izleyiciler veya yönlendirmeler olmadan yalnızca istediğiniz şeyleri açarsınız."
+      "answer": "Clean Links, iPhone, iPad ve Mac için URL'lerden izleme parametrelerini temizleyen ve QR kodları ile kısaltılmış bağlantıların ardındaki gerçek hedefi gösteren ücretsiz bir araçtır. Bu sayede, gizli izleyiciler veya yönlendirmeler olmadan sadece istediğiniz bağlantıları açarsınız."
     },
     "deviceRequirements": {
       "question": "Clean Links hangi cihazları ve iOS sürümlerini destekliyor?",
-      "answer": "Clean Links, iOS 18.0 veya üstünü çalıştırabilen bir cihaz gerektirir."
+      "answer": "Clean Links, iOS 18.0 veya üstünü (iPhone/iPad) ya da eşdeğer macOS sürümlerini çalıştırabilen iPhone, iPad ve Mac cihazlarını destekler."
     },
     "whyCreate": {
       "question": "Clean Links'i neden oluşturduk?",
@@ -158,19 +158,19 @@
     },
     "phishingProtection": {
       "question": "Clean Links, kimlik avı (\"quishing\") girişimlerini engelleyebilir mi?",
-      "answer": "Evet. Bir QR kodunu taradığınızda, Clean Links size tam, maskesiz URL'yi gösterir. Açıp açmamaya siz karar verirsiniz. Bu, sadece QR kodunun işaret ettiği bağlantıyı sizin onayınız olmadan açan iOS kamera uygulaması ve diğer ücretli QR kod okuyucu uygulamalarının aksine bir durumdur."
+      "answer": "Evet. Bir QR kodunu kontrol ettiğinizde, Clean Links size tam, maskelenmemiş URL'yi gösterir. Açıp açmamaya siz karar verirsiniz. Bu, rızanız olmadan QR kodunun işaret ettiği bağlantıyı doğrudan açan iOS kamera uygulaması ve diğer ücretli QR kod okuyucu uygulamalarından farklıdır."
     },
     "historyStorage": {
-      "question": "Clean Links geçmişimi veya taranan QR kodlarını saklar mı?",
-      "answer": "Hayır. Tasarımı gereği, Clean Links temizlediğiniz veya taradığınız bağlantıları kaydetmez veya saklamaz."
+      "question": "Clean Links geçmişimi veya kontrol ettiğim QR kodlarını saklıyor mu?",
+      "answer": "Hayır. Clean Links, tasarımı gereği temizlediğiniz veya kontrol ettiğiniz bağlantıları kaydetmez ya da saklamaz."
     },
     "cleanWorkflow": {
       "question": "Kopyaladığım bir bağlantıyı nasıl temizlerim?",
-      "answer": "Panonuzdan URL'yi alan, temizleyen ve temizlenmiş bağlantıyı geri koyan bir Apple Kestirmesi oluşturabilirsiniz. Örneğin, bu tek dokunuşlu kestirmeyi indirin: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0. Daha da hızlı erişim için, bu kestirmeyi iPhone'unuzun Eylem düğmesine (iPhone 15 Pro ve sonrası) atayın, böylece herhangi bir yerde tek bir basış pano bağlantısını temizler. Clean Links'i Denetim Merkezinize ekleyebilirsiniz: iki eylem arasından seçim yapın - \"Uygulamayı Aç\" veya \"QR Okuyucu\". Bunlara doğrudan Denetim Merkezi'nden veya Kilit Ekranı'ndan erişin veya herhangi bir yerden tek dokunuşla temizlik için Eylem düğmesine atayın. Ayrıca Clean Links uygulamasını manuel olarak açıp URL'nizi yapıştırarak da temizleyebilirsiniz."
+      "answer": "Panonuzdaki URL'yi alan, temizleyen ve temizlenmiş bağlantıyı geri panoya koyan bir Apple Kestirmesi oluşturabilirsiniz. Örneğin, bu tek dokunuşluk kestirmeyi indirin: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0. Daha da hızlı erişim için, bu kestirmeyi iPhone'unuzun Eylem düğmesine (iPhone 15 Pro ve sonrası) atayın, böylece herhangi bir yerden tek bir basışla panodaki bağlantı temizlenir. Clean Links'i iPhone, iPad ve Mac'te Denetim Merkezinize ekleyebilirsiniz: iki eylem arasından seçim yapın - \"Uygulamayı Aç\" veya \"QR Okuyucu\". Bunlara doğrudan Denetim Merkezi'nden veya Kilitli Ekran'dan erişin ya da herhangi bir yerden tek dokunuşla temizlik için Eylem düğmesine atayın. Ayrıca Clean Links uygulamasını manuel olarak açıp URL'nizi yapıştırarak da temizleyebilirsiniz."
     },
     "qrScanning": {
-      "question": "Bir QR kodunu nasıl tararım?",
-      "answer": "Clean Links'i Ana Ekranınızdan, Kestirmeden veya Eylem düğmesinden başlatın ve kameranızı koda doğrultun. Açmayı seçmeden önce gerçek hedef URL'yi göreceksiniz. Clean Links, tüm yönlendirmeleri takip eder ve nihai hedeften izleme parametrelerini kaldırır - kısa bağlantı veya yönlendirme hizmetlerinin arkasına gizlenmiş kimlik avı bağlantılarını önler."
+      "question": "Bir QR kodunu nasıl kontrol ederim?",
+      "answer": "iPhone, iPad veya Mac'te Ana Ekranınızdan, Kestirme'den veya Eylem düğmesinden Clean Links'i başlatın ve kameranızı koda doğrultun. Açmayı seçmeden önce gerçek hedef URL'yi göreceksiniz. Clean Links, tüm yönlendirmeleri takip eder ve nihai hedeften izleme parametrelerini kaldırır, böylece kısa bağlantı veya yönlendirme servislerinin arkasına gizlenmiş oltalama bağlantılarını önler."
     },
     "urlExpansion": {
       "question": "Kısaltılmış URL'leri genişletip önizleyebilir miyim?",
@@ -178,11 +178,11 @@
     },
     "qrGeneration": {
       "question": "Temizlenmiş bir bağlantıdan gizlilik açısından güvenli bir QR kodu oluşturabilir miyim?",
-      "answer": "Evet. Bir URL'yi temizledikten sonra, tamamen izleme parametrelerinden arındırılmış, paylaşabileceğiniz yeni bir kod oluşturmak için \"QR Oluştur\"a dokunun. Bu, özellikle temizlenmiş bağlantıyı arkadaşlarınızla paylaşmak istediğinizde kullanışlıdır: tek bir dokunuşla QR kodunuzu tarayarak aynı, izleyicisiz URL'yi açabilirler. Ayrıca, öksürük öksürük: O uygulamanın adı neydi yine?, tarafından gözetlenmeden Android kullanan arkadaşlarınızla içerik paylaşmaya çalışırken de kullanışlıdır. Bu, sizin ve arkadaşlarınızın, yeni paylaştığınız içerikle ilgili reklamlarla bir veya iki hafta boyunca bombardımana tutulmasını önlemeye yardımcı olur."
+      "answer": "Evet. Bir URL'yi temizledikten sonra, tamamen izleme parametrelerinden arındırılmış yeni bir kod oluşturmak için \"QR Oluştur\"a dokunun. Bu, özellikle temizlenmiş bağlantıyı arkadaşlarınızla paylaşmak istediğinizde kullanışlıdır: tek dokunuşla QR kodunuzu kontrol edebilir ve aynı, izleyicisiz URL'yi açabilirler. Ayrıca, Android kullanan arkadaşlarınızla içerik paylaşmaya çalışırken de işe yarar. Hani şu malum uygulama tarafından gözetlenmeden... Adı neydi o uygulamanın? Bu, sizin ve arkadaşlarınızın, paylaştığınız içerikle ilgili reklam bombardımanına tutulmasını önümüzdeki bir iki hafta boyunca engellemenize yardımcı olur."
     },
     "systemIntegration": {
       "question": "Clean Links, Safari, Mail ve diğer uygulamaların içinde çalışır mı?",
-      "answer": "Evet. Clean Links'in sistem genelindeki Paylaşım Sayfası uzantısı Safari, Mail, X (Twitter), Youtube, LinkedIn veya iOS'in yerel Paylaşım Sayfalarını kullanan diğer herhangi bir uygulama içinde kullanılabilir."
+      "answer": "Evet. Clean Links'in iPhone, iPad ve Mac'teki sistem genelinde çalışan Paylaşım Sayfası eklentisi, Safari, Mail, X (Twitter), Youtube, LinkedIn veya yerel Paylaşım Sayfalarını kullanan diğer herhangi bir uygulama içinde kullanılabilir."
     },
     "shortcutsAutomation": {
       "question": "Bağlantı temizlemeyi Kestirmeler veya Siri ile otomatikleştirebilir miyim?",
@@ -190,7 +190,7 @@
     }
   },
   "cta": {
-    "title": "QR Kod Tarayıcı ve Bağlantı Temizleyici - Gizliliğinizi Koruyun",
+    "title": "QR Kod Okuyucu ve Bağlantı Temizleyici - Gizliliğinizi Koruyun",
     "description": "Gerçek URL'yi anında ortaya çıkarın, gizli izleyicileri silin ve paylaşıma hazır QR kodları oluşturun - hepsi %100 cihazda, %100 ücretsiz."
   },
   "footer": {
