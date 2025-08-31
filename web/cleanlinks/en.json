@@ -12,7 +12,7 @@
   "hero": {
     "logoAlt": "Clean Links Logo",
     "title": "Clean Links",
-    "subtitle": "Free Link Cleaner & QR Code Reader for iPhone, iPad, and Mac",
+    "subtitle": "Free Link Cleaner & Anti-Phishing QR Code Reader for iPhone, iPad, and Mac",
     "description": "See the real destination behind short links and codes. Our QR code reader protects you from phishing by showing the full URL first. Stripping trackers across thousands of domains and thousands of parameters. Share tracker-free links and generate fresh QR codes in a tap."
   },
   "features": {
@@ -182,7 +182,7 @@
     },
     "shortcutsAutomation": {
       "question": "Can I automate link cleaning with Shortcuts or Siri?",
-      "answer": "Clean Links provides App Intents that work with both Apple Shortcuts and Siri. You can build a shortcut that cleans links from your clipboard or anything else. For example, use this \"Clean Links\" shortcut to grab the link in your clipboard, clean it, and paste the cleaned URL back on to the clipboard: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+      "answer": "Clean Links provides App Intents that work with both Apple Shortcuts and Siri. You can build a shortcut that cleans links from your clipboard or anything else. For example, use this <shortcut>\"Clean Links\" shortcut</shortcut> to grab the link in your clipboard, clean it, and paste the cleaned URL back on to the clipboard."
     },
     "manualCleaning": {
       "question": "Why do I need this app and why can't I just clean links manually?",

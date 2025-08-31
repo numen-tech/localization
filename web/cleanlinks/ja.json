@@ -12,7 +12,7 @@
   "hero": {
     "logoAlt": "Clean Links ロゴ",
     "title": "Clean Links",
-    "subtitle": "iPhone、iPad、Mac対応の無料リンククリーナー＆QRコードリーダー",
+    "subtitle": "無料リンククリーナーとフィッシング対策QRコードリーダー（iPhone、iPad、Mac向け）",
     "description": "短縮リンクやQRコードの本当のリンク先を確認。当社のQRコードリーダーは、完全なURLを先に表示することでフィッシング詐欺からあなたを保護します。数千ものドメインとパラメータからトラッカーを削除。トラッカーなしのリンクを共有し、新しいQRコードをワンタップで生成。"
   },
   "features": {
@@ -186,7 +186,7 @@
     },
     "shortcutsAutomation": {
       "question": "ショートカットやSiriでリンクのクリーン化を自動化できますか？",
-      "answer": "Clean Linksは、AppleショートカットとSiriの両方で動作するApp Intentsを提供します。クリップボードや他のものからリンクをクリーンにするショートカットを構築できます。例えば、この「Clean Links」ショートカットを使用して、クリップボードのリンクを取得し、それをクリーンにして、クリーンになったURLをクリップボードに貼り付け直すことができます：https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+      "answer": "Clean Linksは、Appleの「ショートカット」アプリとSiriの両方に対応したApp Intentを提供します。クリップボードなどからリンクをクリーンにするショートカットを作成できます。例えば、この<shortcut>「Clean Links」ショートカット</shortcut>を使用すると、クリップボードのリンクを取得してクリーンにし、クリーン化されたURLをクリップボードに貼り付け直せます。"
     },
     "manualCleaning": {
       "question": "なぜこのアプリが必要で、手動でリンクをクリーンアップするだけではダメなのですか？",

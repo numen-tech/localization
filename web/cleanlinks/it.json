@@ -12,7 +12,7 @@
   "hero": {
     "logoAlt": "Logo di Clean Links",
     "title": "Clean Links",
-    "subtitle": "Pulizia Link e Lettore di Codici QR Gratuiti per iPhone, iPad e Mac",
+    "subtitle": "Pulitore di link gratis e lettore di codici QR anti-phishing per iPhone, iPad e Mac",
     "description": "Scopri la vera destinazione dietro link abbreviati e codici. Il nostro lettore di codici QR ti protegge dal phishing mostrando prima l'URL completo. Rimuove i tracker da migliaia di domini e migliaia di parametri. Condividi link senza tracker e genera nuovi codici QR con un tocco."
   },
   "features": {
@@ -186,7 +186,7 @@
     },
     "shortcutsAutomation": {
       "question": "Posso automatizzare la pulizia dei link con i Comandi Rapidi o Siri?",
-      "answer": "Clean Links fornisce App Intents che funzionano sia con i Comandi Rapidi di Apple che con Siri. Puoi creare un comando rapido che pulisce i link dai tuoi appunti o da qualsiasi altra fonte. Ad esempio, usa questo comando rapido \"Clean Links\" per prendere il link nei tuoi appunti, pulirlo e incollare l'URL pulito di nuovo negli appunti: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+      "answer": "Clean Links offre Intenti dell'app che funzionano sia con Comandi Rapidi che con Siri. Puoi creare un comando rapido che pulisce i link presenti negli appunti o altrove. Ad esempio, usa questo <shortcut>comando rapido \"Clean Links\"</shortcut> per prelevare il link dai tuoi appunti, pulirlo e incollare l'URL pulito di nuovo negli appunti."
     },
     "manualCleaning": {
       "question": "A cosa serve quest'app e perché non posso semplicemente pulire i link manualmente?",

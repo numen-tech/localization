@@ -12,7 +12,7 @@
   "hero": {
     "logoAlt": "Logótipo do Clean Links",
     "title": "Clean Links",
-    "subtitle": "Limpador de Links e Leitor de Códigos QR Grátis para iPhone, iPad e Mac",
+    "subtitle": "Limpador de Links Gratuito e Leitor de Códigos QR Anti-Phishing para iPhone, iPad e Mac",
     "description": "Veja o destino real por trás de links curtos e códigos. O nosso leitor de códigos QR protege-o de phishing ao mostrar primeiro o URL completo. Remove rastreadores de milhares de domínios e milhares de parâmetros. Partilhe links sem rastreadores e gere novos códigos QR com um toque."
   },
   "features": {
@@ -186,7 +186,7 @@
     },
     "shortcutsAutomation": {
       "question": "Posso automatizar a limpeza de links com os Atalhos ou a Siri?",
-      "answer": "O Clean Links fornece Intenções de App que funcionam tanto com os Atalhos da Apple como com a Siri. Pode construir um atalho que limpa links da sua área de transferência ou qualquer outra coisa. Por exemplo, use este atalho \"Clean Links\" para obter o link na sua área de transferência, limpá-lo e colar o URL limpo de volta na área de transferência: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+      "answer": "O Clean Links disponibiliza App Intents que funcionam com os Atalhos da Apple e a Siri. Pode criar um atalho que limpa links da sua área de transferência ou de qualquer outra origem. Por exemplo, use este <shortcut>atalho \"Clean Links\"</shortcut> para obter o link na sua área de transferência, limpá-lo e colar o URL limpo de volta na área de transferência."
     },
     "manualCleaning": {
       "question": "Porque preciso desta aplicação e porque não posso simplesmente limpar os links manualmente?",

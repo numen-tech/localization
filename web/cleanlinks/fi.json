@@ -12,7 +12,7 @@
   "hero": {
     "logoAlt": "Clean Links -logo",
     "title": "Clean Links",
-    "subtitle": "Ilmainen linkkien puhdistaja ja QR-koodinlukija iPhonelle, iPadille ja Macille",
+    "subtitle": "Ilmainen linkinpuhdistin ja phishing-suojattu QR-koodinlukija iPhonelle, iPadille ja Macille",
     "description": "Näe lyhytlinkkien ja koodien todellinen kohde. QR-koodinlukijamme suojaa sinua tietojenkalastelulta (phishing) näyttämällä ensin koko URL-osoitteen. Poistaa seurantaelementit tuhansista verkkotunnuksista ja tuhansista parametreista. Jaa seurannasta vapaita linkkejä ja luo uusia QR-koodeja yhdellä napautuksella."
   },
   "features": {
@@ -186,7 +186,7 @@
     },
     "shortcutsAutomation": {
       "question": "Voinko automatisoida linkkien puhdistuksen Oikoteillä tai Sirillä?",
-      "answer": "Clean Links tarjoaa App Intents -toimintoja, jotka toimivat sekä Apple Oikoteiden että Sirin kanssa. Voit rakentaa oikotien, joka puhdistaa linkit leikepöydältäsi tai mistä tahansa muualta. Käytä esimerkiksi tätä \"Clean Links\" -oikotietä napataksesi linkin leikepöydältäsi, puhdistaaksesi sen ja liittääksesi puhdistetun URL-osoitteen takaisin leikepöydälle: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+      "answer": "Clean Links tukee App Intents -toimintoja, jotka toimivat sekä Apple Shortcuts -sovelluksen että Sirin kanssa. Voit luoda pikakomennon, joka puhdistaa linkkejä leikepöydältäsi tai mistä tahansa muualta. Esimerkiksi tällä <shortcut>\"Clean Links\" -pikakomennolla</shortcut> voit noutaa linkin leikepöydältäsi, puhdistaa sen ja liittää puhdistetun URL-osoitteen takaisin leikepöydälle."
     },
     "manualCleaning": {
       "question": "Mihin tarvitsen tätä sovellusta ja miksi en voi vain puhdistaa linkkejä käsin?",

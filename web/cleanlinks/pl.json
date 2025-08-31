@@ -12,7 +12,7 @@
   "hero": {
     "logoAlt": "Logo Clean Links",
     "title": "Clean Links",
-    "subtitle": "Darmowe czyszczenie linków i czytnik kodów QR na iPhone'a, iPada i Maca",
+    "subtitle": "Darmowe czyszczenie linków i antyphishingowy skaner QR na iPhone'a, iPada i Maca",
     "description": "Zobacz prawdziwy cel kryjący się za skróconymi linkami i kodami. Nasz czytnik kodów QR chroni Cię przed phishingiem, pokazując najpierw pełny adres URL. Usuwa moduły śledzące z tysięcy domen i tysięcy parametrów. Udostępniaj linki bez śledzenia i generuj nowe kody QR jednym dotknięciem."
   },
   "features": {
@@ -186,7 +186,7 @@
     },
     "shortcutsAutomation": {
       "question": "Czy mogę zautomatyzować czyszczenie linków za pomocą Skrótów lub Siri?",
-      "answer": "Clean Links dostarcza intencje aplikacji (App Intents), które działają zarówno z Skrótami Apple, jak i z Siri. Możesz zbudować skrót, który czyści linki ze schowka lub cokolwiek innego. Na przykład, użyj tego skrótu „Clean Links”, aby pobrać link ze schowka, wyczyścić go i wkleić wyczyszczony URL z powrotem do schowka: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+      "answer": "Clean Links oferuje Akcje aplikacji, które działają zarówno z aplikacją Skróty Apple, jak i z Siri. Możesz utworzyć skrót, który oczyszcza linki ze schowka lub dowolnego innego źródła. Na przykład użyj tego <shortcut>skrótu \"Clean Links\"</shortcut>, aby pobrać link ze schowka, oczyścić go i wkleić oczyszczony adres URL z powrotem do schowka."
     },
     "manualCleaning": {
       "question": "Po co mi ta aplikacja i dlaczego nie mogę po prostu ręcznie czyścić linków?",

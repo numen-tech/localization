@@ -12,7 +12,7 @@
   "hero": {
     "logoAlt": "Logo de Clean Links",
     "title": "Clean Links",
-    "subtitle": "Nettoyeur de liens et lecteur de codes QR gratuits pour iPhone, iPad et Mac",
+    "subtitle": "Nettoyeur de liens gratuit et lecteur de code QR anti-hameçonnage pour iPhone, iPad et Mac",
     "description": "Découvrez la destination réelle derrière les liens courts et les codes. Notre lecteur de QR codes vous protège du hameçonnage (phishing) en affichant d'abord l'URL complète. Supprime les traqueurs sur des milliers de domaines et des milliers de paramètres. Partagez des liens sans traqueurs et générez de nouveaux QR codes en un clic."
   },
   "features": {
@@ -186,7 +186,7 @@
     },
     "shortcutsAutomation": {
       "question": "Puis-je automatiser le nettoyage de liens avec Raccourcis ou Siri ?",
-      "answer": "Clean Links fournit des App Intents qui fonctionnent à la fois avec Raccourcis Apple et Siri. Vous pouvez créer un raccourci qui nettoie les liens de votre presse-papiers ou toute autre chose. Par exemple, utilisez ce raccourci « Clean Links » pour récupérer le lien dans votre presse-papiers, le nettoyer et coller l'URL nettoyée de nouveau dans le presse-papiers : https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+      "answer": "Clean Links propose des actions pour Raccourcis et Siri. Vous pouvez créer un raccourci qui nettoie les liens de votre presse-papiers ou de tout autre élément. Par exemple, utilisez ce <shortcut>raccourci \"Clean Links\"</shortcut> pour récupérer le lien de votre presse-papiers, le nettoyer, puis recoller l'URL nettoyée dans le presse-papiers."
     },
     "manualCleaning": {
       "question": "Pourquoi ai-je besoin de cette application et pourquoi ne puis-je pas simplement nettoyer les liens manuellement ?",

@@ -12,7 +12,7 @@
   "hero": {
     "logoAlt": "Clean Links logotyp",
     "title": "Clean Links",
-    "subtitle": "Gratis länkrensare och QR-kodsläsare för iPhone, iPad och Mac",
+    "subtitle": "Gratis länkrensare och QR-kodläsare med skydd mot nätfiske för iPhone, iPad och Mac",
     "description": "Se den verkliga destinationen bakom korta länkar och koder. Vår QR-kodläsare skyddar dig från nätfiske (phishing) genom att först visa hela URL:en. Tar bort spårare från tusentals domäner och tusentals parametrar. Dela spårningsfria länkar och generera nya QR-koder med ett tryck."
   },
   "features": {
@@ -186,7 +186,7 @@
     },
     "shortcutsAutomation": {
       "question": "Kan jag automatisera länkrensning med Genvägar eller Siri?",
-      "answer": "Clean Links tillhandahåller appavsikter som fungerar med både Apple Genvägar och Siri. Du kan bygga en genväg som rensar länkar från ditt urklipp eller något annat. Använd till exempel denna \"Clean Links\"-genväg för att ta länken i ditt urklipp, rensa den och klistra in den rensade URL:en tillbaka till urklippet: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+      "answer": "Clean Links erbjuder funktioner som fungerar med både Apple Genvägar och Siri. Du kan skapa ett genväg som rensar länkar från ditt urklipp eller något annat. Använd till exempel <shortcut>\"Clean Links\"-genvägen</shortcut> för att hämta länken i ditt urklipp, rensa den och klistra in den rensade URL:en i urklippet igen."
     },
     "manualCleaning": {
       "question": "Varför behöver jag den här appen och varför kan jag inte bara rensa länkar manuellt?",

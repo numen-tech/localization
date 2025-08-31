@@ -12,7 +12,7 @@
   "hero": {
     "logoAlt": "Clean Links logó",
     "title": "Clean Links",
-    "subtitle": "Ingyenes linktisztító és QR-kód olvasó iPhone, iPad és Mac eszközökre",
+    "subtitle": "Ingyenes linktisztító és adathalászat elleni QR-kód olvasó iPhone, iPad és Mac eszközökre",
     "description": "Lássa a valódi célt a rövidített linkek és kódok mögött. QR-kód olvasónk megvéd az adathalászattól (phishing) azáltal, hogy először a teljes URL-t mutatja meg. Eltávolítja a követőket több ezer domainről és több ezer paraméterből. Osszon meg követésmentes linkeket és generáljon új QR-kódokat egyetlen érintéssel."
   },
   "features": {
@@ -186,7 +186,7 @@
     },
     "shortcutsAutomation": {
       "question": "Automatizálhatom a linktisztítást a Parancsokkal vagy a Sirivel?",
-      "answer": "A Clean Links App Intents-et biztosít, amelyek mind az Apple Parancsokkal, mind a Sirivel működnek. Építhet egy parancsot, amely megtisztítja a linkeket a vágólapról vagy bárhonnan máshonnan. Például használja ezt a „Clean Links” parancsot, hogy megragadja a vágólapon lévő linket, megtisztítsa, és a megtisztított URL-t visszamásolja a vágólapra: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+      "answer": "A Clean Links App Intenteket biztosít, amelyek az Apple Parancsokkal és a Sirivel is működnek. Létrehozhatsz egy parancsot, amely megtisztítja a linkeket a vágólapról vagy bárhonnan máshonnan. Például használd ezt a <shortcut>\"Clean Links\" parancsot</shortcut> arra, hogy lekérd a vágólapon lévő linket, megtisztítsd, majd a megtisztított URL-t visszamásold a vágólapra."
     },
     "manualCleaning": {
       "question": "Miért van szükségem erre az alkalmazásra, és miért nem tudom egyszerűen manuálisan megtisztítani a linkeket?",

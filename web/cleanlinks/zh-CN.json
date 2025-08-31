@@ -12,7 +12,7 @@
   "hero": {
     "logoAlt": "Clean Links 标志",
     "title": "Clean Links",
-    "subtitle": "免费的链接清理器与二维码读取器，适用于 iPhone、iPad 和 Mac",
+    "subtitle": "免费链接净化与反钓鱼二维码扫描器，适用于 iPhone、iPad 和 Mac",
     "description": "查看短链接和代码背后的真正目的地。我们的二维码阅读器会首先显示完整网址，保护您免受网络钓鱼 (phishing) 的侵害。去除数千个域名和数千个参数中的跟踪器。一键分享无跟踪链接并生成全新的二维码。"
   },
   "features": {
@@ -186,7 +186,7 @@
     },
     "shortcutsAutomation": {
       "question": "我可以用快捷指令或 Siri 自动化链接清理吗？",
-      "answer": "Clean Links 提供了与 Apple 快捷指令和 Siri 兼容的 App Intents。您可以构建一个快捷指令来清理剪贴板中的链接或任何其他内容。例如，使用这个“Clean Links”快捷指令来获取剪贴板中的链接，进行清理，然后将清理后的网址粘贴回剪贴板：https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+      "answer": "Clean Links 提供了 App 意图, 可与 Apple 快捷指令和 Siri 搭配使用。您可以创建快捷指令来清理剪贴板及其他位置的链接。例如, 使用此 <shortcut>\"Clean Links\" 快捷指令</shortcut> 可获取剪贴板中的链接, 将其清理, 然后将已清理的 URL 粘贴回剪贴板。"
     },
     "manualCleaning": {
       "question": "我为什么需要这款应用，而不是直接手动清理链接呢？",
