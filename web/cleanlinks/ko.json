@@ -186,7 +186,7 @@
     },
     "shortcutsAutomation": {
       "question": "단축어나 Siri로 링크 정리를 자동화할 수 있나요?",
-      "answer": "Clean Links는 Apple 단축어와 Siri 모두에서 작동하는 앱 인텐트를 제공합니다. 클립보드나 다른 곳에서 링크를 정리하는 단축어를 만들 수 있습니다. 예를 들어, 이 \"Clean Links\" 단축어를 사용하여 클립보드의 링크를 가져와 정리하고 정리된 URL을 다시 클립보드에 붙여넣으세요: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+      "answer": "Clean Links는 Apple 단축어와 Siri에서 모두 작동하는 앱 인텐트를 제공합니다. 클립보드나 다른 곳에 있는 링크를 정리하는 단축어를 만들 수 있습니다. 예를 들어, 이 <shortcut>\"Clean Links\" 단축어</shortcut>를 사용하면 클립보드에 있는 링크를 가져와 정리하고, 정리된 URL을 다시 클립보드에 붙여넣을 수 있습니다."
     },
     "manualCleaning": {
       "question": "이 앱이 왜 필요한가요? 링크를 직접 정리하면 되지 않나요?",

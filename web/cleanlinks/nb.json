@@ -186,7 +186,7 @@
     },
     "shortcutsAutomation": {
       "question": "Kan jeg automatisere lenkerensing med Snarveier eller Siri?",
-      "answer": "Clean Links tilbyr App Intents som fungerer med både Apple Snarveier og Siri. Du kan bygge en snarvei som renser lenker fra utklippstavlen din eller noe annet. For eksempel, bruk denne «Clean Links»-snarveien for å hente lenken i utklippstavlen, rense den, og lime den rensede URL-en tilbake til utklippstavlen: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+      "answer": "Clean Links tilbyr app-handlinger som fungerer med både Apple Snarveier og Siri. Du kan lage en snarvei som renser lenker fra utklippstavlen din eller noe annet. For eksempel, bruk denne <shortcut>\"Clean Links\"-snarveien</shortcut> for å hente lenken på utklippstavlen, rense den, og lime inn den rensede URL-en tilbake på utklippstavlen."
     },
     "manualCleaning": {
       "question": "Hvorfor trenger jeg denne appen, og hvorfor kan jeg ikke bare rense lenker manuelt?",

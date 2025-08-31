@@ -186,7 +186,7 @@
     },
     "shortcutsAutomation": {
       "question": "Pot automatiza curățarea linkurilor cu Scurtături sau Siri?",
-      "answer": "Clean Links oferă Intenții de Aplicație (App Intents) care funcționează atât cu Scurtături Apple, cât și cu Siri. Puteți construi o scurtătură care curăță linkuri din clipboard sau orice altceva. De exemplu, utilizați această scurtătură „Clean Links” pentru a prelua linkul din clipboard, a-l curăța și a lipi URL-ul curățat înapoi în clipboard: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+      "answer": "Clean Links oferă Comenzi pentru aplicații care funcționează atât cu Comenzi rapide Apple, cât și cu Siri. Puteți crea o comandă rapidă care curăță linkurile din clipboard sau de oriunde altundeva. De exemplu, folosiți această <shortcut>comandă rapidă \"Clean Links\"</shortcut> pentru a prelua linkul din clipboard, a-l curăța și a lipi URL-ul curățat înapoi în clipboard."
     },
     "manualCleaning": {
       "question": "De ce am nevoie de această aplicație și de ce nu pot pur și simplu să curăț linkurile manual?",

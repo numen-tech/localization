@@ -186,7 +186,7 @@
     },
     "shortcutsAutomation": {
       "question": "Kan ik het opschonen van links automatiseren met Opdrachten of Siri?",
-      "answer": "Clean Links biedt App Intents die werken met zowel Apple Opdrachten als Siri. U kunt een opdracht bouwen die links van uw klembord of iets anders opschoont. Gebruik bijvoorbeeld deze \"Clean Links\"-opdracht om de link op uw klembord te pakken, op te schonen en de opgeschoonde URL terug op het klembord te plakken: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+      "answer": "Clean Links ondersteunt App Intents die werken met zowel Apple Opdrachten als Siri. Je kunt een opdracht aanmaken die links van je klembord of iets anders opschoont. Gebruik bijvoorbeeld deze <shortcut>\"Clean Links\"-opdracht</shortcut> om de link van je klembord te halen, op te schonen en de opgeschoonde URL terug op het klembord te plakken."
     },
     "manualCleaning": {
       "question": "Waarom heb ik deze app nodig en waarom kan ik links niet gewoon handmatig opschonen?",

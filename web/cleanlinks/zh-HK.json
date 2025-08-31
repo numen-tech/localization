@@ -186,7 +186,7 @@
     },
     "shortcutsAutomation": {
       "question": "我能用 Shortcuts 或 Siri 自動化連結清理嗎？",
-      "answer": "Clean Links 提供了可與 Apple Shortcuts 和 Siri 配合使用的 App Intents。您可以建立一個捷徑來清理剪貼簿中的連結或任何其他內容。例如，使用這個「Clean Links」捷徑來抓取您剪貼簿中的連結，清理它，然後將清理後的網址貼回剪貼簿：https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+      "answer": "Clean Links 支援 App Intents，可與 Apple「捷徑」及 Siri 搭配使用。你可以建立捷徑來清除剪貼簿或其他來源的連結。例如，使用這個 <shortcut>「Clean Links」捷徑</shortcut>，便能讀取剪貼簿中的連結，清除後再將乾淨的網址貼回剪貼簿。"
     },
     "manualCleaning": {
       "question": "為何我需要這個應用程式，而不能手動清理連結？",

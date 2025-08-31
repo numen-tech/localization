@@ -186,7 +186,7 @@
     },
     "shortcutsAutomation": {
       "question": "Kann ich die Link-Bereinigung mit Kurzbefehlen oder Siri automatisieren?",
-      "answer": "Clean Links bietet App Intents, die sowohl mit Apple-Kurzbefehlen als auch mit Siri funktionieren. Sie können einen Kurzbefehl erstellen, der Links aus Ihrer Zwischenablage oder von anderswo bereinigt. Verwenden Sie zum Beispiel diesen „Clean Links“-Kurzbefehl, um den Link in Ihrer Zwischenablage zu holen, ihn zu bereinigen und die bereinigte URL wieder in die Zwischenablage einzufügen: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+      "answer": "Clean Links bietet App Intents, die mit Apple Kurzbefehle und Siri funktionieren. Du kannst einen Kurzbefehl erstellen, der Links aus deiner Zwischenablage oder anderen Quellen bereinigt. Verwende zum Beispiel diesen <shortcut>\"Clean Links\"-Kurzbefehl</shortcut>, um den Link aus deiner Zwischenablage zu holen, ihn zu bereinigen und die bereinigte URL zurück in die Zwischenablage einzufügen."
     },
     "manualCleaning": {
       "question": "Warum brauche ich diese App und warum kann ich Links nicht einfach manuell bereinigen?",
