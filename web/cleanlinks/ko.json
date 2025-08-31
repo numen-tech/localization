@@ -12,7 +12,7 @@
   "hero": {
     "logoAlt": "Clean Links 로고",
     "title": "Clean Links",
-    "subtitle": "iPhone, iPad, Mac용 무료 링크 클리너 및 QR 코드 리더",
+    "subtitle": "iPhone, iPad, Mac용 무료 링크 클리너 및 피싱 방지 QR 코드 스캐너",
     "description": "단축 링크와 코드 뒤에 숨겨진 실제 목적지를 확인하세요. 저희 QR 코드 리더는 전체 URL을 먼저 보여주어 피싱으로부터 사용자를 보호합니다. 수천 개의 도메인과 매개변수에서 추적기를 제거합니다. 탭 한 번으로 추적기 없는 링크를 공유하고 새로운 QR 코드를 생성하세요."
   },
   "features": {

@@ -12,7 +12,7 @@
   "hero": {
     "logoAlt": "Clean Links Logosu",
     "title": "Clean Links",
-    "subtitle": "iPhone, iPad ve Mac için Ücretsiz Bağlantı Temizleyici ve QR Kod Okuyucu",
+    "subtitle": "iPhone, iPad ve Mac için Ücretsiz Bağlantı Temizleyici ve Kimlik Avı Önleyici QR Kod Okuyucu",
     "description": "Kısa bağlantıların ve kodların arkasındaki gerçek hedefi görün. QR kod okuyucumuz, önce tam URL'yi göstererek sizi kimlik avı (phishing) saldırılarından korur. Binlerce alan adından ve binlerce parametreden izleyicileri kaldırır. İzleyicisiz bağlantılar paylaşın ve tek dokunuşla yeni QR kodları oluşturun."
   },
   "features": {

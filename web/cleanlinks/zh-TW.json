@@ -12,7 +12,7 @@
   "hero": {
     "logoAlt": "Clean Links 標誌",
     "title": "Clean Links",
-    "subtitle": "適用於 iPhone、iPad 和 Mac 的免費連結清理器與 QR Code 掃描器",
+    "subtitle": "適用於 iPhone、iPad 和 Mac 的免費連結清理與防釣魚 QR 碼掃描器",
     "description": "查看短連結和代碼背後的真正目的地。我們的 QR Code 閱讀器會先顯示完整網址，保護您免受網路釣魚 (phishing) 的侵害。去除數千個網域和數千個參數中的追蹤器。一鍵分享無追蹤連結並產生全新的 QR Code。"
   },
   "features": {

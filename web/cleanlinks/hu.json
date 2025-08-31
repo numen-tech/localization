@@ -12,7 +12,7 @@
   "hero": {
     "logoAlt": "Clean Links logó",
     "title": "Clean Links",
-    "subtitle": "Ingyenes linktisztító és QR-kód olvasó iPhone, iPad és Mac eszközökre",
+    "subtitle": "Ingyenes linktisztító és adathalászat elleni QR-kód olvasó iPhone, iPad és Mac eszközökre",
     "description": "Lássa a valódi célt a rövidített linkek és kódok mögött. QR-kód olvasónk megvéd az adathalászattól (phishing) azáltal, hogy először a teljes URL-t mutatja meg. Eltávolítja a követőket több ezer domainről és több ezer paraméterből. Osszon meg követésmentes linkeket és generáljon új QR-kódokat egyetlen érintéssel."
   },
   "features": {

@@ -12,7 +12,7 @@
   "hero": {
     "logoAlt": "Clean Links -logo",
     "title": "Clean Links",
-    "subtitle": "Ilmainen linkkien puhdistaja ja QR-koodinlukija iPhonelle, iPadille ja Macille",
+    "subtitle": "Ilmainen linkinpuhdistin ja phishing-suojattu QR-koodinlukija iPhonelle, iPadille ja Macille",
     "description": "Näe lyhytlinkkien ja koodien todellinen kohde. QR-koodinlukijamme suojaa sinua tietojenkalastelulta (phishing) näyttämällä ensin koko URL-osoitteen. Poistaa seurantaelementit tuhansista verkkotunnuksista ja tuhansista parametreista. Jaa seurannasta vapaita linkkejä ja luo uusia QR-koodeja yhdellä napautuksella."
   },
   "features": {
