@@ -146,7 +146,7 @@
     },
     "deviceRequirements": {
       "question": "Which devices and iOS versions does Clean Links support?",
-      "answer": "Clean Links supports iPhone, iPad, and Mac devices that can run iOS 18.0 or later (iPhone/iPad) or macOS equivalent versions."
+      "answer": "Clean Links supports iPhone, iPad, and Mac devices that can run iOS 18.0 or later (iPhone/iPad) or macOS Sequoia or later."
     },
     "whyCreate": {
       "question": "Why did we create Clean Links?",
@@ -187,6 +187,14 @@
     "shortcutsAutomation": {
       "question": "Can I automate link cleaning with Shortcuts or Siri?",
       "answer": "Clean Links provides App Intents that work with both Apple Shortcuts and Siri. You can build a shortcut that cleans links from your clipboard or anything else. For example, use this \"Clean Links\" shortcut to grab the link in your clipboard, clean it, and paste the cleaned URL back on to the clipboard: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+    },
+    "manualCleaning": {
+      "question": "Why do I need this app and why can't I just clean links manually?",
+      "answer": "Most tracking parameters are now hidden behind redirects such as t.co, l.facebook.com, l.instagram.com, and lnkd.in - you cannot see these parameters until you click. Clean Links automatically handles this for you, saving you from tedious manual work and protecting you from hidden trackers."
+    },
+    "localProcessing": {
+      "question": "Is this really local? I see it makes network requests to the URL",
+      "answer": "Yes, Clean Links is truly local processing. We do make network requests directly from your device to resolve tracking parameters that are hidden behind redirects - this is technically necessary because many trackers are only revealed after following the redirect chain. However, there's no third-party API involved (not even our own servers). Every request starts with a completely clean slate: no cookies are persisted between requests, no browsing history is maintained, and we use sandboxed sessions with randomised user agents. Most importantly, we do not log or track what links you clean. Ever. Your link cleaning activity stays completely private on your device. For additional privacy protection, we recommend using iCloud Private Relay or a VPN to mask your IP address when Clean Links makes these necessary network requests to resolve redirects."
     }
   },
   "cta": {

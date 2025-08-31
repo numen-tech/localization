@@ -146,7 +146,7 @@
     },
     "deviceRequirements": {
       "question": "Mitä laitteita ja iOS-versioita Clean Links tukee?",
-      "answer": "Clean Links tukee iPhone-, iPad- ja Mac-laitteita, joissa on iOS 18.0 tai uudempi (iPhone/iPad) tai vastaava macOS-versio."
+      "answer": "Clean Links tukee iPhone-, iPad- ja Mac-laitteita, joissa on käytössä iOS 18.0 tai uudempi (iPhone/iPad) tai macOS Sequoia tai uudempi."
     },
     "whyCreate": {
       "question": "Miksi loimme Clean Links -sovelluksen?",
@@ -187,6 +187,14 @@
     "shortcutsAutomation": {
       "question": "Voinko automatisoida linkkien puhdistuksen Oikoteillä tai Sirillä?",
       "answer": "Clean Links tarjoaa App Intents -toimintoja, jotka toimivat sekä Apple Oikoteiden että Sirin kanssa. Voit rakentaa oikotien, joka puhdistaa linkit leikepöydältäsi tai mistä tahansa muualta. Käytä esimerkiksi tätä \"Clean Links\" -oikotietä napataksesi linkin leikepöydältäsi, puhdistaaksesi sen ja liittääksesi puhdistetun URL-osoitteen takaisin leikepöydälle: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+    },
+    "manualCleaning": {
+      "question": "Mihin tarvitsen tätä sovellusta ja miksi en voi vain puhdistaa linkkejä käsin?",
+      "answer": "Useimmat seurantaparametrit ovat nykyään piilossa uudelleenohjausten, kuten t.co, l.facebook.com, l.instagram.com ja lnkd.in, takana - et näe näitä parametreja ennen kuin klikkaat. Clean Links hoitaa tämän automaattisesti puolestasi, mikä säästää sinut vaivalloiselta manuaaliselta työltä ja suojaa sinua piilotetuilta seuraimilta."
+    },
+    "localProcessing": {
+      "question": "Toimiiko tämä todella paikallisesti? Näen, että se tekee verkkopyyntöjä URL-osoitteeseen.",
+      "answer": "Kyllä, Clean Links suorittaa käsittelyn täysin paikallisesti. Teemme verkkopyyntöjä suoraan laitteeltasi selvittääksemme uudelleenohjausten taakse piilotetut seurantaparametrit - tämä on teknisesti välttämätöntä, koska monet seuraimet paljastuvat vasta uudelleenohjausketjun seuraamisen jälkeen. Mukana ei kuitenkaan ole kolmannen osapuolen API-rajapintoja, ei edes omia palvelimiamme. Jokainen pyyntö alkaa täysin puhtaalta pöydältä: evästeitä ei säilytetä pyyntöjen välillä, selaushistoriaa ei ylläpidetä, ja käytämme hiekkalaatikoituja istuntoja satunnaistetuilla user agent -tunnisteilla. Tärkeintä on, että emme kirjaa tai seuraa, mitä linkkejä puhdistat. Emme koskaan. Linkkien puhdistustoimintasi pysyy täysin yksityisenä laitteellasi. Yksityisyytesi lisäsuojaamiseksi suosittelemme käyttämään Yksityistä siirtoa iCloudilla (Private Relay) tai VPN-yhteyttä IP-osoitteesi piilottamiseen, kun Clean Links tekee näitä välttämättömiä verkkopyyntöjä uudelleenohjausten selvittämiseksi."
     }
   },
   "cta": {

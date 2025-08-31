@@ -146,7 +146,7 @@
     },
     "deviceRequirements": {
       "question": "Quais dispositivos e versões do iOS o Clean Links suporta?",
-      "answer": "O Clean Links é compatível com dispositivos iPhone, iPad e Mac que podem rodar o iOS 18.0 ou posterior (iPhone/iPad) ou versões equivalentes do macOS."
+      "answer": "O Clean Links é compatível com dispositivos iPhone, iPad e Mac que podem executar o iOS 18.0 ou posterior (iPhone/iPad) ou o macOS Sequoia ou posterior."
     },
     "whyCreate": {
       "question": "Por que criamos o Clean Links?",
@@ -187,6 +187,14 @@
     "shortcutsAutomation": {
       "question": "Posso automatizar a limpeza de links com Atalhos ou a Siri?",
       "answer": "O Clean Links fornece App Intents que funcionam tanto com os Atalhos da Apple quanto com a Siri. Você pode criar um atalho que limpa links da sua área de transferência ou de qualquer outro lugar. Por exemplo, use este atalho \"Clean Links\" para pegar o link na sua área de transferência, limpá-lo e colar a URL limpa de volta na área de transferência: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+    },
+    "manualCleaning": {
+      "question": "Por que eu preciso deste app e por que não posso simplesmente limpar os links manualmente?",
+      "answer": "A maioria dos parâmetros de rastreamento agora está oculta em redirecionamentos como t.co, l.facebook.com, l.instagram.com e lnkd.in - você não consegue ver esses parâmetros até clicar. O Clean Links lida com isso automaticamente para você, poupando você do trabalho manual tedioso e protegendo você de rastreadores ocultos."
+    },
+    "localProcessing": {
+      "question": "O processamento é realmente local? Vejo que o app faz requisições de rede para a URL.",
+      "answer": "Sim, o processamento do Clean Links é verdadeiramente local. Nós fazemos requisições de rede diretamente do seu dispositivo para resolver parâmetros de rastreamento ocultos em redirecionamentos - isso é tecnicamente necessário porque muitos rastreadores só são revelados após seguir a cadeia de redirecionamento. No entanto, não há nenhuma API de terceiros envolvida (nem mesmo nossos próprios servidores). Cada requisição começa do zero: nenhum cookie é mantido entre as requisições, nenhum histórico de navegação é mantido, e usamos sessões em sandbox com user agents aleatórios. O mais importante é que não registramos nem rastreamos os links que você limpa. Nunca. Sua atividade de limpeza de links permanece totalmente privada em seu dispositivo. Para proteção de privacidade adicional, recomendamos o uso da Retransmissão Privada do iCloud ou de uma VPN para mascarar seu endereço de IP quando o Clean Links faz essas requisições de rede necessárias para resolver redirecionamentos."
     }
   },
   "cta": {

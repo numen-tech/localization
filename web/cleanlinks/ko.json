@@ -146,7 +146,7 @@
     },
     "deviceRequirements": {
       "question": "Clean Links는 어떤 기기와 iOS 버전을 지원하나요?",
-      "answer": "Clean Links는 iOS 18.0 이상(iPhone/iPad) 또는 그에 상응하는 macOS 버전을 실행할 수 있는 iPhone, iPad, Mac 기기를 지원합니다."
+      "answer": "Clean Links는 iOS 18.0 이상(iPhone/iPad) 및 macOS Sequoia 이상을 실행하는 iPhone, iPad, Mac 기기를 지원합니다."
     },
     "whyCreate": {
       "question": "왜 Clean Links를 만들었나요?",
@@ -187,6 +187,14 @@
     "shortcutsAutomation": {
       "question": "단축어나 Siri로 링크 정리를 자동화할 수 있나요?",
       "answer": "Clean Links는 Apple 단축어와 Siri 모두에서 작동하는 앱 인텐트를 제공합니다. 클립보드나 다른 곳에서 링크를 정리하는 단축어를 만들 수 있습니다. 예를 들어, 이 \"Clean Links\" 단축어를 사용하여 클립보드의 링크를 가져와 정리하고 정리된 URL을 다시 클립보드에 붙여넣으세요: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+    },
+    "manualCleaning": {
+      "question": "이 앱이 왜 필요한가요? 링크를 직접 정리하면 되지 않나요?",
+      "answer": "대부분의 추적 파라미터는 이제 t.co, l.facebook.com, l.instagram.com, lnkd.in과 같은 리디렉션 뒤에 숨겨져 있어 클릭하기 전에는 보이지 않습니다. Clean Links가 이 과정을 자동으로 처리하여 번거로운 수작업을 없애고 숨겨진 트래커로부터 사용자를 보호해 줍니다."
+    },
+    "localProcessing": {
+      "question": "정말로 기기 내에서만 처리되나요? URL로 네트워크 요청을 보내는 것 같은데요.",
+      "answer": "네, Clean Links는 온전히 기기 내에서만 처리됩니다. 리디렉션 뒤에 숨겨진 추적 파라미터를 확인하기 위해 사용자의 기기에서 직접 네트워크 요청을 보내기는 합니다. 이는 많은 트래커가 리디렉션 체인을 따라간 후에만 나타나기 때문에 기술적으로 필요한 과정입니다. 하지만 이 과정에 제3자 API는 물론 저희 서버조차 관여하지 않습니다. 모든 요청은 완전히 새로운 상태에서 시작됩니다. 요청 간에 쿠키가 저장되지 않으며, 방문 기록이 남지 않고, 무작위 사용자 에이전트를 사용하는 샌드박스 세션을 이용합니다. 가장 중요한 점은, 저희는 사용자가 어떤 링크를 정리하는지 절대 기록하거나 추적하지 않는다는 것입니다. 사용자의 링크 정리 활동은 기기 내에 완벽하게 비공개로 유지됩니다. 추가적인 개인정보 보호를 위해, Clean Links가 리디렉션을 확인하는 데 필요한 네트워크 요청을 보낼 때 iCloud Private Relay나 VPN을 사용하여 IP 주소를 가리는 것을 권장합니다."
     }
   },
   "cta": {

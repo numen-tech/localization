@@ -146,7 +146,7 @@
     },
     "deviceRequirements": {
       "question": "Quels appareils et versions d'iOS Clean Links prend-il en charge ?",
-      "answer": "Clean Links est compatible avec les appareils iPhone, iPad et Mac pouvant exécuter iOS 18.0 ou une version ultérieure (iPhone/iPad) ou les versions équivalentes de macOS."
+      "answer": "Clean Links est compatible avec les appareils iPhone, iPad et Mac fonctionnant sous iOS 18.0 ou une version ultérieure (iPhone/iPad) ou macOS Sequoia ou une version ultérieure."
     },
     "whyCreate": {
       "question": "Pourquoi avons-nous créé Clean Links ?",
@@ -187,6 +187,14 @@
     "shortcutsAutomation": {
       "question": "Puis-je automatiser le nettoyage de liens avec Raccourcis ou Siri ?",
       "answer": "Clean Links fournit des App Intents qui fonctionnent à la fois avec Raccourcis Apple et Siri. Vous pouvez créer un raccourci qui nettoie les liens de votre presse-papiers ou toute autre chose. Par exemple, utilisez ce raccourci « Clean Links » pour récupérer le lien dans votre presse-papiers, le nettoyer et coller l'URL nettoyée de nouveau dans le presse-papiers : https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+    },
+    "manualCleaning": {
+      "question": "Pourquoi ai-je besoin de cette application et pourquoi ne puis-je pas simplement nettoyer les liens manuellement ?",
+      "answer": "La plupart des paramètres de suivi sont désormais cachés derrière des redirections telles que t.co, l.facebook.com, l.instagram.com et lnkd.in - vous ne pouvez pas voir ces paramètres avant de cliquer. Clean Links s'en occupe automatiquement pour vous, vous évitant un travail manuel fastidieux et vous protégeant des traqueurs cachés."
+    },
+    "localProcessing": {
+      "question": "Le traitement est-il vraiment local ? Je vois que l'application effectue des requêtes réseau vers l'URL.",
+      "answer": "Oui, le traitement de Clean Links est entièrement local. Nous effectuons des requêtes réseau directement depuis votre appareil pour résoudre les paramètres de suivi cachés derrière des redirections - c'est techniquement nécessaire car de nombreux traqueurs ne sont révélés qu'après avoir suivi la chaîne de redirection. Cependant, aucune API tierce n'est impliquée (pas même nos propres serveurs). Chaque requête part d'une page blanche : aucun cookie n'est conservé entre les requêtes, aucun historique de navigation n'est conservé, et nous utilisons des sessions en bac à sable avec des agents utilisateurs aléatoires. Plus important encore, nous n'enregistrons ni ne suivons les liens que vous nettoyez. Jamais. L'activité de nettoyage de vos liens reste entièrement privée sur votre appareil. Pour une protection supplémentaire de votre vie privée, nous recommandons d'utiliser le Relais privé iCloud ou un VPN pour masquer votre adresse IP lorsque Clean Links effectue ces requêtes réseau nécessaires pour résoudre les redirections."
     }
   },
   "cta": {

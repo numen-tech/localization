@@ -146,7 +146,7 @@
     },
     "deviceRequirements": {
       "question": "Která zařízení a verze iOS Clean Links podporuje?",
-      "answer": "Clean Links podporuje zařízení iPhone, iPad a Mac, na kterých běží iOS 18.0 nebo novější (iPhone/iPad) nebo ekvivalentní verze macOS."
+      "answer": "Clean Links podporuje zařízení iPhone, iPad a Mac s operačním systémem iOS 18.0 nebo novějším (iPhone/iPad) nebo macOS Sequoia či novějším."
     },
     "whyCreate": {
       "question": "Proč jsme vytvořili Clean Links?",
@@ -187,6 +187,14 @@
     "shortcutsAutomation": {
       "question": "Mohu automatizovat čištění odkazů pomocí Zkratek nebo Siri?",
       "answer": "Clean Links poskytuje App Intents, které fungují s Apple Shortcuts i Siri. Můžete si vytvořit zkratku, která čistí odkazy z vaší schránky nebo cokoli jiného. Například použijte tuto zkratku „Clean Links“ k získání odkazu ve vaší schránce, jeho vyčištění a vložení vyčištěné URL zpět do schránky: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+    },
+    "manualCleaning": {
+      "question": "Proč potřebuji tuto aplikaci a proč si nemohu odkazy prostě čistit ručně?",
+      "answer": "Většina sledovacích parametrů je nyní skryta za přesměrováními, jako jsou t.co, l.facebook.com, l.instagram.com a lnkd.in - tyto parametry neuvidíte, dokud na odkaz nekliknete. Clean Links to za vás automaticky vyřeší, ušetří vám zdlouhavou ruční práci a ochrání vás před skrytými sledovacími prvky."
+    },
+    "localProcessing": {
+      "question": "Je to opravdu lokální? Vidím, že aplikace posílá síťové požadavky na URL.",
+      "answer": "Ano, Clean Links provádí zpracování skutečně lokálně. Síťové požadavky odesíláme přímo z vašeho zařízení, abychom rozpoznali sledovací parametry skryté za přesměrováními - je to technicky nezbytné, protože mnoho sledovacích prvků se odhalí až po projití řetězce přesměrování. Nepoužíváme však žádné API třetích stran (ani naše vlastní servery). Každý požadavek začíná s čistým štítem: mezi požadavky se neukládají žádné cookies, neuchovává se žádná historie prohlížení a používáme izolované (sandboxed) relace s náhodnými user agenty. A co je nejdůležitější, nikdy neprotokolujeme ani nesledujeme, jaké odkazy čistíte. Vaše aktivita čištění odkazů zůstává zcela soukromá na vašem zařízení. Pro dodatečnou ochranu soukromí doporučujeme použít Soukromý přenos přes iCloud nebo VPN k zamaskování vaší IP adresy, když Clean Links odesílá tyto nezbytné síťové požadavky k vyřešení přesměrování."
     }
   },
   "cta": {
