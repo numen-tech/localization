@@ -146,7 +146,7 @@
     },
     "deviceRequirements": {
       "question": "Mely eszközöket és iOS verziókat támogatja a Clean Links?",
-      "answer": "A Clean Links támogatja azokat az iPhone, iPad és Mac eszközöket, amelyeken iOS 18.0 vagy újabb (iPhone/iPad), illetve annak megfelelő macOS verzió fut."
+      "answer": "A Clean Links azokat az iPhone, iPad és Mac eszközöket támogatja, amelyeken iOS 18.0 vagy újabb (iPhone/iPad), illetve macOS Sequoia vagy újabb rendszer fut."
     },
     "whyCreate": {
       "question": "Miért hoztuk létre a Clean Links-et?",
@@ -187,6 +187,14 @@
     "shortcutsAutomation": {
       "question": "Automatizálhatom a linktisztítást a Parancsokkal vagy a Sirivel?",
       "answer": "A Clean Links App Intents-et biztosít, amelyek mind az Apple Parancsokkal, mind a Sirivel működnek. Építhet egy parancsot, amely megtisztítja a linkeket a vágólapról vagy bárhonnan máshonnan. Például használja ezt a „Clean Links” parancsot, hogy megragadja a vágólapon lévő linket, megtisztítsa, és a megtisztított URL-t visszamásolja a vágólapra: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+    },
+    "manualCleaning": {
+      "question": "Miért van szükségem erre az alkalmazásra, és miért nem tudom egyszerűen manuálisan megtisztítani a linkeket?",
+      "answer": "A legtöbb követési paraméter ma már átirányítások mögé van rejtve, mint például a t.co, l.facebook.com, l.instagram.com és az lnkd.in - ezeket a paramétereket csak a kattintás után láthatod. A Clean Links ezt automatikusan elvégzi helyetted, megkímélve a fáradságos manuális munkától és megvédve a rejtett követőktől."
+    },
+    "localProcessing": {
+      "question": "Valóban helyi a feldolgozás? Látom, hogy hálózati kéréseket küld az URL-re.",
+      "answer": "Igen, a Clean Links valóban helyben végzi a feldolgozást. Közvetlenül az eszközödről indítunk hálózati kéréseket az átirányítások mögé rejtett követési paraméterek feloldásához - ez technikailag szükséges, mivel sok követő csak az átirányítási lánc követése után fedi fel magát. Ehhez azonban nem használunk harmadik féltől származó API-t (még a saját szervereinket sem). Minden kérés tiszta lappal indul: a kérések között nem maradnak meg sütik, nem jön létre böngészési előzmény, és véletlenszerűsített user agent-ekkel ellátott, izolált (sandboxed) munkameneteket használunk. A legfontosabb: soha nem naplózzuk és nem követjük, hogy milyen linkeket tisztítasz meg. A linkjeid tisztítása teljes mértékben privát marad az eszközödön. A fokozott adatvédelem érdekében javasoljuk az iCloud Private Relay vagy egy VPN használatát az IP-címed elfedésére, amikor a Clean Links elvégzi az átirányítások feloldásához szükséges hálózati kéréseket."
     }
   },
   "cta": {

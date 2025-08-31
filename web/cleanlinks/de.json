@@ -146,7 +146,7 @@
     },
     "deviceRequirements": {
       "question": "Welche Geräte und iOS-Versionen unterstützt Clean Links?",
-      "answer": "Clean Links unterstützt iPhone-, iPad- und Mac-Geräte, auf denen iOS 18.0 oder neuer (iPhone/iPad) oder entsprechende macOS-Versionen laufen."
+      "answer": "Clean Links unterstützt iPhone-, iPad- und Mac-Geräte, auf denen iOS 18.0 oder neuer (iPhone/iPad) oder macOS Sequoia oder neuer läuft."
     },
     "whyCreate": {
       "question": "Warum haben wir Clean Links entwickelt?",
@@ -187,6 +187,14 @@
     "shortcutsAutomation": {
       "question": "Kann ich die Link-Bereinigung mit Kurzbefehlen oder Siri automatisieren?",
       "answer": "Clean Links bietet App Intents, die sowohl mit Apple-Kurzbefehlen als auch mit Siri funktionieren. Sie können einen Kurzbefehl erstellen, der Links aus Ihrer Zwischenablage oder von anderswo bereinigt. Verwenden Sie zum Beispiel diesen „Clean Links“-Kurzbefehl, um den Link in Ihrer Zwischenablage zu holen, ihn zu bereinigen und die bereinigte URL wieder in die Zwischenablage einzufügen: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+    },
+    "manualCleaning": {
+      "question": "Warum brauche ich diese App und warum kann ich Links nicht einfach manuell bereinigen?",
+      "answer": "Die meisten Tracking-Parameter sind jetzt hinter Weiterleitungen wie t.co, l.facebook.com, l.instagram.com und lnkd.in versteckt - Sie können diese Parameter erst sehen, wenn Sie klicken. Clean Links erledigt das automatisch für Sie, erspart Ihnen mühsame manuelle Arbeit und schützt Sie vor versteckten Trackern."
+    },
+    "localProcessing": {
+      "question": "Ist das wirklich lokal? Ich sehe, dass Netzwerkanfragen an die URL gesendet werden.",
+      "answer": "Ja, die Verarbeitung durch Clean Links erfolgt vollständig lokal. Wir senden tatsächlich Netzwerkanfragen direkt von Ihrem Gerät, um Tracking-Parameter aufzulösen, die hinter Weiterleitungen versteckt sind - das ist technisch notwendig, da viele Tracker erst nach dem Durchlaufen der Weiterleitungskette sichtbar werden. Es ist jedoch keine Drittanbieter-API beteiligt (nicht einmal unsere eigenen Server). Jede Anfrage beginnt bei null: Es werden keine Cookies zwischen Anfragen gespeichert, kein Browserverlauf wird beibehalten und wir verwenden Sandbox-Sitzungen mit zufälligen User-Agents. Am wichtigsten ist: Wir protokollieren oder verfolgen niemals, welche Links Sie bereinigen. Niemals. Ihre Aktivitäten zur Link-Bereinigung bleiben vollständig privat auf Ihrem Gerät. Für zusätzlichen Datenschutz empfehlen wir die Verwendung von iCloud Private Relay oder einem VPN, um Ihre IP-Adresse zu verschleiern, wenn Clean Links diese notwendigen Netzwerkanfragen zum Auflösen von Weiterleitungen sendet."
     }
   },
   "cta": {

@@ -146,7 +146,7 @@
     },
     "deviceRequirements": {
       "question": "Welke apparaten en iOS-versies ondersteunt Clean Links?",
-      "answer": "Clean Links ondersteunt iPhone-, iPad- en Mac-apparaten die iOS 18.0 of nieuwer (iPhone/iPad) of gelijkwaardige macOS-versies kunnen draaien."
+      "answer": "Clean Links ondersteunt iPhone-, iPad- en Mac-apparaten met iOS 18.0 of nieuwer (iPhone/iPad) of macOS Sequoia of nieuwer."
     },
     "whyCreate": {
       "question": "Waarom hebben we Clean Links gemaakt?",
@@ -187,6 +187,14 @@
     "shortcutsAutomation": {
       "question": "Kan ik het opschonen van links automatiseren met Opdrachten of Siri?",
       "answer": "Clean Links biedt App Intents die werken met zowel Apple Opdrachten als Siri. U kunt een opdracht bouwen die links van uw klembord of iets anders opschoont. Gebruik bijvoorbeeld deze \"Clean Links\"-opdracht om de link op uw klembord te pakken, op te schonen en de opgeschoonde URL terug op het klembord te plakken: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+    },
+    "manualCleaning": {
+      "question": "Waarom heb ik deze app nodig en waarom kan ik links niet gewoon handmatig opschonen?",
+      "answer": "De meeste trackingparameters zijn tegenwoordig verborgen achter redirects zoals t.co, l.facebook.com, l.instagram.com en lnkd.in - je kunt deze parameters pas zien nadat je klikt. Clean Links regelt dit automatisch voor je, wat je vervelend handmatig werk bespaart en je beschermt tegen verborgen trackers."
+    },
+    "localProcessing": {
+      "question": "Werkt dit echt lokaal? Ik zie dat de app netwerkverzoeken naar de URL stuurt.",
+      "answer": "Ja, Clean Links verwerkt alles echt lokaal. We sturen inderdaad netwerkverzoeken rechtstreeks vanaf je apparaat om trackingparameters te achterhalen die verborgen zijn achter redirects - dit is technisch noodzakelijk omdat veel trackers pas zichtbaar worden na het volgen van de redirect-keten. Er is echter geen API van derden bij betrokken (zelfs onze eigen servers niet). Elk verzoek begint met een volledig schone lei: er worden geen cookies bewaard tussen verzoeken, er wordt geen browsegeschiedenis bijgehouden en we gebruiken sandboxed sessies met willekeurige user agents. Het belangrijkste is dat we niet loggen of bijhouden welke links je opschoont. Nooit. Wat je opschoont, blijft volledig privé op je apparaat. Voor extra privacybescherming raden we aan om iCloud Private Relay of een VPN te gebruiken om je IP-adres te maskeren wanneer Clean Links deze noodzakelijke netwerkverzoeken verstuurt om redirects te volgen."
     }
   },
   "cta": {

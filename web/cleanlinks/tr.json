@@ -146,7 +146,7 @@
     },
     "deviceRequirements": {
       "question": "Clean Links hangi cihazları ve iOS sürümlerini destekliyor?",
-      "answer": "Clean Links, iOS 18.0 veya üstünü (iPhone/iPad) ya da eşdeğer macOS sürümlerini çalıştırabilen iPhone, iPad ve Mac cihazlarını destekler."
+      "answer": "Clean Links, iOS 18.0 veya üzerini (iPhone/iPad) ya da macOS Sequoia veya üzerini çalıştırabilen iPhone, iPad ve Mac cihazlarını destekler."
     },
     "whyCreate": {
       "question": "Clean Links'i neden oluşturduk?",
@@ -187,6 +187,14 @@
     "shortcutsAutomation": {
       "question": "Bağlantı temizlemeyi Kestirmeler veya Siri ile otomatikleştirebilir miyim?",
       "answer": "Clean Links, hem Apple Kestirmeler hem de Siri ile çalışan Uygulama Amaçları sağlar. Panonuzdaki veya başka herhangi bir yerdeki bağlantıları temizleyen bir kestirme oluşturabilirsiniz. Örneğin, panonuzdaki bağlantıyı almak, temizlemek ve temizlenmiş URL'yi tekrar panoya yapıştırmak için bu \"Clean Links\" kestirmesini kullanın: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+    },
+    "manualCleaning": {
+      "question": "Bu uygulamaya neden ihtiyacım var ve bağlantıları neden elle temizleyemiyorum?",
+      "answer": "Çoğu izleme parametresi artık t.co, l.facebook.com, l.instagram.com ve lnkd.in gibi yönlendirmelerin arkasında gizlidir - bu parametreleri tıklayana kadar göremezsiniz. Clean Links bunu sizin için otomatik olarak halleder, sizi zahmetli manuel işlerden kurtarır ve gizli izleyicilerden korur."
+    },
+    "localProcessing": {
+      "question": "Uygulama gerçekten yerel olarak mı çalışıyor? URL'ye ağ istekleri yaptığını görüyorum.",
+      "answer": "Evet, Clean Links tamamen yerel işlem yapar. Yönlendirmelerin arkasına gizlenmiş izleme parametrelerini çözümlemek için doğrudan cihazınızdan ağ istekleri yapıyoruz - bu teknik olarak gereklidir çünkü birçok izleyici yalnızca yönlendirme zinciri takip edildikten sonra ortaya çıkar. Ancak, sürece hiçbir üçüncü taraf API'si (kendi sunucularımız bile) dahil değildir. Her istek tamamen temiz bir başlangıçla başlar: istekler arasında çerezler kalıcı olmaz, gezinme geçmişi tutulmaz ve rastgele kullanıcı aracıları ile korumalı alan oturumları kullanırız. En önemlisi, hangi bağlantıları temizlediğinizi kaydetmez veya izlemeyiz. Asla. Bağlantı temizleme etkinliğiniz tamamen cihazınızda gizli kalır. Ek gizlilik koruması için, Clean Links yönlendirmeleri çözümlemek amacıyla bu gerekli ağ isteklerini yaptığında IP adresinizi maskelemek için iCloud Özel Geçişi'ni veya bir VPN kullanmanızı öneririz."
     }
   },
   "cta": {

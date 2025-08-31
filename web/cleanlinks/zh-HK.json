@@ -146,7 +146,7 @@
     },
     "deviceRequirements": {
       "question": "Clean Links 支援哪些裝置和 iOS 版本？",
-      "answer": "Clean Links 支援可運行 iOS 18.0 或更新版本 (iPhone/iPad) 或同等 macOS 版本的 iPhone、iPad 和 Mac 裝置。"
+      "answer": "Clean Links 支援運行 iOS 18.0 或更新版本的 iPhone 和 iPad，以及運行 macOS Sequoia 或更新版本的 Mac 裝置。"
     },
     "whyCreate": {
       "question": "我們為什麼要創建 Clean Links？",
@@ -187,6 +187,14 @@
     "shortcutsAutomation": {
       "question": "我能用 Shortcuts 或 Siri 自動化連結清理嗎？",
       "answer": "Clean Links 提供了可與 Apple Shortcuts 和 Siri 配合使用的 App Intents。您可以建立一個捷徑來清理剪貼簿中的連結或任何其他內容。例如，使用這個「Clean Links」捷徑來抓取您剪貼簿中的連結，清理它，然後將清理後的網址貼回剪貼簿：https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+    },
+    "manualCleaning": {
+      "question": "為何我需要這個應用程式，而不能手動清理連結？",
+      "answer": "現時，大多數追蹤參數都隱藏在 t.co、l.facebook.com、l.instagram.com 和 lnkd.in 等重定向連結之後 - 你在點擊前無法看到這些參數。Clean Links 會自動為你處理，省去繁瑣的手動操作，並保護你免受隱藏追蹤器的侵害。"
+    },
+    "localProcessing": {
+      "question": "這個處理過程真的是在裝置本機上進行嗎？我看到它會向 URL 發出網絡請求。",
+      "answer": "是的，Clean Links 的處理過程完全在本機上進行。我們確實會直接從你的裝置發出網絡請求，以解析隱藏在重定向後的追蹤參數 - 這在技術上是必要的，因為許多追蹤器只有在跟隨整個重定向鏈後才會顯現。但是，這過程不涉及任何第三方 API (甚至不包括我們自己的伺服器)。每個請求都從一個完全乾淨的狀態開始：請求之間不會保留任何 cookie，不會保留任何瀏覽記錄，而且我們使用帶有隨機用戶代理的沙盒化工作階段。最重要的是，我們絕不會記錄或追蹤你清理的任何連結。絕不。你的連結清理活動會完全保留在你的裝置上，絕對私密。為了獲得額外的私隱保障，我們建議你使用 iCloud 私密轉送 (Private Relay) 或 VPN，以便在 Clean Links 為解析重定向而發出必要的網絡請求時，隱藏你的 IP 地址。"
     }
   },
   "cta": {

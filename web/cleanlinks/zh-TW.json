@@ -146,7 +146,7 @@
     },
     "deviceRequirements": {
       "question": "Clean Links 支援哪些裝置和 iOS 版本？",
-      "answer": "Clean Links 支援搭載 iOS 18.0 或更新版本 (iPhone/iPad) 或對應 macOS 版本的 iPhone、iPad 和 Mac 裝置。"
+      "answer": "Clean Links 支援搭載 iOS 18.0 或更新版本的 iPhone 和 iPad,以及搭載 macOS Sequoia 或更新版本的 Mac 裝置。"
     },
     "whyCreate": {
       "question": "我們為什麼要建立 Clean Links？",
@@ -187,6 +187,14 @@
     "shortcutsAutomation": {
       "question": "我能用捷徑或 Siri 自動化連結清理嗎？",
       "answer": "Clean Links 提供了可與 Apple 捷徑和 Siri 搭配使用的 App Intents。您可以建立一個從剪貼簿或其他地方清理連結的捷徑。例如，使用這個「Clean Links」捷徑來抓取您剪貼簿中的連結，將其清理，然後將清理後的網址貼回剪貼簿：https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+    },
+    "manualCleaning": {
+      "question": "為什麼我需要這款 App,而不能手動清理連結呢?",
+      "answer": "大多數的追蹤參數現在都隱藏在 t.co、l.facebook.com、l.instagram.com 和 lnkd.in 等轉址的背後 - 在您點擊前無法看到這些參數。Clean Links 會自動為您處理,省去繁瑣的手動操作,並保護您免於隱藏追蹤器的威脅。"
+    },
+    "localProcessing": {
+      "question": "這真的是在本機處理嗎? 我看到 App 會對網址發出網路請求。",
+      "answer": "是的,Clean Links 的處理過程完全在本機上進行。我們確實會直接從您的裝置發出網路請求,以解析隱藏在轉址後的追蹤參數 - 這在技術上是必要的,因為許多追蹤器只有在跟隨整個轉址鏈後才會現形。然而,這過程不涉及任何第三方 API (甚至不包含我們自己的伺服器)。每個請求都從一個完全乾淨的狀態開始: 不會在請求之間保留 cookie、不維護瀏覽紀錄,並使用帶有隨機使用者代理的沙盒化工作階段。最重要的是,我們絕不會記錄或追蹤您清理的任何連結。絕不。您的連結清理活動會完全保留在您的裝置上,絕對隱私。為了獲得額外的隱私保護,我們建議您在 Clean Links 為了解析轉址而發出必要的網路請求時,使用「iCloud 私密轉送」或 VPN 來隱藏您的 IP 位址。"
     }
   },
   "cta": {

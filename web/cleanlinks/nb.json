@@ -146,7 +146,7 @@
     },
     "deviceRequirements": {
       "question": "Hvilke enheter og iOS-versjoner støtter Clean Links?",
-      "answer": "Clean Links støtter iPhone-, iPad- og Mac-enheter som kan kjøre iOS 18.0 eller nyere (iPhone/iPad) eller tilsvarende macOS-versjoner."
+      "answer": "Clean Links støtter iPhone-, iPad- og Mac-enheter som kan kjøre iOS 18.0 eller nyere (iPhone/iPad) eller macOS Sequoia eller nyere."
     },
     "whyCreate": {
       "question": "Hvorfor laget vi Clean Links?",
@@ -187,6 +187,14 @@
     "shortcutsAutomation": {
       "question": "Kan jeg automatisere lenkerensing med Snarveier eller Siri?",
       "answer": "Clean Links tilbyr App Intents som fungerer med både Apple Snarveier og Siri. Du kan bygge en snarvei som renser lenker fra utklippstavlen din eller noe annet. For eksempel, bruk denne «Clean Links»-snarveien for å hente lenken i utklippstavlen, rense den, og lime den rensede URL-en tilbake til utklippstavlen: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+    },
+    "manualCleaning": {
+      "question": "Hvorfor trenger jeg denne appen, og hvorfor kan jeg ikke bare rense lenker manuelt?",
+      "answer": "De fleste sporingsparametere er nå skjult bak omdirigeringer som t.co, l.facebook.com, l.instagram.com og lnkd.in - du kan ikke se disse parameterne før du klikker. Clean Links håndterer dette automatisk for deg, sparer deg for kjedelig manuelt arbeid og beskytter deg mot skjulte sporere."
+    },
+    "localProcessing": {
+      "question": "Er dette virkelig lokalt? Jeg ser at den gjør nettverksforespørsler til URL-en.",
+      "answer": "Ja, Clean Links utfører all behandling lokalt. Vi gjør nettverksforespørsler direkte fra enheten din for å løse opp sporingsparametere som er skjult bak omdirigeringer - dette er teknisk nødvendig fordi mange sporere kun avsløres etter å ha fulgt omdirigeringskjeden. Det er imidlertid ingen tredjeparts-API-er involvert (ikke engang våre egne servere). Hver forespørsel starter helt på nytt: ingen informasjonskapsler lagres mellom forespørsler, ingen nettleserhistorikk beholdes, og vi bruker sandkasse-økter med tilfeldige brukeragenter. Viktigst av alt, vi logger eller sporer ikke hvilke lenker du renser. Aldri. Aktiviteten din med lenkerensing forblir helt privat på enheten din. For ekstra personvern anbefaler vi å bruke Privat nettlesing med iCloud eller en VPN for å skjule IP-adressen din når Clean Links gjør disse nødvendige nettverksforespørslene for å løse opp omdirigeringer."
     }
   },
   "cta": {

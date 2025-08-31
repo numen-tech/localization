@@ -146,7 +146,7 @@
     },
     "deviceRequirements": {
       "question": "Jakie urządzenia i wersje iOS obsługuje Clean Links?",
-      "answer": "Clean Links wspiera urządzenia iPhone, iPad i Mac, które mogą uruchomić system iOS 18.0 lub nowszy (iPhone/iPad) albo równoważne wersje macOS."
+      "answer": "Clean Links działa na urządzeniach iPhone, iPad i Mac z systemem iOS 18.0 lub nowszym (iPhone/iPad) lub macOS Sequoia lub nowszym."
     },
     "whyCreate": {
       "question": "Dlaczego stworzyliśmy Clean Links?",
@@ -187,6 +187,14 @@
     "shortcutsAutomation": {
       "question": "Czy mogę zautomatyzować czyszczenie linków za pomocą Skrótów lub Siri?",
       "answer": "Clean Links dostarcza intencje aplikacji (App Intents), które działają zarówno z Skrótami Apple, jak i z Siri. Możesz zbudować skrót, który czyści linki ze schowka lub cokolwiek innego. Na przykład, użyj tego skrótu „Clean Links”, aby pobrać link ze schowka, wyczyścić go i wkleić wyczyszczony URL z powrotem do schowka: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0"
+    },
+    "manualCleaning": {
+      "question": "Po co mi ta aplikacja i dlaczego nie mogę po prostu ręcznie czyścić linków?",
+      "answer": "Większość parametrów śledzących jest obecnie ukryta za przekierowaniami, takimi jak t.co, l.facebook.com, l.instagram.com i lnkd.in - nie możesz zobaczyć tych parametrów, dopóki nie klikniesz. Clean Links automatycznie robi to za Ciebie, oszczędzając Ci żmudnej pracy ręcznej i chroniąc Cię przed ukrytymi trackerami."
+    },
+    "localProcessing": {
+      "question": "Czy to naprawdę działa lokalnie? Widzę, że wysyła żądania sieciowe do adresu URL.",
+      "answer": "Tak, Clean Links przetwarza dane w pełni lokalnie. Wysyłamy żądania sieciowe bezpośrednio z Twojego urządzenia, aby odczytać parametry śledzące ukryte za przekierowaniami - jest to technicznie konieczne, ponieważ wiele trackerów jest ujawnianych dopiero po przejściu przez łańcuch przekierowań. Jednak nie korzystamy z żadnych zewnętrznych API (nawet naszych własnych serwerów). Każde żądanie zaczyna się z czystą kartą: nie przechowujemy plików cookie między żądaniami, nie zapisujemy historii przeglądania i używamy sesji w trybie piaskownicy (sandbox) z losowymi user agentami. Co najważniejsze, nigdy nie rejestrujemy ani nie śledzimy, jakie linki czyścisz. Przenigdy. Twoja aktywność związana z czyszczeniem linków pozostaje w pełni prywatna na Twoim urządzeniu. Dla dodatkowej ochrony prywatności zalecamy używanie Przekazywania prywatnego iCloud lub VPN, aby zamaskować swój adres IP, gdy Clean Links wykonuje te niezbędne żądania sieciowe w celu przetworzenia przekierowań."
     }
   },
   "cta": {
