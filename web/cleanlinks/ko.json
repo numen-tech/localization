@@ -7,7 +7,8 @@
     "download": "다운로드",
     "faq": "자주 묻는 질문",
     "useCases": "사용 사례",
-    "menu": "메뉴"
+    "menu": "메뉴",
+    "breadcrumbLabel": "이동 경로"
   },
   "hero": {
     "logoAlt": "Clean Links 로고",
@@ -199,7 +200,17 @@
   },
   "cta": {
     "title": "QR 코드 리더 및 링크 클리너 - 개인 정보 보호",
-    "description": "실제 URL을 즉시 확인하고, 숨겨진 추적기를 지우고, 공유 가능한 QR 코드를 만드세요 - 모든 작업은 100% 기기 내에서, 100% 무료로 이루어집니다."
+    "description": "실제 URL을 즉시 확인하고, 숨겨진 추적기를 지우고, 공유 가능한 QR 코드를 만드세요 - 모든 작업은 100% 기기 내에서, 100% 무료로 이루어집니다.",
+    "social": {
+      "title": "Clean Links 다운로드 - iPhone 및 Mac을 위한 개인정보 우선 링크 클리너",
+      "description": "모든 숨겨진 리디렉션을 따라가며 단계마다 추적 파라미터를 제거합니다.",
+      "followText": "저희를 팔로우하고 앱 업데이트와 개인정보 보호 팁으로 온라인 활동을 안전하게 지키세요.",
+      "headline": "탭하기 전에 최종 URL을 보여주는 링크 클리너 및 QR 코드 리더",
+      "benefit1": "숨겨진 추적기를 즉시 제거",
+      "benefit2": "QR 코드의 최종 목적지 확인",
+      "benefit3": "100% 기기 내 처리",
+      "benefit4": "광고 제로, 추적 제로, 군더더기 제로"
+    }
   },
   "footer": {
     "tagline": "Clean Links. 더 나은 개인 정보 보호",
@@ -220,5 +231,48 @@
       "systemIntegration": "Clean Links는 Safari, Mail 및 다른 앱 내에서 작동하나요?"
     },
     "copyright": "All rights reserved."
+  },
+  "blog": {
+    "title": "블로그",
+    "description": "Clean Links 최신 가이드 및 비교",
+    "keywords": "Clean Links 블로그, QR 코드 보안, 링크 클리닝 가이드",
+    "browseByCategory": "카테고리별로 보기",
+    "allPosts": "모든 게시물",
+    "recentPosts": "최신 게시물",
+    "showingPosts": "총 {total}개 게시물 중 {showing}개 표시",
+    "viewAll": "전체 보기",
+    "readMore": "더 보기",
+    "relatedPosts": "관련 게시물",
+    "onThisPage": "이 페이지의 내용",
+    "rssFeedTitle": "Clean Links 블로그 RSS 피드",
+    "blog": "블로그",
+    "postSingular": "게시물",
+    "postPlural": "게시물",
+    "noPosts": "{category} 게시물이 아직 없습니다.",
+    "backTo": "{category} 목록으로",
+    "categoryDescriptions": {
+      "compare": "Clean Links와 다른 QR 리더 및 개인정보 보호 도구 비교하기",
+      "guides": "Clean Links를 효과적으로 사용하는 단계별 가이드"
+    },
+    "categoryKeywords": {
+      "compare": "QR 리더 비교, 개인정보 보호 도구 비교, Clean Links와 경쟁 제품 비교",
+      "guides": "Clean Links 튜토리얼, QR 코드 스캐너 가이드, 링크 클리너 설정"
+    },
+    "categories": {
+      "guides": "사용자 가이드",
+      "compare": "비교"
+    }
+  },
+  "company": {
+    "description": "iPhone, iPad, Mac용 무료 링크 클리너 및 QR 코드 리더. 피싱과 추적으로부터 안전을 지키세요."
+  },
+  "common": {
+    "titleWithBrand": "{title} - Clean Links"
+  },
+  "comparison": {
+    "featureHeader": "기능"
+  },
+  "appRating": {
+    "text": "{rating} ({count, plural, =0 {리뷰 없음} =1 {리뷰 #개} other {리뷰 #개}})"
   }
 }

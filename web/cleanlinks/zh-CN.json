@@ -7,7 +7,8 @@
     "download": "下载",
     "faq": "常见问题",
     "useCases": "使用场景",
-    "menu": "菜单"
+    "menu": "菜单",
+    "breadcrumbLabel": "面包屑"
   },
   "hero": {
     "logoAlt": "Clean Links 标志",
@@ -199,7 +200,17 @@
   },
   "cta": {
     "title": "二维码读取器与链接清理器 - 保护您的隐私",
-    "description": "即时揭示真实网址，清除隐藏的跟踪器，并创建可随时分享的二维码——全部 100% 在设备上完成，100% 免费。"
+    "description": "即时揭示真实网址，清除隐藏的跟踪器，并创建可随时分享的二维码——全部 100% 在设备上完成，100% 免费。",
+    "social": {
+      "title": "获取 Clean Links - 适用于 iPhone 和 Mac 的隐私优先链接清理器",
+      "description": "我们会追踪每一次隐藏重定向，并清理每一步中的跟踪参数。",
+      "followText": "关注我们，获取应用更新和隐私提示，确保您的在线活动安全。",
+      "headline": "链接清理器和二维码扫描器，在您点击前显示最终网址",
+      "benefit1": "立即移除隐藏的跟踪器",
+      "benefit2": "揭示二维码的目标地址",
+      "benefit3": "100% 在设备上处理",
+      "benefit4": "无广告、无跟踪、无废话"
+    }
   },
   "footer": {
     "tagline": "Clean Links. 更好的隐私。",
@@ -220,5 +231,48 @@
       "systemIntegration": "Clean Links 可以在 Safari、邮件和其他应用内工作吗？"
     },
     "copyright": "版权所有。"
+  },
+  "blog": {
+    "title": "博客",
+    "description": "Clean Links 的最新指南与比较",
+    "keywords": "Clean Links 博客、二维码安全、链接清理指南",
+    "browseByCategory": "按分类浏览",
+    "allPosts": "所有文章",
+    "recentPosts": "近期文章",
+    "showingPosts": "共 {total} 篇文章，当前显示 {showing} 篇",
+    "viewAll": "查看全部",
+    "readMore": "阅读更多",
+    "relatedPosts": "相关文章",
+    "onThisPage": "本页内容",
+    "rssFeedTitle": "Clean Links 博客 RSS 订阅",
+    "blog": "博客",
+    "postSingular": "文章",
+    "postPlural": "文章",
+    "noPosts": "暂无 {category} 分类的文章。",
+    "backTo": "返回 {category}",
+    "categoryDescriptions": {
+      "compare": "将 Clean Links 与其他二维码扫描器和隐私工具进行比较",
+      "guides": "有效使用 Clean Links 的分步指南"
+    },
+    "categoryKeywords": {
+      "compare": "二维码扫描器比较、隐私工具比较、Clean Links 与竞争对手对比",
+      "guides": "Clean Links 教程、二维码扫描器指南、链接清理器设置"
+    },
+    "categories": {
+      "guides": "用户指南",
+      "compare": "对比评测"
+    }
+  },
+  "company": {
+    "description": "适用于 iPhone、iPad 和 Mac 的免费链接清理器与二维码扫描器。远离网络钓鱼和跟踪，保护您的安全。"
+  },
+  "common": {
+    "titleWithBrand": "{title} - Clean Links"
+  },
+  "comparison": {
+    "featureHeader": "特性"
+  },
+  "appRating": {
+    "text": "{rating} ({count, plural, =0 {暂无评价} =1 {# 条评价} other {# 条评价}})"
   }
 }

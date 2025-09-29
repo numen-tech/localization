@@ -7,7 +7,8 @@
     "download": "ڈاؤن لوڈ",
     "faq": "عمومی سوالات",
     "useCases": "استعمال کے معاملات",
-    "menu": "مینو"
+    "menu": "مینو",
+    "breadcrumbLabel": "بریڈکرم"
   },
   "hero": {
     "logoAlt": "Clean Links لوگو",
@@ -199,7 +200,17 @@
   },
   "cta": {
     "title": "QR کوڈ ریڈر اور لنک کلینر - اپنی پرائیویسی کی حفاظت کریں",
-    "description": "فوری طور پر اصلی یو آر ایل ظاہر کریں، چھپے ہوئے ٹریکرز کو مٹائیں، اور شیئر کے لیے تیار کیو آر کوڈز بنائیں - سب کچھ 100% ڈیوائس پر، 100% مفت۔"
+    "description": "فوری طور پر اصلی یو آر ایل ظاہر کریں، چھپے ہوئے ٹریکرز کو مٹائیں، اور شیئر کے لیے تیار کیو آر کوڈز بنائیں - سب کچھ 100% ڈیوائس پر، 100% مفت۔",
+    "social": {
+      "title": "Clean Links حاصل کریں - iPhone اور Mac کے لیے پرائیویسی کو ترجیح دینے والا لنک کلینر",
+      "description": "ہم ہر پوشیدہ ری ڈائریکٹ کو فالو کرتے ہیں اور ہر ہاپ پر ٹریکنگ پیرامیٹرز کو صاف کرتے ہیں۔",
+      "followText": "ایپ اپڈیٹس اور اپنی آن لائن سرگرمی کو محفوظ رکھنے کے لیے پرائیویسی ٹپس کے لیے ہمیں فالو کریں۔",
+      "headline": "لنک کلینر اور QR کوڈ ریڈر جو ٹیپ کرنے سے پہلے حتمی URL دکھاتا ہے",
+      "benefit1": "پوشیدہ ٹریکرز کو فوری طور پر ہٹائیں",
+      "benefit2": "QR کوڈ کی منزلیں ظاہر کریں",
+      "benefit3": "100% آن-ڈیوائس پروسیسنگ",
+      "benefit4": "کوئی اشتہار نہیں، کوئی ٹریکنگ نہیں، کوئی بکواس نہیں"
+    }
   },
   "footer": {
     "tagline": "Clean Links. بہتر رازداری",
@@ -220,5 +231,48 @@
       "systemIntegration": "کیا Clean Links Safari، Mail، اور دیگر ایپس کے اندر کام کرتا ہے؟"
     },
     "copyright": "جملہ حقوق محفوظ ہیں."
+  },
+  "blog": {
+    "title": "بلاگ",
+    "description": "Clean Links کے لیے تازہ ترین گائیڈز اور موازنے",
+    "keywords": "Clean Links بلاگ، QR کوڈ سیکیورٹی، لنک کلیننگ گائیڈز",
+    "browseByCategory": "زمرے کے لحاظ سے براؤز کریں",
+    "allPosts": "تمام پوسٹس",
+    "recentPosts": "حالیہ پوسٹس",
+    "showingPosts": "{total} پوسٹس میں سے {showing} دکھائی جا رہی ہیں",
+    "viewAll": "سب دیکھیں",
+    "readMore": "مزید پڑھیں",
+    "relatedPosts": "متعلقہ پوسٹس",
+    "onThisPage": "اس صفحے پر",
+    "rssFeedTitle": "Clean Links بلاگ RSS فیڈ",
+    "blog": "بلاگ",
+    "postSingular": "پوسٹ",
+    "postPlural": "پوسٹس",
+    "noPosts": "ابھی تک کوئی {category} پوسٹس دستیاب نہیں ہیں۔",
+    "backTo": "{category} پر واپس جائیں",
+    "categoryDescriptions": {
+      "compare": "Clean Links کا دوسرے QR ریڈرز اور پرائیویسی ٹولز سے موازنہ کریں",
+      "guides": "Clean Links کو مؤثر طریقے سے استعمال کرنے کے لیے مرحلہ وار گائیڈز"
+    },
+    "categoryKeywords": {
+      "compare": "QR ریڈر کا موازنہ، پرائیویسی ٹول کا موازنہ، Clean Links بمقابلہ حریف",
+      "guides": "Clean Links ٹیوٹوریلز، QR کوڈ اسکینر گائیڈ، لنک کلینر سیٹ اپ"
+    },
+    "categories": {
+      "guides": "صارف گائیڈز",
+      "compare": "موازنے"
+    }
+  },
+  "company": {
+    "description": "iPhone، iPad، اور Mac کے لیے مفت لنک کلینر اور QR کوڈ ریڈر۔ فشنگ اور ٹریکنگ سے محفوظ رہیں۔"
+  },
+  "common": {
+    "titleWithBrand": "{title} - Clean Links"
+  },
+  "comparison": {
+    "featureHeader": "فیچر"
+  },
+  "appRating": {
+    "text": "{rating} ({count, plural, =0 {کوئی ریویو نہیں} =1 {# ریویو} other {# ریویوز}})"
   }
 }

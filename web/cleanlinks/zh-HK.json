@@ -7,7 +7,8 @@
     "download": "下載",
     "faq": "常見問題",
     "useCases": "使用案例",
-    "menu": "選單"
+    "menu": "選單",
+    "breadcrumbLabel": "導覽標記"
   },
   "hero": {
     "logoAlt": "Clean Links 標誌",
@@ -199,7 +200,17 @@
   },
   "cta": {
     "title": "QR 碼讀取器與連結清理器 - 保護你的私隱",
-    "description": "即時揭示真實網址，清除隱藏的追蹤器，並建立可供分享的 QR Code——全部 100% 在裝置上處理，100% 免費。"
+    "description": "即時揭示真實網址，清除隱藏的追蹤器，並建立可供分享的 QR Code——全部 100% 在裝置上處理，100% 免費。",
+    "social": {
+      "title": "下載 Clean Links - iPhone 和 Mac 專用，以私隱為先的連結清理工具",
+      "description": "我們會追蹤每個隱藏的重新導向，並在每一次跳轉時清除追蹤參數。",
+      "followText": "關注我們以獲取應用程式更新和私隱貼士，確保你的網上活動安全。",
+      "headline": "連結清理工具與 QR Code 掃描器，點擊前顯示最終網址",
+      "benefit1": "即時移除隱藏的追蹤器",
+      "benefit2": "顯示 QR Code 的最終目標",
+      "benefit3": "100% 在裝置上處理",
+      "benefit4": "零廣告、零追蹤、絕無廢話"
+    }
   },
   "footer": {
     "tagline": "Clean Links. 更佳私隱。",
@@ -220,5 +231,48 @@
       "systemIntegration": "Clean Links 能否在 Safari、Mail 和其他 App 內運作？"
     },
     "copyright": "版權所有。"
+  },
+  "blog": {
+    "title": "網誌",
+    "description": "Clean Links 最新指南及比較",
+    "keywords": "Clean Links 網誌、QR Code 安全、連結清理指南",
+    "browseByCategory": "按類別瀏覽",
+    "allPosts": "所有文章",
+    "recentPosts": "最新文章",
+    "showingPosts": "顯示 {total} 篇文章中的 {showing} 篇",
+    "viewAll": "查看全部",
+    "readMore": "閱讀更多",
+    "relatedPosts": "相關文章",
+    "onThisPage": "本頁內容",
+    "rssFeedTitle": "Clean Links 網誌 RSS 摘要",
+    "blog": "網誌",
+    "postSingular": "文章",
+    "postPlural": "文章",
+    "noPosts": "暫時沒有 {category} 文章。",
+    "backTo": "返回 {category}",
+    "categoryDescriptions": {
+      "compare": "比較 Clean Links 與其他 QR Code 掃描器及私隱工具",
+      "guides": "有效使用 Clean Links 的逐步指南"
+    },
+    "categoryKeywords": {
+      "compare": "QR Code 掃描器比較、私隱工具比較、Clean Links 與競爭對手比較",
+      "guides": "Clean Links 教學、QR Code 掃描器指南、連結清理工具設定"
+    },
+    "categories": {
+      "guides": "使用指南",
+      "compare": "比較"
+    }
+  },
+  "company": {
+    "description": "免費的 iPhone、iPad 及 Mac 連結清理工具與 QR Code 掃描器。遠離釣魚詐騙和追蹤。"
+  },
+  "common": {
+    "titleWithBrand": "{title} - Clean Links"
+  },
+  "comparison": {
+    "featureHeader": "功能"
+  },
+  "appRating": {
+    "text": "{rating} ({count, plural, =0 {沒有評論} =1 {# 則評論} other {# 則評論}})"
   }
 }

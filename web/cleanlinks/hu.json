@@ -7,7 +7,8 @@
     "download": "Letöltés",
     "faq": "GYIK",
     "useCases": "Felhasználási esetek",
-    "menu": "Menü"
+    "menu": "Menü",
+    "breadcrumbLabel": "Navigációs útvonal"
   },
   "hero": {
     "logoAlt": "Clean Links logó",
@@ -199,7 +200,17 @@
   },
   "cta": {
     "title": "QR-kód olvasó és linktisztító - Védje magánszféráját",
-    "description": "Azonnal fedje fel a valódi URL-t, törölje a rejtett követőket, és hozzon létre megosztásra kész QR-kódokat – mindezt 100%-ban az eszközön, 100%-ban ingyenesen."
+    "description": "Azonnal fedje fel a valódi URL-t, törölje a rejtett követőket, és hozzon létre megosztásra kész QR-kódokat – mindezt 100%-ban az eszközön, 100%-ban ingyenesen.",
+    "social": {
+      "title": "Töltse le a Clean Links alkalmazást - Az adatvédelem-központú linktisztító iPhone-ra és Mac-re",
+      "description": "Minden rejtett átirányítást követünk, és minden lépésnél megtisztítjuk a nyomkövető paramétereket.",
+      "followText": "Kövessen minket az alkalmazásfrissítésekért és adatvédelmi tippekért, hogy online tevékenysége biztonságban maradjon.",
+      "headline": "Linktisztító és QR-kód olvasó, amely megmutatja a végső URL-t, mielőtt rákattintana",
+      "benefit1": "Rejtett nyomkövetők azonnali eltávolítása",
+      "benefit2": "QR-kódok céljának felfedése",
+      "benefit3": "100%-ban az eszközön történő feldolgozás",
+      "benefit4": "Nulla hirdetés, nulla nyomkövetés, nulla mellébeszélés"
+    }
   },
   "footer": {
     "tagline": "Clean Links. Jobb adatvédelem",
@@ -220,5 +231,48 @@
       "systemIntegration": "Működik a Clean Links a Safari, Mail és más alkalmazásokban?"
     },
     "copyright": "Minden jog fenntartva."
+  },
+  "blog": {
+    "title": "Blog",
+    "description": "Legfrissebb útmutatók és összehasonlítások a Clean Links-hez",
+    "keywords": "Clean Links blog, QR-kód biztonság, linktisztító útmutatók",
+    "browseByCategory": "Böngészés kategóriák szerint",
+    "allPosts": "Összes bejegyzés",
+    "recentPosts": "Legutóbbi bejegyzések",
+    "showingPosts": "{total} bejegyzésből {showing} megjelenítve",
+    "viewAll": "Összes megtekintése",
+    "readMore": "Bővebben",
+    "relatedPosts": "Kapcsolódó bejegyzések",
+    "onThisPage": "Ezen az oldalon",
+    "rssFeedTitle": "Clean Links Blog RSS-hírcsatorna",
+    "blog": "Blog",
+    "postSingular": "bejegyzés",
+    "postPlural": "bejegyzések",
+    "noPosts": "Még nincsenek {category} bejegyzések.",
+    "backTo": "Vissza: {category}",
+    "categoryDescriptions": {
+      "compare": "Hasonlítsa össze a Clean Links alkalmazást más QR-kód olvasókkal és adatvédelmi eszközökkel",
+      "guides": "Részletes útmutatók a Clean Links hatékony használatához"
+    },
+    "categoryKeywords": {
+      "compare": "QR-kód olvasó összehasonlítás, adatvédelmi eszköz összehasonlítás, Clean Links vs versenytársak",
+      "guides": "Clean Links oktatóanyagok, QR-kód olvasó útmutató, linktisztító beállítása"
+    },
+    "categories": {
+      "guides": "Felhasználói útmutatók",
+      "compare": "Összehasonlítások"
+    }
+  },
+  "company": {
+    "description": "Ingyenes linktisztító és QR-kód olvasó iPhone, iPad és Mac eszközökre. Maradjon biztonságban az adathalászattal és a nyomkövetéssel szemben."
+  },
+  "common": {
+    "titleWithBrand": "{title} - Clean Links"
+  },
+  "comparison": {
+    "featureHeader": "Funkció"
+  },
+  "appRating": {
+    "text": "{rating} ({count, plural, =0 {nincs értékelés} =1 {# értékelés} other {# értékelés}})"
   }
 }

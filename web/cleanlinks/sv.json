@@ -7,7 +7,8 @@
     "download": "Ladda ned",
     "faq": "Vanliga frågor",
     "useCases": "Användningsfall",
-    "menu": "Meny"
+    "menu": "Meny",
+    "breadcrumbLabel": "Sökväg"
   },
   "hero": {
     "logoAlt": "Clean Links logotyp",
@@ -199,7 +200,17 @@
   },
   "cta": {
     "title": "QR-kodsläsare och länkrensare - Skydda din integritet",
-    "description": "Avslöja omedelbart den verkliga URL:en, radera dolda spårare och skapa delningsklara QR-koder – allt 100 % på din enhet, 100 % gratis."
+    "description": "Avslöja omedelbart den verkliga URL:en, radera dolda spårare och skapa delningsklara QR-koder – allt 100 % på din enhet, 100 % gratis.",
+    "social": {
+      "title": "Skaffa Clean Links - den integritetsfokuserade länkrensaren för iPhone och Mac",
+      "description": "Vi följer varje dold omdirigering och rensar spårningsparametrar vid varje hopp.",
+      "followText": "Följ oss för appuppdateringar och integritetstips för att hålla din onlineaktivitet säker.",
+      "headline": "Länkrensare och QR-kodläsare som visar den slutgiltiga URL:en innan du trycker",
+      "benefit1": "Ta bort dolda spårare omedelbart",
+      "benefit2": "Avslöja QR-koders destinationer",
+      "benefit3": "100 % bearbetning på enheten",
+      "benefit4": "Noll annonser, noll spårning, noll skitsnack"
+    }
   },
   "footer": {
     "tagline": "Clean Links. Bättre integritet",
@@ -220,5 +231,48 @@
       "systemIntegration": "Fungerar Clean Links i Safari, Mail och andra appar?"
     },
     "copyright": "Alla rättigheter förbehållna."
+  },
+  "blog": {
+    "title": "Blogg",
+    "description": "Senaste guiderna och jämförelserna för Clean Links",
+    "keywords": "Clean Links-blogg, QR-kodssäkerhet, guider för länkrensning",
+    "browseByCategory": "Bläddra per kategori",
+    "allPosts": "Alla inlägg",
+    "recentPosts": "Senaste inlägg",
+    "showingPosts": "Visar {showing} av {total} inlägg",
+    "viewAll": "Visa alla",
+    "readMore": "Läs mer",
+    "relatedPosts": "Relaterade inlägg",
+    "onThisPage": "På den här sidan",
+    "rssFeedTitle": "Clean Links-bloggens RSS-flöde",
+    "blog": "Blogg",
+    "postSingular": "inlägg",
+    "postPlural": "inlägg",
+    "noPosts": "Inga inlägg i kategorin {category} ännu.",
+    "backTo": "Tillbaka till {category}",
+    "categoryDescriptions": {
+      "compare": "Jämför Clean Links med andra QR-kodläsare och integritetsverktyg",
+      "guides": "Steg-för-steg-guider för att använda Clean Links effektivt"
+    },
+    "categoryKeywords": {
+      "compare": "Jämförelse av QR-kodläsare, jämförelse av integritetsverktyg, Clean Links mot konkurrenter",
+      "guides": "Clean Links-guider, guide för QR-kodskanner, installation av länkrensare"
+    },
+    "categories": {
+      "guides": "Användarguider",
+      "compare": "Jämförelser"
+    }
+  },
+  "company": {
+    "description": "Gratis länkrensare och QR-kodläsare för iPhone, iPad och Mac. Skydda dig mot nätfiske och spårning."
+  },
+  "common": {
+    "titleWithBrand": "{title} - Clean Links"
+  },
+  "comparison": {
+    "featureHeader": "Funktion"
+  },
+  "appRating": {
+    "text": "{rating} ({count, plural, =0 {inga recensioner} =1 {# recension} other {# recensioner}})"
   }
 }

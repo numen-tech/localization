@@ -7,7 +7,8 @@
     "download": "Download",
     "faq": "FAQ",
     "useCases": "Use Cases",
-    "menu": "Menu"
+    "menu": "Menu",
+    "breadcrumbLabel": "Breadcrumb"
   },
   "hero": {
     "logoAlt": "Clean Links Logo",
@@ -193,9 +194,62 @@
       "answer": "Yes, Clean Links truly processes everything locally. Clean Links can clean most links with tracking parameters and redirection links fully offline, without making any network requests. For links from URL shorteners and certain ad networks, the redirection URL cannot be computed from the URL alone. In such cases, Clean Links makes network requests directly from your device to resolve tracking parameters that are hidden behind redirects - this is technically necessary because many trackers are only revealed after following the redirect chain. However, there's no third-party API involved (not even our own servers). Every request starts with a completely clean slate: no cookies are persisted between requests, no browsing history is maintained, and we use sandboxed sessions with randomized user agents. Also, we remove tracking parameters before and after following every redirect. URL shorteners are mostly used to hide tracking parameters in URLs and this feature of Clean Links fixes that loophole, something that cannot be done by manually copy-pasting parts of links or by webapps like \"Link Cleaner\" that do not follow redirects.  Most importantly, we do not log or track what links you clean. Ever. Your link cleaning activity stays completely private on your device. For additional privacy protection, we recommend using iCloud Private Relay or a VPN to mask your IP address when Clean Links makes these necessary network requests to resolve redirects."
     }
   },
+  "blog": {
+    "title": "Blog",
+    "description": "Latest guides and comparisons for Clean Links",
+    "keywords": "Clean Links blog, QR code security, link cleaning guides",
+    "browseByCategory": "Browse by Category",
+    "allPosts": "All Posts",
+    "recentPosts": "Recent Posts",
+    "showingPosts": "Showing {showing} of {total} posts",
+    "viewAll": "View All",
+    "readMore": "Read more",
+    "relatedPosts": "Related Posts",
+    "onThisPage": "On this page",
+    "rssFeedTitle": "Clean Links Blog RSS Feed",
+    "blog": "Blog",
+    "postSingular": "post",
+    "postPlural": "posts",
+    "noPosts": "No {category} posts available yet.",
+    "backTo": "Back to {category}",
+    "categoryDescriptions": {
+      "compare": "Compare Clean Links with other QR readers and privacy tools",
+      "guides": "Step-by-step guides for using Clean Links effectively"
+    },
+    "categoryKeywords": {
+      "compare": "QR reader comparison, privacy tool comparison, Clean Links vs competitors",
+      "guides": "Clean Links tutorials, QR code scanner guide, link cleaner setup"
+    },
+    "categories": {
+      "guides": "User Guides",
+      "compare": "Comparisons"
+    }
+  },
+  "company": {
+    "description": "Free Link Cleaner & QR Code Reader for iPhone, iPad, and Mac. Stay safe from phishing and tracking."
+  },
   "cta": {
     "title": "QR Code Reader & Link Cleaner - Protect Your Privacy",
-    "description": "Instantly reveal the real URL, erase hidden trackers, and create share-ready QR codes - all 100% on device, 100% free."
+    "description": "Instantly reveal the real URL, erase hidden trackers, and create share-ready QR codes - all 100% on device, 100% free.",
+    "social": {
+      "title": "Get Clean Links - The Privacy-First Link Cleaner for iPhone & Mac",
+      "description": "We follow every hidden redirect and clean tracking parameters at every hop.",
+      "followText": "Follow us for app updates and privacy tips to keep your online activity secure.",
+      "headline": "Link Cleaner and QR Code Reader That Shows The Final URL Before You Tap",
+      "benefit1": "Remove hidden trackers instantly",
+      "benefit2": "Reveal QR code destinations",
+      "benefit3": "100% on-device processing",
+      "benefit4": "Zero ads, zero tracking, zero BS"
+    }
+  },
+  "common": {
+    "titleWithBrand": "{title} - Clean Links"
+  },
+  "comparison": {
+    "featureHeader": "Feature"
+  },
+  "appRating": {
+    "text": "{rating} ({count, plural, =0 {no reviews} =1 {# review} other {# reviews}})"
   },
   "footer": {
     "tagline": "Clean Links. Better Privacy",

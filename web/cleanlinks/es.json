@@ -7,7 +7,8 @@
     "download": "Descargar",
     "faq": "Preguntas frecuentes",
     "useCases": "Casos de uso",
-    "menu": "Menú"
+    "menu": "Menú",
+    "breadcrumbLabel": "Ruta de navegación"
   },
   "hero": {
     "logoAlt": "Logo de Clean Links",
@@ -199,7 +200,17 @@
   },
   "cta": {
     "title": "Lector de códigos QR y limpiador de enlaces - Protege tu privacidad",
-    "description": "Revela al instante la URL real, elimina rastreadores ocultos y crea códigos QR listos para compartir. Todo 100% en tu dispositivo y 100% gratis."
+    "description": "Revela al instante la URL real, elimina rastreadores ocultos y crea códigos QR listos para compartir. Todo 100% en tu dispositivo y 100% gratis.",
+    "social": {
+      "title": "Obtén Clean Links - el limpiador de enlaces centrado en la privacidad para iPhone y Mac",
+      "description": "Seguimos cada redirección oculta y limpiamos los parámetros de seguimiento en cada salto.",
+      "followText": "Síguenos para recibir actualizaciones de la app y consejos de privacidad para mantener segura tu actividad en línea.",
+      "headline": "Limpiador de enlaces y lector de códigos QR que muestra la URL final antes de tocar",
+      "benefit1": "Elimina rastreadores ocultos al instante",
+      "benefit2": "Revela los destinos de los códigos QR",
+      "benefit3": "Procesamiento 100% en el dispositivo",
+      "benefit4": "Cero anuncios, cero seguimiento, cero tonterías"
+    }
   },
   "footer": {
     "tagline": "Clean Links. Mejor privacidad",
@@ -220,5 +231,48 @@
       "systemIntegration": "¿Funciona Clean Links dentro de Safari, Mail y otras apps?"
     },
     "copyright": "Todos los derechos reservados."
+  },
+  "blog": {
+    "title": "Blog",
+    "description": "Las últimas guías y comparativas de Clean Links",
+    "keywords": "Blog de Clean Links, seguridad de códigos QR, guías para limpiar enlaces",
+    "browseByCategory": "Explorar por categoría",
+    "allPosts": "Todas las publicaciones",
+    "recentPosts": "Publicaciones recientes",
+    "showingPosts": "Mostrando {showing} de {total} publicaciones",
+    "viewAll": "Ver todos",
+    "readMore": "Leer más",
+    "relatedPosts": "Publicaciones relacionadas",
+    "onThisPage": "En esta página",
+    "rssFeedTitle": "Feed RSS del blog de Clean Links",
+    "blog": "Blog",
+    "postSingular": "publicación",
+    "postPlural": "publicaciones",
+    "noPosts": "Aún no hay publicaciones de {category} disponibles.",
+    "backTo": "Volver a {category}",
+    "categoryDescriptions": {
+      "compare": "Compara Clean Links con otros lectores de QR y herramientas de privacidad",
+      "guides": "Guías paso a paso para usar Clean Links de forma eficaz"
+    },
+    "categoryKeywords": {
+      "compare": "Comparativa de lectores de QR, comparativa de herramientas de privacidad, Clean Links vs. competidores",
+      "guides": "Tutoriales de Clean Links, guía de escáner de códigos QR, configuración del limpiador de enlaces"
+    },
+    "categories": {
+      "guides": "Guías de usuario",
+      "compare": "Comparativas"
+    }
+  },
+  "company": {
+    "description": "Limpiador de enlaces y lector de códigos QR gratis para iPhone, iPad y Mac. Protégete del phishing y el seguimiento."
+  },
+  "common": {
+    "titleWithBrand": "{title} - Clean Links"
+  },
+  "comparison": {
+    "featureHeader": "Característica"
+  },
+  "appRating": {
+    "text": "{rating} ({count, plural, =0 {sin reseñas} =1 {# reseña} other {# reseñas}})"
   }
 }

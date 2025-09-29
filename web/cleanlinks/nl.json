@@ -7,7 +7,8 @@
     "download": "Downloaden",
     "faq": "FAQ",
     "useCases": "Gebruiksscenario's",
-    "menu": "Menu"
+    "menu": "Menu",
+    "breadcrumbLabel": "Kruimelpad"
   },
   "hero": {
     "logoAlt": "Clean Links Logo",
@@ -199,7 +200,17 @@
   },
   "cta": {
     "title": "QR-codelezer & link-opschoner - Bescherm je privacy",
-    "description": "Onthul direct de echte URL, wis verborgen trackers en maak deelklare QR-codes - allemaal 100% op uw apparaat, 100% gratis."
+    "description": "Onthul direct de echte URL, wis verborgen trackers en maak deelklare QR-codes - allemaal 100% op uw apparaat, 100% gratis.",
+    "social": {
+      "title": "Download Clean Links - De privacygerichte linkopschoner voor iPhone & Mac",
+      "description": "We volgen elke verborgen redirect en schonen trackingparameters op bij elke stap.",
+      "followText": "Volg ons voor app-updates en privacytips om je online activiteiten veilig te houden.",
+      "headline": "Linkopschoner en QR-codescanner die de uiteindelijke URL toont voordat je tikt",
+      "benefit1": "Verwijder direct verborgen trackers",
+      "benefit2": "Onthul de bestemming van QR-codes",
+      "benefit3": "100% verwerking op het apparaat",
+      "benefit4": "Geen advertenties, geen tracking, geen onzin"
+    }
   },
   "footer": {
     "tagline": "Clean Links. Betere privacy",
@@ -220,5 +231,48 @@
       "systemIntegration": "Werkt Clean Links in Safari, Mail en andere apps?"
     },
     "copyright": "Alle rechten voorbehouden."
+  },
+  "blog": {
+    "title": "Blog",
+    "description": "Nieuwste handleidingen en vergelijkingen voor Clean Links",
+    "keywords": "Clean Links blog, QR-codebeveiliging, handleidingen voor het opschonen van links",
+    "browseByCategory": "Bladeren per categorie",
+    "allPosts": "Alle berichten",
+    "recentPosts": "Recente berichten",
+    "showingPosts": "{showing} van {total} berichten weergegeven",
+    "viewAll": "Alles bekijken",
+    "readMore": "Lees meer",
+    "relatedPosts": "Gerelateerde berichten",
+    "onThisPage": "Op deze pagina",
+    "rssFeedTitle": "Clean Links Blog RSS-feed",
+    "blog": "Blog",
+    "postSingular": "bericht",
+    "postPlural": "berichten",
+    "noPosts": "Nog geen {category}-berichten beschikbaar.",
+    "backTo": "Terug naar {category}",
+    "categoryDescriptions": {
+      "compare": "Vergelijk Clean Links met andere QR-codescanners en privacytools",
+      "guides": "Stapsgewijze handleidingen om Clean Links effectief te gebruiken"
+    },
+    "categoryKeywords": {
+      "compare": "Vergelijking QR-codescanners, vergelijking privacytools, Clean Links vs concurrenten",
+      "guides": "Clean Links tutorials, handleiding QR-codescanner, linkopschoner instellen"
+    },
+    "categories": {
+      "guides": "Handleidingen",
+      "compare": "Vergelijkingen"
+    }
+  },
+  "company": {
+    "description": "Gratis linkopschoner & QR-codescanner voor iPhone, iPad en Mac. Blijf veilig voor phishing en tracking."
+  },
+  "common": {
+    "titleWithBrand": "{title} - Clean Links"
+  },
+  "comparison": {
+    "featureHeader": "Functie"
+  },
+  "appRating": {
+    "text": "{rating} ({count, plural, =0 {geen beoordelingen} =1 {# beoordeling} other {# beoordelingen}})"
   }
 }

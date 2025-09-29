@@ -7,7 +7,8 @@
     "download": "Descărcare",
     "faq": "Întrebări frecvente",
     "useCases": "Cazuri de utilizare",
-    "menu": "Meniu"
+    "menu": "Meniu",
+    "breadcrumbLabel": "Cale de navigare"
   },
   "hero": {
     "logoAlt": "Logo Clean Links",
@@ -199,7 +200,17 @@
   },
   "cta": {
     "title": "Cititor de Coduri QR și Curățător de Linkuri - Protejează-ți Confidențialitatea",
-    "description": "Dezvăluiți instantaneu URL-ul real, ștergeți trackerii ascunși și creați coduri QR gata de partajat - totul 100% pe dispozitiv, 100% gratuit."
+    "description": "Dezvăluiți instantaneu URL-ul real, ștergeți trackerii ascunși și creați coduri QR gata de partajat - totul 100% pe dispozitiv, 100% gratuit.",
+    "social": {
+      "title": "Obține Clean Links - Curățătorul de linkuri axat pe confidențialitate pentru iPhone și Mac",
+      "description": "Urmărim fiecare redirecționare ascunsă și curățăm parametrii de urmărire la fiecare pas.",
+      "followText": "Urmărește-ne pentru actualizări ale aplicației și sfaturi de confidențialitate pentru a-ți menține activitatea online în siguranță.",
+      "headline": "Curățător de linkuri și cititor de coduri QR care afișează URL-ul final înainte să atingi",
+      "benefit1": "Elimină instantaneu trackerii ascunși",
+      "benefit2": "Dezvăluie destinațiile codurilor QR",
+      "benefit3": "Procesare 100% pe dispozitiv",
+      "benefit4": "Zero reclame, zero urmărire, zero prostii"
+    }
   },
   "footer": {
     "tagline": "Clean Links. Confidențialitate sporită",
@@ -220,5 +231,48 @@
       "systemIntegration": "Funcționează Clean Links în Safari, Mail și alte aplicații?"
     },
     "copyright": "Toate drepturile rezervate."
+  },
+  "blog": {
+    "title": "Blog",
+    "description": "Cele mai recente ghiduri și comparații pentru Clean Links",
+    "keywords": "Blog Clean Links, securitatea codurilor QR, ghiduri de curățare a linkurilor",
+    "browseByCategory": "Răsfoiește după categorie",
+    "allPosts": "Toate articolele",
+    "recentPosts": "Articole recente",
+    "showingPosts": "Se afișează {showing} din {total} articole",
+    "viewAll": "Vezi toate",
+    "readMore": "Citește mai mult",
+    "relatedPosts": "Articole similare",
+    "onThisPage": "Pe această pagină",
+    "rssFeedTitle": "Flux RSS blog Clean Links",
+    "blog": "Blog",
+    "postSingular": "articol",
+    "postPlural": "articole",
+    "noPosts": "Nu sunt disponibile încă articole din categoria {category}.",
+    "backTo": "Înapoi la {category}",
+    "categoryDescriptions": {
+      "compare": "Compară Clean Links cu alte cititoare de coduri QR și instrumente de confidențialitate",
+      "guides": "Ghiduri pas cu pas pentru a folosi Clean Links în mod eficient"
+    },
+    "categoryKeywords": {
+      "compare": "Comparație cititoare QR, comparație instrumente de confidențialitate, Clean Links vs concurență",
+      "guides": "Tutoriale Clean Links, ghid de scanare coduri QR, configurare curățător de linkuri"
+    },
+    "categories": {
+      "guides": "Ghiduri de utilizare",
+      "compare": "Comparații"
+    }
+  },
+  "company": {
+    "description": "Curățător de linkuri și cititor de coduri QR gratuit pentru iPhone, iPad și Mac. Fii în siguranță de phishing și urmărire."
+  },
+  "common": {
+    "titleWithBrand": "{title} - Clean Links"
+  },
+  "comparison": {
+    "featureHeader": "Funcționalitate"
+  },
+  "appRating": {
+    "text": "{rating} ({count, plural, =0 {nicio recenzie} =1 {# recenzie} other {# recenzii}})"
   }
 }
