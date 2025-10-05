@@ -7,7 +7,8 @@
     "download": "ダウンロード",
     "faq": "よくある質問",
     "useCases": "使用例",
-    "menu": "メニュー"
+    "menu": "メニュー",
+    "breadcrumbLabel": "パンくずリスト"
   },
   "hero": {
     "logoAlt": "Clean Links ロゴ",
@@ -199,7 +200,17 @@
   },
   "cta": {
     "title": "QRコードリーダー＆リンククリーナー - あなたのプライバシーを保護",
-    "description": "本当のURLを瞬時に明らかにし、隠れたトラッカーを削除し、共有可能なQRコードを作成 - すべて100%デバイス上で、100%無料。"
+    "description": "本当のURLを瞬時に明らかにし、隠れたトラッカーを削除し、共有可能なQRコードを作成 - すべて100%デバイス上で、100%無料。",
+    "social": {
+      "title": "Clean Linksを入手 - プライバシー第一のiPhone & Mac向けリンククリーナー",
+      "description": "隠れたリダイレクトをすべてたどり、各ホップでトラッキングパラメーターを削除します。",
+      "followText": "アプリのアップデートとプライバシーのヒントをフォローして、オンライン活動を安全に保ちましょう。",
+      "headline": "タップする前に最終的なURLを表示するリンククリーナー＆QRコードリーダー",
+      "benefit1": "隠れたトラッカーを即座に削除",
+      "benefit2": "QRコードのリンク先を明らかに",
+      "benefit3": "100%デバイス上での処理",
+      "benefit4": "広告ゼロ、トラッキングゼロ、ごまかしゼロ"
+    }
   },
   "footer": {
     "tagline": "Clean Links. プライバシーをさらに向上",
@@ -220,5 +231,48 @@
       "systemIntegration": "Clean LinksはSafari、Mail、その他のアプリ内で動作しますか？"
     },
     "copyright": "無断複写・転載を禁じます。"
+  },
+  "blog": {
+    "title": "ブログ",
+    "description": "Clean Linksの最新ガイドと比較記事",
+    "keywords": "Clean Linksブログ、QRコードセキュリティ、リンククリーニングガイド",
+    "browseByCategory": "カテゴリーで探す",
+    "allPosts": "全記事",
+    "recentPosts": "新着記事",
+    "showingPosts": "{total}件中{showing}件を表示",
+    "viewAll": "すべて表示",
+    "readMore": "続きを読む",
+    "relatedPosts": "関連記事",
+    "onThisPage": "このページの内容",
+    "rssFeedTitle": "Clean Linksブログ RSSフィード",
+    "blog": "ブログ",
+    "postSingular": "投稿",
+    "postPlural": "投稿",
+    "noPosts": "{category}の投稿はまだありません。",
+    "backTo": "{category}に戻る",
+    "categoryDescriptions": {
+      "compare": "Clean Linksと他のQRコードリーダーやプライバシーツールを比較",
+      "guides": "Clean Linksを効果的に使うための手順ガイド"
+    },
+    "categoryKeywords": {
+      "compare": "QRリーダー比較、プライバシーツール比較、Clean Linksと競合製品の比較",
+      "guides": "Clean Linksチュートリアル、QRコードスキャナーガイド、リンククリーナー設定"
+    },
+    "categories": {
+      "guides": "ユーザーガイド",
+      "compare": "比較"
+    }
+  },
+  "company": {
+    "description": "iPhone、iPad、Mac対応の無料リンククリーナー＆QRコードリーダー。フィッシング詐欺やトラッキングからあなたを守ります。"
+  },
+  "common": {
+    "titleWithBrand": "{title} - Clean Links"
+  },
+  "comparison": {
+    "featureHeader": "機能"
+  },
+  "appRating": {
+    "text": "{rating} ({count, plural, =0 {レビューなし} =1 {レビュー#件} other {レビュー#件}})"
   }
 }

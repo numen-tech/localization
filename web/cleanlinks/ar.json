@@ -7,7 +7,8 @@
     "download": "تنزيل",
     "faq": "الأسئلة الشائعة",
     "useCases": "حالات الاستخدام",
-    "menu": "القائمة"
+    "menu": "القائمة",
+    "breadcrumbLabel": "مسار التنقل"
   },
   "hero": {
     "logoAlt": "شعار Clean Links",
@@ -199,7 +200,17 @@
   },
   "cta": {
     "title": "قارئ رموز QR ومنظف روابط - احمِ خصوصيتك",
-    "description": "اكشف فورًا عن الرابط الحقيقي، وامسح أدوات التتبع الخفية، وأنشئ رموز QR جاهزة للمشاركة - كل ذلك 100% على الجهاز، ومجاني 100%."
+    "description": "اكشف فورًا عن الرابط الحقيقي، وامسح أدوات التتبع الخفية، وأنشئ رموز QR جاهزة للمشاركة - كل ذلك 100% على الجهاز، ومجاني 100%.",
+    "social": {
+      "title": "احصل على Clean Links - منظف الروابط الذي يضع الخصوصية أولاً لأجهزة iPhone و Mac",
+      "description": "نتتبع كل عمليات إعادة التوجيه المخفية وننظف معلمات التتبع في كل خطوة.",
+      "followText": "تابعنا للحصول على تحديثات التطبيق ونصائح الخصوصية للحفاظ على أمان نشاطك عبر الإنترنت.",
+      "headline": "منظف روابط وقارئ رموز QR يكشف لك عن عنوان URL النهائي قبل النقر",
+      "benefit1": "إزالة أدوات التتبع المخفية فوراً",
+      "benefit2": "الكشف عن وجهات رموز QR",
+      "benefit3": "معالجة على الجهاز بنسبة 100%",
+      "benefit4": "بدون إعلانات، بدون تتبع، بدون هراء"
+    }
   },
   "footer": {
     "tagline": "Clean Links. خصوصية أفضل",
@@ -220,5 +231,48 @@
       "systemIntegration": "هل يعمل Clean Links داخل Safari و Mail والتطبيقات الأخرى؟"
     },
     "copyright": "جميع الحقوق محفوظة."
+  },
+  "blog": {
+    "title": "مدونة",
+    "description": "أحدث الأدلة والمقارنات لتطبيق Clean Links",
+    "keywords": "مدونة Clean Links، أمان رمز QR، أدلة تنظيف الروابط",
+    "browseByCategory": "تصفح حسب الفئة",
+    "allPosts": "كل المنشورات",
+    "recentPosts": "المنشورات الأخيرة",
+    "showingPosts": "عرض {showing} من إجمالي {total} من المنشورات",
+    "viewAll": "عرض الكل",
+    "readMore": "اقرأ المزيد",
+    "relatedPosts": "منشورات ذات صلة",
+    "onThisPage": "في هذه الصفحة",
+    "rssFeedTitle": "خلاصة RSS لمدونة Clean Links",
+    "blog": "مدونة",
+    "postSingular": "منشور",
+    "postPlural": "منشورات",
+    "noPosts": "لا توجد منشورات في فئة {category} متاحة بعد.",
+    "backTo": "العودة إلى {category}",
+    "categoryDescriptions": {
+      "compare": "قارن Clean Links مع برامج قراءة رموز QR وأدوات الخصوصية الأخرى",
+      "guides": "أدلة تفصيلية خطوة بخطوة لاستخدام Clean Links بفعالية"
+    },
+    "categoryKeywords": {
+      "compare": "مقارنة قارئ QR، مقارنة أدوات الخصوصية، Clean Links مقابل المنافسين",
+      "guides": "دروس Clean Links التعليمية، دليل ماسح رمز QR، إعداد منظف الروابط"
+    },
+    "categories": {
+      "guides": "أدلة المستخدم",
+      "compare": "مقارنات"
+    }
+  },
+  "company": {
+    "description": "منظف روابط وقارئ رموز QR مجاني لأجهزة iPhone و iPad و Mac. حافظ على سلامتك من التصيد الاحتيالي والتتبع."
+  },
+  "common": {
+    "titleWithBrand": "{title} - Clean Links"
+  },
+  "comparison": {
+    "featureHeader": "ميزة"
+  },
+  "appRating": {
+    "text": "{rating} ({count, plural, =0 {لا توجد تقييمات} =1 {تقييم واحد} other {# تقييم}})"
   }
 }

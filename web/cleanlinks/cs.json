@@ -7,7 +7,8 @@
     "download": "Stáhnout",
     "faq": "Časté dotazy",
     "useCases": "Případy použití",
-    "menu": "Menu"
+    "menu": "Menu",
+    "breadcrumbLabel": "Drobečková navigace"
   },
   "hero": {
     "logoAlt": "Logo Clean Links",
@@ -199,7 +200,17 @@
   },
   "cta": {
     "title": "Čtečka QR kódů a čistič odkazů - Chraňte si své soukromí",
-    "description": "Okamžitě odhalte skutečnou URL, odstraňte skryté sledovací prvky a vytvářejte QR kódy připravené ke sdílení – vše 100% na zařízení, 100% zdarma."
+    "description": "Okamžitě odhalte skutečnou URL, odstraňte skryté sledovací prvky a vytvářejte QR kódy připravené ke sdílení – vše 100% na zařízení, 100% zdarma.",
+    "social": {
+      "title": "Získejte Clean Links - čistič odkazů pro iPhone a Mac s důrazem na soukromí",
+      "description": "Projdeme každé skryté přesměrování a na každém kroku vyčistíme sledovací parametry.",
+      "followText": "Sledujte nás pro novinky o aplikaci a tipy na ochranu soukromí, abyste udrželi své online aktivity v bezpečí.",
+      "headline": "Čistič odkazů a čtečka QR kódů, která zobrazí cílovou URL adresu, než na ni klepnete",
+      "benefit1": "Okamžitě odstraňte skryté sledovací prvky",
+      "benefit2": "Odhalte cílové adresy QR kódů",
+      "benefit3": "100% zpracování na zařízení",
+      "benefit4": "Žádné reklamy, žádné sledování, žádné nesmysly"
+    }
   },
   "footer": {
     "tagline": "Clean Links. Lepší soukromí",
@@ -220,5 +231,48 @@
       "systemIntegration": "Funguje Clean Links v Safari, Mailu a dalších aplikacích?"
     },
     "copyright": "Všechna práva vyhrazena."
+  },
+  "blog": {
+    "title": "Blog",
+    "description": "Nejnovější průvodci a srovnání pro Clean Links",
+    "keywords": "Blog Clean Links, bezpečnost QR kódů, průvodci čištěním odkazů",
+    "browseByCategory": "Procházet podle kategorie",
+    "allPosts": "Všechny příspěvky",
+    "recentPosts": "Nejnovější příspěvky",
+    "showingPosts": "Zobrazeno {showing} z {total} příspěvků",
+    "viewAll": "Zobrazit vše",
+    "readMore": "Číst dál",
+    "relatedPosts": "Související příspěvky",
+    "onThisPage": "Na této stránce",
+    "rssFeedTitle": "RSS kanál blogu Clean Links",
+    "blog": "Blog",
+    "postSingular": "příspěvek",
+    "postPlural": "příspěvky",
+    "noPosts": "V kategorii {category} zatím nejsou žádné příspěvky.",
+    "backTo": "Zpět na {category}",
+    "categoryDescriptions": {
+      "compare": "Porovnejte Clean Links s jinými čtečkami QR kódů a nástroji na ochranu soukromí",
+      "guides": "Podrobné návody pro efektivní používání Clean Links"
+    },
+    "categoryKeywords": {
+      "compare": "Srovnání čteček QR kódů, srovnání nástrojů na ochranu soukromí, Clean Links vs. konkurence",
+      "guides": "Návody pro Clean Links, průvodce skenerem QR kódů, nastavení čističe odkazů"
+    },
+    "categories": {
+      "guides": "Uživatelské příručky",
+      "compare": "Srovnání"
+    }
+  },
+  "company": {
+    "description": "Bezplatný čistič odkazů a čtečka QR kódů pro iPhone, iPad a Mac. Chraňte se před phishingem a sledováním."
+  },
+  "common": {
+    "titleWithBrand": "{title} - Clean Links"
+  },
+  "comparison": {
+    "featureHeader": "Funkce"
+  },
+  "appRating": {
+    "text": "{rating} ({count, plural, =0 {0 hodnocení} =1 {# hodnocení} other {# hodnocení}})"
   }
 }

@@ -7,7 +7,8 @@
     "download": "Lataa",
     "faq": "UKK",
     "useCases": "Käyttötapaukset",
-    "menu": "Valikko"
+    "menu": "Valikko",
+    "breadcrumbLabel": "Murupolku"
   },
   "hero": {
     "logoAlt": "Clean Links -logo",
@@ -199,7 +200,17 @@
   },
   "cta": {
     "title": "QR-koodinlukija ja linkkien puhdistaja - Suojaa yksityisyyttäsi",
-    "description": "Paljasta todellinen URL-osoite välittömästi, poista piilotetut seuraimet ja luo jakovalmiita QR-koodeja – kaikki 100 % laitteella, 100 % ilmaiseksi."
+    "description": "Paljasta todellinen URL-osoite välittömästi, poista piilotetut seuraimet ja luo jakovalmiita QR-koodeja – kaikki 100 % laitteella, 100 % ilmaiseksi.",
+    "social": {
+      "title": "Hanki Clean Links - Yksityisyyttä kunnioittava linkinpuhdistin iPhonelle ja Macille",
+      "description": "Seuraamme jokaisen piilotetun uudelleenohjauksen ja puhdistamme seurantaparametrit joka vaiheessa.",
+      "followText": "Seuraa meitä saadaksesi sovelluspäivityksiä ja yksityisyysvinkkejä, joilla pidät verkkotoimintasi turvassa.",
+      "headline": "Linkinpuhdistin ja QR-koodinlukija, joka näyttää lopullisen URL-osoitteen ennen napautusta",
+      "benefit1": "Poista piilotetut seuraimet välittömästi",
+      "benefit2": "Paljasta QR-koodien kohteet",
+      "benefit3": "100 % käsittely laitteessa",
+      "benefit4": "Nolla mainosta, nolla seurantaa, nolla hölynpölyä"
+    }
   },
   "footer": {
     "tagline": "Clean Links. Parempi yksityisyys",
@@ -220,5 +231,48 @@
       "systemIntegration": "Toimiiko Clean Links Safarissa, Mailissa ja muissa sovelluksissa?"
     },
     "copyright": "Kaikki oikeudet pidätetään."
+  },
+  "blog": {
+    "title": "Blogi",
+    "description": "Clean Linksin uusimmat oppaat ja vertailut",
+    "keywords": "Clean Links -blogi, QR-koodien turvallisuus, linkkien puhdistusoppaat",
+    "browseByCategory": "Selaa kategorioita",
+    "allPosts": "Kaikki julkaisut",
+    "recentPosts": "Viimeisimmät julkaisut",
+    "showingPosts": "Näytetään {showing} / {total} julkaisua",
+    "viewAll": "Näytä kaikki",
+    "readMore": "Lue lisää",
+    "relatedPosts": "Aiheeseen liittyvät julkaisut",
+    "onThisPage": "Tällä sivulla",
+    "rssFeedTitle": "Clean Links -blogin RSS-syöte",
+    "blog": "Blogi",
+    "postSingular": "julkaisu",
+    "postPlural": "julkaisua",
+    "noPosts": "Kategoriassa {category} ei ole vielä julkaisuja.",
+    "backTo": "Takaisin kategoriaan {category}",
+    "categoryDescriptions": {
+      "compare": "Vertaa Clean Linksiä muihin QR-koodinlukijoihin ja yksityisyystyökaluihin",
+      "guides": "Vaiheittaiset oppaat Clean Linksin tehokkaaseen käyttöön"
+    },
+    "categoryKeywords": {
+      "compare": "QR-koodinlukijoiden vertailu, yksityisyystyökalujen vertailu, Clean Links vs. kilpailijat",
+      "guides": "Clean Links -oppaat, QR-koodinlukijan opas, linkinpuhdistimen asennus"
+    },
+    "categories": {
+      "guides": "Käyttöoppaat",
+      "compare": "Vertailut"
+    }
+  },
+  "company": {
+    "description": "Ilmainen linkinpuhdistin ja QR-koodinlukija iPhonelle, iPadille ja Macille. Suojaudu tietojenkalastelulta ja seurannalta."
+  },
+  "common": {
+    "titleWithBrand": "{title} - Clean Links"
+  },
+  "comparison": {
+    "featureHeader": "Ominaisuus"
+  },
+  "appRating": {
+    "text": "{rating} ({count, plural, =0 {ei arvosteluja} =1 {# arvostelu} other {# arvostelua}})"
   }
 }

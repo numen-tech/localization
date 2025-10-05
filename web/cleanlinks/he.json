@@ -7,7 +7,8 @@
     "download": "הורדה",
     "faq": "שאלות נפוצות",
     "useCases": "מקרי שימוש",
-    "menu": "תפריט"
+    "menu": "תפריט",
+    "breadcrumbLabel": "פירורי לחם"
   },
   "hero": {
     "logoAlt": "הלוגו של Clean Links",
@@ -199,7 +200,17 @@
   },
   "cta": {
     "title": "סורק קודי QR ומנקה קישורים - הגנו על הפרטיות שלכם",
-    "description": "חשפו באופן מיידי את הכתובת האמיתית, מחקו עוקבנים נסתרים, וצרו קודי QR מוכנים לשיתוף - הכל 100% על המכשיר, 100% בחינם."
+    "description": "חשפו באופן מיידי את הכתובת האמיתית, מחקו עוקבנים נסתרים, וצרו קודי QR מוכנים לשיתוף - הכל 100% על המכשיר, 100% בחינם.",
+    "social": {
+      "title": "הורידו את Clean Links - מנקה הקישורים ששם את הפרטיות במקום הראשון, ל-iPhone ו-Mac",
+      "description": "אנו עוקבים אחר כל הפניה נסתרת ומנקים פרמטרים של מעקב בכל שלב.",
+      "followText": "עקבו אחרינו לקבלת עדכוני אפליקציה וטיפים בנושא פרטיות כדי לשמור על הפעילות המקוונת שלכם מאובטחת.",
+      "headline": "מנקה קישורים וסורק קוד QR שמציג את כתובת ה-URL הסופית לפני שלוחצים",
+      "benefit1": "הסרת עוקבנים נסתרים באופן מיידי",
+      "benefit2": "חשיפת יעדי קוד ה-QR",
+      "benefit3": "עיבוד 100% על המכשיר",
+      "benefit4": "אפס פרסומות, אפס מעקב, אפס שטויות"
+    }
   },
   "footer": {
     "tagline": "Clean Links. פרטיות טובה יותר",
@@ -220,5 +231,48 @@
       "systemIntegration": "האם Clean Links עובד בתוך Safari, Mail ואפליקציות אחרות?"
     },
     "copyright": "כל הזכויות שמורות."
+  },
+  "blog": {
+    "title": "בלוג",
+    "description": "המדריכים וההשוואות החדשים ביותר עבור Clean Links",
+    "keywords": "הבלוג של Clean Links, אבטחת קוד QR, מדריכים לניקוי קישורים",
+    "browseByCategory": "עיון לפי קטגוריה",
+    "allPosts": "כל הפוסטים",
+    "recentPosts": "פוסטים אחרונים",
+    "showingPosts": "מציג {showing} מתוך {total} פוסטים",
+    "viewAll": "הצג הכל",
+    "readMore": "קרא עוד",
+    "relatedPosts": "פוסטים קשורים",
+    "onThisPage": "בעמוד זה",
+    "rssFeedTitle": "פיד RSS של הבלוג של Clean Links",
+    "blog": "בלוג",
+    "postSingular": "פוסט",
+    "postPlural": "פוסטים",
+    "noPosts": "אין עדיין פוסטים בקטגוריית {category}.",
+    "backTo": "חזרה ל{category}",
+    "categoryDescriptions": {
+      "compare": "השוואת Clean Links עם סורקי קוד QR וכלי פרטיות אחרים",
+      "guides": "מדריכים מפורטים לשימוש יעיל ב-Clean Links"
+    },
+    "categoryKeywords": {
+      "compare": "השוואת סורקי QR, השוואת כלי פרטיות, Clean Links מול המתחרים",
+      "guides": "הדרכות ל-Clean Links, מדריך לסורק קוד QR, הגדרת מנקה הקישורים"
+    },
+    "categories": {
+      "guides": "מדריכים למשתמש",
+      "compare": "השוואות"
+    }
+  },
+  "company": {
+    "description": "מנקה קישורים וסורק קוד QR חינמי ל-iPhone, iPad ו-Mac. הישארו בטוחים מפני פישינג ומעקב."
+  },
+  "common": {
+    "titleWithBrand": "{title} - Clean Links"
+  },
+  "comparison": {
+    "featureHeader": "תכונה"
+  },
+  "appRating": {
+    "text": "{rating} ({count, plural, =0 {אין ביקורות} =1 {# ביקורת} other {# ביקורות}})"
   }
 }

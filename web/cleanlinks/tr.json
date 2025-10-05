@@ -7,7 +7,8 @@
     "download": "İndir",
     "faq": "SSS",
     "useCases": "Kullanım Alanları",
-    "menu": "Menü"
+    "menu": "Menü",
+    "breadcrumbLabel": "Gezinme yolu"
   },
   "hero": {
     "logoAlt": "Clean Links Logosu",
@@ -199,7 +200,17 @@
   },
   "cta": {
     "title": "QR Kod Okuyucu ve Bağlantı Temizleyici - Gizliliğinizi Koruyun",
-    "description": "Gerçek URL'yi anında ortaya çıkarın, gizli izleyicileri silin ve paylaşıma hazır QR kodları oluşturun - hepsi %100 cihazda, %100 ücretsiz."
+    "description": "Gerçek URL'yi anında ortaya çıkarın, gizli izleyicileri silin ve paylaşıma hazır QR kodları oluşturun - hepsi %100 cihazda, %100 ücretsiz.",
+    "social": {
+      "title": "Clean Links'i İndirin - iPhone ve Mac için Gizlilik Odaklı Bağlantı Temizleyici",
+      "description": "Her gizli yönlendirmeyi takip ediyor ve her adımda izleme parametrelerini temizliyoruz.",
+      "followText": "Uygulama güncellemeleri ve çevrimiçi etkinliğinizi güvende tutacak gizlilik ipuçları için bizi takip edin.",
+      "headline": "Dokunmadan Önce Son URL'yi Gösteren Bağlantı Temizleyici ve QR Kod Okuyucu",
+      "benefit1": "Gizli izleyicileri anında kaldırın",
+      "benefit2": "QR kod hedeflerini ortaya çıkarın",
+      "benefit3": "%100 cihaz üzerinde işleme",
+      "benefit4": "Sıfır reklam, sıfır izleme, sıfır palavra"
+    }
   },
   "footer": {
     "tagline": "Clean Links. Daha iyi gizlilik",
@@ -220,5 +231,48 @@
       "systemIntegration": "Clean Links, Safari, Mail ve diğer uygulamaların içinde çalışır mı?"
     },
     "copyright": "Tüm hakları saklıdır."
+  },
+  "blog": {
+    "title": "Blog",
+    "description": "Clean Links için en son rehberler ve karşılaştırmalar",
+    "keywords": "Clean Links blogu, QR kod güvenliği, bağlantı temizleme rehberleri",
+    "browseByCategory": "Kategoriye Göre Göz At",
+    "allPosts": "Tüm Yazılar",
+    "recentPosts": "Son Yazılar",
+    "showingPosts": "{total} yazıdan {showing} tanesi gösteriliyor",
+    "viewAll": "Tümünü Gör",
+    "readMore": "Devamını oku",
+    "relatedPosts": "İlgili Yazılar",
+    "onThisPage": "Bu sayfada",
+    "rssFeedTitle": "Clean Links Blog RSS Akışı",
+    "blog": "Blog",
+    "postSingular": "yazı",
+    "postPlural": "yazılar",
+    "noPosts": "Henüz {category} kategorisinde yazı mevcut değil.",
+    "backTo": "{category} kategorisine geri dön",
+    "categoryDescriptions": {
+      "compare": "Clean Links'i diğer QR okuyucular ve gizlilik araçlarıyla karşılaştırın",
+      "guides": "Clean Links'i etkili bir şekilde kullanmak için adım adım rehberler"
+    },
+    "categoryKeywords": {
+      "compare": "QR okuyucu karşılaştırması, gizlilik aracı karşılaştırması, Clean Links ve rakipleri",
+      "guides": "Clean Links eğitimleri, QR kod okuyucu rehberi, bağlantı temizleyici kurulumu"
+    },
+    "categories": {
+      "guides": "Kullanıcı Rehberleri",
+      "compare": "Karşılaştırmalar"
+    }
+  },
+  "company": {
+    "description": "iPhone, iPad ve Mac için Ücretsiz Bağlantı Temizleyici ve QR Kod Okuyucu. Oltalama ve izlemeden korunun."
+  },
+  "common": {
+    "titleWithBrand": "{title} - Clean Links"
+  },
+  "comparison": {
+    "featureHeader": "Özellik"
+  },
+  "appRating": {
+    "text": "{rating} ({count, plural, =0 {yorum yok} =1 {# yorum} other {# yorum}})"
   }
 }
