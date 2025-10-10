@@ -167,7 +167,7 @@
     },
     "cleanWorkflow": {
       "question": "Hur rensar jag en länk som jag har kopierat?",
-      "answer": "Du kan skapa ett Apple-genväg som tar URL:en från ditt urklipp, rensar den och lägger tillbaka den rensade länken. Ladda till exempel ner det här genväget som körs med ett tryck: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0. För ännu snabbare åtkomst, tilldela genväget till din iPhones åtgärdsknapp (iPhone 15 Pro och senare) så att ett enda tryck var som helst rensar länken i urklippet. Du kan lägga till Clean Links i Kontrollcenter på iPhone, iPad och Mac: välj mellan två åtgärder - \"Öppna app\" eller \"QR-läsare\". Använd dem direkt i Kontrollcenter eller på låsskärmen, eller tilldela dem till åtgärdsknappen för rensning med ett tryck var som helst. Du kan också öppna Clean Links-appen manuellt och klistra in din URL för att rensa den."
+      "answer": "Du kan skapa en Apple-genväg som tar URL:en från ditt urklipp, rensar den och lägger tillbaka den rensade länken. Ladda till exempel ner den här <shortcut>ett-trycks-genvägen</shortcut>. För ännu snabbare åtkomst, tilldela genvägen till din iPhones åtgärdsknapp (iPhone 15 Pro och senare) så att ett enda tryck var som helst rensar länken i urklippet. Du kan lägga till Clean Links i Kontrollcenter på iPhone, iPad och Mac: välj mellan två åtgärder - \"Öppna appen\" eller \"QR-läsare\". Använd dem direkt i Kontrollcenter eller på låsskärmen, eller tilldela dem till åtgärdsknappen för rensning med ett tryck var som helst. Du kan också öppna Clean Links-appen manuellt och klistra in din URL för att rensa den."
     },
     "qrScanning": {
       "question": "Hur skannar jag en QR-kod?",

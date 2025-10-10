@@ -163,7 +163,7 @@
     },
     "cleanWorkflow": {
       "question": "How do I clean a link I've copied?",
-      "answer": "You can create an Apple Shortcut that takes the URL from your clipboard, cleans it, and puts the cleaned link back. For example, download this one-tap shortcut: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0. For even faster access, assign that shortcut to your iPhone's Action button (iPhone 15 Pro and later) so a single press anywhere cleans the clipboard link. You can add Clean Links to your Control Center on iPhone, iPad, and Mac: choose from two actions-\"Open App\" or \"QR Reader.\" Access these directly in Control Center or on the Lock Screen, or assign them to the Action button for one-tap cleaning from anywhere. You can also open the Clean Links app manually and paste your URL to clean it."
+      "answer": "You can create an Apple Shortcut that takes the URL from your clipboard, cleans it, and puts the cleaned link back. For example, download this <shortcut>one-tap shortcut</shortcut>. For even faster access, assign that shortcut to your iPhone's Action button (iPhone 15 Pro and later) so a single press anywhere cleans the clipboard link. You can add Clean Links to your Control Center on iPhone, iPad, and Mac: choose from two actions-\"Open App\" or \"QR Reader.\" Access these directly in Control Center or on the Lock Screen, or assign them to the Action button for one-tap cleaning from anywhere. You can also open the Clean Links app manually and paste your URL to clean it."
     },
     "qrScanning": {
       "question": "How do I check a QR code?",

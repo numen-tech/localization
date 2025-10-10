@@ -167,7 +167,7 @@
     },
     "cleanWorkflow": {
       "question": "¿Cómo limpio un enlace que he copiado?",
-      "answer": "Puedes crear un Atajo de Apple que tome la URL de tu portapapeles, la limpie y devuelva el enlace limpio. Por ejemplo, descarga este atajo de un toque: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0. Para un acceso aún más rápido, asigna ese atajo al botón de acción de tu iPhone (iPhone 15 Pro y posterior) para que una sola pulsación en cualquier lugar limpie el enlace del portapapeles. Puedes añadir Clean Links a tu Centro de control en iPhone, iPad y Mac: elige entre dos acciones: \"Abrir app\" o \"Lector QR\". Accede a ellas directamente en el Centro de control o en la pantalla de bloqueo, o asígnalas al botón de acción para limpiar con un solo toque desde cualquier lugar. También puedes abrir la app Clean Links manualmente y pegar tu URL para limpiarla."
+      "answer": "Puedes crear un Atajo de Apple que toma la URL de tu portapapeles, la limpia y devuelve el enlace limpio. Por ejemplo, descarga este <shortcut>atajo de un solo toque</shortcut>. Para un acceso aún más rápido, asigna ese atajo al botón de Acción de tu iPhone (iPhone 15 Pro y posteriores) para que una sola pulsación en cualquier lugar limpie el enlace del portapapeles. Puedes añadir Clean Links a tu Centro de Control en iPhone, iPad y Mac: elige entre dos acciones: \"Abrir app\" o \"Lector QR\". Accede a ellas directamente en el Centro de Control o en la pantalla de bloqueo, o asígnalas al botón de Acción para una limpieza de un solo toque desde cualquier lugar. También puedes abrir la app Clean Links manualmente y pegar tu URL para limpiarla."
     },
     "qrScanning": {
       "question": "¿Cómo analizo un código QR?",

@@ -167,7 +167,7 @@
     },
     "cleanWorkflow": {
       "question": "我該如何清理已複製的連結？",
-      "answer": "您可以建立一個 Apple「捷徑」，它會從剪貼簿取得網址、進行清理，再將乾淨的連結放回剪貼簿。例如，下載這個一鍵捷徑：https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0。若想更快取用，可將該捷徑指派給 iPhone 的「動作」按鈕 (iPhone 15 Pro 及後續機型)，如此一來，隨處輕按一下即可清理剪貼簿連結。您也可以將 Clean Links 加入 iPhone、iPad 和 Mac 的「控制中心」，並從「開啟 App」或「QR 掃描器」兩種動作中選擇。這些動作可直接在「控制中心」或「鎖定畫面」上取用，或指派給「動作」按鈕，實現隨處一鍵清理。此外，您也能手動開啟 Clean Links App 並貼上網址進行清理。"
+      "answer": "您可以建立一個 Apple「捷徑」，用來取得剪貼簿中的網址，清理後再將乾淨的連結存回剪貼簿。例如，下載這個<shortcut>一鍵捷徑</shortcut>。想更快取用，可將該捷徑指派給 iPhone 的「動作」按鈕 (iPhone 15 Pro 及後續機型)，這樣只要按一下，就能隨時清理剪貼簿連結。您可以在 iPhone、iPad 和 Mac 上將 Clean Links 加入「控制中心」：從「打開 App」或「QR 碼掃描器」兩個動作中選擇。直接在「控制中心」或「鎖定畫面」上取用這些動作，或將它們指派給「動作」按鈕，以便隨時隨地一鍵清理。您也可以手動打開 Clean Links App，並貼上您的網址來進行清理。"
     },
     "qrScanning": {
       "question": "我要如何掃描 QR Code？",

@@ -167,7 +167,7 @@
     },
     "cleanWorkflow": {
       "question": "Jak vyčistím odkaz, který jsem zkopíroval?",
-      "answer": "Můžete si vytvořit Zkratku Apple, která vezme URL z vaší schránky, vyčistí ji a vloží vyčištěný odkaz zpět. Například si stáhněte tuto zkratku na jedno klepnutí: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0. Pro ještě rychlejší přístup přiřaďte tuto zkratku tlačítku Akce na vašem iPhonu (iPhone 15 Pro a novější), takže jedním stisknutím kdekoli vyčistíte odkaz ve schránce. Můžete přidat Clean Links do Ovládacího centra na iPhonu, iPadu a Macu: vyberte si ze dvou akcí - \"Otevřít aplikaci\" nebo \"Čtečka QR\". K těmto akcím můžete přistupovat přímo z Ovládacího centra nebo ze zamčené obrazovky, nebo je přiřadit tlačítku Akce pro čištění jedním klepnutím odkudkoli. Můžete také ručně otevřít aplikaci Clean Links a vložit URL k vyčištění."
+      "answer": "Můžete si vytvořit zkratku Apple, která vezme URL adresu z vaší schránky, vyčistí ji a vloží vyčištěný odkaz zpět. Například si stáhněte tuto <shortcut>zkratku na jedno klepnutí</shortcut>. Pro ještě rychlejší přístup přiřaďte tuto zkratku tlačítku Akce na vašem iPhonu (iPhone 15 Pro a novější), takže jediným stisknutím kdekoli vyčistíte odkaz ve schránce. Aplikaci Clean Links si můžete přidat do Ovládacího centra na iPhonu, iPadu a Macu: na výběr jsou dvě akce - \"Otevřít aplikaci\" nebo \"Čtečka QR kódů\". K těmto akcím můžete přistupovat přímo v Ovládacím centru nebo na Zamykací obrazovce, nebo je přiřadit tlačítku Akce pro čištění jedním stisknutím odkudkoli. Aplikaci Clean Links můžete také otevřít ručně a vložit svou URL adresu k vyčištění."
     },
     "qrScanning": {
       "question": "Jak zkontroluji QR kód?",
