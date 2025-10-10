@@ -242,8 +242,8 @@
   },
   "blog": {
     "title": "網誌",
-    "description": "Clean Links 最新指南及比較",
-    "keywords": "Clean Links 網誌、QR Code 安全、連結清理指南",
+    "description": "Clean Links 的最新指南與比較。透過我們全面的指南與比較，了解 QR Code 安全、連結清理和私隱保護。",
+    "keywords": "Clean Links 網誌, QR Code 安全, 連結清理指南, QR Code 安全, 移除連結追蹤器, 私隱指南, 流動裝置安全",
     "browseByCategory": "按類別瀏覽",
     "allPosts": "所有文章",
     "recentPosts": "最新文章",
@@ -259,12 +259,12 @@
     "noPosts": "暫時沒有 {category} 文章。",
     "backTo": "返回 {category}",
     "categoryDescriptions": {
-      "compare": "比較 Clean Links 與其他 QR Code 掃描器及私隱工具",
-      "guides": "有效使用 Clean Links 的逐步指南"
+      "compare": "將 Clean Links 與其他 QR Code 掃描器及私隱工具進行比較。查看功能比較，了解為何 Clean Links 是保障流動裝置安全的最佳選擇。",
+      "guides": "為 iPhone、iPad 及 Mac 用戶而設的逐步教學，助你保護私隱並避開 QR Code 網絡釣魚攻擊。"
     },
     "categoryKeywords": {
-      "compare": "QR Code 掃描器比較、私隱工具比較、Clean Links 與競爭對手比較",
-      "guides": "Clean Links 教學、QR Code 掃描器指南、連結清理工具設定"
+      "compare": "QR Code 掃描器比較, 私隱工具比較, Clean Links vs 競爭對手, QR Code 掃描器比較, 私隱工具比較, Clean Links vs 競爭對手, 流動裝置安全應用程式",
+      "guides": "Clean Links 教學, QR Code 掃描器指南, 連結清理工具設定, iPhone 私隱指南, QR Code 掃描器教學, 連結清理工具設定, 流動裝置安全"
     },
     "categories": {
       "guides": "使用指南",

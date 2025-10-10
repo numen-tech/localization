@@ -242,8 +242,8 @@
   },
   "blog": {
     "title": "Blog",
-    "description": "Cele mai recente ghiduri și comparații pentru Clean Links",
-    "keywords": "Blog Clean Links, securitatea codurilor QR, ghiduri de curățare a linkurilor",
+    "description": "Cele mai noi ghiduri și comparații pentru Clean Links. Aflați despre siguranța codurilor QR, curățarea linkurilor și protecția confidențialității cu ajutorul ghidurilor și comparațiilor noastre complete.",
+    "keywords": "Blog Clean Links, securitatea codurilor QR, ghiduri de curățare a linkurilor, securitatea codurilor QR, eliminarea urmăritorilor din linkuri, ghiduri de confidențialitate, securitate mobilă",
     "browseByCategory": "Răsfoiește după categorie",
     "allPosts": "Toate articolele",
     "recentPosts": "Articole recente",
@@ -259,12 +259,12 @@
     "noPosts": "Nu sunt disponibile încă articole din categoria {category}.",
     "backTo": "Înapoi la {category}",
     "categoryDescriptions": {
-      "compare": "Compară Clean Links cu alte cititoare de coduri QR și instrumente de confidențialitate",
-      "guides": "Ghiduri pas cu pas pentru a folosi Clean Links în mod eficient"
+      "compare": "Comparați Clean Links cu alte scanere de coduri QR și instrumente de confidențialitate. Vedeți comparații de funcționalități și de ce Clean Links este cea mai bună alegere pentru securitatea mobilă.",
+      "guides": "Tutoriale pas cu pas pentru utilizatorii de iPhone, iPad și Mac pentru a proteja confidențialitatea și a evita atacurile de phishing prin coduri QR."
     },
     "categoryKeywords": {
-      "compare": "Comparație cititoare QR, comparație instrumente de confidențialitate, Clean Links vs concurență",
-      "guides": "Tutoriale Clean Links, ghid de scanare coduri QR, configurare curățător de linkuri"
+      "compare": "Comparație scanere QR, comparație instrumente de confidențialitate, Clean Links vs concurenți, comparație scanere QR, comparație instrumente de confidențialitate, Clean Links vs concurenți, aplicații de securitate mobilă",
+      "guides": "Tutoriale Clean Links, ghid scaner coduri QR, configurare curățare linkuri, ghid de confidențialitate iPhone, tutorial scaner coduri QR, configurare curățare linkuri, securitate mobilă"
     },
     "categories": {
       "guides": "Ghiduri de utilizare",

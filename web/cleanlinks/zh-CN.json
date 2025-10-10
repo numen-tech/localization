@@ -242,8 +242,8 @@
   },
   "blog": {
     "title": "博客",
-    "description": "Clean Links 的最新指南与比较",
-    "keywords": "Clean Links 博客、二维码安全、链接清理指南",
+    "description": "Clean Links 的最新指南与对比。通过我们详尽的指南和对比，了解二维码安全、链接清理及隐私保护。",
+    "keywords": "Clean Links 博客, 二维码安全, 链接清理指南, 二维码安全, 移除链接跟踪器, 隐私指南, 移动安全",
     "browseByCategory": "按分类浏览",
     "allPosts": "所有文章",
     "recentPosts": "近期文章",
@@ -259,12 +259,12 @@
     "noPosts": "暂无 {category} 分类的文章。",
     "backTo": "返回 {category}",
     "categoryDescriptions": {
-      "compare": "将 Clean Links 与其他二维码扫描器和隐私工具进行比较",
-      "guides": "有效使用 Clean Links 的分步指南"
+      "compare": "将 Clean Links 与其他二维码扫描器和隐私工具进行比较。查看功能对比，了解为何 Clean Links 是移动安全的最佳选择。",
+      "guides": "面向 iPhone, iPad 和 Mac 用户的分步教程，教您如何保护隐私、避免二维码钓鱼攻击。"
     },
     "categoryKeywords": {
-      "compare": "二维码扫描器比较、隐私工具比较、Clean Links 与竞争对手对比",
-      "guides": "Clean Links 教程、二维码扫描器指南、链接清理器设置"
+      "compare": "二维码扫描器对比, 隐私工具对比, Clean Links vs 竞争对手, 二维码扫描器对比, 隐私工具对比, Clean Links vs 竞争对手, 移动安全应用",
+      "guides": "Clean Links 教程, 二维码扫描器指南, 链接清理工具设置, iPhone 隐私指南, 二维码扫描器教程, 链接清理工具设置, 移动安全"
     },
     "categories": {
       "guides": "用户指南",

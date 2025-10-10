@@ -242,8 +242,8 @@
   },
   "blog": {
     "title": "Blog",
-    "description": "Legfrissebb útmutatók és összehasonlítások a Clean Links-hez",
-    "keywords": "Clean Links blog, QR-kód biztonság, linktisztító útmutatók",
+    "description": "Legújabb útmutatók és összehasonlítások a Clean Links-hez. Tudjon meg többet a QR-kódok biztonságáról, a linkek megtisztításáról és az adatvédelemről átfogó útmutatóink és összehasonlításaink segítségével.",
+    "keywords": "Clean Links blog, QR-kód biztonság, linktisztító útmutatók, QR-kód biztonság, linkkövetők eltávolítása, adatvédelmi útmutatók, mobilbiztonság",
     "browseByCategory": "Böngészés kategóriák szerint",
     "allPosts": "Összes bejegyzés",
     "recentPosts": "Legutóbbi bejegyzések",
@@ -259,12 +259,12 @@
     "noPosts": "Még nincsenek {category} bejegyzések.",
     "backTo": "Vissza: {category}",
     "categoryDescriptions": {
-      "compare": "Hasonlítsa össze a Clean Links alkalmazást más QR-kód olvasókkal és adatvédelmi eszközökkel",
-      "guides": "Részletes útmutatók a Clean Links hatékony használatához"
+      "compare": "Hasonlítsa össze a Clean Links alkalmazást más QR-kód olvasókkal és adatvédelmi eszközökkel. Tekintse meg a funkciók összehasonlítását, és tudja meg, miért a Clean Links a legjobb választás a mobilbiztonság terén.",
+      "guides": "Lépésről lépésre útmutatók iPhone, iPad és Mac felhasználóknak adataik védelmére és a QR-kódos adathalász támadások elkerülésére."
     },
     "categoryKeywords": {
-      "compare": "QR-kód olvasó összehasonlítás, adatvédelmi eszköz összehasonlítás, Clean Links vs versenytársak",
-      "guides": "Clean Links oktatóanyagok, QR-kód olvasó útmutató, linktisztító beállítása"
+      "compare": "QR-kód olvasó összehasonlítás, adatvédelmi eszközök összehasonlítása, Clean Links vs versenytársak, QR-kód olvasó összehasonlítás, adatvédelmi eszközök összehasonlítása, Clean Links vs versenytársak, mobilbiztonsági alkalmazások",
+      "guides": "Clean Links útmutatók, QR-kód olvasó útmutató, linktisztító beállítása, iPhone adatvédelmi útmutató, QR-kód olvasó útmutató, linktisztító beállítása, mobilbiztonság"
     },
     "categories": {
       "guides": "Felhasználói útmutatók",

@@ -242,8 +242,8 @@
   },
   "blog": {
     "title": "블로그",
-    "description": "Clean Links 최신 가이드 및 비교",
-    "keywords": "Clean Links 블로그, QR 코드 보안, 링크 클리닝 가이드",
+    "description": "Clean Links의 최신 가이드 및 비교. 종합 가이드와 비교 자료를 통해 QR 코드 안전, 링크 정리, 개인정보 보호에 대해 알아보세요.",
+    "keywords": "Clean Links 블로그, QR 코드 보안, 링크 정리 가이드, QR 코드 보안, 링크 추적기 제거, 개인정보 보호 가이드, 모바일 보안",
     "browseByCategory": "카테고리별로 보기",
     "allPosts": "모든 게시물",
     "recentPosts": "최신 게시물",
@@ -259,12 +259,12 @@
     "noPosts": "{category} 게시물이 아직 없습니다.",
     "backTo": "{category} 목록으로",
     "categoryDescriptions": {
-      "compare": "Clean Links와 다른 QR 리더 및 개인정보 보호 도구 비교하기",
-      "guides": "Clean Links를 효과적으로 사용하는 단계별 가이드"
+      "compare": "Clean Links를 다른 QR 코드 스캐너 및 개인정보 보호 도구와 비교해 보세요. 기능 비교를 통해 Clean Links가 모바일 보안을 위한 최고의 선택인 이유를 확인하세요.",
+      "guides": "iPhone, iPad, Mac 사용자를 위한 개인정보 보호 및 QR 코드 피싱 공격 방지 단계별 튜토리얼."
     },
     "categoryKeywords": {
-      "compare": "QR 리더 비교, 개인정보 보호 도구 비교, Clean Links와 경쟁 제품 비교",
-      "guides": "Clean Links 튜토리얼, QR 코드 스캐너 가이드, 링크 클리너 설정"
+      "compare": "QR 코드 스캐너 비교, 개인정보 보호 도구 비교, Clean Links vs 경쟁 앱, QR 코드 스캐너 비교, 개인정보 보호 도구 비교, Clean Links vs 경쟁 앱, 모바일 보안 앱",
+      "guides": "Clean Links 튜토리얼, QR 코드 스캐너 가이드, 링크 클리너 설정, iPhone 개인정보 보호 가이드, QR 코드 스캐너 튜토리얼, 링크 클리너 설정, 모바일 보안"
     },
     "categories": {
       "guides": "사용자 가이드",

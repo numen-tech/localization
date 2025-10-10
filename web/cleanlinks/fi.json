@@ -242,8 +242,8 @@
   },
   "blog": {
     "title": "Blogi",
-    "description": "Clean Linksin uusimmat oppaat ja vertailut",
-    "keywords": "Clean Links -blogi, QR-koodien turvallisuus, linkkien puhdistusoppaat",
+    "description": "Clean Linksin uusimmat oppaat ja vertailut. Opi QR-koodien turvallisuudesta, linkkien puhdistamisesta ja yksityisyyden suojasta kattavien oppaidemme ja vertailujemme avulla.",
+    "keywords": "Clean Links -blogi, QR-koodien turvallisuus, linkkien puhdistusoppaat, QR-koodien turvallisuus, linkkien seurannan poisto, yksityisyysoppaat, mobiiliturvallisuus",
     "browseByCategory": "Selaa kategorioita",
     "allPosts": "Kaikki julkaisut",
     "recentPosts": "Viimeisimmät julkaisut",
@@ -259,12 +259,12 @@
     "noPosts": "Kategoriassa {category} ei ole vielä julkaisuja.",
     "backTo": "Takaisin kategoriaan {category}",
     "categoryDescriptions": {
-      "compare": "Vertaa Clean Linksiä muihin QR-koodinlukijoihin ja yksityisyystyökaluihin",
-      "guides": "Vaiheittaiset oppaat Clean Linksin tehokkaaseen käyttöön"
+      "compare": "Vertaa Clean Linksiä muihin QR-koodinlukijoihin ja yksityisyystyökaluihin. Katso ominaisuusvertailut ja miksi Clean Links on paras valinta mobiiliturvallisuuteen.",
+      "guides": "Vaiheittaiset oppaat iPhone-, iPad- ja Mac-käyttäjille yksityisyyden suojaamiseen ja QR-koodihuijausten välttämiseen."
     },
     "categoryKeywords": {
-      "compare": "QR-koodinlukijoiden vertailu, yksityisyystyökalujen vertailu, Clean Links vs. kilpailijat",
-      "guides": "Clean Links -oppaat, QR-koodinlukijan opas, linkinpuhdistimen asennus"
+      "compare": "QR-koodinlukijavertailu, yksityisyystyökalujen vertailu, Clean Links vs kilpailijat, QR-koodinlukijavertailu, yksityisyystyökalujen vertailu, Clean Links vs kilpailijat, mobiiliturvasovellukset",
+      "guides": "Clean Links -oppaat, QR-koodinlukijan opas, linkinpuhdistimen asennus, iPhonen yksityisyysopas, QR-koodinlukijan opas, linkinpuhdistimen asennus, mobiiliturvallisuus"
     },
     "categories": {
       "guides": "Käyttöoppaat",

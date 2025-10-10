@@ -242,8 +242,8 @@
   },
   "blog": {
     "title": "Blog",
-    "description": "Neueste Anleitungen und Vergleiche für Clean Links",
-    "keywords": "Clean Links Blog, QR-Code-Sicherheit, Anleitungen zur Link-Bereinigung",
+    "description": "Neueste Anleitungen und Vergleiche für Clean Links. Erfahre mehr über QR-Code-Sicherheit, Link-Bereinigung und Datenschutz mit unseren umfassenden Anleitungen und Vergleichen.",
+    "keywords": "Clean Links Blog, QR-Code-Sicherheit, Anleitungen zur Link-Bereinigung, QR-Code-Sicherheit, Entfernung von Link-Trackern, Datenschutz-Anleitungen, Mobile Sicherheit",
     "browseByCategory": "Nach Kategorie durchsuchen",
     "allPosts": "Alle Beiträge",
     "recentPosts": "Neueste Beiträge",
@@ -259,12 +259,12 @@
     "noPosts": "Noch keine {category}-Beiträge verfügbar.",
     "backTo": "Zurück zu {category}",
     "categoryDescriptions": {
-      "compare": "Vergleiche Clean Links mit anderen QR-Code-Scannern und Datenschutz-Tools",
-      "guides": "Schritt-für-Schritt-Anleitungen für die effektive Nutzung von Clean Links"
+      "compare": "Vergleiche Clean Links mit anderen QR-Code-Scannern und Datenschutz-Tools. Sieh dir Funktionsvergleiche an und erfahre, warum Clean Links die beste Wahl für mobile Sicherheit ist.",
+      "guides": "Schritt-für-Schritt-Anleitungen für iPhone-, iPad- und Mac-Nutzer, um die Privatsphäre zu schützen und QR-Code-Phishing-Angriffe zu vermeiden."
     },
     "categoryKeywords": {
-      "compare": "Vergleich von QR-Code-Scannern, Vergleich von Datenschutz-Tools, Clean Links vs. Konkurrenz",
-      "guides": "Clean Links Anleitungen, Leitfaden für QR-Code-Scanner, Einrichtung des Link-Bereinigers"
+      "compare": "QR-Code-Scanner-Vergleich, Datenschutz-Tool-Vergleich, Clean Links vs. Konkurrenz, QR-Code-Scanner-Vergleich, Datenschutz-Tool-Vergleich, Clean Links vs. Konkurrenz, Apps für mobile Sicherheit",
+      "guides": "Clean Links Anleitungen, Anleitung für QR-Code-Scanner, Einrichtung des Link-Reinigers, iPhone-Datenschutz-Anleitung, Anleitung für QR-Code-Scanner, Einrichtung des Link-Reinigers, Mobile Sicherheit"
     },
     "categories": {
       "guides": "Anleitungen",

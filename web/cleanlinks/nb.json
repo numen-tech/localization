@@ -242,8 +242,8 @@
   },
   "blog": {
     "title": "Blogg",
-    "description": "Nyeste guider og sammenligninger for Clean Links",
-    "keywords": "Clean Links-blogg, QR-kodesikkerhet, guider for lenkerensing",
+    "description": "Nyeste guider og sammenligninger for Clean Links. Lær om QR-kodesikkerhet, rensing av lenker og personvern med våre omfattende guider og sammenligninger.",
+    "keywords": "Clean Links-blogg, QR-kodesikkerhet, guider for lenkerensing, QR-kodesikkerhet, fjerning av lenkesporing, personvernguider, mobilsikkerhet",
     "browseByCategory": "Bla etter kategori",
     "allPosts": "Alle innlegg",
     "recentPosts": "Siste innlegg",
@@ -259,12 +259,12 @@
     "noPosts": "Ingen {category}-innlegg tilgjengelig ennå.",
     "backTo": "Tilbake til {category}",
     "categoryDescriptions": {
-      "compare": "Sammenlign Clean Links med andre QR-kodeskannere og personvernverktøy",
-      "guides": "Steg-for-steg-guider for effektiv bruk av Clean Links"
+      "compare": "Sammenlign Clean Links med andre QR-kodeskannere og personvernverktøy. Se sammenligninger av funksjoner og hvorfor Clean Links er det beste valget for mobilsikkerhet.",
+      "guides": "Steg-for-steg-veiledninger for brukere av iPhone, iPad og Mac for å beskytte personvernet og unngå phishing-angrep med QR-koder."
     },
     "categoryKeywords": {
-      "compare": "Sammenligning av QR-kodeskannere, sammenligning av personvernverktøy, Clean Links mot konkurrenter",
-      "guides": "Clean Links-veiledninger, guide for QR-kodeskanner, oppsett av lenkerenser"
+      "compare": "sammenligning av QR-kodeskannere, sammenligning av personvernverktøy, Clean Links vs konkurrenter, sammenligning av QR-kodeskannere, sammenligning av personvernverktøy, Clean Links vs konkurrenter, mobilsikkerhetsapper",
+      "guides": "Clean Links-veiledninger, guide for QR-kodeskanner, oppsett av lenkerenser, personvernguide for iPhone, veiledning for QR-kodeskanner, oppsett av lenkerenser, mobilsikkerhet"
     },
     "categories": {
       "guides": "Brukerguider",

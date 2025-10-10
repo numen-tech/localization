@@ -242,8 +242,8 @@
   },
   "blog": {
     "title": "Blog",
-    "description": "Nejnovější průvodci a srovnání pro Clean Links",
-    "keywords": "Blog Clean Links, bezpečnost QR kódů, průvodci čištěním odkazů",
+    "description": "Nejnovější průvodci a srovnání pro Clean Links. Zjistěte více o bezpečnosti QR kódů, čištění odkazů a ochraně soukromí v našich podrobných průvodcích a srovnáních.",
+    "keywords": "Blog Clean Links, bezpečnost QR kódů, průvodci čištěním odkazů, bezpečnost QR kódů, odstranění sledovacích prvků z odkazů, průvodci ochranou soukromí, mobilní bezpečnost",
     "browseByCategory": "Procházet podle kategorie",
     "allPosts": "Všechny příspěvky",
     "recentPosts": "Nejnovější příspěvky",
@@ -259,12 +259,12 @@
     "noPosts": "V kategorii {category} zatím nejsou žádné příspěvky.",
     "backTo": "Zpět na {category}",
     "categoryDescriptions": {
-      "compare": "Porovnejte Clean Links s jinými čtečkami QR kódů a nástroji na ochranu soukromí",
-      "guides": "Podrobné návody pro efektivní používání Clean Links"
+      "compare": "Porovnejte Clean Links s ostatními čtečkami QR kódů a nástroji na ochranu soukromí. Prohlédněte si srovnání funkcí a zjistěte, proč je Clean Links nejlepší volbou pro mobilní bezpečnost.",
+      "guides": "Návody krok za krokem pro uživatele iPhonu, iPadu a Macu, jak si chránit soukromí a vyhnout se phishingovým útokům pomocí QR kódů."
     },
     "categoryKeywords": {
-      "compare": "Srovnání čteček QR kódů, srovnání nástrojů na ochranu soukromí, Clean Links vs. konkurence",
-      "guides": "Návody pro Clean Links, průvodce skenerem QR kódů, nastavení čističe odkazů"
+      "compare": "Srovnání čteček QR kódů, srovnání nástrojů na ochranu soukromí, Clean Links vs. konkurence, srovnání čteček QR kódů, srovnání nástrojů na ochranu soukromí, Clean Links vs. konkurence, aplikace pro mobilní bezpečnost",
+      "guides": "Návody pro Clean Links, průvodce skenerem QR kódů, nastavení čističe odkazů, průvodce ochranou soukromí na iPhonu, návod na skener QR kódů, nastavení čističe odkazů, mobilní bezpečnost"
     },
     "categories": {
       "guides": "Uživatelské příručky",

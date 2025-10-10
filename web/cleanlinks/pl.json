@@ -242,8 +242,8 @@
   },
   "blog": {
     "title": "Blog",
-    "description": "Najnowsze poradniki i porównania dla Clean Links",
-    "keywords": "Blog Clean Links, bezpieczeństwo kodów QR, poradniki czyszczenia linków",
+    "description": "Najnowsze poradniki i porównania Clean Links. Dowiedz się więcej o bezpieczeństwie kodów QR, czyszczeniu linków i ochronie prywatności dzięki naszym wyczerpującym poradnikom i porównaniom.",
+    "keywords": "Blog Clean Links, bezpieczeństwo kodów QR, poradniki czyszczenia linków, bezpieczeństwo kodów QR, usuwanie śledzenia z linków, poradniki o prywatności, bezpieczeństwo mobilne",
     "browseByCategory": "Przeglądaj według kategorii",
     "allPosts": "Wszystkie wpisy",
     "recentPosts": "Najnowsze wpisy",
@@ -259,12 +259,12 @@
     "noPosts": "Brak dostępnych wpisów w kategorii {category}.",
     "backTo": "Powrót do {category}",
     "categoryDescriptions": {
-      "compare": "Porównaj Clean Links z innymi czytnikami kodów QR i narzędziami do ochrony prywatności",
-      "guides": "Szczegółowe poradniki, jak efektywnie korzystać z Clean Links"
+      "compare": "Porównaj Clean Links z innymi skanerami kodów QR i narzędziami do ochrony prywatności. Zobacz porównania funkcji i dowiedz się, dlaczego Clean Links to najlepszy wybór dla bezpieczeństwa mobilnego.",
+      "guides": "Poradniki krok po kroku dla użytkowników iPhone'a, iPada i Maca, jak chronić prywatność i unikać ataków phishingowych z użyciem kodów QR."
     },
     "categoryKeywords": {
-      "compare": "Porównanie czytników QR, porównanie narzędzi do ochrony prywatności, Clean Links kontra konkurenci",
-      "guides": "Poradniki Clean Links, przewodnik po skanerze kodów QR, konfiguracja czyszczenia linków"
+      "compare": "Porównanie skanerów QR, porównanie narzędzi do ochrony prywatności, Clean Links kontra konkurenci, porównanie skanerów QR, porównanie narzędzi do ochrony prywatności, Clean Links kontra konkurenci, aplikacje do bezpieczeństwa mobilnego",
+      "guides": "Samouczki Clean Links, poradnik skanera kodów QR, konfiguracja czyszczenia linków, poradnik prywatności na iPhone'a, samouczek skanera kodów QR, konfiguracja czyszczenia linków, bezpieczeństwo mobilne"
     },
     "categories": {
       "guides": "Poradniki użytkownika",
