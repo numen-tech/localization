@@ -167,7 +167,7 @@
     },
     "cleanWorkflow": {
       "question": "如何清理我复制的链接？",
-      "answer": "您可以创建一个 Apple 快捷指令，它会从您的剪贴板获取 URL，进行清理，然后将清理后的链接放回剪贴板。例如，下载这个一键式快捷指令：https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0。要想更快访问，可将该快捷指令分配给您 iPhone 的操作按钮 (iPhone 15 Pro 及后续机型)，这样只需在任何地方按一下即可清理剪贴板链接。您可以将 Clean Links 添加到 iPhone、iPad 和 Mac 的控制中心：可从两个操作中选择——“打开 App”或“二维码读取器”。您可以直接在控制中心或锁定屏幕上访问这些操作，或将它们分配给操作按钮，以便在任何地方一键清理。您也可以手动打开 Clean Links 应用并粘贴您的 URL 来进行清理。"
+      "answer": "您可以创建一个 Apple 快捷指令，用于获取并清理剪贴板中的 URL，然后将清理后的链接存回剪贴板。例如，下载这个<shortcut>一键快捷指令</shortcut>。若想加快操作速度，可将该快捷指令分配给 iPhone 的操作按钮 (iPhone 15 Pro 及后续机型)，只需轻轻一按，即可随时随地清理剪贴板链接。您可以在 iPhone、iPad 和 Mac 上将 Clean Links 添加到控制中心，并从两个操作中选择：\"打开 App\" 或 \"二维码扫描器\"。您可以直接在控制中心或锁定屏幕上访问这些操作，或将它们分配给操作按钮，以便随时随地一键清理。您也可以手动打开 Clean Links App，并粘贴您的 URL 来进行清理。"
     },
     "qrScanning": {
       "question": "我该如何扫描二维码？",

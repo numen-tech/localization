@@ -167,7 +167,7 @@
     },
     "cleanWorkflow": {
       "question": "Hvordan renser jeg en lenke jeg har kopiert?",
-      "answer": "Du kan lage en Apple-snarvei som henter URL-en fra utklippstavlen, renser den og legger den rensede lenken tilbake. Last for eksempel ned denne ett-trykks-snarveien: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0. For enda raskere tilgang, tilordne snarveien til Handlingsknappen på din iPhone (iPhone 15 Pro og nyere), slik at ett enkelt trykk renser lenken på utklippstavlen. Du kan legge til Clean Links i Kontrollsenter på iPhone, iPad og Mac: velg mellom to handlinger - \"Åpne app\" eller \"QR-leser\". Få tilgang til disse direkte i Kontrollsenter eller på låseskjermen, eller tilordne dem til Handlingsknappen for rensing med ett trykk fra hvor som helst. Du kan også åpne Clean Links-appen manuelt og lime inn URL-en din for å rense den."
+      "answer": "Du kan opprette en Snarvei som henter URL-en fra utklippstavlen, renser den og legger den rensede lenken tilbake. Last for eksempel ned denne <shortcut>ett-trykks-snarveien</shortcut>. For enda raskere tilgang kan du tilordne snarveien til Handlingsknappen på din iPhone (iPhone 15 Pro og nyere), slik at ett enkelt trykk renser lenken på utklippstavlen. Du kan legge til Clean Links i Kontrollsenter på iPhone, iPad og Mac: velg mellom to handlinger - \"Åpne app\" eller \"QR-leser\". Få tilgang til disse direkte i Kontrollsenter eller på låseskjermen, eller tilordne dem til Handlingsknappen for rensing med ett trykk fra hvor som helst. Du kan også åpne Clean Links-appen manuelt og lime inn URL-en din for å rense den."
     },
     "qrScanning": {
       "question": "Hvordan skanner jeg en QR-kode?",

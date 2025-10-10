@@ -167,7 +167,7 @@
     },
     "cleanWorkflow": {
       "question": "Como limpo um link que copiei?",
-      "answer": "Pode criar um Atalho da Apple que retira o URL da sua área de transferência, o limpa e coloca o link limpo de volta. Por exemplo, descarregue este atalho de um toque: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0. Para um acesso ainda mais rápido, atribua esse atalho ao Botão de Ação do seu iPhone (iPhone 15 Pro e posterior) para que um único toque em qualquer lugar limpe o link da área de transferência. Pode adicionar o Clean Links à sua Central de Controlo no iPhone, iPad e Mac: escolha entre duas ações - \"Abrir App\" ou \"Leitor QR\". Aceda a estas ações diretamente na Central de Controlo ou no Ecrã bloqueado, ou atribua-as ao Botão de Ação para uma limpeza com um só toque a partir de qualquer lugar. Também pode abrir a app Clean Links manualmente e colar o seu URL para o limpar."
+      "answer": "Pode criar um Atalho da Apple que obtém o URL da sua área de transferência, o limpa e coloca o link limpo de volta. Por exemplo, descarregue este <shortcut>atalho de um toque</shortcut>. Para um acesso ainda mais rápido, atribua esse atalho ao Botão de Ação do seu iPhone (iPhone 15 Pro e posterior) para que um único toque em qualquer lugar limpe o link da área de transferência. Pode adicionar o Clean Links à sua Central de Controlo no iPhone, iPad e Mac: escolha entre duas ações - \"Abrir app\" ou \"Leitor de QR\". Aceda a estas diretamente na Central de Controlo ou no Ecrã bloqueado, ou atribua-as ao Botão de Ação para uma limpeza de um toque a partir de qualquer lugar. Também pode abrir a app Clean Links manualmente e colar o seu URL para o limpar."
     },
     "qrScanning": {
       "question": "Como verifico um código QR?",

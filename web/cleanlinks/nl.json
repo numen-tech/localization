@@ -167,7 +167,7 @@
     },
     "cleanWorkflow": {
       "question": "Hoe schoon ik een gekopieerde link op?",
-      "answer": "Je kunt een Apple Opdracht aanmaken die de URL van je klembord pakt, opschoont en de schone link terugplaatst. Download bijvoorbeeld deze 'één-tik'-opdracht: https://www.icloud.com/shortcuts/390cf4cc102443518e5fdd0fe9dc4bc0. Voor nog snellere toegang, wijs die opdracht toe aan de Actieknop van je iPhone (iPhone 15 Pro en nieuwer), zodat één druk op de knop de link op je klembord opschoont. Je kunt Clean Links toevoegen aan je Bedieningspaneel op iPhone, iPad en Mac: kies uit twee acties - \"Open app\" of \"QR-lezer\". Open deze direct vanuit het Bedieningspaneel of het toegangsscherm, of wijs ze toe aan de Actieknop om overal met één tik op te schonen. Je kunt ook de Clean Links-app handmatig openen en je URL plakken om deze op te schonen."
+      "answer": "Je kunt een Opdracht van Apple aanmaken die de URL van je klembord haalt, deze opschoont en de opgeschoonde link terugplaatst. Download bijvoorbeeld deze <shortcut>opdracht met één tik</shortcut>. Voor nog snellere toegang, wijs je die opdracht toe aan de actieknop van je iPhone (iPhone 15 Pro en nieuwer), zodat je met één druk op de knop overal de link op je klembord opschoont. Je kunt Clean Links toevoegen aan je bedieningspaneel op iPhone, iPad en Mac: kies uit twee acties-\"Open app\" of \"QR-lezer.\" Open deze rechtstreeks vanuit het bedieningspaneel of het toegangsscherm, of wijs ze toe aan de actieknop om overal met één tik op te schonen. Je kunt de Clean Links-app ook handmatig openen en je URL plakken om deze op te schonen."
     },
     "qrScanning": {
       "question": "Hoe scan ik een QR-code?",
