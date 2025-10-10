@@ -242,8 +242,8 @@
   },
   "blog": {
     "title": "Blog",
-    "description": "Ultime guide e confronti su Clean Links",
-    "keywords": "Blog di Clean Links, sicurezza dei codici QR, guide sulla pulizia dei link",
+    "description": "Ultime guide e confronti per Clean Links. Scopri di più sulla sicurezza dei codici QR, la pulizia dei link e la protezione della privacy con le nostre guide e i nostri confronti completi.",
+    "keywords": "blog di Clean Links, sicurezza codici QR, guide pulizia link, sicurezza codici QR, rimozione tracker dai link, guide sulla privacy, sicurezza mobile",
     "browseByCategory": "Sfoglia per categoria",
     "allPosts": "Tutti gli articoli",
     "recentPosts": "Articoli recenti",
@@ -259,12 +259,12 @@
     "noPosts": "Nessun articolo {category} ancora disponibile.",
     "backTo": "Torna a {category}",
     "categoryDescriptions": {
-      "compare": "Confronta Clean Links con altri lettori di codici QR e strumenti per la privacy",
-      "guides": "Guide passo passo per usare Clean Links in modo efficace"
+      "compare": "Confronta Clean Links con altri lettori di codici QR e strumenti per la privacy. Consulta i confronti tra le funzionalità e scopri perché Clean Links è la scelta migliore per la sicurezza mobile.",
+      "guides": "Tutorial passo-passo per utenti iPhone, iPad e Mac per proteggere la privacy ed evitare gli attacchi di phishing tramite codice QR."
     },
     "categoryKeywords": {
-      "compare": "Confronto lettori di codici QR, confronto strumenti per la privacy, Clean Links vs concorrenti",
-      "guides": "Tutorial Clean Links, guida scanner codici QR, configurazione pulizia link"
+      "compare": "confronto lettori QR, confronto strumenti privacy, Clean Links contro concorrenti, confronto lettori QR, confronto strumenti privacy, Clean Links contro concorrenti, app per la sicurezza mobile",
+      "guides": "tutorial Clean Links, guida scanner codici QR, configurazione pulizia link, guida privacy iPhone, tutorial scanner codici QR, configurazione pulizia link, sicurezza mobile"
     },
     "categories": {
       "guides": "Guide per l'utente",

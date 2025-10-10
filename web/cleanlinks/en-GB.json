@@ -242,8 +242,8 @@
   },
   "blog": {
     "title": "Blog",
-    "description": "Latest guides and comparisons for Clean Links",
-    "keywords": "Clean Links blog, QR code security, link cleaning guides",
+    "description": "Latest guides and comparisons for Clean Links. Learn about QR code safety, link cleaning and privacy protection with our comprehensive guides and comparisons.",
+    "keywords": "Clean Links blog, QR code security, link cleaning guides, QR code security, link tracker removal, privacy guides, mobile security",
     "browseByCategory": "Browse by Category",
     "allPosts": "All Posts",
     "recentPosts": "Recent Posts",
@@ -259,12 +259,12 @@
     "noPosts": "No {category} posts available yet.",
     "backTo": "Back to {category}",
     "categoryDescriptions": {
-      "compare": "Compare Clean Links with other QR readers and privacy tools",
-      "guides": "Step-by-step guides for using Clean Links effectively"
+      "compare": "Compare Clean Links with other QR code scanners and privacy tools. See feature comparisons and why Clean Links is the best choice for mobile security.",
+      "guides": "Step-by-step tutorials for iPhone, iPad and Mac users to protect your privacy and avoid QR code phishing attacks."
     },
     "categoryKeywords": {
-      "compare": "QR reader comparison, privacy tool comparison, Clean Links vs competitors",
-      "guides": "Clean Links tutorials, QR code scanner guide, link cleaner setup"
+      "compare": "QR code scanner comparison, privacy tool comparison, Clean Links vs competitors, QR code scanner comparison, privacy tool comparison, Clean Links vs competitors, mobile security apps",
+      "guides": "Clean Links tutorials, QR code scanner guide, link cleaner setup, iPhone privacy guide, QR code scanner tutorial, link cleaner setup, mobile security"
     },
     "categories": {
       "guides": "User Guides",

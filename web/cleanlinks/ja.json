@@ -242,8 +242,8 @@
   },
   "blog": {
     "title": "ブログ",
-    "description": "Clean Linksの最新ガイドと比較記事",
-    "keywords": "Clean Linksブログ、QRコードセキュリティ、リンククリーニングガイド",
+    "description": "Clean Linksの最新ガイドと比較。詳細なガイドと比較記事で、QRコードの安全性、リンクのクリーン化、プライバシー保護について解説します。",
+    "keywords": "Clean Linksブログ、QRコードセキュリティ、リンククリーン化ガイド、QRコードセキュリティ、リンクトラッカー削除、プライバシーガイド、モバイルセキュリティ",
     "browseByCategory": "カテゴリーで探す",
     "allPosts": "全記事",
     "recentPosts": "新着記事",
@@ -259,12 +259,12 @@
     "noPosts": "{category}の投稿はまだありません。",
     "backTo": "{category}に戻る",
     "categoryDescriptions": {
-      "compare": "Clean Linksと他のQRコードリーダーやプライバシーツールを比較",
-      "guides": "Clean Linksを効果的に使うための手順ガイド"
+      "compare": "Clean Linksを他のQRコードリーダーやプライバシーツールと比較。機能比較をご覧になり、Clean Linksがモバイルセキュリティに最適な選択肢である理由をご確認ください。",
+      "guides": "iPhone、iPad、Macユーザーがプライバシーを保護し、QRコードフィッシング攻撃を回避するためのステップバイステップチュートリアル。"
     },
     "categoryKeywords": {
-      "compare": "QRリーダー比較、プライバシーツール比較、Clean Linksと競合製品の比較",
-      "guides": "Clean Linksチュートリアル、QRコードスキャナーガイド、リンククリーナー設定"
+      "compare": "QRコードリーダー比較、プライバシーツール比較、Clean Links vs 競合、QRコードリーダー比較、プライバシーツール比較、Clean Links vs 競合、モバイルセキュリティアプリ",
+      "guides": "Clean Linksチュートリアル、QRコードスキャナーガイド、リンククリーナーのセットアップ、iPhoneプライバシーガイド、QRコードスキャナーチュートリアル、リンククリーナーのセットアップ、モバイルセキュリティ"
     },
     "categories": {
       "guides": "ユーザーガイド",

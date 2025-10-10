@@ -242,8 +242,8 @@
   },
   "blog": {
     "title": "Blog",
-    "description": "Nieuwste handleidingen en vergelijkingen voor Clean Links",
-    "keywords": "Clean Links blog, QR-codebeveiliging, handleidingen voor het opschonen van links",
+    "description": "De nieuwste gidsen en vergelijkingen voor Clean Links. Leer meer over QR-codeveiligheid, het opschonen van links en privacybescherming met onze uitgebreide gidsen en vergelijkingen.",
+    "keywords": "Clean Links blog, QR-codebeveiliging, gidsen voor linkopschoning, QR-codebeveiliging, linktrackers verwijderen, privacygidsen, mobiele beveiliging",
     "browseByCategory": "Bladeren per categorie",
     "allPosts": "Alle berichten",
     "recentPosts": "Recente berichten",
@@ -259,12 +259,12 @@
     "noPosts": "Nog geen {category}-berichten beschikbaar.",
     "backTo": "Terug naar {category}",
     "categoryDescriptions": {
-      "compare": "Vergelijk Clean Links met andere QR-codescanners en privacytools",
-      "guides": "Stapsgewijze handleidingen om Clean Links effectief te gebruiken"
+      "compare": "Vergelijk Clean Links met andere QR-codescanners en privacytools. Bekijk de functie-vergelijkingen en ontdek waarom Clean Links de beste keuze is voor mobiele beveiliging.",
+      "guides": "Stapsgewijze tutorials voor gebruikers van iPhone, iPad en Mac om je privacy te beschermen en QR-codephishing te vermijden."
     },
     "categoryKeywords": {
-      "compare": "Vergelijking QR-codescanners, vergelijking privacytools, Clean Links vs concurrenten",
-      "guides": "Clean Links tutorials, handleiding QR-codescanner, linkopschoner instellen"
+      "compare": "vergelijking QR-codescanners, vergelijking privacytools, Clean Links vs concurrenten, vergelijking QR-codescanners, vergelijking privacytools, Clean Links vs concurrenten, apps voor mobiele beveiliging",
+      "guides": "Clean Links tutorials, handleiding QR-codescanner, linkopschoner instellen, privacygids voor iPhone, tutorial QR-codescanner, linkopschoner instellen, mobiele beveiliging"
     },
     "categories": {
       "guides": "Handleidingen",

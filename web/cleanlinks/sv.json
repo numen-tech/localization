@@ -242,8 +242,8 @@
   },
   "blog": {
     "title": "Blogg",
-    "description": "Senaste guiderna och jämförelserna för Clean Links",
-    "keywords": "Clean Links-blogg, QR-kodssäkerhet, guider för länkrensning",
+    "description": "Senaste guiderna och jämförelserna för Clean Links. Lär dig om QR-kodssäkerhet, länkrensning och integritetsskydd med våra omfattande guider och jämförelser.",
+    "keywords": "Clean Links blogg, QR-kodssäkerhet, guider för länkrensning, QR-kodssäkerhet, borttagning av länkspårare, integritetsguider, mobilsäkerhet",
     "browseByCategory": "Bläddra per kategori",
     "allPosts": "Alla inlägg",
     "recentPosts": "Senaste inlägg",
@@ -259,12 +259,12 @@
     "noPosts": "Inga inlägg i kategorin {category} ännu.",
     "backTo": "Tillbaka till {category}",
     "categoryDescriptions": {
-      "compare": "Jämför Clean Links med andra QR-kodläsare och integritetsverktyg",
-      "guides": "Steg-för-steg-guider för att använda Clean Links effektivt"
+      "compare": "Jämför Clean Links med andra QR-kodläsare och integritetsverktyg. Se funktionsjämförelser och varför Clean Links är det bästa valet för mobilsäkerhet.",
+      "guides": "Steg-för-steg-guider för användare av iPhone, iPad och Mac för att skydda integriteten och undvika QR-kodsfiskeattacker."
     },
     "categoryKeywords": {
-      "compare": "Jämförelse av QR-kodläsare, jämförelse av integritetsverktyg, Clean Links mot konkurrenter",
-      "guides": "Clean Links-guider, guide för QR-kodskanner, installation av länkrensare"
+      "compare": "jämförelse av QR-kodläsare, jämförelse av integritetsverktyg, Clean Links mot konkurrenter, jämförelse av QR-kodläsare, jämförelse av integritetsverktyg, Clean Links mot konkurrenter, mobilsäkerhetsappar",
+      "guides": "Clean Links guider, guide för QR-kodskanner, inställning av länkrensare, integritetsguide för iPhone, guide för QR-kodskanner, inställning av länkrensare, mobilsäkerhet"
     },
     "categories": {
       "guides": "Användarguider",

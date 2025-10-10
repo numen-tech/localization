@@ -242,8 +242,8 @@
   },
   "blog": {
     "title": "Blog",
-    "description": "Clean Links için en son rehberler ve karşılaştırmalar",
-    "keywords": "Clean Links blogu, QR kod güvenliği, bağlantı temizleme rehberleri",
+    "description": "Clean Links için en son rehberler ve karşılaştırmalar. Kapsamlı rehberlerimiz ve karşılaştırmalarımızla QR kod güvenliği, bağlantı temizleme ve gizlilik koruması hakkında bilgi edinin.",
+    "keywords": "Clean Links blogu, QR kod güvenliği, bağlantı temizleme rehberleri, QR kod güvenliği, bağlantı izleyici kaldırma, gizlilik rehberleri, mobil güvenlik",
     "browseByCategory": "Kategoriye Göre Göz At",
     "allPosts": "Tüm Yazılar",
     "recentPosts": "Son Yazılar",
@@ -259,12 +259,12 @@
     "noPosts": "Henüz {category} kategorisinde yazı mevcut değil.",
     "backTo": "{category} kategorisine geri dön",
     "categoryDescriptions": {
-      "compare": "Clean Links'i diğer QR okuyucular ve gizlilik araçlarıyla karşılaştırın",
-      "guides": "Clean Links'i etkili bir şekilde kullanmak için adım adım rehberler"
+      "compare": "Clean Links'i diğer QR kod okuyucular ve gizlilik araçlarıyla karşılaştırın. Özellik karşılaştırmalarına göz atın ve mobil güvenlik için neden Clean Links'in en iyi seçenek olduğunu görün.",
+      "guides": "iPhone, iPad ve Mac kullanıcılarının gizliliklerini korumaları ve QR kod oltalama saldırılarından kaçınmaları için adım adım eğitimler."
     },
     "categoryKeywords": {
-      "compare": "QR okuyucu karşılaştırması, gizlilik aracı karşılaştırması, Clean Links ve rakipleri",
-      "guides": "Clean Links eğitimleri, QR kod okuyucu rehberi, bağlantı temizleyici kurulumu"
+      "compare": "QR kod okuyucu karşılaştırması, gizlilik aracı karşılaştırması, Clean Links ve rakipleri, QR kod okuyucu karşılaştırması, gizlilik aracı karşılaştırması, Clean Links ve rakipleri, mobil güvenlik uygulamaları",
+      "guides": "Clean Links eğitimleri, QR kod tarayıcı rehberi, bağlantı temizleyici kurulumu, iPhone gizlilik rehberi, QR kod tarayıcı eğitimi, bağlantı temizleyici kurulumu, mobil güvenlik"
     },
     "categories": {
       "guides": "Kullanıcı Rehberleri",

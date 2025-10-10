@@ -242,8 +242,8 @@
   },
   "blog": {
     "title": "Blog",
-    "description": "Las últimas guías y comparativas de Clean Links",
-    "keywords": "Blog de Clean Links, seguridad de códigos QR, guías para limpiar enlaces",
+    "description": "Últimas guías y comparativas para Clean Links. Aprende sobre la seguridad de los códigos QR, la limpieza de enlaces y la protección de la privacidad con nuestras guías y comparativas completas.",
+    "keywords": "blog de Clean Links, seguridad de códigos QR, guías de limpieza de enlaces, seguridad de códigos QR, eliminación de rastreadores de enlaces, guías de privacidad, seguridad móvil",
     "browseByCategory": "Explorar por categoría",
     "allPosts": "Todas las publicaciones",
     "recentPosts": "Publicaciones recientes",
@@ -259,12 +259,12 @@
     "noPosts": "Aún no hay publicaciones de {category} disponibles.",
     "backTo": "Volver a {category}",
     "categoryDescriptions": {
-      "compare": "Compara Clean Links con otros lectores de QR y herramientas de privacidad",
-      "guides": "Guías paso a paso para usar Clean Links de forma eficaz"
+      "compare": "Compara Clean Links con otros lectores de códigos QR y herramientas de privacidad. Consulta las comparativas de funciones y por qué Clean Links es la mejor opción para la seguridad móvil.",
+      "guides": "Tutoriales paso a paso para usuarios de iPhone, iPad y Mac para proteger la privacidad y evitar ataques de phishing con códigos QR."
     },
     "categoryKeywords": {
-      "compare": "Comparativa de lectores de QR, comparativa de herramientas de privacidad, Clean Links vs. competidores",
-      "guides": "Tutoriales de Clean Links, guía de escáner de códigos QR, configuración del limpiador de enlaces"
+      "compare": "comparativa de lectores de QR, comparativa de herramientas de privacidad, Clean Links vs competidores, comparativa de lectores de QR, comparativa de herramientas de privacidad, Clean Links vs competidores, apps de seguridad móvil",
+      "guides": "tutoriales de Clean Links, guía del escáner de códigos QR, configuración del limpiador de enlaces, guía de privacidad para iPhone, tutorial del escáner de códigos QR, configuración del limpiador de enlaces, seguridad móvil"
     },
     "categories": {
       "guides": "Guías de usuario",
