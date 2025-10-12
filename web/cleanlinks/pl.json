@@ -40,6 +40,10 @@
     "macMenuBar": {
       "title": "Zawsze aktywne czyszczenie linków na pasku menu Maca",
       "description": "Uruchom Clean Links na pasku menu swojego Maca z funkcją Monitorowania Schowka, aby automatycznie czyścić adresy URL podczas ich kopiowania. Usuwaj tagi UTM, rozwijaj linki t.co i eliminuj moduły śledzące – wszystko na urządzeniu dla całkowitej prywatności. Idealne do codziennych przepływów pracy, obsługuje łańcuchy przekierowań, nigdy nie opuszczając Twojego Maca."
+    },
+    "sendToMac": {
+      "title": "Błyskawicznie wysyłaj linki z iPhone'a na Maca",
+      "description": "Udostępniaj linki z iPhone'a na Maca z obsługą offline dzięki synchronizacji iCloud. Działa, nawet gdy Twój Mac jest offline lub w innej sieci - linki pojawią się automatycznie, gdy Mac połączy się z internetem. Szybciej niż AirDrop, pewniej niż karty Safari i kompatybilne z każdą przeglądarką. Uruchamiaj skróty na Macu bezpośrednio z iPhone'a, aby uzyskać potężną automatyzację między urządzeniami."
     }
   },
   "statistics": {
@@ -204,6 +208,26 @@
     "vsOtherCleaners": {
       "question": "Czym Clean Links różni się od innych narzędzi do czyszczenia adresów URL, takich jak Firefox, Brave czy Link Cleaner?",
       "answer": "Większość narzędzi do czyszczenia adresów URL (w tym Firefox, Brave i narzędzia internetowe, takie jak Link Cleaner) skupia się na usuwaniu widocznych parametrów śledzących z podanego adresu URL. Nie podążają za łańcuchami przekierowań, więc trackery ukryte za skróconymi linkami (bit.ly, t.co, lnkd.in) lub opakowaniami społecznościowymi (l.facebook.com, l.instagram.com) prześlizgują się. Firefox utrzymuje nawet białą listę, która przepuszcza niektóre trackery od gigantów technologicznych. Clean Links działa inaczej: podąża za każdym krokiem przekierowania, rozwija skrócone linki i usuwa trackery na każdym etapie, ujawniając ostateczny cel przed jego otwarciem. Clean Links zawiera również wbudowany skaner kodów QR, który bezpiecznie podgląda adresy URL, działa w 100% na urządzeniu bez żadnej analityki (w przeciwieństwie do anonimowych statystyk użytkowania Link Cleaner) i integruje się natywnie z menu udostępniania iOS, Skrótami, Siri oraz monitorowaniem schowka na Macu. Jeśli chcesz kompleksowej ochrony, która wyłapuje ukryte trackery i działa na wszystkich Twoich urządzeniach Apple, Clean Links jest do tego stworzony. <link>Zobacz pełne porównanie z Link Cleaner</link>, aby poznać więcej szczegółów."
+    },
+    "sendToMac": {
+      "question": "Jak wysyłać linki z iPhone'a na Maca?",
+      "answer": "Clean Links pozwala udostępniać linki z iPhone'a na Maca za pomocą arkusza udostępniania. Na Twoim urządzeniu z iOS i na Macu musi być zainstalowana aplikacja Clean Links, włączona usługa iCloud, a oba urządzenia muszą być zalogowane na to samo konto Apple. Linki są wysyłane przez synchronizację iCloud, więc działają, nawet gdy Twój Mac jest offline lub w innej sieci - link pojawi się automatycznie, gdy Mac połączy się z internetem. Jest to szybsze niż AirDrop, pewniejsze niż karty Safari i działa z każdą przeglądarką na Twoim Macu. <link>Przeczytaj nasz szczegółowy poradnik o wysyłaniu linków z iPhone'a na Maca</link>, aby dowiedzieć się więcej."
+    },
+    "sendToMacVsAirdrop": {
+      "question": "W czym funkcja Wyślij na Maca jest lepsza od AirDrop?",
+      "answer": "Funkcja Wyślij na Maca działa, gdy Twój Mac jest offline lub uśpiony, gdy nie jesteś w tej samej sieci i jest znacznie szybsza niż AirDrop. Linki otwierają się w tle w Twojej domyślnej przeglądarce, więc ich nie przegapisz. AirDrop wymaga, aby oba urządzenia były aktywne, w pobliżu i w tej samej sieci, co w praktyce często zawodzi."
+    },
+    "sendToMacVsIcloudTabs": {
+      "question": "W czym funkcja Wyślij na Maca jest lepsza od Kart iCloud lub Listy Czytelnia w Safari?",
+      "answer": "Funkcja Wyślij na Maca działa w każdej aplikacji przez arkusz udostępniania, nie tylko w Safari. Linki otwierają się automatycznie jako nowe karty w Twojej domyślnej przeglądarce, więc nie możesz ich przegapić. Nie musisz przeszukiwać długiej listy kart ani pozycji z listy czytelni. Obsługuje każdą przeglądarkę na Twoim Macu, nie tylko Safari. Nie musisz też trzymać otwartej karty na urządzeniu z iOS, aby nastąpiła synchronizacja."
+    },
+    "sendToMacMultipleMacs": {
+      "question": "Czy mogę wysyłać linki na wiele Maców?",
+      "answer": "Tak. Możesz wysyłać linki na wszystkie swoje Maci, o ile masz na nich zainstalowaną aplikację Clean Links dla macOS i są one zalogowane na to samo konto Apple. Możesz wyłączyć odbieranie linków w ustawieniach aplikacji na macOS, jeśli chcesz wykluczyć określonego Maca."
+    },
+    "sendToMacShortcuts": {
+      "question": "Czy mogę uruchamiać skróty na Macu z iPhone'a za pomocą Clean Links?",
+      "answer": "Tak. Możesz używać Clean Links do uruchamiania skrótów na Macu z urządzenia z iOS. Ta potężna automatyzacja między urządzeniami pozwala tworzyć przepływy pracy, które obejmują Twojego iPhone'a i Maca, na przykład wysyłając link, który uruchamia skrót na Macu w celu jego dalszego przetworzenia."
     }
   },
   "cta": {

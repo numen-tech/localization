@@ -40,6 +40,10 @@
     "macMenuBar": {
       "title": "Mac Menü Çubuğunda Her Zaman Açık Bağlantı Temizleyici",
       "description": "URL'leri kopyalarken otomatik olarak temizlemek için Clean Links'i Mac'inizin menü çubuğunda Pano İzleme özelliğiyle çalıştırın. UTM etiketlerini kaldırın, t.co bağlantılarının kısaltmasını geri alın ve izleyicileri silin. Tam gizlilik için tüm işlemler cihazınızda yapılır. Günlük iş akışları için mükemmel olan bu özellik, yönlendirme zincirlerini Mac'inizden hiçbir veri çıkmadan yönetir."
+    },
+    "sendToMac": {
+      "title": "iPhone'dan Mac'e Anında Bağlantı Gönderin",
+      "description": "iCloud senkronizasyonu ile iPhone'dan Mac'e çevrimdışı destekli bağlantı paylaşın. Mac'iniz çevrimdışı veya farklı bir ağdayken bile çalışır; Mac'iniz internete bağlandığında bağlantılar otomatik olarak görünür. AirDrop'tan daha hızlı, Safari sekmelerinden daha güvenilir ve herhangi bir tarayıcıyla uyumludur. Güçlü cihazlar arası otomasyon için Mac kestirmelerini doğrudan iPhone'unuzdan tetikleyin."
     }
   },
   "statistics": {
@@ -204,6 +208,26 @@
     "vsOtherCleaners": {
       "question": "Clean Links'in Firefox, Brave veya Link Cleaner gibi diğer URL temizleyicilerden farkı nedir?",
       "answer": "Çoğu URL temizleyici (Firefox, Brave ve Link Cleaner gibi web tabanlı araçlar dahil), sağladığınız URL'deki görünür izleme parametrelerini kırpmaya odaklanır. Yönlendirme zincirlerini takip etmezler, bu nedenle kısa bağlantıların (bit.ly, t.co, lnkd.in) veya sosyal medya sarmalayıcılarının (l.facebook.com, l.instagram.com) arkasına gizlenmiş izleyiciler gözden kaçar. Hatta Firefox, belirli büyük teknoloji şirketlerinin izleyicilerine izin veren bir izin listesi bulundurur. Clean Links ise farklıdır: her yönlendirme adımını takip eder, kısa bağlantıları genişletir ve her adımda izleyicileri kaldırarak açmadan önce nihai hedefi ortaya çıkarır. Clean Links ayrıca URL'leri güvenli bir şekilde önizleyen yerleşik bir QR kod okuyucu içerir, sıfır analizle %100 cihaz üzerinde çalışır (Link Cleaner'ın anonim kullanım istatistiklerinin aksine) ve iOS Paylaşım Menüleri, Kestirmeler, Siri ve Mac pano izleme ile yerel olarak entegre olur. Gizli izleyicileri yakalayan ve tüm Apple cihazlarınızda çalışan kapsamlı bir koruma istiyorsanız, Clean Links bunun için tasarlanmıştır. Daha fazla ayrıntı için <link>Link Cleaner ile tam karşılaştırmaya bakın</link>."
+    },
+    "sendToMac": {
+      "question": "iPhone'umdan Mac'ime nasıl bağlantı gönderirim?",
+      "answer": "Clean Links, paylaşım menüsünü kullanarak iPhone'dan Mac'e bağlantı paylaşmanızı sağlar. iOS cihazınızda ve Mac'inizde Clean Links yüklü, iCloud etkinleştirilmiş ve aynı Apple hesabıyla oturum açılmış olmalıdır. Bağlantılar iCloud senkronizasyonu ile gönderilir, bu nedenle Mac'iniz çevrimdışı veya farklı bir ağdayken bile çalışır; Mac'iniz internete bağlandığında bağlantı otomatik olarak görünür. Bu, AirDrop'tan daha hızlı, Safari sekmelerinden daha güvenilir ve Mac'inizdeki herhangi bir tarayıcıyla çalışır. Daha fazla bilgi edinmek için <link>iPhone'dan Mac'e bağlantı gönderme hakkındaki ayrıntılı rehberimizi okuyun</link>."
+    },
+    "sendToMacVsAirdrop": {
+      "question": "Mac'e Gönder, AirDrop'tan neden daha iyi?",
+      "answer": "Mac'e Gönder, Mac'iniz çevrimdışı veya uykudayken, aynı ağda olmadığınızda çalışır ve AirDrop'tan çok daha hızlıdır. Bağlantılar varsayılan tarayıcınızda arka planda açılır, böylece onları gözden kaçırmazsınız. AirDrop her iki cihazın da uyanık, yakında ve aynı ağda olmasını gerektirir, ki bu da pratikte genellikle başarısız olur."
+    },
+    "sendToMacVsIcloudTabs": {
+      "question": "Mac'e Gönder, iCloud Sekmeleri veya Safari Okuma Listesi'nden neden daha iyi?",
+      "answer": "Mac'e Gönder, sadece Safari'de değil, paylaşım menüsü aracılığıyla herhangi bir uygulamada çalışır. Bağlantılar varsayılan tarayıcınızda otomatik olarak yeni sekmeler olarak açılır, böylece onları gözden kaçırmazsınız. Uzun bir sekme listesi veya okuma listesi öğeleri arasında arama yapmanıza gerek kalmaz. Sadece Safari'yi değil, Mac'inizdeki herhangi bir tarayıcıyı destekler. Ayrıca, senkronize olması için sekmeyi iOS cihazınızda açık tutmanıza gerek yoktur."
+    },
+    "sendToMacMultipleMacs": {
+      "question": "Birden fazla Mac'e bağlantı gönderebilir miyim?",
+      "answer": "Evet. macOS için Clean Links yüklü olan ve aynı Apple hesabıyla oturum açılmış tüm Mac'lerinize bağlantı gönderebilirsiniz. Belirli bir Mac'i hariç tutmak isterseniz, macOS uygulamasının ayarlarından bağlantı almayı devre dışı bırakabilirsiniz."
+    },
+    "sendToMacShortcuts": {
+      "question": "Clean Links kullanarak iPhone'umdan Mac kestirmelerini tetikleyebilir miyim?",
+      "answer": "Evet. Clean Links'i kullanarak iOS cihazınızdan Mac'inizdeki kestirmeleri tetikleyebilirsiniz. Bu güçlü cihazlar arası otomasyon, bir bağlantıyı daha fazla işlemek üzere bir Mac kestirmesini tetiklemek gibi, iPhone ve Mac'inizi kapsayan iş akışları oluşturmanıza olanak tanır."
     }
   },
   "cta": {

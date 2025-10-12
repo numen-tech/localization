@@ -40,6 +40,10 @@
     "macMenuBar": {
       "title": "Folyamatosan aktív linktisztító a Mac menüsorában",
       "description": "Futtassa a Clean Links alkalmazást a Mac menüsorában a Vágólap figyelése (Clipboard Monitoring) funkcióval, hogy automatikusan megtisztítsa az URL-eket, amint másolja őket. Távolítsa el az UTM címkéket, bontsa ki a t.co linkeket, és távolítsa el a követőket – mindezt az eszközön a teljes adatvédelem érdekében. Tökéletes a napi munkafolyamatokhoz, kezeli az átirányítási láncokat anélkül, hogy valaha is elhagyná a Mac gépét."
+    },
+    "sendToMac": {
+      "title": "Azonnali linkküldés iPhone-ról Mac-re",
+      "description": "Osszon meg linkeket iPhone-ról Mac-re offline támogatással az iCloud-szinkronizálás révén. Akkor is működik, ha a Mac offline vagy más hálózaton van - a linkek automatikusan megjelennek, amint a Mac online lesz. Gyorsabb, mint az AirDrop, megbízhatóbb, mint a Safari-lapok, és bármely böngészővel kompatibilis. Indítson el Mac parancsikonokat közvetlenül az iPhone-járól az erőteljes, eszközök közötti automatizálás érdekében."
     }
   },
   "statistics": {
@@ -204,6 +208,26 @@
     "vsOtherCleaners": {
       "question": "Miben különbözik a Clean Links más URL-tisztítóktól, mint például a Firefox, a Brave vagy a Link Cleaner?",
       "answer": "A legtöbb URL-tisztító (beleértve a Firefoxot, a Brave-et és az olyan webalapú eszközöket, mint a Link Cleaner) arra összpontosít, hogy eltávolítsa a látható követő paramétereket a megadott URL-ből. Nem követik az átirányítási láncokat, így a rövidített linkek (bit.ly, t.co, lnkd.in) vagy a közösségi média burkolók (l.facebook.com, l.instagram.com) mögé rejtett követők átcsúsznak. A Firefox még egy engedélyezőlistát is fenntart, amely átenged bizonyos nagy technológiai cégek követőit. A Clean Links más: követi az összes átirányítási lépést, kibontja a rövidített linkeket, és minden lépésnél eltávolítja a követőket - felfedve a végső célt, mielőtt megnyitná. A Clean Links emellett tartalmaz egy beépített QR-kód olvasót, amely biztonságosan előnézetet ad az URL-ekről, 100%-ban az eszközön működik nulla analitikával (ellentétben a Link Cleaner anonim használati statisztikáival), és natívan integrálódik az iOS Megosztási lapjaival, Parancsaival, a Sirivel és a Mac vágólapfigyelésével. Ha átfogó védelmet szeretne, amely elkapja a rejtett követőket és működik az összes Apple eszközén, a Clean Links erre lett kifejlesztve. <link>Tekintse meg a Link Cleanerrel való teljes összehasonlítást</link> a további részletekért."
+    },
+    "sendToMac": {
+      "question": "Hogyan küldhetek linkeket az iPhone-omról a Mac-emre?",
+      "answer": "A Clean Links segítségével a megosztási menüből küldhet linkeket iPhone-ról Mac-re. Ehhez az iOS-eszközén és a Mac-jén is telepíteni kell a Clean Links alkalmazást, engedélyezni az iCloudot, és ugyanazzal az Apple-fiókkal kell bejelentkeznie. A linkek iCloud-szinkronizálással továbbítódnak, így akkor is célba érnek, ha a Mac offline vagy más hálózaton van - a link automatikusan megjelenik, amint a Mac online lesz. Ez a módszer gyorsabb az AirDropnál, megbízhatóbb a Safari-lapoknál, és bármilyen Mac böngészővel működik. <link>Olvassa el részletes útmutatónkat a linkek iPhone-ról Mac-re küldéséről</link> a további részletekért."
+    },
+    "sendToMacVsAirdrop": {
+      "question": "Miért jobb a Küldés Mac-re funkció, mint az AirDrop?",
+      "answer": "A Küldés Mac-re funkció akkor is működik, ha a Mac offline vagy alvó állapotban van, ha nem ugyanazon a hálózaton vannak, és sokkal gyorsabb, mint az AirDrop. A linkek a háttérben nyílnak meg az alapértelmezett böngészőben, így biztosan nem marad le róluk. Az AirDrop megköveteli, hogy mindkét eszköz ébren, egymás közelében és ugyanazon a hálózaton legyen, ami a gyakorlatban gyakran meghiúsul."
+    },
+    "sendToMacVsIcloudTabs": {
+      "question": "Miért jobb a Küldés Mac-re, mint az iCloud-lapok vagy a Safari olvasólista?",
+      "answer": "A Küldés Mac-re funkció a megosztási menün keresztül bármely alkalmazásból működik, nem csak a Safariból. A linkek automatikusan új lapként nyílnak meg az alapértelmezett böngészőben, így nem maradhat le róluk. Nem kell végigböngésznie a lapok vagy az olvasólista elemeinek hosszú sorát. Bármely Mac-en futó böngészőt támogat, nem csak a Safarit. Ráadásul a szinkronizáláshoz nem kell nyitva tartania a lapot az iOS-eszközén."
+    },
+    "sendToMacMultipleMacs": {
+      "question": "Küldhetek linkeket több Mac-re is?",
+      "answer": "Igen. Az összes Mac-jére küldhet linkeket, amennyiben telepítve van rajtuk a Clean Links macOS-verziója, és ugyanabba az Apple-fiókba vannak bejelentkezve. A macOS alkalmazás beállításaiban letilthatja a linkek fogadását, ha egy adott Mac-et ki szeretne zárni."
+    },
+    "sendToMacShortcuts": {
+      "question": "Indíthatok Mac parancsikonokat az iPhone-omról a Clean Links segítségével?",
+      "answer": "Igen. A Clean Links segítségével parancsikonokat indíthat a Mac-jén az iOS-eszközéről. Ez az erőteljes, eszközök közötti automatizálás lehetővé teszi, hogy olyan munkafolyamatokat építsen ki, amelyek átívelnek az iPhone-ján és a Mac-jén, például elküldhet egy linket, amely egy Mac parancsikont indít el annak további feldolgozására."
     }
   },
   "cta": {
