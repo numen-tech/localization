@@ -40,6 +40,10 @@
     "macMenuBar": {
       "title": "Curățător de Linkuri Mereu Activ în Bara de Meniu a Mac-ului",
       "description": "Rulează Clean Links în bara de meniu a Mac-ului tău cu Monitorizarea Clipboard-ului pentru a curăța automat URL-urile pe măsură ce le copiezi. Elimină etichetele UTM, extinde linkurile t.co și elimină tracker-ele - totul pe dispozitiv pentru confidențialitate totală. Perfect pentru fluxurile de lucru zilnice, gestionează lanțurile de redirecționare fără a părăsi vreodată Mac-ul."
+    },
+    "sendToMac": {
+      "title": "Trimite instantaneu linkuri de pe iPhone pe Mac",
+      "description": "Partajează linkuri de pe iPhone pe Mac cu suport offline folosind sincronizarea iCloud. Funcționează chiar și când Mac-ul tău este offline sau pe o altă rețea - linkurile apar automat când Mac-ul tău devine online. Mai rapid decât AirDrop, mai fiabil decât taburile Safari și compatibil cu orice browser. Declanșează scurtături Mac direct de pe iPhone pentru o automatizare puternică între dispozitive."
     }
   },
   "statistics": {
@@ -204,6 +208,26 @@
     "vsOtherCleaners": {
       "question": "Prin ce se deosebește Clean Links de alte aplicații de curățare a URL-urilor precum Firefox, Brave sau Link Cleaner?",
       "answer": "Majoritatea aplicațiilor de curățare a URL-urilor (inclusiv Firefox, Brave și uneltele web precum Link Cleaner) se concentrează pe eliminarea parametrilor de urmărire vizibili din URL-ul furnizat. Acestea nu urmăresc lanțurile de redirecționare, astfel încât parametrii de urmărire ascunși în spatele linkurilor scurte (bit.ly, t.co, lnkd.in) sau al învelișurilor sociale (l.facebook.com, l.instagram.com) scapă. Firefox chiar menține o listă de excepții (allowlist) care permite trecerea anumitor parametri de urmărire de la marile companii de tehnologie. Clean Links este diferit: urmărește fiecare pas al redirecționărilor, extinde linkurile scurte și elimină parametrii de urmărire la fiecare pas - dezvăluind destinația finală înainte de a o deschide. Clean Links include și un cititor de coduri QR integrat care previzualizează URL-urile în siguranță, funcționează 100% pe dispozitiv cu zero analiză de date (spre deosebire de statisticile de utilizare anonime ale Link Cleaner) și se integrează nativ cu Meniul de Partajare iOS, Scurtături, Siri și monitorizarea clipboard-ului pe Mac. Dacă dorești o protecție completă care detectează parametrii de urmărire ascunși și funcționează pe toate dispozitivele tale Apple, Clean Links este creat pentru asta. <link>Vezi comparația completă cu Link Cleaner</link> pentru mai multe detalii."
+    },
+    "sendToMac": {
+      "question": "Cum trimit linkuri de pe iPhone pe Mac?",
+      "answer": "Clean Links îți permite să partajezi linkuri de pe iPhone pe Mac folosind meniul de partajare. Dispozitivul tău iOS și Mac-ul trebuie să aibă Clean Links instalat, iCloud activat și să fie conectate la același cont Apple. Linkurile sunt trimise prin sincronizarea iCloud, deci funcționează chiar și când Mac-ul tău este offline sau pe o altă rețea - linkul va apărea automat când Mac-ul tău devine online. Această metodă este mai rapidă decât AirDrop, mai fiabilă decât taburile Safari și funcționează cu orice browser de pe Mac. <link>Citește ghidul nostru detaliat despre trimiterea linkurilor de pe iPhone pe Mac</link> pentru a afla mai multe."
+    },
+    "sendToMacVsAirdrop": {
+      "question": "Prin ce este funcția Trimitere către Mac mai bună decât AirDrop?",
+      "answer": "Funcția Trimitere către Mac funcționează când Mac-ul tău este offline sau în repaus, când nu ești pe aceeași rețea și este mult mai rapidă decât AirDrop. Linkurile se deschid în browserul tău implicit, în fundal, astfel încât nu le vei rata. AirDrop necesită ca ambele dispozitive să fie active, în apropiere și pe aceeași rețea, ceea ce în practică adesea nu funcționează."
+    },
+    "sendToMacVsIcloudTabs": {
+      "question": "Prin ce este funcția Trimitere către Mac mai bună decât Taburile iCloud sau Lista de lecturi Safari?",
+      "answer": "Funcția Trimitere către Mac funcționează în orice aplicație prin meniul de partajare, nu doar în Safari. Linkurile se deschid automat ca taburi noi în browserul tău implicit, astfel încât nu le poți rata. Nu trebuie să cauți printr-o listă lungă de taburi sau articole din lista de lecturi. Funcția suportă orice browser de pe Mac, nu doar Safari. De asemenea, nu trebuie să menții tabul deschis pe dispozitivul tău iOS pentru ca acesta să se sincronizeze."
+    },
+    "sendToMacMultipleMacs": {
+      "question": "Pot trimite linkuri către mai multe Mac-uri?",
+      "answer": "Da. Poți trimite linkuri către toate Mac-urile tale atâta timp cât ai aplicația Clean Links pentru macOS instalată pe ele și sunt conectate la același cont Apple. Poți dezactiva primirea linkurilor din setările aplicației pentru macOS dacă vrei să excluzi un anumit Mac."
+    },
+    "sendToMacShortcuts": {
+      "question": "Pot declanșa scurtături Mac de pe iPhone folosind Clean Links?",
+      "answer": "Da. Poți folosi Clean Links pentru a declanșa scurtături pe Mac de pe dispozitivul tău iOS. Această automatizare puternică între dispozitive îți permite să creezi fluxuri de lucru care se extind pe iPhone și Mac, cum ar fi trimiterea unui link care declanșează o scurtătură pe Mac pentru a-l procesa ulterior."
     }
   },
   "cta": {

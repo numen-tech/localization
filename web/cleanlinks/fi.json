@@ -40,6 +40,10 @@
     "macMenuBar": {
       "title": "Aina päällä oleva linkkien puhdistaja Macin valikkorivillä",
       "description": "Käytä Clean Linksiä Macisi valikkorivillä Leikepöydän seurannan kanssa puhdistaaksesi URL-osoitteet automaattisesti kopioidessasi niitä. Poista UTM-tunnisteet, pura t.co-linkit ja poista seuraimet - kaikki laitteella täydellisen yksityisyyden takaamiseksi. Täydellinen päivittäisiin työnkulkuihin, se käsittelee uudelleenohjausketjut poistumatta koskaan Maciltasi."
+    },
+    "sendToMac": {
+      "title": "Lähetä linkkejä iPhonesta Maciin välittömästi",
+      "description": "Jaa linkkejä iPhonesta Maciin offline-tuella iCloud-synkronoinnin avulla. Toimii, vaikka Macisi olisi offline-tilassa tai eri verkossa - linkit ilmestyvät automaattisesti, kun Macisi yhdistyy verkkoon. Nopeampi kuin AirDrop, luotettavampi kuin Safari-välilehdet ja yhteensopiva minkä tahansa selaimen kanssa. Käynnistä Macin pikakomennot suoraan iPhonestasi tehokasta laitteidenvälistä automaatiota varten."
     }
   },
   "statistics": {
@@ -204,6 +208,26 @@
     "vsOtherCleaners": {
       "question": "Miten Clean Links eroaa muista URL-puhdistajista, kuten Firefox, Brave tai Link Cleaner?",
       "answer": "Useimmat URL-puhdistajat (mukaan lukien Firefox, Brave ja verkkopohjaiset työkalut, kuten Link Cleaner) keskittyvät näkyvien seurantaparametrien poistamiseen antamastasi URL-osoitteesta. Ne eivät seuraa uudelleenohjausketjuja, joten lyhytlinkkien (bit.ly, t.co, lnkd.in) tai sosiaalisen median kääreiden (l.facebook.com, l.instagram.com) taakse piilotetut seuraimet pääsevät läpi. Firefoxilla on jopa sallittujen lista, joka päästää läpi tiettyjen suurten teknologiayritysten seuraimia. Clean Links on erilainen: se seuraa jokaista uudelleenohjausta, laajentaa lyhytlinkit ja poistaa seuraimet jokaisessa vaiheessa - paljastaen lopullisen määränpään ennen kuin avaat sen. Clean Links sisältää myös sisäänrakennetun QR-koodinlukijan, joka esikatselee URL-osoitteet turvallisesti, toimii 100 % laitteella ilman analytiikkaa (toisin kuin Link Cleaner -sovelluksen anonyymit käyttötilastot) ja integroituu natiivisti iOS:n jakovalikkoon, oikopolkuihin, Siriin ja Macin leikepöydän seurantaan. Jos haluat kattavan suojan, joka nappaa piilotetut seuraimet ja toimii kaikilla Apple-laitteillasi, Clean Links on tehty juuri sitä varten. <link>Katso täysi vertailu Link Cleaneriin</link> saadaksesi lisätietoja."
+    },
+    "sendToMac": {
+      "question": "Miten lähetän linkkejä iPhonesta Maciin?",
+      "answer": "Clean Linksin avulla voit jakaa linkkejä iPhonesta Maciin jakovalikon kautta. iOS-laitteessasi ja Macissasi on oltava Clean Links asennettuna, iCloud käytössä ja sinun on oltava kirjautuneena samalle Apple-tilille. Linkit lähetetään iCloud-synkronoinnin kautta, joten ne toimivat, vaikka Macisi olisi offline-tilassa tai eri verkossa - linkki ilmestyy automaattisesti, kun Macisi yhdistyy verkkoon. Tämä on nopeampaa kuin AirDrop, luotettavampaa kuin Safari-välilehdet ja toimii millä tahansa selaimella Macissasi. <link>Lue yksityiskohtainen oppaamme linkkien lähettämisestä iPhonesta Maciin</link> saadaksesi lisätietoja."
+    },
+    "sendToMacVsAirdrop": {
+      "question": "Miten Send to Mac on parempi kuin AirDrop?",
+      "answer": "Send to Mac toimii, kun Macisi on offline-tilassa tai lepotilassa, kun et ole samassa verkossa, ja on paljon nopeampi kuin AirDrop. Linkit avautuvat oletusselaimeesi taustalla, joten ne eivät jää sinulta huomaamatta. AirDrop vaatii, että molemmat laitteet ovat hereillä, lähellä toisiaan ja samassa verkossa, mikä usein epäonnistuu käytännössä."
+    },
+    "sendToMacVsIcloudTabs": {
+      "question": "Miten Send to Mac on parempi kuin iCloud-välilehdet tai Safarin lukulista?",
+      "answer": "Send to Mac toimii missä tahansa sovelluksessa jakovalikon kautta, ei vain Safarissa. Linkit avautuvat automaattisesti uusina välilehtinä oletusselaimeesi, joten et voi olla huomaamatta niitä. Sinun ei tarvitse etsiä niitä pitkästä välilehtien tai lukulistan kohteiden luettelosta. Se tukee mitä tahansa selainta Macissasi, ei vain Safaria. Sinun ei myöskään tarvitse pitää välilehteä auki iOS-laitteessasi, jotta se synkronoituisi."
+    },
+    "sendToMacMultipleMacs": {
+      "question": "Voinko lähettää linkkejä useisiin Maceihin?",
+      "answer": "Kyllä. Voit lähettää linkkejä kaikkiin Maceihisi, kunhan niihin on asennettu Clean Links for macOS ja ne on kirjattu samalle Apple-tilille. Voit poistaa linkkien vastaanoton käytöstä macOS-sovelluksen asetuksista, jos haluat jättää tietyn Macin ulkopuolelle."
+    },
+    "sendToMacShortcuts": {
+      "question": "Voinko käynnistää Macin pikakomennot iPhonesta Clean Linksin avulla?",
+      "answer": "Kyllä. Clean Linksin avulla voit käynnistää pikakomentoja Macissasi iOS-laitteestasi. Tämä tehokas laitteidenvälinen automaatio antaa sinun rakentaa työnkulkuja, jotka ulottuvat iPhonen ja Macin välille, esimerkiksi lähettämällä linkin, joka käynnistää Macin pikakomennon jatkokäsittelemään sitä."
     }
   },
   "cta": {

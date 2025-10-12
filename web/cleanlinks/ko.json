@@ -40,6 +40,10 @@
     "macMenuBar": {
       "title": "Mac 메뉴 막대에서 항상 활성화되는 링크 클리너",
       "description": "Clean Links를 Mac 메뉴 막대에서 클립보드 모니터링 기능과 함께 실행하여 URL을 복사할 때마다 자동으로 정리하세요. UTM 태그를 제거하고, t.co 링크를 확장하며, 추적기를 제거하는 모든 과정이 기기 내에서 처리되어 완벽한 개인 정보 보호를 보장합니다. 일상적인 작업 흐름에 이상적이며, Mac을 벗어나지 않고 리디렉션 체인을 처리합니다."
+    },
+    "sendToMac": {
+      "title": "iPhone에서 Mac으로 즉시 링크 전송",
+      "description": "iCloud 동기화를 통해 iPhone에서 Mac으로 링크를 공유하세요. 오프라인도 지원됩니다. Mac이 오프라인이거나 다른 네트워크에 있어도 문제없으며, Mac이 온라인 상태가 되면 링크가 자동으로 나타납니다. AirDrop보다 빠르고 Safari 탭보다 안정적이며, 모든 브라우저와 호환됩니다. iPhone에서 직접 Mac 단축어를 실행하여 강력한 기기 간 자동화를 구현해 보세요."
     }
   },
   "statistics": {
@@ -204,6 +208,26 @@
     "vsOtherCleaners": {
       "question": "Clean Links는 Firefox, Brave 또는 Link Cleaner와 같은 다른 URL 클리너와 어떻게 다른가요?",
       "answer": "대부분의 URL 클리너(Firefox, Brave 및 Link Cleaner와 같은 웹 기반 도구 포함)는 사용자가 제공한 URL에서 눈에 보이는 추적 파라미터를 잘라내는 데 중점을 둡니다. 이러한 도구들은 리디렉션 체인을 따라가지 않기 때문에, 단축 링크(bit.ly, t.co, lnkd.in)나 소셜 래퍼(l.facebook.com, l.instagram.com) 뒤에 숨겨진 추적기는 걸러지지 않습니다. Firefox는 심지어 특정 빅테크 기업의 추적기를 허용하는 허용 목록을 유지하기도 합니다. Clean Links는 다릅니다. 모든 리디렉션 단계를 따라가고, 단축 링크를 확장하며, 각 단계에서 추적기를 제거하여 링크를 열기 전에 최종 목적지를 보여줍니다. 또한 Clean Links에는 URL을 안전하게 미리 볼 수 있는 내장 QR 코드 리더가 포함되어 있으며, (Link Cleaner의 익명 사용 통계와 달리) 분석 데이터 수집 없이 100% 기기 내에서 작동하고, iOS 공유 시트, 단축어, Siri 및 Mac 클립보드 모니터링과 기본적으로 통합됩니다. 숨겨진 추적기를 잡아내고 모든 Apple 기기에서 작동하는 포괄적인 보호 기능을 원하신다면, Clean Links가 바로 그 해답입니다. <link>Link Cleaner와의 전체 비교 보기</link>에서 자세한 내용을 확인하세요."
+    },
+    "sendToMac": {
+      "question": "iPhone에서 Mac으로 링크를 어떻게 보내나요?",
+      "answer": "Clean Links의 공유 시트를 사용하면 iPhone에서 Mac으로 링크를 공유할 수 있습니다. iOS 기기와 Mac에 Clean Links가 설치되어 있고, iCloud가 활성화되어 있으며, 동일한 Apple 계정으로 로그인되어 있어야 합니다. 링크는 iCloud 동기화로 전송되므로 Mac이 오프라인이거나 다른 네트워크에 있어도 문제없습니다. Mac이 온라인 상태가 되면 링크가 자동으로 표시됩니다. 이 기능은 AirDrop보다 빠르고 Safari 탭보다 안정적이며, Mac의 모든 브라우저와 호환됩니다. 더 자세한 내용은 <link>iPhone에서 Mac으로 링크 보내기 상세 가이드</link>를 확인해 보세요."
+    },
+    "sendToMacVsAirdrop": {
+      "question": "'Mac으로 보내기'는 AirDrop보다 어떤 점이 더 좋은가요?",
+      "answer": "'Mac으로 보내기'는 Mac이 오프라인이거나 잠자기 상태일 때, 또는 같은 네트워크에 있지 않을 때도 작동하며 AirDrop보다 훨씬 빠릅니다. 링크는 기본 브라우저에서 백그라운드로 열리므로 놓칠 염려가 없습니다. 반면 AirDrop은 두 기기가 모두 켜져 있고, 가까이 있으며, 같은 네트워크에 연결되어 있어야 하므로 실제 사용 시 종종 실패하곤 합니다."
+    },
+    "sendToMacVsIcloudTabs": {
+      "question": "'Mac으로 보내기'는 iCloud 탭이나 Safari 읽기 목록보다 어떤 점이 더 좋은가요?",
+      "answer": "'Mac으로 보내기'는 Safari뿐만 아니라 모든 앱의 공유 시트를 통해 작동하며, Mac의 모든 브라우저를 지원합니다. 링크가 기본 브라우저에 새 탭으로 자동으로 열리기 때문에 놓칠 일이 없습니다. 긴 탭 목록이나 읽기 목록 항목을 일일이 찾아다닐 필요가 없으며, 동기화를 위해 iOS 기기에서 탭을 계속 열어둘 필요도 없습니다."
+    },
+    "sendToMacMultipleMacs": {
+      "question": "여러 대의 Mac으로 링크를 보낼 수 있나요?",
+      "answer": "네. macOS용 Clean Links가 설치되어 있고 동일한 Apple 계정으로 로그인되어 있다면, 사용자의 모든 Mac으로 링크를 보낼 수 있습니다. 특정 Mac을 제외하고 싶다면 해당 Mac의 앱 설정에서 링크 수신을 비활성화할 수 있습니다."
+    },
+    "sendToMacShortcuts": {
+      "question": "Clean Links를 사용하여 iPhone에서 Mac 단축어를 실행할 수 있나요?",
+      "answer": "네. Clean Links를 사용하여 iOS 기기에서 Mac의 단축어를 실행할 수 있습니다. 이 강력한 기기 간 자동화 기능으로 iPhone과 Mac을 넘나드는 워크플로를 구축할 수 있습니다. 예를 들어, 링크를 전송하여 Mac 단축어를 실행하고 해당 링크를 추가로 처리하도록 하는 것이 가능합니다."
     }
   },
   "cta": {

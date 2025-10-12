@@ -40,6 +40,10 @@
     "macMenuBar": {
       "title": "Mac 選單列中常駐的連結清理器",
       "description": "在您的 Mac 選單列中執行 Clean Links，並啟用剪貼簿監控，以便在您複製 URL 時自動清理。移除 UTM 標籤，展開 t.co 連結，並移除追蹤器 - 所有操作均在裝置上完成，確保完全的隱私。它非常適合日常工作流程，無需離開您的 Mac 即可處理重新導向鏈。"
+    },
+    "sendToMac": {
+      "title": "將 iPhone 連結立即傳送到 Mac",
+      "description": "使用 iCloud 同步，將連結從 iPhone 分享到 Mac，並支援離線操作。即使您的 Mac 離線或在不同網路上也能運作 - 當 Mac 上線時，連結會自動出現。比 AirDrop 更快、比 Safari 標籤頁更可靠，且與任何瀏覽器相容。直接從您的 iPhone 觸發 Mac 上的捷徑，實現強大的跨裝置自動化。"
     }
   },
   "statistics": {
@@ -204,6 +208,26 @@
     "vsOtherCleaners": {
       "question": "Clean Links 與其他 URL 清理工具 (如 Firefox、Brave 或 Link Cleaner) 有何不同？",
       "answer": "大多數 URL 清理工具 (包括 Firefox、Brave 和像 Link Cleaner 這類的網頁工具) 主要專注於從您提供的 URL 中修剪可見的追蹤參數。它們不會追蹤重新導向鏈，因此隱藏在短連結 (bit.ly、t.co、lnkd.in) 或社群平台包裝 (l.facebook.com、l.instagram.com) 後的追蹤器就會溜掉。Firefox 甚至維護一份允許清單，會放行某些大型科技公司的追蹤器。Clean Links 則不同：它會追蹤每一次重新導向、展開短連結，並在每一步都剝除追蹤器，在您開啟前揭露最終的目的地。Clean Links 還包含一個內建的 QR 碼掃描器，可以安全地預覽 URL，100% 在裝置上運作且不含任何分析 (不像 Link Cleaner 會收集匿名使用數據)，並與 iOS 的「分享」、捷徑、Siri 及 Mac 的剪貼簿監控功能原生整合。如果您想要全面的保護，能捕捉隱藏的追蹤器並在您所有的 Apple 裝置上運作，Clean Links 就是為此而生。<link>查看與 Link Cleaner 的完整比較</link>以了解更多詳情。"
+    },
+    "sendToMac": {
+      "question": "我要如何從 iPhone 傳送連結到 Mac？",
+      "answer": "Clean Links 讓您能使用「分享」功能表，將連結從 iPhone 分享到 Mac。您的 iOS 裝置和 Mac 都必須安裝 Clean Links、啟用 iCloud，並登入同一個 Apple 帳號。連結是透過 iCloud 同步傳送，所以即使您的 Mac 離線或在不同網路上也能運作 - 當 Mac 上線時，連結會自動出現。這比 AirDrop 更快、比 Safari 標籤頁更可靠，且適用於您 Mac 上的任何瀏覽器。<link>閱讀我們關於從 iPhone 傳送連結到 Mac 的詳細指南</link>以了解更多資訊。"
+    },
+    "sendToMacVsAirdrop": {
+      "question": "「傳送到 Mac」功能為何比 AirDrop 更好？",
+      "answer": "「傳送到 Mac」在您的 Mac 離線、睡眠或您不在同一個網路上時也能運作，而且比 AirDrop 快得多。連結會在您的預設瀏覽器中於背景開啟，所以您不會錯過。AirDrop 要求兩部裝置都必須處於喚醒狀態、在附近、且連上同一個網路，這在實際使用中常常失敗。"
+    },
+    "sendToMacVsIcloudTabs": {
+      "question": "「傳送到 Mac」功能為何比 iCloud 標籤頁或 Safari 閱讀列表更好？",
+      "answer": "「傳送到 Mac」可透過「分享」功能表在任何 App 中使用，不限於 Safari。連結會自動在您的預設瀏覽器中以新分頁開啟，所以您絕不會錯過。您不需要在一長串的標籤頁或閱讀列表中尋找。它支援您 Mac 上的任何瀏覽器，不限於 Safari。您也無需在 iOS 裝置上保持分頁開啟來進行同步。"
+    },
+    "sendToMacMultipleMacs": {
+      "question": "我可以將連結傳送到多部 Mac 嗎？",
+      "answer": "可以。只要您的所有 Mac 上都安裝了 Clean Links for macOS，並登入同一個 Apple 帳號，您就可以將連結傳送到所有 Mac。如果您想排除某部特定的 Mac，可以在 macOS App 的設定中停用接收連結。"
+    },
+    "sendToMacShortcuts": {
+      "question": "我可以使用 Clean Links 從 iPhone 觸發 Mac 上的捷徑嗎？",
+      "answer": "可以。您可以使用 Clean Links 從您的 iOS 裝置觸發 Mac 上的捷徑。這項強大的跨裝置自動化功能讓您能建立橫跨 iPhone 和 Mac 的工作流程，例如傳送一個連結來觸發 Mac 上的捷徑以進行進一步處理。"
     }
   },
   "cta": {

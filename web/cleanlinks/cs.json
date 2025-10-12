@@ -40,6 +40,10 @@
     "macMenuBar": {
       "title": "Stále aktivní čistič odkazů v menu na Macu",
       "description": "Spusťte Clean Links v menu na vašem Macu s funkcí Sledování schránky, která automaticky čistí URL adresy, jakmile je zkopírujete. Odstraňte UTM tagy, rozbalte t.co a odstraňte sledovací prvky – vše probíhá na zařízení pro naprosté soukromí. Ideální pro každodenní pracovní postupy, zvládá řetězce přesměrování, aniž by cokoli opustilo váš Mac."
+    },
+    "sendToMac": {
+      "title": "Posílejte odkazy z iPhonu na Mac okamžitě",
+      "description": "Sdílejte odkazy z iPhonu na Mac s podporou offline režimu pomocí synchronizace přes iCloud. Funguje, i když je váš Mac offline nebo na jiné síti - odkazy se automaticky objeví, jakmile se Mac připojí k internetu. Rychlejší než AirDrop, spolehlivější než panely v Safari a kompatibilní s jakýmkoli prohlížečem. Spouštějte zkratky na Macu přímo z iPhonu pro výkonnou automatizaci napříč zařízeními."
     }
   },
   "statistics": {
@@ -204,6 +208,26 @@
     "vsOtherCleaners": {
       "question": "Jak se Clean Links liší od jiných čističů URL, jako jsou Firefox, Brave nebo Link Cleaner?",
       "answer": "Většina čističů URL (včetně Firefoxu, Brave a webových nástrojů jako Link Cleaner) se zaměřuje na ořezávání viditelných sledovacích parametrů z URL adresy, kterou zadáte. Nesledují řetězce přesměrování, takže sledovací prvky skryté za zkracovači (bit.ly, t.co, lnkd.in) nebo obálkami sociálních sítí (l.facebook.com, l.instagram.com) proklouznou. Firefox dokonce udržuje seznam povolených (allowlist), který propouští některé sledovací prvky velkých technologických firem. Clean Links je jiný: sleduje každé přesměrování, rozbaluje zkracovače a odstraňuje sledovací prvky v každém kroku - a odhalí tak cílovou destinaci, než ji otevřete. Clean Links také obsahuje vestavěnou čtečku QR kódů, která bezpečně zobrazuje náhledy URL, funguje 100% v zařízení s nulovou analytikou (na rozdíl od anonymních statistik používání Link Cleaner) a nativně se integruje s nabídkou Sdílení v iOS, Zkratkami, Siri a sledováním schránky na Macu. Pokud chcete komplexní ochranu, která zachytí skryté sledovací prvky a funguje na všech vašich zařízeních Apple, Clean Links je pro to jako stvořený. <link>Podívejte se na úplné srovnání s Link Cleaner</link> pro více podrobností."
+    },
+    "sendToMac": {
+      "question": "Jak mohu posílat odkazy z iPhonu na Mac?",
+      "answer": "Clean Links umožňuje sdílet odkazy z iPhonu na Mac pomocí listu pro sdílení. Na vašem iOS zařízení a Macu musí být nainstalována aplikace Clean Links, povolen iCloud a musíte být přihlášeni ke stejnému účtu Apple. Odkazy se posílají přes synchronizaci iCloud, takže fungují, i když je váš Mac offline nebo na jiné síti - odkaz se automaticky objeví, jakmile se Mac připojí k internetu. Je to rychlejší než AirDrop, spolehlivější než panely v Safari a funguje to s jakýmkoli prohlížečem na vašem Macu. <link>Přečtěte si náš podrobný návod na posílání odkazů z iPhonu na Mac</link> a dozvíte se víc."
+    },
+    "sendToMacVsAirdrop": {
+      "question": "V čem je funkce Send to Mac lepší než AirDrop?",
+      "answer": "Funkce Send to Mac funguje, i když je váš Mac offline nebo v režimu spánku, když nejste na stejné síti, a je mnohem rychlejší než AirDrop. Odkazy se otevírají na pozadí ve vašem výchozím prohlížeči, takže je nepřehlédnete. AirDrop vyžaduje, aby obě zařízení byla aktivní, blízko sebe a na stejné síti, což v praxi často selhává."
+    },
+    "sendToMacVsIcloudTabs": {
+      "question": "V čem je funkce Send to Mac lepší než Panely iCloudu nebo Seznam četby v Safari?",
+      "answer": "Funkce Send to Mac funguje v jakékoli aplikaci přes list pro sdílení, nejen v Safari. Odkazy se automaticky otevírají jako nové panely ve vašem výchozím prohlížeči, takže je nemůžete přehlédnout. Nemusíte prohledávat dlouhý seznam panelů nebo položek v seznamu četby. Podporuje jakýkoli prohlížeč na vašem Macu, nejen Safari. Navíc nemusíte nechávat panel otevřený na vašem iOS zařízení, aby se synchronizoval."
+    },
+    "sendToMacMultipleMacs": {
+      "question": "Mohu posílat odkazy na více Maců?",
+      "answer": "Ano. Odkazy můžete posílat na všechny své Macy, pokud na nich máte nainstalovanou aplikaci Clean Links pro macOS a jsou přihlášeny ke stejnému účtu Apple. V nastavení aplikace pro macOS můžete příjem odkazů zakázat, pokud chcete některý Mac vyloučit."
+    },
+    "sendToMacShortcuts": {
+      "question": "Mohu pomocí Clean Links spouštět zkratky na Macu z iPhonu?",
+      "answer": "Ano. Pomocí Clean Links můžete spouštět zkratky na vašem Macu z vašeho iOS zařízení. Tato výkonná automatizace napříč zařízeními vám umožňuje vytvářet pracovní postupy, které propojují váš iPhone a Mac, jako je například odeslání odkazu, který spustí zkratku na Macu pro jeho další zpracování."
     }
   },
   "cta": {

@@ -40,6 +40,10 @@
     "macMenuBar": {
       "title": "Always-On Link Cleaner in Mac Menu Bar",
       "description": "Run Clean Links in your Mac's menu bar with Clipboard Monitoring to auto-clean URLs as you copy them. Strip UTM tags, unshorten t.co, and remove trackers-all on-device for total privacy. Perfect for daily workflows, it handles redirect chains without ever leaving your Mac."
+    },
+    "sendToMac": {
+      "title": "Send Links from iPhone to Mac Instantly",
+      "description": "Share links from iPhone to Mac with offline support using iCloud sync. Works even when your Mac is offline or on a different network - links appear automatically when your Mac comes online. Faster than AirDrop, more reliable than Safari tabs, and compatible with any browser. Trigger Mac shortcuts directly from your iPhone for powerful cross-device automation."
     }
   },
   "statistics": {
@@ -204,6 +208,26 @@
     "vsOtherCleaners": {
       "question": "How is Clean Links different from other URL cleaners like Firefox, Brave, or Link Cleaner?",
       "answer": "Most URL cleaners (including Firefox, Brave, and web-based tools like Link Cleaner) focus on trimming visible tracking parameters from the URL you provide. They don't follow redirect chains, so trackers hidden behind shortlinks (bit.ly, t.co, lnkd.in) or social wrappers (l.facebook.com, l.instagram.com) slip through. Firefox even maintains an allowlist that lets certain big-tech trackers through. Clean Links is different: it follows every redirect hop, expands shortlinks, and strips trackers at each step-revealing the final destination before you open it. Clean Links also includes a built-in QR code reader that previews URLs safely, works 100% on-device with no analytics (unlike Link Cleaner's anonymous usage stats), and integrates natively with iOS Share Sheets, Shortcuts, Siri, and Mac clipboard monitoring. If you want comprehensive protection that catches hidden trackers and works across all your Apple devices, Clean Links is designed to do just that. <link>See the full comparison with Link Cleaner</link> for more details."
+    },
+    "sendToMac": {
+      "question": "How do I send links from my iPhone to my Mac?",
+      "answer": "Clean Links lets you share links from iPhone to Mac using the share sheet. Your iOS device and Mac must have Clean Links installed, iCloud enabled, and be signed into the same Apple account. Links are sent via iCloud sync, so they work even when your Mac is offline or on a different network - the link will appear automatically when your Mac comes online. This is faster than AirDrop, more reliable than Safari tabs, and works with any browser on your Mac. <link>Read our detailed guide on sending links from iPhone to Mac</link> to learn more."
+    },
+    "sendToMacVsAirdrop": {
+      "question": "How is Send to Mac better than AirDrop?",
+      "answer": "Send to Mac works when your Mac is offline or asleep, when you are not on the same network, and is much faster than AirDrop. Links open in your default browser in the background, so you won't miss them. AirDrop requires both devices to be awake, nearby, and on the same network, which often fails in practice."
+    },
+    "sendToMacVsIcloudTabs": {
+      "question": "How is Send to Mac better than iCloud Tabs or Safari Reading List?",
+      "answer": "Send to Mac works in any app via share sheets, not just Safari. Links open as new tabs in your default browser automatically, so you cannot miss them. You don't need to hunt through a long list of tabs or reading list items. It supports any browser on your Mac, not just Safari. You also don't need to keep the tab open on your iOS device for it to sync."
+    },
+    "sendToMacMultipleMacs": {
+      "question": "Can I send links to multiple Macs?",
+      "answer": "Yes. You can send links to all your Macs as long as you have Clean Links for macOS installed on them and they are signed into the same Apple account. You can disable receiving links in the macOS app's settings if you want to exclude a specific Mac."
+    },
+    "sendToMacShortcuts": {
+      "question": "Can I trigger Mac shortcuts from my iPhone using Clean Links?",
+      "answer": "Yes. You can use Clean Links to trigger shortcuts on your Mac from your iOS device. This powerful cross-device automation lets you build workflows that span your iPhone and Mac, such as sending a link that triggers a Mac shortcut to process it further."
     }
   },
   "cta": {

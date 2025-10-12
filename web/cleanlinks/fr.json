@@ -40,6 +40,10 @@
     "macMenuBar": {
       "title": "Nettoyeur de liens toujours actif dans la barre de menus du Mac",
       "description": "Exécutez Clean Links dans la barre de menus de votre Mac avec la surveillance du presse-papiers pour nettoyer automatiquement les URL que vous copiez. Supprimez les balises UTM, développez les liens t.co et éliminez les traqueurs - le tout sur l'appareil pour une confidentialité totale. Parfait pour les flux de travail quotidiens, il gère les chaînes de redirection sans jamais quitter votre Mac."
+    },
+    "sendToMac": {
+      "title": "Envoyez instantanément des liens de l'iPhone au Mac",
+      "description": "Partagez des liens de l'iPhone au Mac avec une prise en charge hors ligne grâce à la synchronisation iCloud. Fonctionne même lorsque votre Mac est hors ligne ou sur un autre réseau - les liens apparaissent automatiquement lorsque votre Mac se connecte. Plus rapide qu'AirDrop, plus fiable que les onglets Safari, et compatible avec n'importe quel navigateur. Déclenchez des raccourcis Mac directement depuis votre iPhone pour une automatisation multi-appareils puissante."
     }
   },
   "statistics": {
@@ -204,6 +208,26 @@
     "vsOtherCleaners": {
       "question": "En quoi Clean Links est-il différent des autres nettoyeurs d'URL comme Firefox, Brave ou Link Cleaner ?",
       "answer": "La plupart des nettoyeurs d'URL (y compris Firefox, Brave et les outils web comme Link Cleaner) se contentent de supprimer les paramètres de suivi visibles de l'URL que vous fournissez. Ils ne suivent pas les chaînes de redirection, laissant ainsi passer les traqueurs cachés derrière des liens courts (bit.ly, t.co, lnkd.in) ou des enveloppes sociales (l.facebook.com, l.instagram.com). Firefox maintient même une liste blanche qui laisse passer certains traqueurs des géants de la tech. Clean Links est différent : il suit chaque étape de redirection, déploie les liens courts et supprime les traqueurs à chaque étape, révélant la destination finale avant que vous ne l'ouvriez. Clean Links inclut également un lecteur de codes QR intégré qui prévisualise les URL en toute sécurité, fonctionne à 100 % sur l'appareil sans aucune donnée d'analyse (contrairement aux statistiques d'utilisation anonymes de Link Cleaner) et s'intègre nativement avec les feuilles de partage d'iOS, les Raccourcis, Siri et la surveillance du presse-papiers sur Mac. Si vous voulez une protection complète qui intercepte les traqueurs cachés et fonctionne sur tous vos appareils Apple, Clean Links est conçu pour ça. <link>Consultez le comparatif complet avec Link Cleaner</link> pour plus de détails."
+    },
+    "sendToMac": {
+      "question": "Comment envoyer des liens de mon iPhone à mon Mac ?",
+      "answer": "Clean Links vous permet de partager des liens de l'iPhone au Mac en utilisant la feuille de partage. Votre appareil iOS et votre Mac doivent avoir Clean Links installé, iCloud activé, et être connectés au même compte Apple. Les liens sont envoyés via la synchronisation iCloud, ils fonctionnent donc même lorsque votre Mac est hors ligne ou sur un autre réseau - le lien apparaîtra automatiquement lorsque votre Mac se connectera. C'est plus rapide qu'AirDrop, plus fiable que les onglets Safari, et fonctionne avec n'importe quel navigateur sur votre Mac. <link>Consultez notre guide détaillé sur l'envoi de liens de l'iPhone au Mac</link> pour en savoir plus."
+    },
+    "sendToMacVsAirdrop": {
+      "question": "En quoi l'envoi au Mac est-il meilleur qu'AirDrop ?",
+      "answer": "L'envoi au Mac fonctionne lorsque votre Mac est hors ligne ou en veille, lorsque vous n'êtes pas sur le même réseau, et est bien plus rapide qu'AirDrop. Les liens s'ouvrent en arrière-plan dans votre navigateur par défaut, vous ne risquez donc pas de les manquer. AirDrop nécessite que les deux appareils soient allumés, à proximité et sur le même réseau, ce qui échoue souvent en pratique."
+    },
+    "sendToMacVsIcloudTabs": {
+      "question": "En quoi l'envoi au Mac est-il meilleur que les Onglets iCloud ou la Liste de lecture Safari ?",
+      "answer": "L'envoi au Mac fonctionne dans n'importe quelle app via les feuilles de partage, pas seulement dans Safari. Les liens s'ouvrent automatiquement comme de nouveaux onglets dans votre navigateur par défaut, vous ne pouvez donc pas les manquer. Vous n'avez pas besoin de chercher dans une longue liste d'onglets ou d'éléments de la liste de lecture. Il prend en charge n'importe quel navigateur sur votre Mac, pas seulement Safari. Vous n'avez pas non plus besoin de garder l'onglet ouvert sur votre appareil iOS pour qu'il se synchronise."
+    },
+    "sendToMacMultipleMacs": {
+      "question": "Puis-je envoyer des liens à plusieurs Mac ?",
+      "answer": "Oui. Vous pouvez envoyer des liens à tous vos Mac tant que Clean Links pour macOS est installé dessus et qu'ils sont connectés au même compte Apple. Vous pouvez désactiver la réception de liens dans les réglages de l'application macOS si vous souhaitez exclure un Mac spécifique."
+    },
+    "sendToMacShortcuts": {
+      "question": "Puis-je déclencher des raccourcis Mac depuis mon iPhone avec Clean Links ?",
+      "answer": "Oui. Vous pouvez utiliser Clean Links pour déclencher des raccourcis sur votre Mac depuis votre appareil iOS. Cette puissante automatisation multi-appareils vous permet de créer des flux de travail qui s'étendent à votre iPhone et votre Mac, comme l'envoi d'un lien qui déclenche un raccourci Mac pour un traitement plus poussé."
     }
   },
   "cta": {

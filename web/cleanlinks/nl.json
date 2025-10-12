@@ -40,6 +40,10 @@
     "macMenuBar": {
       "title": "Altijd actieve link-opschoner in de Mac-menubalk",
       "description": "Draai Clean Links in de menubalk van je Mac met klembordbewaking om URL's automatisch op te schonen terwijl je ze kopieert. Verwijder UTM-tags, vouw t.co uit en verwijder trackers-alles op het apparaat voor totale privacy. Perfect voor dagelijkse workflows, het verwerkt omleidingsketens zonder ooit je Mac te verlaten."
+    },
+    "sendToMac": {
+      "title": "Stuur direct links van iPhone naar Mac",
+      "description": "Deel links van je iPhone met je Mac met offline ondersteuning via iCloud-synchronisatie. Werkt zelfs als je Mac offline is of op een ander netwerk zit - links verschijnen automatisch zodra je Mac online komt. Sneller dan AirDrop, betrouwbaarder dan Safari-tabbladen en compatibel met elke browser. Activeer Mac-opdrachten direct vanaf je iPhone voor krachtige automatisering tussen apparaten."
     }
   },
   "statistics": {
@@ -204,6 +208,26 @@
     "vsOtherCleaners": {
       "question": "Hoe verschilt Clean Links van andere URL-opschoners zoals Firefox, Brave of Link Cleaner?",
       "answer": "De meeste URL-opschoners (inclusief Firefox, Brave en webgebaseerde tools zoals Link Cleaner) richten zich op het verwijderen van zichtbare trackingparameters uit de URL die je invoert. Ze volgen geen redirect-ketens, waardoor trackers die verborgen zijn achter shortlinks (bit.ly, t.co, lnkd.in) of social wrappers (l.facebook.com, l.instagram.com) erdoor glippen. Firefox heeft zelfs een 'allowlist' die bepaalde trackers van grote techbedrijven doorlaat. Clean Links is anders: het volgt elke stap in een redirect, vouwt shortlinks uit en verwijdert trackers bij elke stap - en onthult de eindbestemming voordat je deze opent. Clean Links heeft ook een ingebouwde QR-codescanner die URL's veilig voorvertoont, werkt 100% op je apparaat zonder enige analyse (in tegenstelling tot de anonieme gebruiksstatistieken van Link Cleaner), en integreert naadloos met de Deel-weergave van iOS, Opdrachten, Siri en klembordmonitoring op de Mac. Als je uitgebreide bescherming wilt die verborgen trackers onderschept en werkt op al je Apple-apparaten, dan is Clean Links daarvoor gemaakt. <link>Bekijk de volledige vergelijking met Link Cleaner</link> voor meer details."
+    },
+    "sendToMac": {
+      "question": "Hoe stuur ik links van mijn iPhone naar mijn Mac?",
+      "answer": "Met Clean Links deel je links van je iPhone naar je Mac via het deelmenu. Op je iOS-apparaat en Mac moeten Clean Links geïnstalleerd zijn, iCloud ingeschakeld zijn en je moet ingelogd zijn op hetzelfde Apple-account. Links worden verstuurd via iCloud-synchronisatie, dus het werkt zelfs als je Mac offline is of op een ander netwerk zit - de link verschijnt automatisch zodra je Mac online komt. Dit is sneller dan AirDrop, betrouwbaarder dan Safari-tabbladen en werkt met elke browser op je Mac. <link>Lees onze uitgebreide handleiding over het sturen van links van iPhone naar Mac</link> voor meer informatie."
+    },
+    "sendToMacVsAirdrop": {
+      "question": "Waarom is Stuur naar Mac beter dan AirDrop?",
+      "answer": "Stuur naar Mac werkt als je Mac offline is of in de sluimerstand staat, wanneer je niet op hetzelfde netwerk zit, en is veel sneller dan AirDrop. Links openen op de achtergrond in je standaardbrowser, zodat je ze niet kunt missen. Voor AirDrop moeten beide apparaten actief, in de buurt en op hetzelfde netwerk zijn, wat in de praktijk vaak mislukt."
+    },
+    "sendToMacVsIcloudTabs": {
+      "question": "Waarom is Stuur naar Mac beter dan iCloud-tabbladen of de Safari-leeslijst?",
+      "answer": "Stuur naar Mac werkt in elke app via het deelmenu, niet alleen in Safari. Links openen automatisch als nieuwe tabbladen in je standaardbrowser, dus je kunt ze niet missen. Je hoeft geen lange lijst met tabbladen of leeslijstitems door te spitten. Het ondersteunt elke browser op je Mac, niet alleen Safari. Je hoeft het tabblad ook niet open te houden op je iOS-apparaat om te synchroniseren."
+    },
+    "sendToMacMultipleMacs": {
+      "question": "Kan ik links sturen naar meerdere Macs?",
+      "answer": "Ja. Je kunt links sturen naar al je Macs zolang je Clean Links voor macOS erop hebt geïnstalleerd en ze zijn ingelogd op hetzelfde Apple-account. Je kunt het ontvangen van links uitschakelen in de instellingen van de macOS-app als je een specifieke Mac wilt uitsluiten."
+    },
+    "sendToMacShortcuts": {
+      "question": "Kan ik Mac-opdrachten activeren vanaf mijn iPhone met Clean Links?",
+      "answer": "Ja. Je kunt Clean Links gebruiken om opdrachten op je Mac te activeren vanaf je iOS-apparaat. Met deze krachtige automatisering tussen apparaten kun je workflows bouwen die je iPhone en Mac overspannen, zoals het sturen van een link die een Mac-opdracht activeert om deze verder te verwerken."
     }
   },
   "cta": {

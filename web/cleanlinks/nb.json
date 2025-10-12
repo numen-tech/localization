@@ -40,6 +40,10 @@
     "macMenuBar": {
       "title": "Alltid på-lenkerenser i Mac-menylinjen",
       "description": "Kjør Clean Links i din Mac-menylinje med Utklippstavle-overvåking for å automatisk rense URL-er mens du kopierer dem. Fjern UTM-tagger, utvid t.co, og fjern sporere-alt på enheten for totalt personvern. Perfekt for daglige arbeidsflyter, den håndterer omdirigeringskjeder uten å forlate din Mac."
+    },
+    "sendToMac": {
+      "title": "Send lenker fra iPhone til Mac umiddelbart",
+      "description": "Del lenker fra iPhone til Mac med offline-støtte ved hjelp av iCloud-synkronisering. Fungerer selv om din Mac er frakoblet eller på et annet nettverk - lenker dukker opp automatisk når din Mac kommer på nett. Raskere enn AirDrop, mer pålitelig enn Safari-faner, og kompatibel med alle nettlesere. Utløs Mac-snarveier direkte fra din iPhone for kraftig automatisering på tvers av enheter."
     }
   },
   "statistics": {
@@ -204,6 +208,26 @@
     "vsOtherCleaners": {
       "question": "Hvordan skiller Clean Links seg fra andre lenkerensere som Firefox, Brave eller Link Cleaner?",
       "answer": "De fleste lenkerensere (inkludert Firefox, Brave og nettbaserte verktøy som Link Cleaner) fokuserer på å fjerne synlige sporingsparametre fra URL-en du oppgir. De følger ikke omdirigeringskjeder, så sporere skjult bak forkortede lenker (bit.ly, t.co, lnkd.in) eller sosiale innpakninger (l.facebook.com, l.instagram.com) slipper gjennom. Firefox har til og med en tillatelsesliste som slipper visse sporere fra store teknologiselskaper gjennom. Clean Links er annerledes: den følger hvert hopp i omdirigeringer, utvider forkortede lenker og fjerner sporere i hvert trinn - og avslører den endelige destinasjonen før du åpner den. Clean Links inkluderer også en innebygd QR-kodeleser som forhåndsviser URL-er trygt, fungerer 100 % på enheten uten noen form for analyse (i motsetning til Link Cleaners anonyme bruksstatistikk), og integreres sømløst med Delingsark, Snarveier, Siri og overvåking av utklippstavlen på Mac. Hvis du vil ha omfattende beskyttelse som fanger opp skjulte sporere og fungerer på tvers av alle Apple-enhetene dine, er Clean Links laget for nettopp det. <link>Se hele sammenligningen med Link Cleaner</link> for flere detaljer."
+    },
+    "sendToMac": {
+      "question": "Hvordan sender jeg lenker fra min iPhone til min Mac?",
+      "answer": "Clean Links lar deg dele lenker fra iPhone til Mac via delingsmenyen. Din iOS-enhet og Mac må ha Clean Links installert, iCloud aktivert, og være logget inn på samme Apple-konto. Lenker sendes via iCloud-synkronisering, så de fungerer selv om din Mac er frakoblet eller på et annet nettverk - lenken vil dukke opp automatisk når din Mac kommer på nett. Dette er raskere enn AirDrop, mer pålitelig enn Safari-faner, og fungerer med alle nettlesere på din Mac. <link>Les vår detaljerte guide om å sende lenker fra iPhone til Mac</link> for å lære mer."
+    },
+    "sendToMacVsAirdrop": {
+      "question": "Hvordan er Send til Mac bedre enn AirDrop?",
+      "answer": "Send til Mac fungerer når din Mac er frakoblet eller i dvale, når du ikke er på samme nettverk, og er mye raskere enn AirDrop. Lenker åpnes i standardnettleseren din i bakgrunnen, så du ikke går glipp av dem. AirDrop krever at begge enhetene er våkne, i nærheten, og på samme nettverk, noe som ofte mislykkes i praksis."
+    },
+    "sendToMacVsIcloudTabs": {
+      "question": "Hvordan er Send til Mac bedre enn iCloud-faner eller Safari Leseliste?",
+      "answer": "Send til Mac fungerer i alle apper via delingsmenyen, ikke bare Safari. Lenker åpnes automatisk som nye faner i standardnettleseren din, så du kan ikke gå glipp av dem. Du trenger ikke å lete gjennom en lang liste med faner eller leseliste-elementer. Den støtter alle nettlesere på din Mac, ikke bare Safari. Du trenger heller ikke å holde fanen åpen på iOS-enheten din for at den skal synkroniseres."
+    },
+    "sendToMacMultipleMacs": {
+      "question": "Kan jeg sende lenker til flere Macer?",
+      "answer": "Ja. Du kan sende lenker til alle Macene dine så lenge du har Clean Links for macOS installert på dem og de er logget inn på samme Apple-konto. Du kan deaktivere mottak av lenker i innstillingene til macOS-appen hvis du vil ekskludere en bestemt Mac."
+    },
+    "sendToMacShortcuts": {
+      "question": "Kan jeg utløse Mac-snarveier fra min iPhone ved hjelp av Clean Links?",
+      "answer": "Ja. Du kan bruke Clean Links til å utløse snarveier på din Mac fra din iOS-enhet. Denne kraftige automatiseringen på tvers av enheter lar deg bygge arbeidsflyter som strekker seg over din iPhone og Mac, for eksempel ved å sende en lenke som utløser en Mac-snarvei for å behandle den videre."
     }
   },
   "cta": {
