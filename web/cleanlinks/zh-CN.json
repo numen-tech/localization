@@ -72,74 +72,70 @@
   },
   "useCases": {
     "title": "使用场景与实际应用",
-    "description": "从防范二维码网络钓鱼到自动化隐私工作流，Clean Links 能够适应您在 iPhone、iPad 和 Mac 上的数字生活，涵盖 17 个关键场景",
-    "ecommerce": {
-      "title": "电子商务购物",
-      "description": "Clean Links 移除联盟和营销跟踪（例如亚马逊的“tag”参数、联盟 ID），让您看到零售商原本希望您看到的商品页面，不受广告技术分析的影响。"
-    },
-    "socialMedia": {
-      "title": "社交媒体链接",
-      "description": "从 Facebook 的“fbclid”、Twitter 的“t.co”、Instagram 的“l.instagram.com”重定向、LinkedIn 的“lnkd.in”、TikTok 的短链接等中剥离 UTM 和其他营销活动标签，在您点击前提供真实的网址预览。"
-    },
-    "searchEngine": {
-      "title": "搜索引擎结果",
-      "description": "移除 Google 的“gclid”、Bing 的“msclkid”、Yahoo 的跟踪令牌及类似参数，让点击搜索结果就像自己输入网址一样直接。"
-    },
-    "advertising": {
-      "title": "广告链接",
-      "description": "从横幅广告、电子邮件推广和付费搜索着陆页中清除跟踪参数，防止隐形的广告网络对您进行用户画像分析。"
-    },
-    "restaurantMenus": {
-      "title": "餐厅菜单与现场二维码",
-      "description": "在访问电子菜单（或任何公共场所的二维码）之前，先查看完整链接——避免那些将付款重定向至诈骗者的虚假“二维码钓鱼”贴纸。"
-    },
-    "eventTickets": {
-      "title": "活动门票与登机牌",
-      "description": "验证您的音乐节门票、登机牌或会议证件上的二维码是否真的指向官方网址，而不是一个伪造的网络钓鱼网站。"
-    },
-    "paymentCodes": {
-      "title": "支付点二维码（停车计时器、公共交通、自动售货机）",
-      "description": "扫描公共支付二维码，以确认其指向正确的城市或商家认可的门户网站，而非欺诈性收款方。"
-    },
-    "emailSms": {
-      "title": "电子邮件/短信中的二维码附件",
-      "description": "检查嵌入在意外的“投递失败”或“账户问题”信息中的二维码，以挫败恶意重定向。"
-    },
-    "shortLinks": {
-      "title": "Bit.ly、TinyURL、t.co、rb.gy",
-      "description": "在客户端或平台侧展开并预览任何短链接，这样您就能提前知道 bit.ly/PayPal-update 或 t.co/UD3p5uZH17 会将您带到哪里。"
-    },
-    "redirectChains": {
-      "title": "多重重定向链",
-      "description": "跟踪并解析由验证码页面或层层嵌套的短链接所混淆的重定向序列，直达最终目的地。"
-    },
-    "platformWrapped": {
-      "title": "平台包装的链接",
-      "description": "揭示 Facebook/Instagram 的 Link Shim、Twitter/X 的 t.co、LinkedIn 的 lnkd.in、YouTube 的重定向页面等背后的真实网址，让您永远不会盲目点击。"
-    },
-    "emailForwarding": {
-      "title": "转发电子邮件或即时消息",
-      "description": "在转发给同事或朋友之前，先清理粘贴的网址——这样他们就能收到一个没有跟踪参数的“干净”链接。"
-    },
-    "marketingPosts": {
-      "title": "营销与社交媒体帖子",
-      "description": "从任何清理过的链接生成一个新的二维码，用于印刷传单、海报或在线活动——为受众提供一种注重隐私的体验。"
-    },
-    "businessCards": {
-      "title": "名片二维码",
-      "description": "在您的印刷品上创建简短、无跟踪器的二维码，确保每次扫描都精确跳转到您指定的登陆页面。"
-    },
+    "description": "无论是阻止二维码网络钓鱼,还是清理 Facebook、X、YouTube、TikTok、Instagram、LinkedIn 和 Amazon 的链接,Clean Links 都能在 iPhone、iPad 和 Mac 的所有平台上保护您的隐私。",
     "shareSheet": {
-      "title": "分享表单扩展",
-      "description": "在 Safari、邮件、X、LinkedIn（以及任何支持 iOS 分享表单的应用）中调用 Clean Links，一键清除链接。"
+      "title": "共享表单集成",
+      "description": "Clean Links 可与 Safari、邮件、X、YouTube、LinkedIn 及任何应用中的 iOS 共享表单集成。轻点“共享”,选择 Clean Links,即可在转发给朋友或同事前立即移除任何链接中的跟踪器 - 在每个应用中都能保护隐私。"
     },
     "controlCenter": {
-      "title": "控制中心磁贴",
-      "description": "在控制中心添加一个快速访问按钮，以便在 iOS 的任何地方清理剪贴板 URL 或扫描二维码。"
+      "title": "控制中心快捷访问",
+      "description": "将 Clean Links 添加到 iPhone、iPad 和 Mac 的控制中心,实现一键清理链接。随时随地即时访问二维码扫描器或清理剪贴板中的 URL - 或将其分配给操作按钮,打造最快的隐私保护工作流。"
     },
     "shortcuts": {
-      "title": "快捷指令与 Siri 集成",
-      "description": "在 Apple 快捷指令中自动化链接清理或二维码生成，或通过 Siri 调用（“嘿 Siri，清理我的链接”），将隐私保护融入您的日常。"
+      "title": "快捷指令与 Siri 自动化",
+      "description": "通过 Apple 快捷指令和 Siri 语音命令实现链接清理自动化。创建工作流,用“嘿 Siri,清理我的链接”来清理剪贴板链接、生成二维码或处理 URL - 将隐私保护无缝融入您的日常。"
+    },
+    "stopPhishing": {
+      "title": "阻止二维码网络钓鱼 (Quishing)",
+      "description": "通过在打开前预览二维码的目标地址来阻止网络钓鱼攻击。Clean Links 能揭示餐厅菜单、停车计时器、活动门票和电子邮件附件背后隐藏的真实 URL,保护您免受重定向至虚假支付网站的恶意 \"quishing\" 诈骗。"
+    },
+    "facebookCleaner": {
+      "title": "Facebook 链接清理器",
+      "description": "自动移除 fbclid 跟踪参数和 l.facebook.com 重定向,以清理 Facebook 链接。从每个分享的链接中剥离 Facebook 的跟踪标识符,在您浏览 Facebook 帖子或从 Facebook Messenger 分享链接时保护您的隐私。"
+    },
+    "xTwitterCleaner": {
+      "title": "X (Twitter) 链接清理器",
+      "description": "通过展开 t.co 短链接以揭示真实目标地址,来清理 X 和 Twitter 链接。展开 X (Twitter) 的重定向链,移除跟踪参数,在您点击前查看链接的实际指向 - 这对于避免在 X 和 Twitter 上遭遇网络钓鱼至关重要。"
+    },
+    "youtubeCleaner": {
+      "title": "YouTube 链接清理器",
+      "description": "清理 YouTube 链接,移除 YouTube 为分享视频添加的 si 跟踪参数。剥离 YouTube 的分享跟踪代码,可获得不含 si 参数的干净 youtube.com/watch URL,从而避免视频分享者被跟踪。"
+    },
+    "tiktokCleaner": {
+      "title": "TikTok 链接清理器",
+      "description": "通过移除 TikTok 视频分享和短链接中的跟踪参数来清理 TikTok 链接。剥离 TikTok 的互动跟踪代码,以揭示直接指向视频的干净 URL,避免您在平台上的分享行为受到监视。"
+    },
+    "instagramCleaner": {
+      "title": "Instagram 链接清理器",
+      "description": "通过移除 igshid 跟踪参数和 l.instagram.com 重定向来清理 Instagram 链接。从链接中剥离 Instagram 分享标识符,在分享 Instagram 帖子、Reels 或快拍时保护您的隐私,免受 Meta 的跨平台跟踪。"
+    },
+    "linkedinCleaner": {
+      "title": "LinkedIn 链接清理器",
+      "description": "通过展开 lnkd.in 短链接并移除跟踪参数来清理 LinkedIn 链接。展开 LinkedIn 的重定向链,在点击前查看职业社交网络分享的真实目标地址 - 这对于在商业环境中避免网络钓鱼至关重要。"
+    },
+    "amazonCleaner": {
+      "title": "Amazon 链接清理器",
+      "description": "通过移除产品 URL 中的联盟营销标签参数和跟踪 ID 来清理 Amazon 链接。剥离 Amazon 的 \"tag\" 参数,以获取直接的产品页面链接,在购物或分享优惠时免受联盟营销跟踪或广告技术分析。"
+    },
+    "googleCleaner": {
+      "title": "Google 链接清理器",
+      "description": "通过移除搜索结果和广告点击中的 gclid 跟踪参数来清理 Google 链接。剥离 Google 点击标识符,在您点击搜索结果、Google Ads 或 Gmail 链接时保护您的隐私,免受跨站跟踪监视。"
+    },
+    "shortLinkExpander": {
+      "title": "短链接展开器 (bit.ly, TinyURL)",
+      "description": "展开短链接以揭示 bit.ly、TinyURL、t.co、rb.gy 等 URL 缩短工具背后的真实目标地址。Clean Links 会追踪重定向链,在您点击前显示最终 URL - 这对于检测隐藏在短链接中的网络钓鱼链接至关重要。"
+    },
+    "utmRemover": {
+      "title": "移除 UTM 跟踪参数",
+      "description": "从营销链接和电子邮件推广中移除 UTM 参数 (utm_source, utm_medium, utm_campaign)。Clean Links 会自动剥离营销活动跟踪代码,防止广告网络跨网站和平台分析您的浏览行为。"
+    },
+    "qrGenerator": {
+      "title": "二维码生成器",
+      "description": "在移除跟踪器后,从任何 URL 生成干净的二维码。Clean Links 创建注重隐私安全的二维码,非常适合与朋友分享、打印在名片上或发布到社交媒体 - 确保接收者获得可安全扫描的无跟踪器链接。"
+    },
+    "macMenuBar": {
+      "title": "Mac 菜单栏剪贴板监控",
+      "description": "在 Mac 菜单栏中运行 Clean Links,开启自动剪贴板监控功能。您复制的每个 URL 都会被立即清理、展开并剥离跟踪器 - 所有操作均在设备本地完成,为您的 macOS 工作流提供无需手动干预的完全隐私保护。"
     }
   },
   "faq": {

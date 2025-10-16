@@ -72,74 +72,70 @@
   },
   "useCases": {
     "title": "Anwendungsfälle & Praxisbeispiele",
-    "description": "Vom Schutz vor QR-Code-Phishing bis zur Automatisierung von Datenschutz-Workflows passt sich Clean Links Ihrem digitalen Leben auf iPhone, iPad und Mac in 17 wichtigen Szenarien an.",
-    "ecommerce": {
-      "title": "E-Commerce-Shopping",
-      "description": "Clean Links entfernt Affiliate- und Marketing-Tracking (z. B. Amazon „tag“-Parameter, Affiliate-IDs), sodass Sie eine Produktseite genau so sehen, wie vom Händler beabsichtigt, ohne Ad-Tech-Profiling."
-    },
-    "socialMedia": {
-      "title": "Social-Media-Links",
-      "description": "Entfernen Sie UTM- und andere Kampagnen-Tags von Facebook „fbclid“, Twitter „t.co“, Instagram „l.instagram.com“-Weiterleitungen, LinkedIn „lnkd.in“, TikTok-Kürzern usw. und erhalten Sie eine Vorschau der echten URL, bevor Sie tippen."
-    },
-    "searchEngine": {
-      "title": "Suchmaschinenergebnisse",
-      "description": "Entfernen Sie Google „gclid“, Bing „msclkid“, Yahoo-Tracking-Token und ähnliche Parameter, sodass sich das Klicken auf Suchergebnisse so direkt anfühlt wie die manuelle Eingabe der URL."
-    },
-    "advertising": {
-      "title": "Werbelinks",
-      "description": "Bereinigen Sie Tracking-Parameter von Bannerwerbung, E-Mail-Aktionen und bezahlten Suchergebnisseiten, um zu verhindern, dass unsichtbare Werbenetzwerke Profile von Ihnen erstellen."
-    },
-    "restaurantMenus": {
-      "title": "Speisekarten & QR-Codes vor Ort",
-      "description": "Sehen Sie den vollständigen Link, bevor Sie auf einer digitalen Speisekarte (oder einem anderen öffentlichen Code) landen – und vermeiden Sie gefälschte „Quishing“-Aufkleber, die Zahlungen an Betrüger umleiten."
-    },
-    "eventTickets": {
-      "title": "Eintrittskarten & Bordkarten",
-      "description": "Überprüfen Sie, ob der QR-Code auf Ihrem Festivalticket, Ihrer Bordkarte oder Ihrem Konferenzausweis wirklich auf die offizielle URL und nicht auf eine gefälschte Phishing-Seite verweist."
-    },
-    "paymentCodes": {
-      "title": "Bezahlpunkt-Codes (Parkuhren, ÖPNV, Verkaufsautomaten)",
-      "description": "Prüfen Sie öffentliche Bezahl-QR-Codes, um sicherzustellen, dass sie zum korrekten Portal der Stadt oder des Anbieters führen und nicht zu einem betrügerischen Zahlungsdienstleister."
-    },
-    "emailSms": {
-      "title": "QR-Anhänge in E-Mails/SMS",
-      "description": "Überprüfen Sie Codes in unerwarteten Nachrichten wie „Zustellung verpasst“ oder „Kontoproblem“, um bösartige Weiterleitungen zu vereiteln."
-    },
-    "shortLinks": {
-      "title": "Bit.ly, TinyURL, t.co, rb.gy",
-      "description": "Erweitern und prüfen Sie jeden gekürzten Link client- oder plattformseitig, damit Sie im Voraus wissen, wo Sie bei bit.ly/PayPal-update oder t.co/UD3p5uZH17 landen."
-    },
-    "redirectChains": {
-      "title": "Mehrfache Weiterleitungsketten",
-      "description": "Verfolgen und reduzieren Sie Weiterleitungssequenzen – um Verschleierung durch CAPTCHA-Seiten oder geschichtete Kürzer zu verhindern – bis zum endgültigen Ziel."
-    },
-    "platformWrapped": {
-      "title": "Plattform-verpackte Links",
-      "description": "Enthüllen Sie die wahre URL hinter dem Link Shim von Facebook/Instagram, t.co von Twitter/X, lnkd.in von LinkedIn, den Weiterleitungsseiten von YouTube usw., damit Sie nie blind klicken."
-    },
-    "emailForwarding": {
-      "title": "Weiterleitung per E-Mail oder Messenger",
-      "description": "Bereinigen Sie eingefügte URLs, bevor Sie sie an Kollegen oder Freunde weiterleiten – damit diese einen „sauberen“ Link ohne Tracking-Parameter erhalten."
-    },
-    "marketingPosts": {
-      "title": "Marketing- & Social-Media-Beiträge",
-      "description": "Generieren Sie aus jedem bereinigten Link einen neuen QR-Code für gedruckte Flyer, Poster oder Online-Kampagnen – und bieten Sie Ihrem Publikum ein datenschutzorientiertes Erlebnis."
-    },
-    "businessCards": {
-      "title": "QR-Codes auf Visitenkarten",
-      "description": "Erstellen Sie kurze, trackerfreie QR-Codes auf Ihren Drucksachen, um sicherzustellen, dass jeder Scan genau zu Ihrer angegebenen Landingpage führt."
-    },
+    "description": "Vom Schutz vor QR-Code-Phishing bis hin zur Bereinigung von Links von Facebook, X, YouTube, TikTok, Instagram, LinkedIn und Amazon schützt Clean Links Ihre Privatsphäre auf allen Plattformen auf iPhone, iPad und Mac.",
     "shareSheet": {
-      "title": "„Teilen“-Menü-Erweiterung",
-      "description": "Rufen Sie Clean Links aus Safari, Mail, X, LinkedIn (und jeder App, die das iOS-Teilen-Menü unterstützt) auf, um Links mit einem Fingertipp zu bereinigen."
+      "title": "Integration in das Teilen-Menü",
+      "description": "Clean Links integriert sich in das iOS Teilen-Menü in Safari, Mail, X, YouTube, LinkedIn und jeder anderen App. Tippen Sie auf 'Teilen', wählen Sie Clean Links und entfernen Sie sofort Tracker aus jedem Link, bevor Sie ihn an Freunde oder Kollegen weiterleiten - Datenschutz in jeder App."
     },
     "controlCenter": {
-      "title": "Kontrollzentrum-Kachel",
-      "description": "Fügen Sie eine Schnellzugriff-Taste im Kontrollzentrum hinzu, um die URL in der Zwischenablage zu bereinigen oder überall in iOS einen QR-Code zu prüfen."
+      "title": "Schnellzugriff im Kontrollzentrum",
+      "description": "Fügen Sie Clean Links zum Kontrollzentrum auf iPhone, iPad und Mac hinzu, um Links mit einem Fingertipp zu bereinigen. Greifen Sie von überall sofort auf den QR-Code-Scanner zu oder bereinigen Sie URLs aus der Zwischenablage - oder weisen Sie es der Aktionstaste für den schnellsten Workflow zum Schutz Ihrer Privatsphäre zu."
     },
     "shortcuts": {
-      "title": "Kurzbefehle & Siri-Integration",
-      "description": "Automatisieren Sie die Link-Bereinigung oder QR-Generierung in Apple-Kurzbefehlen oder rufen Sie sie über Siri auf („Hey Siri, bereinige meinen Link“), um den Datenschutz in Ihren Alltag zu integrieren."
+      "title": "Kurzbefehle & Siri-Automation",
+      "description": "Automatisieren Sie die Link-Bereinigung mit Apple Kurzbefehlen und Siri-Sprachbefehlen. Erstellen Sie Workflows, die Links aus der Zwischenablage bereinigen, QR-Codes erstellen oder URLs mit \"Hey Siri, bereinige meinen Link\" verarbeiten - und integrieren Sie so den Schutz Ihrer Privatsphäre nahtlos in Ihre täglichen Abläufe."
+    },
+    "stopPhishing": {
+      "title": "QR-Code-Phishing (Quishing) stoppen",
+      "description": "Stoppen Sie Phishing-Angriffe, indem Sie die Ziele von QR-Codes vor dem Öffnen in der Vorschau ansehen. Clean Links enthüllt die echte URL hinter Speisekarten, Parkautomaten, Veranstaltungstickets und E-Mail-Anhängen - und schützt Sie so vor bösartigen \"Quishing\"-Betrügereien, die auf gefälschte Bezahlseiten umleiten."
+    },
+    "facebookCleaner": {
+      "title": "Facebook Link-Bereiniger",
+      "description": "Bereinigen Sie Facebook-Links, indem Sie fbclid-Tracking-Parameter und l.facebook.com-Weiterleitungen automatisch entfernen. Entfernen Sie die Tracking-Kennungen von Facebook aus jedem geteilten Link und schützen Sie so Ihre Privatsphäre, wenn Sie Facebook-Beiträge durchsuchen oder Links aus dem Facebook Messenger teilen."
+    },
+    "xTwitterCleaner": {
+      "title": "X (Twitter) Link-Bereiniger",
+      "description": "Bereinigen Sie X- und Twitter-Links, indem Sie gekürzte t.co-URLs auflösen, um die wahren Ziele aufzudecken. Erweitern Sie Weiterleitungsketten von X (Twitter), entfernen Sie Tracking-Parameter und sehen Sie, wohin Links wirklich führen, bevor Sie tippen - unerlässlich, um Phishing auf X und Twitter zu vermeiden."
+    },
+    "youtubeCleaner": {
+      "title": "YouTube Link-Bereiniger",
+      "description": "Bereinigen Sie YouTube-Links, indem Sie den si-Tracking-Parameter entfernen, den YouTube zu geteilten Video-Links hinzufügt. Entfernen Sie die Share-Tracking-Codes von YouTube, um saubere youtube.com/watch-URLs ohne den si-Parameter zu erhalten, der nachverfolgt, wer das Video geteilt hat."
+    },
+    "tiktokCleaner": {
+      "title": "TikTok Link-Bereiniger",
+      "description": "Bereinigen Sie TikTok-Links, indem Sie Tracking-Parameter aus geteilten TikTok-Videos und Shortlinks entfernen. Entfernen Sie die Engagement-Tracking-Codes von TikTok, um saubere URLs aufzudecken, die direkt zu Videos führen, ohne Ihr Teilungsverhalten auf der Plattform zu überwachen."
+    },
+    "instagramCleaner": {
+      "title": "Instagram Link-Bereiniger",
+      "description": "Bereinigen Sie Instagram-Links, indem Sie igshid-Tracking-Parameter und l.instagram.com-Weiterleitungen entfernen. Entfernen Sie Instagram Share Identifiers aus Links und schützen Sie so Ihre Privatsphäre beim Teilen von Instagram-Beiträgen, Reels oder Stories ohne das plattformübergreifende Tracking von Meta."
+    },
+    "linkedinCleaner": {
+      "title": "LinkedIn Link-Bereiniger",
+      "description": "Bereinigen Sie LinkedIn-Links, indem Sie gekürzte lnkd.in-URLs auflösen und Tracking-Parameter entfernen. Lösen Sie die Weiterleitungsketten von LinkedIn auf, um das wahre Ziel von geteilten Inhalten im beruflichen Netzwerk zu sehen, bevor Sie klicken - entscheidend, um Phishing im geschäftlichen Kontext zu vermeiden."
+    },
+    "amazonCleaner": {
+      "title": "Amazon Link-Bereiniger",
+      "description": "Bereinigen Sie Amazon-Links, indem Sie Affiliate-Tag-Parameter und Tracking-IDs aus Produkt-URLs entfernen. Entfernen Sie die \"tag\"-Parameter von Amazon, um direkte Links zu Produktseiten ohne Affiliate-Tracking oder Ad-Tech-Profiling beim Einkaufen oder Teilen von Angeboten zu erhalten."
+    },
+    "googleCleaner": {
+      "title": "Google Link-Bereiniger",
+      "description": "Bereinigen Sie Google-Links, indem Sie gclid-Tracking-Parameter aus Suchergebnissen und Anzeigenklicks entfernen. Entfernen Sie Google Click Identifiers, um Ihre Privatsphäre beim Klicken auf Suchergebnisse, Google Ads oder Gmail-Links ohne websiteübergreifende Tracking-Überwachung zu schützen."
+    },
+    "shortLinkExpander": {
+      "title": "Short-Link-Auflöser (bit.ly, TinyURL)",
+      "description": "Lösen Sie Short-Links auf, um das wahre Ziel hinter bit.ly, TinyURL, t.co, rb.gy und anderen URL-Kürzern aufzudecken. Clean Links folgt den Weiterleitungsketten, um Ihnen die endgültige URL anzuzeigen, bevor Sie tippen - unerlässlich, um Phishing-Links zu erkennen, die sich hinter Kürzungsdiensten verbergen."
+    },
+    "utmRemover": {
+      "title": "UTM-Tracking-Parameter entfernen",
+      "description": "Entfernen Sie UTM-Parameter (utm_source, utm_medium, utm_campaign) aus Marketing-Links und E-Mail-Aktionen. Clean Links entfernt Kampagnen-Tracking-Codes automatisch und verhindert so, dass Werbenetzwerke Ihr Surfverhalten über Websites und Plattformen hinweg profilieren."
+    },
+    "qrGenerator": {
+      "title": "QR-Code-Generator",
+      "description": "Erstellen Sie saubere QR-Codes aus jeder URL, nachdem Tracker entfernt wurden. Clean Links erstellt datenschutzfreundliche QR-Codes, die sich perfekt zum Teilen mit Freunden, zum Drucken auf Visitenkarten oder zum Posten in sozialen Medien eignen - so wird sichergestellt, dass die Empfänger tracker-freie Links erhalten, die sie sicher scannen können."
+    },
+    "macMenuBar": {
+      "title": "Zwischenablage-Überwachung in der Mac-Menüleiste",
+      "description": "Führen Sie Clean Links mit automatischer Zwischenablage-Überwachung in Ihrer Mac-Menüleiste aus. Jede URL, die Sie kopieren, wird sofort bereinigt, aufgelöst und von Trackern befreit - alles direkt auf dem Gerät für vollständige Privatsphäre in Ihrem macOS-Workflow, ohne manuelles Eingreifen."
     }
   },
   "faq": {

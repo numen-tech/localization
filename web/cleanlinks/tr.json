@@ -72,74 +72,70 @@
   },
   "useCases": {
     "title": "Kullanım Alanları ve Gerçek Dünya Uygulamaları",
-    "description": "QR kod ile oltalamaya karşı korumadan gizlilik iş akışlarını otomatikleştirmeye kadar, Clean Links iPhone, iPad ve Mac'teki dijital yaşamınıza 17 temel senaryoda uyum sağlar.",
-    "ecommerce": {
-      "title": "E-ticaret alışverişi",
-      "description": "Clean Links, satış ortaklığı ve pazarlama takibini (ör. Amazon \"tag\" parametreleri, satış ortağı kimlikleri) kaldırır, böylece bir ürün sayfasını reklam teknolojisi profillemesi olmadan tam olarak satıcının amaçladığı gibi görürsünüz."
-    },
-    "socialMedia": {
-      "title": "Sosyal medya bağlantıları",
-      "description": "Facebook \"fbclid\", Twitter \"t.co\", Instagram \"l.instagram.com\" yönlendirmeleri, LinkedIn \"lnkd.in\", TikTok kısaltıcıları vb. yerlerden UTM ve diğer kampanya etiketlerini temizleyerek dokunmadan önce gerçek bir URL önizlemesi sunar."
-    },
-    "searchEngine": {
-      "title": "Arama motoru sonuçları",
-      "description": "Google \"gclid\", Bing \"msclkid\", Yahoo izleme jetonları ve benzeri parametreleri kaldırarak arama sonuçlarına tıklamanın URL'yi kendiniz yazmak kadar doğrudan hissettirmesini sağlar."
-    },
-    "advertising": {
-      "title": "Reklam bağlantıları",
-      "description": "Görünmez reklam ağlarının sizi profillemesini önlemek için banner reklamlardan, e-posta promosyonlarından ve ücretli arama açılış sayfalarından izleme parametrelerini temizleyin."
-    },
-    "restaurantMenus": {
-      "title": "Restoran menüleri ve mekan içi QR kodları",
-      "description": "Dijital bir menüye (veya halka açık herhangi bir koda) ulaşmadan önce tam bağlantıyı görün - ödemeleri dolandırıcılara yönlendiren sahte \"quishing\" etiketlerinden kaçının."
-    },
-    "eventTickets": {
-      "title": "Etkinlik biletleri ve biniş kartları",
-      "description": "Festival biletinizdeki, biniş kartınızdaki veya konferans yaka kartınızdaki QR kodunun, sahte bir kimlik avı sitesi yerine gerçekten resmi URL'ye yönlendirdiğini doğrulayın."
-    },
-    "paymentCodes": {
-      "title": "Ödeme noktası kodları (otoparkmetreler, toplu taşıma, otomatlar)",
-      "description": "Halka açık ödeme QR kodlarını kontrol ederek, sahte bir ödeme toplayıcısına değil, doğru şehre veya satıcı onaylı portala gittiklerini doğrulayın."
-    },
-    "emailSms": {
-      "title": "E-posta/SMS QR ekleri",
-      "description": "Beklenmedik \"teslimat başarısız\" veya \"hesap sorunu\" mesajlarına gömülü kodları inceleyerek kötü amaçlı yönlendirmeleri engelleyin."
-    },
-    "shortLinks": {
-      "title": "Bit.ly, TinyURL, t.co, rb.gy",
-      "description": "Herhangi bir kısaltılmış bağlantıyı istemci veya platform tarafında genişletin ve önizleyin, böylece bit.ly/PayPal-guncelleme veya t.co/UD3p5uZH17'nin sizi nereye götüreceğini önceden bilin."
-    },
-    "redirectChains": {
-      "title": "Çoklu yönlendirme zincirleri",
-      "description": "Yönlendirme dizilerini takip edip daraltarak - CAPTCHA sayfaları veya katmanlı kısaltıcılar tarafından yapılan gizlemeyi önleyerek - nihai hedefe ulaşın."
-    },
-    "platformWrapped": {
-      "title": "Platforma sarılı bağlantılar",
-      "description": "Facebook/Instagram'ın Link Shim'i, Twitter/X'in t.co'su, LinkedIn'in lnkd.in'i, YouTube'un yönlendirme sayfaları vb. arkasındaki gerçek URL'yi ortaya çıkarın, böylece asla körü körüne tıklamazsınız."
-    },
-    "emailForwarding": {
-      "title": "E-posta veya mesajlaşma iletme",
-      "description": "Yapıştırılan URL'leri iş arkadaşlarınıza veya arkadaşlarınıza iletmeden önce temizleyin - böylece izleme parametreleri olmadan \"temiz\" bir bağlantı alırlar."
-    },
-    "marketingPosts": {
-      "title": "Pazarlama ve sosyal medya gönderileri",
-      "description": "Basılı broşürler, posterler veya çevrimiçi kampanyalar için temizlenmiş herhangi bir bağlantıdan yeni bir QR kodu oluşturun - hedef kitleye gizlilik öncelikli bir deneyim sunun."
-    },
-    "businessCards": {
-      "title": "Kartvizit QR kodları",
-      "description": "Basılı materyallerinizde kısa, izleyicisiz QR kodlar oluşturarak her taramanın tam olarak belirttiğiniz açılış sayfasına gitmesini sağlayın."
-    },
+    "description": "QR kod ile oltalama saldırılarını durdurmaktan Facebook, X, YouTube, TikTok, Instagram, LinkedIn ve Amazon bağlantılarını temizlemeye kadar, Clean Links iPhone, iPad ve Mac'teki tüm platformlarda gizliliğinizi korur",
     "shareSheet": {
-      "title": "Paylaşım Sayfası uzantısı",
-      "description": "Safari, Mail, X, LinkedIn (ve iOS paylaşım sayfalarını destekleyen herhangi bir uygulama) içinden Clean Links'i çağırarak bağlantıları tek dokunuşla temizleyin."
+      "title": "Paylaşma Sayfası Entegrasyonu",
+      "description": "Clean Links; Safari, Mail, X, YouTube, LinkedIn ve diğer tüm uygulamalardaki iOS Paylaşma Sayfası ile entegre olur. Paylaş'a dokunun, Clean Links'i seçin ve herhangi bir bağlantıyı arkadaşlarınıza veya iş arkadaşlarınıza iletmeden önce izleyicileri anında kaldırın. Her uygulamada gizlilik koruması."
     },
     "controlCenter": {
-      "title": "Denetim Merkezi kutucuğu",
-      "description": "Pano URL'sini temizlemek veya iOS'te herhangi bir yerde bir QR kodunu kontrol etmek için Denetim Merkezi'ne bir hızlı erişim düğmesi ekleyin."
+      "title": "Denetim Merkezi Hızlı Erişimi",
+      "description": "Tek dokunuşla bağlantı temizleme için Clean Links'i iPhone, iPad ve Mac'teki Denetim Merkezi'ne ekleyin. Her yerden QR kod okuyucuya anında erişin veya panodaki URL'leri temizleyin. Veya en hızlı gizlilik koruma iş akışı için Eylem Düğmesi'ne atayın."
     },
     "shortcuts": {
-      "title": "Kestirmeler ve Siri entegrasyonu",
-      "description": "Apple Kestirmeler içinde bağlantı temizlemeyi veya QR oluşturmayı otomatikleştirin veya Siri aracılığıyla (\"Hey Siri, bağlantımı temizle\") çağırarak gizliliği günlük rutinlerinize entegre edin."
+      "title": "Kestirmeler ve Siri Otomasyonu",
+      "description": "Apple Kestirmeler ve Siri sesli komutları ile bağlantı temizlemeyi otomatikleştirin. \"Hey Siri, bağlantımı temizle\" komutuyla panodaki bağlantıları temizleyen, QR kodları oluşturan veya URL'leri işleyen iş akışları oluşturun ve gizlilik korumasını günlük rutinlerinize sorunsuzca entegre edin."
+    },
+    "stopPhishing": {
+      "title": "QR Kod ile Oltalama (Quishing) Saldırılarını Durdurun",
+      "description": "QR kod hedeflerini açmadan önce önizleyerek oltalama saldırılarını durdurun. Clean Links; restoran menüleri, parkmetreler, etkinlik biletleri ve e-posta eklerinin arkasındaki gerçek URL'yi ortaya çıkarır ve sizi sahte ödeme sitelerine yönlendiren kötü amaçlı \"quishing\" dolandırıcılıklarından korur."
+    },
+    "facebookCleaner": {
+      "title": "Facebook Bağlantı Temizleyici",
+      "description": "fbclid izleme parametrelerini ve l.facebook.com yönlendirmelerini otomatik olarak kaldırarak Facebook bağlantılarını temizleyin. Facebook gönderilerine göz atarken veya Facebook Messenger'dan bağlantı paylaşırken gizliliğinizi korumak için paylaşılan her bağlantıdan Facebook'un izleme tanımlayıcılarını ayıklayın."
+    },
+    "xTwitterCleaner": {
+      "title": "X (Twitter) Bağlantı Temizleyici",
+      "description": "Gerçek hedefleri ortaya çıkarmak için t.co ile kısaltılmış URL'leri açarak X ve Twitter bağlantılarını temizleyin. X (Twitter) yönlendirme zincirlerini genişletin, izleme parametrelerini kaldırın ve dokunmadan önce bağlantıların gerçekte nereye gittiğini görün. Bu, X ve Twitter'daki oltalama saldırılarından kaçınmak için çok önemlidir."
+    },
+    "youtubeCleaner": {
+      "title": "YouTube Bağlantı Temizleyici",
+      "description": "YouTube'un paylaşılan video bağlantılarına eklediği si izleme parametresini kaldırarak YouTube bağlantılarını temizleyin. Videoyu kimin paylaştığını izleyen si parametresi olmadan temiz youtube.com/watch URL'leri elde etmek için YouTube'un paylaşım izleme kodlarını ayıklayın."
+    },
+    "tiktokCleaner": {
+      "title": "TikTok Bağlantı Temizleyici",
+      "description": "TikTok video paylaşımlarından ve kısa bağlantılarından izleme parametrelerini kaldırarak TikTok bağlantılarını temizleyin. Platformdaki paylaşım davranışınızın gözetlenmesi olmadan doğrudan videolara giden temiz URL'leri ortaya çıkarmak için TikTok'un etkileşim izleme kodlarını ayıklayın."
+    },
+    "instagramCleaner": {
+      "title": "Instagram Bağlantı Temizleyici",
+      "description": "igshid izleme parametrelerini ve l.instagram.com yönlendirmelerini kaldırarak Instagram bağlantılarını temizleyin. Meta'nın platformlar arası takibi olmadan Instagram gönderileri, Reels videoları veya Hikayeler paylaşırken gizliliğinizi korumak için bağlantılardan Instagram Paylaşım Tanımlayıcılarını ayıklayın."
+    },
+    "linkedinCleaner": {
+      "title": "LinkedIn Bağlantı Temizleyici",
+      "description": "lnkd.in ile kısaltılmış URL'leri genişleterek ve izleme parametrelerini kaldırarak LinkedIn bağlantılarını temizleyin. Tıklamadan önce profesyonel ağ paylaşımlarının gerçek hedefini görmek için LinkedIn'in yönlendirme zincirlerini açın. Bu, iş bağlamlarında oltalama saldırılarından kaçınmak için çok önemlidir."
+    },
+    "amazonCleaner": {
+      "title": "Amazon Bağlantı Temizleyici",
+      "description": "Ürün URL'lerinden satış ortağı etiket parametrelerini ve izleme kimliklerini kaldırarak Amazon bağlantılarını temizleyin. Alışveriş yaparken veya fırsatları paylaşırken satış ortağı takibi veya reklam teknolojisi profillemesi olmadan doğrudan ürün sayfası bağlantıları elde etmek için Amazon'un \"tag\" parametrelerini ayıklayın."
+    },
+    "googleCleaner": {
+      "title": "Google Bağlantı Temizleyici",
+      "description": "Arama sonuçlarından ve reklam tıklamalarından gclid izleme parametrelerini kaldırarak Google bağlantılarını temizleyin. Arama sonuçlarına, Google Reklamlarına veya Gmail bağlantılarına tıklarken siteler arası izleme gözetimi olmadan gizliliğinizi korumak için Google Tıklama Tanımlayıcılarını ayıklayın."
+    },
+    "shortLinkExpander": {
+      "title": "Kısa Bağlantı Genişletici (bit.ly, TinyURL)",
+      "description": "bit.ly, TinyURL, t.co, rb.gy ve diğer URL kısaltıcıların arkasındaki gerçek hedefi ortaya çıkarmak için kısa bağlantıları genişletin. Clean Links, dokunmadan önce size nihai URL'yi göstermek için yönlendirme zincirlerini takip eder. Bu, kısaltıcıların arkasına gizlenmiş oltalama bağlantılarını tespit etmek için çok önemlidir."
+    },
+    "utmRemover": {
+      "title": "UTM İzleme Parametrelerini Kaldırın",
+      "description": "Pazarlama bağlantılarından ve e-posta promosyonlarından UTM parametrelerini (utm_source, utm_medium, utm_campaign) kaldırın. Clean Links, kampanya izleme kodlarını otomatik olarak ayıklayarak reklam ağlarının web siteleri ve platformlar arasında gezinme davranışınızı profillemesini önler."
+    },
+    "qrGenerator": {
+      "title": "QR Kod Oluşturucu",
+      "description": "İzleyicileri kaldırdıktan sonra herhangi bir URL'den temiz QR kodları oluşturun. Clean Links, arkadaşlarınızla paylaşmak, kartvizitlere basmak veya sosyal medyada yayınlamak için mükemmel olan, gizlilik odaklı güvenli QR kodları oluşturur ve alıcıların güvenle tarayabilecekleri izleyicisiz bağlantılar almasını sağlar."
+    },
+    "macMenuBar": {
+      "title": "Mac Menü Çubuğunda Pano İzleme",
+      "description": "Clean Links'i Mac menü çubuğunuzda otomatik pano izleme ile çalıştırın. Kopyaladığınız her URL, macOS iş akışınızda manuel müdahale olmadan, tam gizlilik için tümüyle cihaz üzerinde anında temizlenir, kısaltması açılır ve izleyicilerden arındırılır."
     }
   },
   "faq": {

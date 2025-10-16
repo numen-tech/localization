@@ -72,74 +72,70 @@
   },
   "useCases": {
     "title": "Casos de Uso e Aplicações no Mundo Real",
-    "description": "Desde a proteção contra phishing por código QR até à automatização de fluxos de trabalho de privacidade, o Clean Links adapta-se à sua vida digital no iPhone, iPad e Mac em 17 cenários principais.",
-    "ecommerce": {
-      "title": "Compras em e-commerce",
-      "description": "O Clean Links remove o rastreamento de afiliados e marketing (por exemplo, parâmetros \"tag\" da Amazon, IDs de afiliados) para que veja uma página de produto exatamente como o retalhista a concebeu, sem perfis de ad-tech."
-    },
-    "socialMedia": {
-      "title": "Links de redes sociais",
-      "description": "Remova UTM e outras etiquetas de campanha de redirecionamentos do Facebook \"fbclid\", Twitter \"t.co\", Instagram \"l.instagram.com\", LinkedIn \"lnkd.in\", encurtadores do TikTok, etc., obtendo uma pré-visualização real do URL antes de tocar."
-    },
-    "searchEngine": {
-      "title": "Resultados de motores de busca",
-      "description": "Remova tokens de rastreamento do Google \"gclid\", Bing \"msclkid\", Yahoo e parâmetros semelhantes para que clicar nos resultados da pesquisa pareça tão direto como digitar o URL."
-    },
-    "advertising": {
-      "title": "Links de publicidade",
-      "description": "Limpe os parâmetros de rastreamento de banners publicitários, promoções por e-mail e páginas de destino de pesquisa paga para evitar que redes de anúncios invisíveis criem o seu perfil."
-    },
-    "restaurantMenus": {
-      "title": "Menus de restaurantes e códigos QR no local",
-      "description": "Antes de aceder a um menu digital (ou a qualquer código em local público), veja o link completo - evitando autocolantes falsos de \"quishing\" que redirecionam pagamentos para burlões."
-    },
-    "eventTickets": {
-      "title": "Bilhetes de eventos e cartões de embarque",
-      "description": "Verifique se o código QR no seu bilhete de festival, cartão de embarque ou crachá de conferência aponta realmente para o URL oficial em vez de um site de phishing falsificado."
-    },
-    "paymentCodes": {
-      "title": "Códigos em pontos de pagamento (parquímetros, transportes, máquinas de venda automática)",
-      "description": "Verifique os códigos QR de pagamentos públicos para confirmar que direcionam para o portal correto da cidade ou do fornecedor aprovado, e não para um coletor de pagamentos fraudulento."
-    },
-    "emailSms": {
-      "title": "Anexos de QR em e-mail/SMS",
-      "description": "Inspecione códigos incorporados em mensagens inesperadas de \"entrega falhada\" ou \"problema na conta\" para frustrar redirecionamentos maliciosos."
-    },
-    "shortLinks": {
-      "title": "Bit.ly, TinyURL, t.co, rb.gy",
-      "description": "Expanda e pré-visualize qualquer link encurtado do lado do cliente ou da plataforma, para saber com antecedência onde bit.ly/PayPal-update ou t.co/UD3p5uZH17 o levarão."
-    },
-    "redirectChains": {
-      "title": "Cadeias de múltiplos redirecionamentos",
-      "description": "Siga e colapse sequências de redirecionamentos - evitando a ofuscação por páginas de CAPTCHA ou encurtadores em camadas - até ao destino final."
-    },
-    "platformWrapped": {
-      "title": "Links encapsulados por plataformas",
-      "description": "Revele o URL real por trás do Link Shim do Facebook/Instagram, do t.co do Twitter/X, do lnkd.in do LinkedIn, das páginas de redirecionamento do YouTube, etc., para que nunca clique às cegas."
-    },
-    "emailForwarding": {
-      "title": "Reencaminhamento de e-mail ou mensagens",
-      "description": "Limpe URLs colados antes de os reencaminhar para colegas ou amigos - para que eles recebam um link \"limpo\" sem parâmetros de rastreamento."
-    },
-    "marketingPosts": {
-      "title": "Publicações de marketing e redes sociais",
-      "description": "Gere um novo código QR a partir de qualquer link limpo para panfletos, cartazes ou campanhas online - oferecendo ao público uma experiência que prioriza a privacidade."
-    },
-    "businessCards": {
-      "title": "Códigos QR em cartões de visita",
-      "description": "Crie códigos QR curtos e sem rastreadores no seu material impresso, garantindo que cada verificação vai exatamente para a sua página de destino especificada."
-    },
+    "description": "Desde impedir o phishing por código QR até limpar links do Facebook, X, YouTube, TikTok, Instagram, LinkedIn e Amazon, o Clean Links protege a sua privacidade em todas as plataformas no iPhone, iPad e Mac",
     "shareSheet": {
-      "title": "Extensão de Partilha",
-      "description": "Invoque o Clean Links a partir do Safari, Mail, X, LinkedIn (e qualquer app que suporte os menus de partilha do iOS) para limpar links com um toque."
+      "title": "Integração com o Menu de Partilha",
+      "description": "O Clean Links integra-se com o Menu de Partilha do iOS no Safari, Mail, X, YouTube, LinkedIn e em qualquer aplicação. Toque em Partilhar, selecione Clean Links e remova instantaneamente os rastreadores de qualquer link antes de o reencaminhar para amigos ou colegas - proteção de privacidade em todas as aplicações."
     },
     "controlCenter": {
-      "title": "Mosaico da Central de Controlo",
-      "description": "Adicione um botão de acesso rápido na Central de Controlo para limpar o URL da área de transferência ou verificar um código QR em qualquer lugar no iOS."
+      "title": "Acesso Rápido na Central de Controlo",
+      "description": "Adicione o Clean Links à Central de Controlo no iPhone, iPad e Mac para limpar links com um só toque. Aceda ao leitor de códigos QR ou limpe URLs da área de transferência instantaneamente a partir de qualquer lugar - ou atribua-o ao Botão de Ação para o fluxo de trabalho de proteção de privacidade mais rápido."
     },
     "shortcuts": {
-      "title": "Integração com Atalhos e Siri",
-      "description": "Automatize a limpeza de links ou a geração de QR nos Atalhos da Apple ou chame via Siri (\"Ei Siri, limpa o meu link\"), incorporando a privacidade nas suas rotinas diárias."
+      "title": "Atalhos e Automação com a Siri",
+      "description": "Automatize a limpeza de links com os Atalhos da Apple e comandos de voz da Siri. Crie fluxos de trabalho que limpam links da área de transferência, geram códigos QR ou processam URLs com \"Hey Siri, limpa o meu link\" - integrando a proteção de privacidade nas suas rotinas diárias de forma transparente."
+    },
+    "stopPhishing": {
+      "title": "Impeça o Phishing por Código QR (Quishing)",
+      "description": "Impeça ataques de phishing ao pré-visualizar os destinos dos códigos QR antes de os abrir. O Clean Links revela o URL real por trás de menus de restaurantes, parquímetros, bilhetes de eventos e anexos de e-mail, protegendo-o de burlas maliciosas de \"quishing\" que redirecionam para sites de pagamento falsos."
+    },
+    "facebookCleaner": {
+      "title": "Limpador de Links do Facebook",
+      "description": "Limpe links do Facebook removendo automaticamente os parâmetros de rastreio fbclid e os redirecionamentos l.facebook.com. Remova os identificadores de rastreio do Facebook de todos os links partilhados, protegendo a sua privacidade ao navegar em publicações do Facebook ou ao partilhar links do Facebook Messenger."
+    },
+    "xTwitterCleaner": {
+      "title": "Limpador de Links do X (Twitter)",
+      "description": "Limpe links do X e do Twitter expandindo os URLs encurtados t.co para revelar os verdadeiros destinos. Expanda as cadeias de redirecionamento do X (Twitter), remova os parâmetros de rastreio e veja para onde os links realmente levam antes de tocar - essencial para evitar phishing no X e no Twitter."
+    },
+    "youtubeCleaner": {
+      "title": "Limpador de Links do YouTube",
+      "description": "Limpe links do YouTube removendo o parâmetro de rastreio 'si' que o YouTube adiciona aos links de vídeos partilhados. Remova os códigos de rastreio de partilha do YouTube para obter URLs limpos youtube.com/watch sem o parâmetro 'si' que rastreia quem partilhou o vídeo."
+    },
+    "tiktokCleaner": {
+      "title": "Limpador de Links do TikTok",
+      "description": "Limpe links do TikTok removendo parâmetros de rastreio das partilhas de vídeos e links curtos do TikTok. Remova os códigos de rastreio de interação do TikTok para revelar URLs limpos que vão diretamente para os vídeos, sem vigilância do seu comportamento de partilha na plataforma."
+    },
+    "instagramCleaner": {
+      "title": "Limpador de Links do Instagram",
+      "description": "Limpe links do Instagram removendo os parâmetros de rastreio igshid e os redirecionamentos l.instagram.com. Remova os Identificadores de Partilha do Instagram dos links, protegendo a sua privacidade ao partilhar publicações, Reels ou Stories do Instagram sem o rastreio multiplataforma da Meta."
+    },
+    "linkedinCleaner": {
+      "title": "Limpador de Links do LinkedIn",
+      "description": "Limpe links do LinkedIn expandindo os URLs encurtados lnkd.in e removendo os parâmetros de rastreio. Expanda as cadeias de redirecionamento do LinkedIn para ver o destino real das partilhas da rede profissional antes de clicar - crucial para evitar phishing em contextos empresariais."
+    },
+    "amazonCleaner": {
+      "title": "Limpador de Links da Amazon",
+      "description": "Limpe links da Amazon removendo parâmetros de etiquetas de afiliados e IDs de rastreio dos URLs de produtos. Remova os parâmetros \"tag\" da Amazon para obter links diretos para as páginas dos produtos, sem rastreio de afiliados ou criação de perfis de tecnologia de publicidade ao fazer compras ou partilhar promoções."
+    },
+    "googleCleaner": {
+      "title": "Limpador de Links do Google",
+      "description": "Limpe links do Google removendo os parâmetros de rastreio gclid dos resultados de pesquisa e cliques em anúncios. Remova os Identificadores de Clique do Google para proteger a sua privacidade ao clicar em resultados de pesquisa, anúncios do Google Ads ou links do Gmail, sem a vigilância de rastreio entre sites."
+    },
+    "shortLinkExpander": {
+      "title": "Expansor de Links Curtos (bit.ly, TinyURL)",
+      "description": "Expanda links curtos para revelar o destino real por trás de bit.ly, TinyURL, t.co, rb.gy e outros encurtadores de URL. O Clean Links segue as cadeias de redirecionamento para lhe mostrar o URL final antes de tocar - essencial para detetar links de phishing escondidos por trás de encurtadores."
+    },
+    "utmRemover": {
+      "title": "Remover Parâmetros de Rastreio UTM",
+      "description": "Remova os parâmetros UTM (utm_source, utm_medium, utm_campaign) de links de marketing e promoções por e-mail. O Clean Links remove automaticamente os códigos de rastreio de campanhas, impedindo que as redes de publicidade criem um perfil do seu comportamento de navegação em sites e plataformas."
+    },
+    "qrGenerator": {
+      "title": "Gerador de Códigos QR",
+      "description": "Gere códigos QR limpos a partir de qualquer URL após remover os rastreadores. O Clean Links cria códigos QR seguros para a privacidade, perfeitos para partilhar com amigos, imprimir em cartões de visita ou publicar nas redes sociais - garantindo que os destinatários recebem links sem rastreadores que podem digitalizar em segurança."
+    },
+    "macMenuBar": {
+      "title": "Monitorização da Área de Transferência na Barra de Menus do Mac",
+      "description": "Execute o Clean Links na barra de menus do seu Mac com monitorização automática da área de transferência. Cada URL que copia é instantaneamente limpo, expandido e livre de rastreadores - tudo no dispositivo para total privacidade no seu fluxo de trabalho do macOS, sem intervenção manual."
     }
   },
   "faq": {

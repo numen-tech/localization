@@ -72,74 +72,70 @@
   },
   "useCases": {
     "title": "使用例と実際の応用",
-    "description": "QRコードフィッシングからの保護からプライバシーワークフローの自動化まで、Clean LinksはiPhone、iPad、Macでのあなたのデジタルライフに、17の主要なシナリオで適応します。",
-    "ecommerce": {
-      "title": "Eコマースでのショッピング",
-      "description": "Clean Linksはアフィリエイトやマーケティングトラッキング（例：Amazonの「tag」パラメータ、アフィリエイトID）を削除するため、広告技術によるプロファイリングなしで、小売業者が意図した通りの商品ページを見ることができます。"
-    },
-    "socialMedia": {
-      "title": "ソーシャルメディアのリンク",
-      "description": "Facebookの「fbclid」、Twitterの「t.co」、Instagramの「l.instagram.com」リダイレクト、LinkedInの「lnkd.in」、TikTokの短縮URLなどからUTMやその他のキャンペーンタグを取り除き、タップする前に本当のURLプレビューを提供します。"
-    },
-    "searchEngine": {
-      "title": "検索エンジンの結果",
-      "description": "Googleの「gclid」、Bingの「msclkid」、Yahooの追跡トークンなどを削除し、検索結果のクリックがURLを直接入力するのと同じくらいダイレクトに感じられるようにします。"
-    },
-    "advertising": {
-      "title": "広告リンク",
-      "description": "バナー広告、メールプロモーション、有料検索のランディングページから追跡パラメータを削除し、見えない広告ネットワークによるプロファイリングを防ぎます。"
-    },
-    "restaurantMenus": {
-      "title": "レストランのメニューと店内のQRコード",
-      "description": "デジタルメニュー（や公共の場のコード）にアクセスする前に、完全なリンクを確認し、支払いを詐欺師にリダイレクトする偽の「クイッシング」ステッカーを回避します。"
-    },
-    "eventTickets": {
-      "title": "イベントチケットと搭乗券",
-      "description": "フェスのチケット、搭乗券、会議バッジのQRコードが、偽のフィッシングサイトではなく、本当に公式サイトのURLを指していることを確認します。"
-    },
-    "paymentCodes": {
-      "title": "決済ポイントのコード（駐車場、交通機関、自動販売機）",
-      "description": "公共の支払い用QRコードをチェックして、不正な請求先ではなく、正しい自治体やベンダーが承認したポータルにつながることを確認します。"
-    },
-    "emailSms": {
-      "title": "メール/SMSのQR添付ファイル",
-      "description": "予期しない「配達不在」や「アカウントの問題」メッセージに埋め込まれたコードを検査し、悪意のあるリダイレクトを阻止します。"
-    },
-    "shortLinks": {
-      "title": "Bit.ly, TinyURL, t.co, rb.gy",
-      "description": "bit.ly/PayPal-updateやt.co/UD3p5uZH17などの短縮リンクをクライアント側またはプラットフォーム側で展開・プレビューし、どこに着地するかを事前に把握できます。"
-    },
-    "redirectChains": {
-      "title": "複数のリダイレクトチェーン",
-      "description": "リダイレクトの連鎖を追跡・集約し、CAPTCHAページや多層の短縮URLによる難読化を防ぎ、最終的なリンク先を表示します。"
-    },
-    "platformWrapped": {
-      "title": "プラットフォームでラップされたリンク",
-      "description": "Facebook/InstagramのLink Shim、Twitter/Xのt.co、LinkedInのlnkd.in、YouTubeのリダイレクトページなどの背後にある本当のURLを明らかにし、決して盲目的にクリックすることがないようにします。"
-    },
-    "emailForwarding": {
-      "title": "メールやメッセンジャーでの転送",
-      "description": "同僚や友人に転送する前に、貼り付けたURLをクリーンにし、追跡パラメータのない「クリーンな」リンクを渡せます。"
-    },
-    "marketingPosts": {
-      "title": "マーケティングとソーシャルメディア投稿",
-      "description": "クリーンにしたリンクから新しいQRコードを生成し、印刷されたチラシ、ポスター、オンラインキャンペーンで使用することで、オーディエンスにプライバシーを重視した体験を提供します。"
-    },
-    "businessCards": {
-      "title": "名刺のQRコード",
-      "description": "印刷物に短くてトラッカーフリーのQRコードを作成し、すべての読み取りが指定したランディングページに正確につながるようにします。"
-    },
+    "description": "QRコードフィッシングの阻止から、Facebook、X、YouTube、TikTok、Instagram、LinkedIn、Amazonのリンクのクリーンアップまで、Clean LinksはiPhone、iPad、Macのあらゆるプラットフォームであなたのプライバシーを保護します。",
     "shareSheet": {
-      "title": "共有シート拡張機能",
-      "description": "Safari、Mail、X、LinkedIn（およびiOSの共有シートをサポートするすべてのアプリ）内からClean Linksを呼び出し、ワンタップでリンクをきれいにします。"
+      "title": "共有シート連携",
+      "description": "Clean LinksはSafari、メール、X、YouTube、LinkedInなど、あらゆるアプリのiOS共有シートと連携します。「共有」をタップしてClean Linksを選ぶだけで、友人や同僚に転送する前に、どんなリンクからも瞬時にトラッカーを削除。あらゆるアプリでプライバシーを保護します。"
     },
     "controlCenter": {
-      "title": "コントロールセンターのタイル",
-      "description": "コントロールセンターにクイックアクセスボタンを追加して、iOSのどこからでもクリップボードのURLをクリーンにしたり、QRコードをチェックしたりできます。"
+      "title": "コントロールセンターからのクイックアクセス",
+      "description": "iPhone、iPad、MacのコントロールセンターにClean Linksを追加すれば、ワンタップでリンクをクリーンにできます。どこからでもQRコードリーダーを起動したり、クリップボードのURLを瞬時にクリーンにしたり。アクションボタンに割り当てて、最速のプライバシー保護ワークフローを実現することも可能です。"
     },
     "shortcuts": {
-      "title": "ショートカットとSiriの連携",
-      "description": "Appleのショートカット内でリンクのクリーン化やQR生成を自動化したり、Siri経由で（「Hey Siri, リンクをきれいにして」）呼び出したりして、プライバシーを日々のルーティンに組み込みます。"
+      "title": "ショートカットとSiriによる自動化",
+      "description": "AppleのショートカットアプリとSiriの音声コマンドで、リンクのクリーンアップを自動化。「Hey Siri, リンクをきれいにして」のように、クリップボードのリンクをクリーンにしたり、QRコードを生成したりするワークフローを作成できます。プライバシー保護を日々のルーティンにシームレスに組み込みましょう。"
+    },
+    "stopPhishing": {
+      "title": "QRコードフィッシング（キュッシング）を阻止",
+      "description": "QRコードを開く前にリンク先をプレビューすることで、フィッシング攻撃を防ぎます。Clean Linksは、レストランのメニュー、パーキングメーター、イベントチケット、メールの添付ファイルに隠された本当のURLを可視化し、偽の決済サイトへ誘導する悪質な「キュッシング」詐欺からあなたを保護します。"
+    },
+    "facebookCleaner": {
+      "title": "Facebookリンククリーナー",
+      "description": "fbclidトラッキングパラメーターやl.facebook.comのリダイレクトを自動的に削除し、Facebookのリンクをクリーンにします。共有されたすべてのリンクからFacebookの追跡IDを取り除き、Facebookの投稿閲覧時やFacebook Messengerからのリンク共有時のプライバシーを保護します。"
+    },
+    "xTwitterCleaner": {
+      "title": "X (Twitter) リンククリーナー",
+      "description": "t.coで短縮されたURLを展開し、XとTwitterのリンクをクリーンにします。リダイレクトチェーンをたどり、トラッキングパラメーターを削除することで、タップする前にリンクの本当の行き先を確認できます。XやTwitter上でのフィッシングを回避するために不可欠な機能です。"
+    },
+    "youtubeCleaner": {
+      "title": "YouTubeリンククリーナー",
+      "description": "YouTubeが共有ビデオリンクに追加する「si」トラッキングパラメーターを削除し、YouTubeのリンクをクリーンにします。共有元を追跡する「si」パラメーターを取り除き、トラッキングコードのないクリーンなyoutube.com/watch URLを取得できます。"
+    },
+    "tiktokCleaner": {
+      "title": "TikTokリンククリーナー",
+      "description": "TikTokのビデオ共有や短縮リンクからトラッキングパラメーターを削除し、リンクをクリーンにします。エンゲージメント追跡コードを取り除くことで、あなたの共有行動が監視されることなく、ビデオに直接アクセスできるクリーンなURLに変換します。"
+    },
+    "instagramCleaner": {
+      "title": "Instagramリンククリーナー",
+      "description": "igshidトラッキングパラメーターやl.instagram.comのリダイレクトを削除し、Instagramのリンクをクリーンにします。リンクからInstagram共有IDを取り除き、Metaのクロスプラットフォーム追跡を避けながら、投稿、リール、ストーリーズを共有する際のプライバシーを保護します。"
+    },
+    "linkedinCleaner": {
+      "title": "LinkedInリンククリーナー",
+      "description": "lnkd.inで短縮されたURLを展開し、トラッキングパラメーターを削除して、LinkedInのリンクをクリーンにします。リダイレクトチェーンをたどることで、クリック前にリンクの本当の行き先を確認できます。これはビジネスシーンでのフィッシングを回避する上で極めて重要です。"
+    },
+    "amazonCleaner": {
+      "title": "Amazonリンククリーナー",
+      "description": "商品URLからアフィリエイト用のtagパラメーターやトラッキングIDを削除し、Amazonのリンクをクリーンにします。Amazonの「tag」パラメーターを取り除くことで、ショッピングや情報共有の際にアフィリエイト追跡や広告技術によるプロファイリングを受けることなく、商品ページへ直接アクセスできます。"
+    },
+    "googleCleaner": {
+      "title": "Googleリンククリーナー",
+      "description": "検索結果や広告クリックに含まれるgclidトラッキングパラメーターを削除し、Googleのリンクをクリーンにします。GoogleクリックIDを取り除くことで、検索結果、Google広告、Gmailのリンクをクリックする際に、サイトを横断した追跡・監視からプライバシーを保護します。"
+    },
+    "shortLinkExpander": {
+      "title": "短縮URL展開ツール (bit.ly, TinyURL)",
+      "description": "bit.ly、TinyURL、t.co、rb.gyなどの短縮URLを展開し、本当のリンク先を明らかにします。Clean Linksがリダイレクトをたどることで、タップする前に最終的なURLを確認できます。短縮URLに隠されたフィッシングリンクを見破るために不可欠な機能です。"
+    },
+    "utmRemover": {
+      "title": "UTMトラッキングパラメーターを削除",
+      "description": "マーケティング用のリンクやメールマガジンに含まれるUTMパラメーター（utm_source, utm_medium, utm_campaign）を削除します。Clean Linksがキャンペーンのトラッキングコードを自動で取り除き、広告ネットワークによるウェブサイトやプラットフォームを横断した閲覧行動のプロファイリングを防ぎます。"
+    },
+    "qrGenerator": {
+      "title": "QRコード作成",
+      "description": "トラッカーを削除したURLから、クリーンなQRコードを生成します。Clean Linksが作成するプライバシーに配慮したQRコードは、友人との共有、名刺への印刷、SNSへの投稿に最適です。受け取った相手は、トラッカーのないリンクを安全にスキャンできます。"
+    },
+    "macMenuBar": {
+      "title": "Macメニューバーでのクリップボード監視",
+      "description": "MacのメニューバーでClean Linksを実行し、クリップボードを自動で監視。コピーしたURLはすべて、瞬時にクリーンアップ、短縮解除、トラッカー除去が行われます。手動操作は不要で、処理はすべてデバイス上で完結。macOSのワークフローで完全なプライバシーを保ちます。"
     }
   },
   "faq": {

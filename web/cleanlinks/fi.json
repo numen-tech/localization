@@ -72,74 +72,70 @@
   },
   "useCases": {
     "title": "Käyttötapaukset ja sovellukset todellisessa maailmassa",
-    "description": "QR-koodikalastelulta suojautumisesta yksityisyyttä parantavien työnkulkujen automatisointiin, Clean Links mukautuu digitaaliseen elämääsi iPhonella, iPadilla ja Macilla 17 keskeisessä käyttötilanteessa.",
-    "ecommerce": {
-      "title": "Verkkokauppaostokset",
-      "description": "Clean Links poistaa kumppanuus- ja markkinointiseurannan (esim. Amazonin \"tag\"-parametrit, kumppanitunnisteet), joten näet tuotesivun juuri niin kuin jälleenmyyjä on sen tarkoittanut, ilman mainosteknologian profilointia."
-    },
-    "socialMedia": {
-      "title": "Sosiaalisen median linkit",
-      "description": "Poista UTM- ja muut kampanjatunnisteet Facebookin \"fbclid\"-, Twitterin \"t.co\"-, Instagramin \"l.instagram.com\"-uudelleenohjauksista, LinkedInin \"lnkd.in\"-, TikTok-lyhentimistä jne. ja saat todellisen URL-esikatselun ennen napautusta."
-    },
-    "searchEngine": {
-      "title": "Hakukonetulokset",
-      "description": "Poista Googlen \"gclid\"-, Bingin \"msclkid\"-, Yahoon seurantatunnisteet ja vastaavat parametrit, jotta hakutulosten klikkaaminen tuntuu yhtä suoralta kuin URL-osoitteen kirjoittaminen itse."
-    },
-    "advertising": {
-      "title": "Mainoslinkit",
-      "description": "Puhdista seurantaparametrit bannerimainoksista, sähköpostikampanjoista ja maksetun haun aloitussivuilta estääksesi näkymättömiä mainosverkostoja profiloimasta sinua."
-    },
-    "restaurantMenus": {
-      "title": "Ravintoloiden ruokalistat ja paikan päällä olevat QR-koodit",
-      "description": "Ennen digitaaliseen ruokalistaan (tai mihin tahansa julkisen paikan koodiin) siirtymistä, näe koko linkki – vältä väärennetyt \"quishing\"-tarrat, jotka ohjaavat maksut huijareille."
-    },
-    "eventTickets": {
-      "title": "Tapahtumaliput ja tarkastuskortit",
-      "description": "Varmista, että festarilippusi, tarkastuskorttisi tai konferenssipassisi QR-koodi osoittaa todella viralliselle URL-sivulle väärennetyn phishing-sivuston sijaan."
-    },
-    "paymentCodes": {
-      "title": "Maksupisteiden koodit (pysäköintimittarit, joukkoliikenne, myyntiautomaatit)",
-      "description": "Tarkista julkisten maksujen QR-koodit varmistaaksesi, että ne ohjaavat oikean kaupungin tai palveluntarjoajan hyväksymään portaaliin, eikä vilpilliselle maksunkerääjälle."
-    },
-    "emailSms": {
-      "title": "Sähköpostin/tekstiviestin QR-liitteet",
-      "description": "Tarkista odottamattomien \"toimitus epäonnistui\"- tai \"tilillä ongelma\" -viestien upotetut koodit torjuaksesi haitalliset uudelleenohjaukset."
-    },
-    "shortLinks": {
-      "title": "Bit.ly, TinyURL, t.co, rb.gy",
-      "description": "Laajenna ja esikatsele mikä tahansa lyhennetty linkki asiakas- tai alustapuolella, jotta tiedät etukäteen, mihin bit.ly/PayPal-update tai t.co/UD3p5uZH17 sinut vie."
-    },
-    "redirectChains": {
-      "title": "Monen uudelleenohjauksen ketjut",
-      "description": "Seuraa ja tiivistä uudelleenohjausten sarjat – estäen hämärtämisen CAPTCHA-sivuilla tai kerroksellisilla lyhentimillä – lopulliseen kohteeseen."
-    },
-    "platformWrapped": {
-      "title": "Alustojen käärimät linkit",
-      "description": "Paljasta todellinen URL Facebookin/Instagramin Link Shimin, Twitterin/X:n t.co:n, LinkedInin lnkd.in:n, YouTuben uudelleenohjaussivujen jne. takaa, jotta et koskaan klikkaa sokeasti."
-    },
-    "emailForwarding": {
-      "title": "Sähköpostin tai viestin edelleenlähetys",
-      "description": "Puhdista liitetyt URL-osoitteet ennen kuin lähetät ne edelleen kollegoille tai ystäville – jotta he saavat \"puhtaan\" linkin ilman seurantaparametreja."
-    },
-    "marketingPosts": {
-      "title": "Markkinointi- ja some-julkaisut",
-      "description": "Luo uusi QR-koodi mistä tahansa puhdistetusta linkistä painettuihin esitteisiin, julisteisiin tai verkkokampanjoihin – tarjoten yleisölle yksityisyyttä kunnioittavan kokemuksen."
-    },
-    "businessCards": {
-      "title": "Käyntikorttien QR-koodit",
-      "description": "Luo lyhyitä, seurannasta vapaita QR-koodeja painettuihin materiaaleihisi, varmistaen, että jokainen skannaus ohjaa täsmälleen määrittämällesi aloitussivulle."
-    },
+    "description": "QR-koodihuijausten estämisestä aina Facebookin, X:n, YouTuben, TikTokin, Instagramin, LinkedInin ja Amazonin linkkien puhdistamiseen – Clean Links suojaa yksityisyyttäsi kaikilla alustoilla iPhonella, iPadilla ja Macilla.",
     "shareSheet": {
-      "title": "Share Sheet -laajennus (jakonäkymä)",
-      "description": "Käynnistä Clean Links Safarista, Mailista, X:stä, LinkedInistä (ja mistä tahansa iOS:n jakonäkymää tukevasta sovelluksesta) puhdistaaksesi linkit yhdellä napautuksella."
+      "title": "Jakovalikko-integraatio",
+      "description": "Clean Links integroituu iOS:n jakovalikkoon Safarissa, Mailissa, X:ssä, YouTubessa, LinkedInissä ja missä tahansa sovelluksessa. Napauta Jaa, valitse Clean Links ja poista välittömästi seuraimet linkistä ennen sen välittämistä ystäville tai kollegoille – yksityisyydensuojaa jokaisessa sovelluksessa."
     },
     "controlCenter": {
-      "title": "Ohjauskeskuksen painike",
-      "description": "Lisää pikapainike Ohjauskeskukseen puhdistaaksesi leikepöydän URL-osoitteen tai tarkistaaksesi QR-koodin missä tahansa iOS:ssä."
+      "title": "Ohjauskeskuksen pikakäyttö",
+      "description": "Lisää Clean Links Ohjauskeskukseen iPhonella, iPadilla ja Macilla linkkien puhdistamiseksi yhdellä napautuksella. Käytä QR-koodinlukijaa tai puhdista leikepöydän URL-osoitteet välittömästi mistä tahansa – tai määritä se Toiminto-painikkeelle kaikkein nopeinta yksityisyyden suojausta varten."
     },
     "shortcuts": {
-      "title": "Oikotiet ja Siri-integraatio",
-      "description": "Automatisoi linkkien puhdistus tai QR-koodien luonti Apple Oikoteissä tai kutsu Sirin kautta (\"Hei Siri, puhdista linkkini\"), upottaen yksityisyyden osaksi päivittäisiä rutiinejasi."
+      "title": "Oikopolut- ja Siri-automaatio",
+      "description": "Automatisoi linkkien puhdistus Apple Oikopolkujen ja Siri-äänikomentojen avulla. Luo työnkulkuja, jotka puhdistavat leikepöydän linkkejä, luovat QR-koodeja tai käsittelevät URL-osoitteita komennolla \"Hei Siri, puhdista linkkini\" – ja upota yksityisyydensuoja saumattomasti päivittäisiin rutiineihisi."
+    },
+    "stopPhishing": {
+      "title": "Estä QR-koodihuijaukset (Quishing)",
+      "description": "Estä tietojenkalasteluhyökkäykset esikatselemalla QR-koodien kohteet ennen niiden avaamista. Clean Links paljastaa todellisen URL-osoitteen ravintoloiden ruokalistojen, pysäköintimittareiden, tapahtumalippujen ja sähköpostiliitteiden takaa – suojaten sinua haitallisilta \"quishing\"-huijauksilta, jotka uudelleenohjaavat väärennetyille maksusivustoille."
+    },
+    "facebookCleaner": {
+      "title": "Facebook-linkkien puhdistaja",
+      "description": "Puhdista Facebook-linkit poistamalla automaattisesti fbclid-seurantaparametrit ja l.facebook.com-uudelleenohjaukset. Poista Facebookin seurantatunnisteet jokaisesta jaetusta linkistä ja suojaa yksityisyyttäsi, kun selaat Facebook-julkaisuja tai jaat linkkejä Facebook Messengerissä."
+    },
+    "xTwitterCleaner": {
+      "title": "X (Twitter) -linkkien puhdistaja",
+      "description": "Puhdista X- ja Twitter-linkit purkamalla t.co-lyhytosoitteet, jotta näet niiden todelliset kohteet. Laajenna X:n (Twitter) uudelleenohjausketjut, poista seurantaparametrit ja katso, minne linkit todella johtavat, ennen kuin napautat – olennaista tietojenkalastelun välttämiseksi X:ssä ja Twitterissä."
+    },
+    "youtubeCleaner": {
+      "title": "YouTube-linkkien puhdistaja",
+      "description": "Puhdista YouTube-linkit poistamalla si-seurantaparametrin, jonka YouTube lisää jaettuihin videolinkkeihin. Poista YouTuben jakamisen seurantakoodit saadaksesi puhtaita youtube.com/watch-osoitteita ilman si-parametria, joka seuraa videon jakajaa."
+    },
+    "tiktokCleaner": {
+      "title": "TikTok-linkkien puhdistaja",
+      "description": "Puhdista TikTok-linkit poistamalla seurantaparametrit TikTok-videojaoista ja -lyhytlinkeistä. Poista TikTokin sitoutumisen seurantakoodit paljastaaksesi puhtaat URL-osoitteet, jotka vievät suoraan videoihin ilman, että jakamiskäyttäytymistäsi alustalla valvotaan."
+    },
+    "instagramCleaner": {
+      "title": "Instagram-linkkien puhdistaja",
+      "description": "Puhdista Instagram-linkit poistamalla igshid-seurantaparametrit ja l.instagram.com-uudelleenohjaukset. Poista Instagramin jakotunnisteet linkeistä ja suojaa yksityisyyttäsi, kun jaat Instagram-julkaisuja, Reelejä tai Storyja ilman Metan alustojen välistä seurantaa."
+    },
+    "linkedinCleaner": {
+      "title": "LinkedIn-linkkien puhdistaja",
+      "description": "Puhdista LinkedIn-linkit laajentamalla lnkd.in-lyhytosoitteet ja poistamalla seurantaparametrit. Pura LinkedInin uudelleenohjausketjut nähdäksesi ammatillisen verkoston jakojen todellisen kohteen ennen klikkaamista – ratkaisevan tärkeää tietojenkalastelun välttämiseksi liiketoimintaympäristössä."
+    },
+    "amazonCleaner": {
+      "title": "Amazon-linkkien puhdistaja",
+      "description": "Puhdista Amazon-linkit poistamalla kumppanuusohjelman tag-parametrit ja seurantatunnisteet tuotteiden URL-osoitteista. Poista Amazonin \"tag\"-parametrit saadaksesi suoria tuotesivulinkkejä ilman kumppanuusohjelman seurantaa tai mainosteknologian profilointia, kun teet ostoksia tai jaat tarjouksia."
+    },
+    "googleCleaner": {
+      "title": "Google-linkkien puhdistaja",
+      "description": "Puhdista Google-linkit poistamalla gclid-seurantaparametrit hakutuloksista ja mainosklikkauksista. Poista Google Click Identifier -tunnisteet suojataksesi yksityisyyttäsi, kun klikkaat hakutuloksia, Google Ads -mainoksia tai Gmail-linkkejä ilman sivustojen välistä seurantaa."
+    },
+    "shortLinkExpander": {
+      "title": "Lyhytlinkkien laajentaja (bit.ly, TinyURL)",
+      "description": "Laajenna lyhytlinkit paljastaaksesi todellisen kohteen bit.ly:n, TinyURL:n, t.co:n, rb.gy:n ja muiden URL-lyhentäjien takana. Clean Links seuraa uudelleenohjausketjuja näyttääkseen lopullisen URL-osoitteen ennen napautusta – olennaista lyhentäjien taakse piilotettujen tietojenkalastelulinkkien havaitsemiseksi."
+    },
+    "utmRemover": {
+      "title": "Poista UTM-seurantaparametrit",
+      "description": "Poista UTM-parametrit (utm_source, utm_medium, utm_campaign) markkinointilinkeistä ja sähköpostikampanjoista. Clean Links poistaa kampanjoiden seurantakoodit automaattisesti, mikä estää mainosverkostoja profiloimasta selauskäyttäytymistäsi eri sivustoilla ja alustoilla."
+    },
+    "qrGenerator": {
+      "title": "QR-koodigeneraattori",
+      "description": "Luo puhtaita QR-koodeja mistä tahansa URL-osoitteesta, kun seuraimet on poistettu. Clean Links luo yksityisyyttä kunnioittavia QR-koodeja, jotka sopivat täydellisesti ystäville jaettavaksi, käyntikortteihin tulostettavaksi tai sosiaaliseen mediaan – varmistaen, että vastaanottajat saavat seuraimista vapaita linkkejä, jotka he voivat skannata turvallisesti."
+    },
+    "macMenuBar": {
+      "title": "Macin valikkorivin leikepöydän seuranta",
+      "description": "Käytä Clean Linksiä Macin valikkorivillä automaattisella leikepöydän seurannalla. Jokainen kopioimasi URL-osoite puhdistetaan, laajennetaan ja siitä poistetaan seuraimet välittömästi – kaikki laitteella täydellisen yksityisyyden takaamiseksi macOS-työnkulussasi ilman manuaalisia toimenpiteitä."
     }
   },
   "faq": {

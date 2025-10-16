@@ -72,74 +72,70 @@
   },
   "useCases": {
     "title": "Felhasználási esetek és valós alkalmazások",
-    "description": "A QR-kódos adathalászat elleni védelemtől kezdve az adatvédelmi munkafolyamatok automatizálásáig, a Clean Links 17 kulcsfontosságú helyzetben alkalmazkodik digitális életéhez iPhone, iPad és Mac eszközökön.",
-    "ecommerce": {
-      "title": "E-kereskedelmi vásárlás",
-      "description": "A Clean Links eltávolítja a partner- és marketingkövetést (pl. Amazon „tag” paraméterek, partnerazonosítók), így pontosan úgy láthatja a termékoldalt, ahogy a kiskereskedő szánta, hirdetéstechnológiai profilalkotás nélkül."
-    },
-    "socialMedia": {
-      "title": "Közösségi média linkek",
-      "description": "Távolítsa el az UTM és egyéb kampánycímkéket a Facebook „fbclid”, Twitter „t.co”, Instagram „l.instagram.com” átirányításokból, LinkedIn „lnkd.in”, TikTok rövidítőkből stb., így valódi URL előnézetet kap, mielőtt rákattintana."
-    },
-    "searchEngine": {
-      "title": "Keresőmotor-találatok",
-      "description": "Távolítsa el a Google „gclid”, Bing „msclkid”, Yahoo követési tokenjeit és hasonló paramétereit, hogy a keresési eredményekre való kattintás olyan közvetlen legyen, mintha Ön maga írná be az URL-t."
-    },
-    "advertising": {
-      "title": "Hirdetési linkek",
-      "description": "Tisztítsa ki a követési paramétereket a bannerhirdetésekből, e-mail promóciókból és fizetett keresési céloldalakból, hogy megakadályozza a láthatatlan hirdetési hálózatok profilalkotását."
-    },
-    "restaurantMenus": {
-      "title": "Éttermi étlapok és helyszíni QR-kódok",
-      "description": "Mielőtt egy digitális menüre (vagy bármely nyilvános helyen lévő kódra) lépne, tekintse meg a teljes linket – elkerülve a hamis „quishing” matricákat, amelyek a fizetéseket csalókhoz irányítják át."
-    },
-    "eventTickets": {
-      "title": "Eseményjegyek és beszállókártyák",
-      "description": "Ellenőrizze, hogy a fesztiváljegyén, beszállókártyáján vagy konferenciajelvényén lévő QR-kód valóban a hivatalos URL-re mutat-e, nem pedig egy hamisított adathalász webhelyre."
-    },
-    "paymentCodes": {
-      "title": "Fizetési pontok kódjai (parkolóórák, tömegközlekedés, automaták)",
-      "description": "Ellenőrizze a nyilvános fizetési QR-kódokat, hogy megbizonyosodjon arról, hogy a megfelelő városi vagy szolgáltató által jóváhagyott portálra vezetnek, nem pedig egy csaló fizetési felületre."
-    },
-    "emailSms": {
-      "title": "E-mail/SMS QR-mellékletek",
-      "description": "Vizsgálja meg a váratlan „kézbesítési hiba” vagy „fiókprobléma” üzenetekbe ágyazott kódokat, hogy meghiúsítsa a rosszindulatú átirányításokat."
-    },
-    "shortLinks": {
-      "title": "Bit.ly, TinyURL, t.co, rb.gy",
-      "description": "Bontsa ki és nézze meg előnézetben bármely rövidített linket kliens- vagy platformoldalon, így előre tudhatja, hova fog vezetni a bit.ly/PayPal-frissites vagy a t.co/UD3p5uZH17."
-    },
-    "redirectChains": {
-      "title": "Többszörös átirányítási láncok",
-      "description": "Kövesse és bontsa le az átirányítási sorozatokat – megelőzve a CAPTCHA oldalak vagy rétegzett rövidítők általi elrejtést – a végső céloldalig."
-    },
-    "platformWrapped": {
-      "title": "Platform által becsomagolt linkek",
-      "description": "Fedje fel a valódi URL-t a Facebook/Instagram Link Shim, a Twitter/X t.co, a LinkedIn lnkd.in, a YouTube átirányítási oldalai stb. mögött, hogy soha ne kattintson vakon."
-    },
-    "emailForwarding": {
-      "title": "E-mail vagy üzenetküldő továbbítás",
-      "description": "Tisztítsa meg a beillesztett URL-eket, mielőtt továbbítaná őket kollégáinak vagy barátainak – hogy ők egy „tiszta” linket kapjanak követési paraméterek nélkül."
-    },
-    "marketingPosts": {
-      "title": "Marketing és közösségi média bejegyzések",
-      "description": "Hozzon létre új QR-kódot bármely megtisztított linkből nyomtatott szórólapokhoz, plakátokhoz vagy online kampányokhoz – adatvédelmet előtérbe helyező élményt kínálva a közönségnek."
-    },
-    "businessCards": {
-      "title": "Névjegykártya QR-kódok",
-      "description": "Hozzon létre rövid, nyomkövetőmentes QR-kódokat a nyomtatott anyagain, biztosítva, hogy minden beolvasás pontosan az Ön által megadott céloldalra vezessen."
-    },
+    "description": "A QR-kódos adathalászat megállításától a Facebook, X, YouTube, TikTok, Instagram, LinkedIn és Amazon linkek megtisztításáig, a Clean Links minden platformon védi a magánszféráját iPhone, iPad és Mac eszközökön.",
     "shareSheet": {
-      "title": "Megosztási lap kiterjesztés",
-      "description": "Hívja meg a Clean Links alkalmazást a Safari, Mail, X, LinkedIn (és bármely, az iOS megosztási lapokat támogató alkalmazás) belülről, hogy egyetlen érintéssel megtisztítsa a linkeket."
+      "title": "Megosztási lap integráció",
+      "description": "A Clean Links integrálódik az iOS Megosztási lapjával a Safariban, a Mailben, az X-en, a YouTube-on, a LinkedInen és bármely más alkalmazásban. Koppintson a Megosztás gombra, válassza a Clean Links lehetőséget, és azonnal távolítsa el a követőket bármely linkből, mielőtt továbbítaná azt barátainak vagy kollégáinak - adatvédelem minden alkalmazásban."
     },
     "controlCenter": {
-      "title": "Vezérlőközpont csempe",
-      "description": "Adjon hozzá egy gyorselérési gombot a Vezérlőközponthoz a vágólapon lévő URL megtisztításához vagy egy QR-kód beolvasásához bárhol az iOS-ben."
+      "title": "Vezérlőközpont gyorselérés",
+      "description": "Adja hozzá a Clean Links alkalmazást a Vezérlőközponthoz iPhone, iPad és Mac eszközökön az egykoppintásos linktisztításhoz. Érje el a QR-kód olvasót vagy tisztítsa meg a vágólapon lévő URL-eket azonnal, bárhonnan - vagy rendelje hozzá a Műveletgombhoz a leggyorsabb adatvédelmi munkafolyamat érdekében."
     },
     "shortcuts": {
-      "title": "Parancsok és Siri integráció",
-      "description": "Automatizálja a linktisztítást vagy a QR-kód generálást az Apple Parancsokon belül, vagy hívja meg a Siri segítségével („Hey Siri, tisztítsd meg a linkemet”), beágyazva az adatvédelmet a napi rutinjába."
+      "title": "Parancsok és Siri automatizálás",
+      "description": "Automatizálja a linktisztítást az Apple Parancsok és a Siri hangutasítások segítségével. Hozzon létre munkafolyamatokat, amelyek megtisztítják a vágólapon lévő linkeket, QR-kódokat generálnak, vagy URL-eket dolgoznak fel a \"Hey Siri, clean my link\" paranccsal, zökkenőmentesen beépítve az adatvédelmet a napi rutinjába."
+    },
+    "stopPhishing": {
+      "title": "QR-kódos adathalászat (Quishing) megállítása",
+      "description": "Hárítsa el az adathalász támadásokat azzal, hogy megnyitás előtt megtekinti a QR-kódok célhelyét. A Clean Links felfedi a valódi URL-t az éttermi étlapok, parkolóórák, eseményjegyek és e-mail csatolmányok mögött, így megvédi Önt a rosszindulatú \"quishing\" átverésektől, amelyek hamis fizetési oldalakra irányítanak át."
+    },
+    "facebookCleaner": {
+      "title": "Facebook linktisztító",
+      "description": "Automatikusan megtisztítja a Facebook linkeket az fbclid követő paraméterek és az l.facebook.com átirányítások eltávolításával. Eltávolítja a Facebook követő azonosítóit minden megosztott linkből, így védi a magánszféráját, miközben Facebook bejegyzéseket böngészik vagy linkeket oszt meg a Facebook Messengeren."
+    },
+    "xTwitterCleaner": {
+      "title": "X (Twitter) linktisztító",
+      "description": "Megtisztítja az X és Twitter linkeket a t.co rövidített URL-ek kibontásával, hogy felfedje a valódi célhelyeket. Kibontja az X (Twitter) átirányítási láncait, eltávolítja a követő paramétereket, és megmutatja, hová vezetnek valójában a linkek, mielőtt rájuk koppintana - ami elengedhetetlen az adathalászat elkerüléséhez az X-en és a Twitteren."
+    },
+    "youtubeCleaner": {
+      "title": "YouTube linktisztító",
+      "description": "Megtisztítja a YouTube linkeket az 'si' követő paraméter eltávolításával, amelyet a YouTube a megosztott videólinkekhez ad. Eltávolítja a YouTube megosztáskövető kódjait, hogy tiszta youtube.com/watch URL-eket kapjon az 'si' paraméter nélkül, amely azt követi, hogy ki osztotta meg a videót."
+    },
+    "tiktokCleaner": {
+      "title": "TikTok linktisztító",
+      "description": "Megtisztítja a TikTok linkeket a követő paraméterek eltávolításával a TikTok videómegosztásokból és rövidlinkekből. Eltávolítja a TikTok interakciókövető kódjait, hogy tiszta URL-eket fedjen fel, amelyek közvetlenül a videókhoz vezetnek anélkül, hogy a platformon belüli megosztási szokásait figyelnék."
+    },
+    "instagramCleaner": {
+      "title": "Instagram linktisztító",
+      "description": "Megtisztítja az Instagram linkeket az igshid követő paraméterek és az l.instagram.com átirányítások eltávolításával. Eltávolítja az Instagram megosztási azonosítóit a linkekből, így védi a magánszféráját, amikor Instagram bejegyzéseket, Reels-videókat vagy Storykat oszt meg a Meta platformok közötti követése nélkül."
+    },
+    "linkedinCleaner": {
+      "title": "LinkedIn linktisztító",
+      "description": "Megtisztítja a LinkedIn linkeket a lnkd.in rövidített URL-ek kibontásával és a követő paraméterek eltávolításával. Kibontja a LinkedIn átirányítási láncait, hogy kattintás előtt láthassa a szakmai hálózati megosztások valódi célhelyét - ami kulcsfontosságú az adathalászat elkerüléséhez üzleti környezetben."
+    },
+    "amazonCleaner": {
+      "title": "Amazon linktisztító",
+      "description": "Megtisztítja az Amazon linkeket a partnerprogram-címkék (affiliate tag) és a követőazonosítók eltávolításával a termék URL-ekből. Eltávolítja az Amazon \"tag\" paramétereit, hogy közvetlen termékoldal-linkeket kapjon partnerprogram-követés vagy hirdetéstechnológiai profilalkotás nélkül, amikor vásárol vagy ajánlatokat oszt meg."
+    },
+    "googleCleaner": {
+      "title": "Google linktisztító",
+      "description": "Megtisztítja a Google linkeket a gclid követő paraméterek eltávolításával a keresési találatokból és a hirdetésekre való kattintásokból. Eltávolítja a Google kattintásazonosítóit (Google Click Identifiers) a magánszférája védelme érdekében, amikor keresési találatokra, Google Ads hirdetésekre vagy Gmail linkekre kattint, webhelyek közötti követés és megfigyelés nélkül."
+    },
+    "shortLinkExpander": {
+      "title": "Rövidlink-kibontó (bit.ly, TinyURL)",
+      "description": "Bontsa ki a rövidlinkeket, hogy felfedje a valódi célhelyet a bit.ly, TinyURL, t.co, rb.gy és más URL-rövidítők mögött. A Clean Links követi az átirányítási láncokat, hogy megmutassa a végső URL-t, mielőtt rákoppintana - ami elengedhetetlen a rövidítők mögé rejtett adathalász linkek felderítéséhez."
+    },
+    "utmRemover": {
+      "title": "UTM követő paraméterek eltávolítása",
+      "description": "Távolítsa el az UTM paramétereket (utm_source, utm_medium, utm_campaign) a marketing linkekből és e-mailes promóciókból. A Clean Links automatikusan eltávolítja a kampánykövető kódokat, megakadályozva, hogy a hirdetési hálózatok profilozzák a böngészési szokásait a webhelyeken és platformokon."
+    },
+    "qrGenerator": {
+      "title": "QR-kód generátor",
+      "description": "Hozzon létre tiszta QR-kódokat bármilyen URL-ből a követők eltávolítása után. A Clean Links adatvédelem-barát QR-kódokat készít, amelyek tökéletesek barátokkal való megosztásra, névjegykártyára nyomtatásra vagy közösségi médiában való közzétételre, biztosítva, hogy a címzettek követőktől mentes linkeket kapjanak, amelyeket biztonságosan beolvashatnak."
+    },
+    "macMenuBar": {
+      "title": "Mac menüsori vágólapfigyelés",
+      "description": "Futtassa a Clean Links alkalmazást a Mac menüsorában automatikus vágólapfigyeléssel. Minden másolt URL azonnal megtisztul, kibontásra kerül és mentesül a követőktől - mindez az eszközön történik a teljes adatvédelem érdekében a macOS munkafolyamatában, manuális beavatkozás nélkül."
     }
   },
   "faq": {

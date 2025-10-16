@@ -68,74 +68,70 @@
   },
   "useCases": {
     "title": "Use Cases & Real-World Applications",
-    "description": "From protecting against QR code phishing to automating privacy workflows, Clean Links adapts to your digital life on iPhone, iPad, and Mac across 17 key scenarios",
-    "ecommerce": {
-      "title": "E-commerce shopping",
-      "description": "Clean Links removes affiliate and marketing tracking (e.g. Amazon \"tag\" parameters, affiliate IDs) so you see a product page exactly as the retailer intended, without ad-tech profiling."
+    "description": "From stopping QR code phishing to cleaning Facebook, X, YouTube, TikTok, Instagram, LinkedIn and Amazon links, Clean Links protects your privacy across every platform on iPhone, iPad, and Mac",
+    "stopPhishing": {
+      "title": "Stop QR Code Phishing (Quishing)",
+      "description": "Stop phishing attacks by previewing QR code destinations before opening them. Clean Links reveals the real URL behind restaurant menus, parking meters, event tickets, and email attachments-protecting you from malicious \"quishing\" scams that redirect to fake payment sites."
     },
-    "socialMedia": {
-      "title": "Social-media links",
-      "description": "Strip UTM and other campaign tags from Facebook \"fbclid\", Twitter \"t.co\", Instagram \"l.instagram.com\" redirects, LinkedIn \"lnkd.in\", TikTok shorteners, etc., giving a true URL preview before you tap."
+    "facebookCleaner": {
+      "title": "Facebook Link Cleaner",
+      "description": "Clean Facebook links by removing fbclid tracking parameters and l.facebook.com redirects automatically. Strip Facebook's tracking identifiers from every shared link, protecting your privacy when browsing Facebook posts or sharing links from Facebook Messenger."
     },
-    "searchEngine": {
-      "title": "Search-engine results",
-      "description": "Remove Google \"gclid\", Bing \"msclkid\", Yahoo tracking tokens and similar parameters so clicking search results feels as direct as typing the URL yourself."
+    "xTwitterCleaner": {
+      "title": "X (Twitter) Link Cleaner",
+      "description": "Clean X and Twitter links by unwrapping t.co shortened URLs to reveal true destinations. Expand X (Twitter) redirect chains, remove tracking parameters, and see where links actually lead before you tap-essential for avoiding phishing on X and Twitter."
     },
-    "advertising": {
-      "title": "Advertising links",
-      "description": "Clean out tracking parameters from banner ads, email promotions, and paid-search landing pages to prevent invisible ad-networks from profiling you."
+    "youtubeCleaner": {
+      "title": "YouTube Link Cleaner",
+      "description": "Clean YouTube links by removing the si tracking parameter that YouTube adds to shared video links. Strip YouTube's share tracking codes to get clean youtube.com/watch URLs without the si parameter that tracks who shared the video."
     },
-    "restaurantMenus": {
-      "title": "Restaurant menus & on-site QR codes",
-      "description": "Before landing on a digital menu (or any public-place code), see the full link-avoiding fake \"quishing\" stickers that reroute payments to scammers."
+    "tiktokCleaner": {
+      "title": "TikTok Link Cleaner",
+      "description": "Clean TikTok links by removing tracking parameters from TikTok video shares and shortlinks. Strip TikTok's engagement tracking codes to reveal clean URLs that go directly to videos without surveillance of your sharing behavior across the platform."
     },
-    "eventTickets": {
-      "title": "Event tickets & boarding passes",
-      "description": "Verify that the QR code on your festival ticket, boarding pass, or conference badge truly points to the official URL rather than a spoofed phishing site."
+    "instagramCleaner": {
+      "title": "Instagram Link Cleaner",
+      "description": "Clean Instagram links by removing igshid tracking parameters and l.instagram.com redirects. Strip Instagram Share Identifiers from links, protecting your privacy when sharing Instagram posts, Reels, or Stories without Meta's cross-platform tracking."
     },
-    "paymentCodes": {
-      "title": "Payment-point codes (parking meters, transit, vending)",
-      "description": "Check public payment QR codes to confirm they go to the correct city or vendor-approved portal, not a fraudulent payment collector."
+    "linkedinCleaner": {
+      "title": "LinkedIn Link Cleaner",
+      "description": "Clean LinkedIn links by expanding lnkd.in shortened URLs and removing tracking parameters. Unwrap LinkedIn's redirect chains to see the real destination of professional network shares before you click-crucial for avoiding phishing in business contexts."
     },
-    "emailSms": {
-      "title": "Email/SMS QR attachments",
-      "description": "Inspect codes embedded in unexpected \"missed delivery\" or \"account problem\" messages to thwart malicious redirections."
+    "amazonCleaner": {
+      "title": "Amazon Link Cleaner",
+      "description": "Clean Amazon links by removing affiliate tag parameters and tracking IDs from product URLs. Strip Amazon's \"tag\" parameters to get direct product page links without affiliate tracking or ad-tech profiling when shopping or sharing deals."
     },
-    "shortLinks": {
-      "title": "Bit.ly, TinyURL, t.co, rb.gy",
-      "description": "Expand and preview any shortened link client- or platform-side, so you know in advance where bit.ly/PayPal-update or t.co/UD3p5uZH17 will land you."
+    "googleCleaner": {
+      "title": "Google Link Cleaner",
+      "description": "Clean Google links by removing gclid tracking parameters from search results and ad clicks. Strip Google Click Identifiers to protect your privacy when clicking search results, Google Ads, or Gmail links without cross-site tracking surveillance."
     },
-    "redirectChains": {
-      "title": "Multi-redirect chains",
-      "description": "Follow and collapse sequences of redirects-preventing obfuscation by CAPTCHA pages or layered shorteners-into the final destination."
+    "shortLinkExpander": {
+      "title": "Short Link Expander (bit.ly, TinyURL)",
+      "description": "Expand short links to reveal the real destination behind bit.ly, TinyURL, t.co, rb.gy, and other URL shorteners. Clean Links follows redirect chains to show you the final URL before you tap-essential for detecting phishing links hidden behind shorteners."
     },
-    "platformWrapped": {
-      "title": "Platform-wrapped links",
-      "description": "Reveal the real URL behind Facebook/Instagram's Link Shim, Twitter/X's t.co, LinkedIn's lnkd.in, YouTube's redirect pages, etc., so you never click blindly."
+    "utmRemover": {
+      "title": "Remove UTM Tracking Parameters",
+      "description": "Remove UTM parameters (utm_source, utm_medium, utm_campaign) from marketing links and email promotions. Clean Links strips campaign tracking codes automatically, preventing ad networks from profiling your browsing behavior across websites and platforms."
     },
-    "emailForwarding": {
-      "title": "Email or messenger forwarding",
-      "description": "Clean pasted URLs before you forward them to colleagues or friends-so they get a \"clean\" link without tracking parameters."
-    },
-    "marketingPosts": {
-      "title": "Marketing & social-media posts",
-      "description": "Generate a new QR code from any cleaned link for printed flyers, posters, or online campaigns-offering audiences a privacy-first experience."
-    },
-    "businessCards": {
-      "title": "Business-card QR codes",
-      "description": "Create short, tracker-free QR codes on your printed material, ensuring every check goes exactly to your specified landing page."
+    "qrGenerator": {
+      "title": "QR Code Generator",
+      "description": "Generate clean QR codes from any URL after removing trackers. Clean Links creates privacy-safe QR codes perfect for sharing with friends, printing on business cards, or posting on social media-ensuring recipients get tracker-free links they can safely scan."
     },
     "shareSheet": {
-      "title": "Share-Sheet extension",
-      "description": "Invoke Clean Links from within Safari, Mail, X, LinkedIn (and any app supporting iOS share sheets) to scrub links with one tap."
+      "title": "Share Sheet Integration",
+      "description": "Clean Links integrates with iOS Share Sheet in Safari, Mail, X, YouTube, LinkedIn, and any app. Tap Share, select Clean Links, and instantly remove trackers from any link before forwarding to friends or colleagues-privacy protection in every app."
     },
     "controlCenter": {
-      "title": "Control Center tile",
-      "description": "Add a quick-access button in Control Center to clean the clipboard URL or check a QR code anywhere in iOS."
+      "title": "Control Center Quick Access",
+      "description": "Add Clean Links to Control Center on iPhone, iPad, and Mac for one-tap link cleaning. Access the QR code reader or clean clipboard URLs instantly from anywhere-or assign to Action Button for the fastest privacy protection workflow."
     },
     "shortcuts": {
-      "title": "Shortcuts & Siri integration",
-      "description": "Automate link-cleaning or QR generation within Apple Shortcuts or call via Siri (\"Hey Siri, clean my link\"), embedding privacy into your daily routines."
+      "title": "Shortcuts & Siri Automation",
+      "description": "Automate link cleaning with Apple Shortcuts and Siri voice commands. Create workflows that clean clipboard links, generate QR codes, or process URLs with \"Hey Siri, clean my link\"-embedding privacy protection into your daily routines seamlessly."
+    },
+    "macMenuBar": {
+      "title": "Mac Menu Bar Clipboard Monitoring",
+      "description": "Run Clean Links in your Mac menu bar with automatic clipboard monitoring. Every URL you copy is instantly cleaned, unshortened, and stripped of trackers-all on-device for total privacy in your macOS workflow without manual intervention."
     }
   },
   "faq": {

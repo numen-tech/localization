@@ -72,74 +72,70 @@
   },
   "useCases": {
     "title": "Cas d'Utilisation et Applications Concrètes",
-    "description": "De la protection contre l'hameçonnage par code QR à l'automatisation des flux de travail pour la confidentialité, Clean Links s'adapte à votre vie numérique sur iPhone, iPad et Mac à travers 17 scénarios clés.",
-    "ecommerce": {
-      "title": "Achats en ligne",
-      "description": "Clean Links supprime le suivi d'affiliation et marketing (par ex. les paramètres « tag » d'Amazon, les ID d'affiliation) pour que vous voyiez la page produit exactement comme le vendeur l'a conçue, sans profilage publicitaire."
-    },
-    "socialMedia": {
-      "title": "Liens des réseaux sociaux",
-      "description": "Supprimez les balises UTM et autres balises de campagne des redirections Facebook « fbclid », Twitter « t.co », Instagram « l.instagram.com », LinkedIn « lnkd.in », des raccourcisseurs TikTok, etc., pour obtenir un aperçu de l'URL réelle avant de cliquer."
-    },
-    "searchEngine": {
-      "title": "Résultats des moteurs de recherche",
-      "description": "Supprimez les jetons de suivi de Google « gclid », Bing « msclkid », Yahoo et autres paramètres similaires, afin que cliquer sur les résultats de recherche soit aussi direct que de taper l'URL vous-même."
-    },
-    "advertising": {
-      "title": "Liens publicitaires",
-      "description": "Nettoyez les paramètres de suivi des bannières publicitaires, des promotions par e-mail et des pages de destination des recherches payantes pour empêcher les réseaux publicitaires invisibles de vous profiler."
-    },
-    "restaurantMenus": {
-      "title": "Menus de restaurant et codes QR sur site",
-      "description": "Avant d'accéder à un menu numérique (ou à tout code dans un lieu public), visualisez le lien complet pour éviter les faux autocollants d'hameçonnage par QR code (« quishing ») qui détournent les paiements vers des escrocs."
-    },
-    "eventTickets": {
-      "title": "Billets d'événements et cartes d'embarquement",
-      "description": "Vérifiez que le QR code sur votre billet de festival, votre carte d'embarquement ou votre badge de conférence pointe bien vers l'URL officielle plutôt que vers un site de phishing falsifié."
-    },
-    "paymentCodes": {
-      "title": "Codes de points de paiement (parcmètres, transports, distributeurs)",
-      "description": "Vérifiez les codes QR de paiement publics pour confirmer qu'ils mènent au bon portail municipal ou approuvé par le fournisseur, et non à un collecteur de paiement frauduleux."
-    },
-    "emailSms": {
-      "title": "Pièces jointes QR dans les e-mails/SMS",
-      "description": "Inspectez les codes intégrés dans des messages inattendus de « livraison manquée » ou de « problème de compte » pour déjouer les redirections malveillantes."
-    },
-    "shortLinks": {
-      "title": "Bit.ly, TinyURL, t.co, rb.gy",
-      "description": "Développez et prévisualisez n'importe quel lien raccourci côté client ou plateforme, afin de savoir à l'avance où bit.ly/PayPal-update ou t.co/UD3p5uZH17 vous mènera."
-    },
-    "redirectChains": {
-      "title": "Chaînes de redirections multiples",
-      "description": "Suivez et réduisez les séquences de redirections - empêchant l'obscurcissement par des pages CAPTCHA ou des raccourcisseurs superposés - jusqu'à la destination finale."
-    },
-    "platformWrapped": {
-      "title": "Liens encapsulés par les plateformes",
-      "description": "Révélez l'URL réelle derrière le Link Shim de Facebook/Instagram, le t.co de Twitter/X, le lnkd.in de LinkedIn, les pages de redirection de YouTube, etc., pour ne jamais cliquer à l'aveugle."
-    },
-    "emailForwarding": {
-      "title": "Transfert par e-mail ou messagerie",
-      "description": "Nettoyez les URL collées avant de les transférer à des collègues ou à des amis, afin qu'ils reçoivent un lien « propre » sans paramètres de suivi."
-    },
-    "marketingPosts": {
-      "title": "Publications marketing et sur les réseaux sociaux",
-      "description": "Générez un nouveau QR code à partir de n'importe quel lien nettoyé pour des dépliants, des affiches ou des campagnes en ligne, offrant au public une expérience respectueuse de la vie privée."
-    },
-    "businessCards": {
-      "title": "Codes QR sur les cartes de visite",
-      "description": "Créez des codes QR courts et sans traqueurs sur vos supports imprimés, garantissant que chaque scan mène exactement à la page de destination que vous avez spécifiée."
-    },
+    "description": "De la prévention de l'hameçonnage par code QR au nettoyage des liens Facebook, X, YouTube, TikTok, Instagram, LinkedIn et Amazon, Clean Links protège votre vie privée sur toutes les plateformes sur iPhone, iPad et Mac.",
     "shareSheet": {
-      "title": "Extension de la feuille de partage",
-      "description": "Lancez Clean Links depuis Safari, Mail, X, LinkedIn (et toute application prenant en charge les feuilles de partage iOS) pour nettoyer les liens en un seul clic."
+      "title": "Intégration à la feuille de partage",
+      "description": "Clean Links s'intègre à la feuille de partage d'iOS dans Safari, Mail, X, YouTube, LinkedIn et toute autre application. Touchez Partager, sélectionnez Clean Links et supprimez instantanément les traqueurs de n'importe quel lien avant de le transférer à des amis ou des collègues - la protection de la vie privée dans chaque application."
     },
     "controlCenter": {
-      "title": "Tuile du Centre de contrôle",
-      "description": "Ajoutez un bouton d'accès rapide au Centre de contrôle pour nettoyer l'URL du presse-papiers ou scanner un code QR n'importe où dans iOS."
+      "title": "Accès rapide via le Centre de contrôle",
+      "description": "Ajoutez Clean Links au Centre de contrôle sur iPhone, iPad et Mac pour nettoyer les liens en un seul geste. Accédez au lecteur de code QR ou nettoyez les URL du presse-papiers instantanément depuis n'importe où - ou assignez-le au bouton Action pour le flux de protection de la vie privée le plus rapide."
     },
     "shortcuts": {
-      "title": "Intégration avec Raccourcis et Siri",
-      "description": "Automatisez le nettoyage de liens ou la génération de QR code dans Raccourcis Apple ou lancez-le via Siri (« Dis Siri, nettoie mon lien »), intégrant la confidentialité dans vos routines quotidiennes."
+      "title": "Automatisation avec Raccourcis et Siri",
+      "description": "Automatisez le nettoyage de liens avec Raccourcis d'Apple et les commandes vocales Siri. Créez des flux de travail qui nettoient les liens du presse-papiers, génèrent des codes QR ou traitent des URL avec \"Dis Siri, nettoie mon lien\" - intégrant la protection de la vie privée de manière transparente dans vos routines quotidiennes."
+    },
+    "stopPhishing": {
+      "title": "Bloquez l'hameçonnage par code QR (Quishing)",
+      "description": "Protégez-vous des attaques d'hameçonnage en prévisualisant la destination des codes QR avant de les ouvrir. Clean Links révèle la véritable URL derrière les menus de restaurant, les parcmètres, les billets d'événement et les pièces jointes d'e-mails, vous protégeant des arnaques malveillantes de \"quishing\" qui redirigent vers de faux sites de paiement."
+    },
+    "facebookCleaner": {
+      "title": "Nettoyeur de liens Facebook",
+      "description": "Nettoyez les liens Facebook en supprimant automatiquement les paramètres de suivi fbclid et les redirections l.facebook.com. Supprimez les identifiants de suivi de Facebook de chaque lien partagé, protégeant votre vie privée lorsque vous parcourez des publications Facebook ou partagez des liens depuis Facebook Messenger."
+    },
+    "xTwitterCleaner": {
+      "title": "Nettoyeur de liens X (Twitter)",
+      "description": "Nettoyez les liens X et Twitter en développant les URL raccourcies t.co pour révéler leur véritable destination. Développez les chaînes de redirection de X (Twitter), supprimez les paramètres de suivi et voyez où les liens mènent réellement avant de cliquer - essentiel pour éviter l'hameçonnage sur X et Twitter."
+    },
+    "youtubeCleaner": {
+      "title": "Nettoyeur de liens YouTube",
+      "description": "Nettoyez les liens YouTube en supprimant le paramètre de suivi \"si\" que YouTube ajoute aux liens de vidéos partagées. Supprimez les codes de suivi de partage de YouTube pour obtenir des URL youtube.com/watch propres, sans le paramètre \"si\" qui permet de savoir qui a partagé la vidéo."
+    },
+    "tiktokCleaner": {
+      "title": "Nettoyeur de liens TikTok",
+      "description": "Nettoyez les liens TikTok en supprimant les paramètres de suivi des partages de vidéos et des liens courts TikTok. Supprimez les codes de suivi d'engagement de TikTok pour révéler des URL propres qui mènent directement aux vidéos, sans surveillance de votre comportement de partage sur la plateforme."
+    },
+    "instagramCleaner": {
+      "title": "Nettoyeur de liens Instagram",
+      "description": "Nettoyez les liens Instagram en supprimant les paramètres de suivi igshid et les redirections l.instagram.com. Supprimez les identifiants de partage Instagram des liens, protégeant votre vie privée lors du partage de publications, Reels ou Stories Instagram, sans le suivi multiplateforme de Meta."
+    },
+    "linkedinCleaner": {
+      "title": "Nettoyeur de liens LinkedIn",
+      "description": "Nettoyez les liens LinkedIn en développant les URL raccourcies lnkd.in et en supprimant les paramètres de suivi. Développez les chaînes de redirection de LinkedIn pour voir la destination réelle des partages du réseau professionnel avant de cliquer - crucial pour éviter l'hameçonnage dans un contexte professionnel."
+    },
+    "amazonCleaner": {
+      "title": "Nettoyeur de liens Amazon",
+      "description": "Nettoyez les liens Amazon en supprimant les paramètres de tag d'affiliation et les identifiants de suivi des URL de produits. Supprimez les paramètres \"tag\" d'Amazon pour obtenir des liens directs vers les pages de produits, sans suivi d'affiliation ni profilage publicitaire lorsque vous faites des achats ou partagez des offres."
+    },
+    "googleCleaner": {
+      "title": "Nettoyeur de liens Google",
+      "description": "Nettoyez les liens Google en supprimant les paramètres de suivi gclid des résultats de recherche et des clics sur les publicités. Supprimez les identifiants de clic Google pour protéger votre vie privée lorsque vous cliquez sur des résultats de recherche, des annonces Google Ads ou des liens Gmail, sans la surveillance du suivi intersites."
+    },
+    "shortLinkExpander": {
+      "title": "Développeur de liens courts (bit.ly, TinyURL)",
+      "description": "Développez les liens courts pour révéler la destination réelle derrière bit.ly, TinyURL, t.co, rb.gy et autres raccourcisseurs d'URL. Clean Links suit les chaînes de redirection pour vous montrer l'URL finale avant que vous ne cliquiez - essentiel pour détecter les liens d'hameçonnage cachés derrière les raccourcisseurs."
+    },
+    "utmRemover": {
+      "title": "Suppression des paramètres de suivi UTM",
+      "description": "Supprimez les paramètres UTM (utm_source, utm_medium, utm_campaign) des liens marketing et des promotions par e-mail. Clean Links supprime automatiquement les codes de suivi de campagne, empêchant les réseaux publicitaires de profiler votre comportement de navigation sur les sites web et les plateformes."
+    },
+    "qrGenerator": {
+      "title": "Générateur de code QR",
+      "description": "Générez des codes QR propres à partir de n'importe quelle URL après avoir supprimé les traqueurs. Clean Links crée des codes QR respectueux de la vie privée, parfaits pour partager avec des amis, imprimer sur des cartes de visite ou publier sur les réseaux sociaux - garantissant que les destinataires reçoivent des liens sans traqueurs qu'ils peuvent scanner en toute sécurité."
+    },
+    "macMenuBar": {
+      "title": "Surveillance du presse-papiers dans la barre des menus du Mac",
+      "description": "Exécutez Clean Links dans la barre des menus de votre Mac avec la surveillance automatique du presse-papiers. Chaque URL que vous copiez est instantanément nettoyée, développée et débarrassée de ses traqueurs - le tout sur l'appareil pour une confidentialité totale dans votre flux de travail macOS, sans intervention manuelle."
     }
   },
   "faq": {

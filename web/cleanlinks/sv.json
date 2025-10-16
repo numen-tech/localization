@@ -72,74 +72,70 @@
   },
   "useCases": {
     "title": "Användningsfall & verkliga tillämpningar",
-    "description": "Från att skydda mot QR-kodsfiske till att automatisera integritetsflöden, anpassar sig Clean Links till ditt digitala liv på iPhone, iPad och Mac i 17 nyckelscenarier",
-    "ecommerce": {
-      "title": "E-handel",
-      "description": "Clean Links tar bort affiliate- och marknadsföringsspårning (t.ex. Amazons \"tag\"-parametrar, affiliate-ID) så att du ser en produktsida precis som återförsäljaren avsåg, utan profilering från annonsteknik."
-    },
-    "socialMedia": {
-      "title": "Länkar från sociala medier",
-      "description": "Ta bort UTM och andra kampanjtaggar från Facebooks \"fbclid\", Twitters \"t.co\", Instagrams \"l.instagram.com\"-omdirigeringar, LinkedIns \"lnkd.in\", TikToks förkortare, etc., vilket ger en sann förhandsvisning av URL:en innan du trycker."
-    },
-    "searchEngine": {
-      "title": "Sökmotorresultat",
-      "description": "Ta bort Googles \"gclid\", Bings \"msclkid\", Yahoos spårningstokens och liknande parametrar så att klick på sökresultat känns lika direkt som att skriva in URL:en själv."
-    },
-    "advertising": {
-      "title": "Annonslänkar",
-      "description": "Rensa bort spårningsparametrar från bannerannonser, e-postkampanjer och landningssidor från betald sökning för att förhindra att osynliga annonsnätverk profilerar dig."
-    },
-    "restaurantMenus": {
-      "title": "Restaurangmenyer & QR-koder på plats",
-      "description": "Innan du hamnar på en digital meny (eller någon kod på en offentlig plats), se hela länken – och undvik falska \"quishing\"-klistermärken som omdirigerar betalningar till bedragare."
-    },
-    "eventTickets": {
-      "title": "Evenemangsbiljetter & boardingkort",
-      "description": "Verifiera att QR-koden på din festivalbiljett, boardingkort eller konferensbricka verkligen pekar till den officiella URL:en istället för en förfalskad nätfiskesida."
-    },
-    "paymentCodes": {
-      "title": "Betalningskoder (parkeringsautomater, kollektivtrafik, varuautomater)",
-      "description": "Skanna offentliga QR-koder för betalning för att bekräfta att de leder till rätt stads- eller leverantörsgodkända portal, inte till en bedräglig betalningsmottagare."
-    },
-    "emailSms": {
-      "title": "QR-bilagor i e-post/SMS",
-      "description": "Inspektera koder inbäddade i oväntade meddelanden om \"missad leverans\" eller \"kontoproblem\" för att motverka skadliga omdirigeringar."
-    },
-    "shortLinks": {
-      "title": "Bit.ly, TinyURL, t.co, rb.gy",
-      "description": "Expandera och förhandsgranska alla förkortade länkar på klient- eller plattformssidan, så du vet i förväg var bit.ly/PayPal-update eller t.co/UD3p5uZH17 kommer att ta dig."
-    },
-    "redirectChains": {
-      "title": "Kedjor med flera omdirigeringar",
-      "description": "Följ och kollapsa sekvenser av omdirigeringar – vilket förhindrar fördunkling genom CAPTCHA-sidor eller lager av förkortare – till den slutliga destinationen."
-    },
-    "platformWrapped": {
-      "title": "Plattformsinkapslade länkar",
-      "description": "Avslöja den verkliga URL:en bakom Facebook/Instagrams Link Shim, Twitter/X:s t.co, LinkedIns lnkd.in, YouTubes omdirigeringssidor, etc., så att du aldrig klickar blint."
-    },
-    "emailForwarding": {
-      "title": "Vidarebefordran via e-post eller meddelandetjänst",
-      "description": "Rensa inklistrade URL:er innan du vidarebefordrar dem till kollegor eller vänner – så att de får en \"ren\" länk utan spårningsparametrar."
-    },
-    "marketingPosts": {
-      "title": "Marknadsföring & inlägg på sociala medier",
-      "description": "Generera en ny QR-kod från en rensad länk för tryckta flygblad, affischer eller onlinekampanjer – och erbjuda publiken en integritetsfokuserad upplevelse."
-    },
-    "businessCards": {
-      "title": "QR-koder på visitkort",
-      "description": "Skapa korta, spårningsfria QR-koder på ditt tryckta material och säkerställ att varje skanning leder exakt till din angivna landningssida."
-    },
+    "description": "Från att stoppa QR-kodsfiske till att rensa länkar från Facebook, X, YouTube, TikTok, Instagram, LinkedIn och Amazon, skyddar Clean Links din integritet på alla plattformar på iPhone, iPad och Mac",
     "shareSheet": {
-      "title": "Tillägg för delningsblad",
-      "description": "Anropa Clean Links inifrån Safari, Mail, X, LinkedIn (och alla appar som stöder iOS delningsblad) för att rensa länkar med ett tryck."
+      "title": "Integrering med Delningsark",
+      "description": "Clean Links integreras med Delningsarket i iOS i Safari, Mail, X, YouTube, LinkedIn och alla andra appar. Tryck på Dela, välj Clean Links och ta omedelbart bort spårare från valfri länk innan du vidarebefordrar den till vänner eller kollegor - integritetsskydd i varje app."
     },
     "controlCenter": {
-      "title": "Knapp i Kontrollcenter",
-      "description": "Lägg till en snabbknapp i Kontrollcenter för att rensa URL:en i urklipp eller skanna en QR-kod var som helst i iOS."
+      "title": "Snabbåtkomst via Kontrollcenter",
+      "description": "Lägg till Clean Links i Kontrollcenter på iPhone, iPad och Mac för länkrengöring med ett tryck. Få direktåtkomst till QR-kodläsaren eller rensa URL:er i urklipp var som helst - eller tilldela den till åtgärdsknappen för det snabbaste arbetsflödet för integritetsskydd."
     },
     "shortcuts": {
-      "title": "Integrering med Genvägar & Siri",
-      "description": "Automatisera länkrensning eller QR-generering inom Apple Genvägar eller anropa via Siri (\"Hej Siri, rensa min länk\") och bädda in integritet i dina dagliga rutiner."
+      "title": "Genvägar och Siri-automatisering",
+      "description": "Automatisera länkrengöring med Apples Genvägar och Siri-röstkommandon. Skapa arbetsflöden som rensar länkar i urklipp, genererar QR-koder eller bearbetar URL:er med \"Hej Siri, rensa min länk\" - och integrera integritetsskydd sömlöst i dina dagliga rutiner."
+    },
+    "stopPhishing": {
+      "title": "Stoppa QR-kodsfiske (Quishing)",
+      "description": "Stoppa nätfiskeattacker genom att förhandsgranska QR-koders destinationer innan du öppnar dem. Clean Links avslöjar den verkliga URL:en bakom restaurangmenyer, parkeringsautomater, evenemangsbiljetter och e-postbilagor - och skyddar dig från skadliga QR-kodsfiskebedrägerier som omdirigerar till falska betalningssidor."
+    },
+    "facebookCleaner": {
+      "title": "Länkrengörare för Facebook",
+      "description": "Rensa Facebook-länkar genom att automatiskt ta bort spårningsparametern fbclid och omdirigeringar från l.facebook.com. Ta bort Facebooks spårningsidentifierare från varje delad länk och skydda din integritet när du surfar på Facebook-inlägg eller delar länkar från Facebook Messenger."
+    },
+    "xTwitterCleaner": {
+      "title": "Länkrengörare för X (Twitter)",
+      "description": "Rensa länkar från X och Twitter genom att veckla ut förkortade t.co-URL:er för att avslöja deras sanna destinationer. Expandera omdirigeringskedjor från X (Twitter), ta bort spårningsparametrar och se vart länkar faktiskt leder innan du trycker - avgörande för att undvika nätfiske på X och Twitter."
+    },
+    "youtubeCleaner": {
+      "title": "Länkrengörare för YouTube",
+      "description": "Rensa YouTube-länkar genom att ta bort spårningsparametern 'si' som YouTube lägger till i delade videolänkar. Ta bort YouTubes spårningskoder för delning för att få rena youtube.com/watch-URL:er utan 'si'-parametern som spårar vem som delade videon."
+    },
+    "tiktokCleaner": {
+      "title": "Länkrengörare för TikTok",
+      "description": "Rensa TikTok-länkar genom att ta bort spårningsparametrar från delade TikTok-videor och kortlänkar. Ta bort TikToks spårningskoder för engagemang för att avslöja rena URL:er som leder direkt till videor utan övervakning av ditt delningsbeteende på plattformen."
+    },
+    "instagramCleaner": {
+      "title": "Länkrengörare för Instagram",
+      "description": "Rensa Instagram-länkar genom att ta bort spårningsparametern 'igshid' och omdirigeringar från l.instagram.com. Ta bort Instagrams delningsidentifierare från länkar och skydda din integritet när du delar inlägg, Reels eller Stories från Instagram utan Metas spårning över flera plattformar."
+    },
+    "linkedinCleaner": {
+      "title": "Länkrengörare för LinkedIn",
+      "description": "Rensa LinkedIn-länkar genom att expandera förkortade lnkd.in-URL:er och ta bort spårningsparametrar. Veckla ut LinkedIns omdirigeringskedjor för att se den verkliga destinationen för delningar i professionella nätverk innan du klickar - avgörande för att undvika nätfiske i affärssammanhang."
+    },
+    "amazonCleaner": {
+      "title": "Länkrengörare för Amazon",
+      "description": "Rensa Amazon-länkar genom att ta bort affiliate-taggparametrar och spårnings-ID:n från produkt-URL:er. Ta bort Amazons \"tag\"-parametrar för att få direkta länkar till produktsidor utan affiliatespårning eller annonsteknisk profilering när du handlar eller delar erbjudanden."
+    },
+    "googleCleaner": {
+      "title": "Länkrengörare för Google",
+      "description": "Rensa Google-länkar genom att ta bort spårningsparametern 'gclid' från sökresultat och annonsklick. Ta bort Google Click Identifiers för att skydda din integritet när du klickar på sökresultat, Google Ads eller Gmail-länkar utan spårningsövervakning mellan webbplatser."
+    },
+    "shortLinkExpander": {
+      "title": "Kortlänksexpanderare (bit.ly, TinyURL)",
+      "description": "Expandera kortlänkar för att avslöja den verkliga destinationen bakom bit.ly, TinyURL, t.co, rb.gy och andra URL-förkortare. Clean Links följer omdirigeringskedjor för att visa dig den slutgiltiga URL:en innan du trycker - avgörande för att upptäcka nätfiskelänkar som döljs bakom förkortare."
+    },
+    "utmRemover": {
+      "title": "Ta bort UTM-spårningsparametrar",
+      "description": "Ta bort UTM-parametrar (utm_source, utm_medium, utm_campaign) från marknadsföringslänkar och e-postkampanjer. Clean Links tar automatiskt bort kampanjspårningskoder, vilket förhindrar annonsnätverk från att profilera ditt surfbeteende över webbplatser och plattformar."
+    },
+    "qrGenerator": {
+      "title": "QR-kodsgenerator",
+      "description": "Generera rena QR-koder från valfri URL efter att spårare har tagits bort. Clean Links skapar integritetssäkra QR-koder perfekta för att dela med vänner, trycka på visitkort eller publicera på sociala medier - och säkerställer att mottagarna får spårningsfria länkar som de kan skanna säkert."
+    },
+    "macMenuBar": {
+      "title": "Urklippsövervakning i menyfältet på Mac",
+      "description": "Kör Clean Links i menyfältet på din Mac med automatisk urklippsövervakning. Varje URL du kopierar blir omedelbart rensad, expanderad och befriad från spårare - allt sker på enheten för total integritet i ditt macOS-arbetsflöde utan manuell hantering."
     }
   },
   "faq": {

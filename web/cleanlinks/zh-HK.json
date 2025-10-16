@@ -72,74 +72,70 @@
   },
   "useCases": {
     "title": "使用案例與真實場景應用",
-    "description": "從防範 QR 碼網絡釣魚到自動化私隱工作流程，Clean Links 能夠適應你在 iPhone、iPad 和 Mac 上的數碼生活，涵蓋 17 個關鍵場景。",
-    "ecommerce": {
-      "title": "電子商務購物",
-      "description": "Clean Links 移除聯盟和市場推廣追蹤（例如 Amazon 的「tag」參數、聯盟 ID），讓您看到零售商原意展示的產品頁面，免受廣告技術分析。"
-    },
-    "socialMedia": {
-      "title": "社交媒體連結",
-      "description": "從 Facebook 的「fbclid」、Twitter 的「t.co」、Instagram 的「l.instagram.com」重定向、LinkedIn 的「lnkd.in」、TikTok 短連結等移除 UTM 和其他活動標籤，在您點擊前提供真實的網址預覽。"
-    },
-    "searchEngine": {
-      "title": "搜尋引擎結果",
-      "description": "移除 Google「gclid」、Bing「msclkid」、Yahoo 追蹤代碼及類似參數，讓點擊搜尋結果感覺就像自己輸入網址一樣直接。"
-    },
-    "advertising": {
-      "title": "廣告連結",
-      "description": "清理橫幅廣告、電郵推廣和付費搜尋登陸頁面中的追蹤參數，防止隱形的廣告網絡對您進行分析。"
-    },
-    "restaurantMenus": {
-      "title": "餐廳菜單及現場 QR Code",
-      "description": "在進入電子菜單（或任何公共場所的代碼）前，先查看完整連結——避免被假的「quishing」貼紙將付款轉給詐騙者。"
-    },
-    "eventTickets": {
-      "title": "活動門票及登機證",
-      "description": "驗證您的節日門票、登機證或會議證上的 QR Code 是否真的指向官方網址，而不是一個仿冒的釣魚網站。"
-    },
-    "paymentCodes": {
-      "title": "支付點代碼（停車收費錶、交通、自動販賣機）",
-      "description": "檢查公共場所的付款 QR 碼，以確認它們導向正確的城市或供應商認可的網站，而非詐騙收款方。"
-    },
-    "emailSms": {
-      "title": "電郵/SMS 中的 QR Code 附件",
-      "description": "檢查在意外的「派送失敗」或「帳戶問題」訊息中嵌入的代碼，以阻止惡意重定向。"
-    },
-    "shortLinks": {
-      "title": "Bit.ly、TinyURL、t.co、rb.gy",
-      "description": "在客戶端或平台上展開並預覽任何短連結，讓您預先知道 bit.ly/PayPal-update 或 t.co/UD3p5uZH17 會將您帶到哪裡。"
-    },
-    "redirectChains": {
-      "title": "多重重定向鏈",
-      "description": "追蹤並瓦解由 CAPTCHA 頁面或多層短連結造成的混淆，直達最終目的地。"
-    },
-    "platformWrapped": {
-      "title": "平台封裝連結",
-      "description": "揭示 Facebook/Instagram 的 Link Shim、Twitter/X 的 t.co、LinkedIn 的 lnkd.in、YouTube 的重定向頁面等背後的真實網址，讓您永遠不會盲目點擊。"
-    },
-    "emailForwarding": {
-      "title": "轉寄電郵或訊息",
-      "description": "在轉寄給同事或朋友之前清理貼上的網址——讓他們收到一個沒有追蹤參數的「乾淨」連結。"
-    },
-    "marketingPosts": {
-      "title": "市場推廣及社交媒體貼文",
-      "description": "從任何清理過的連結生成新的 QR Code，用於印刷傳單、海報或網上活動——為受眾提供一個注重私隱的體驗。"
-    },
-    "businessCards": {
-      "title": "名片 QR Code",
-      "description": "在你的印刷品上創建簡潔、無追蹤器的 QR 碼，確保每次掃描都準確地導向你指定的登陸頁面。"
-    },
+    "description": "從防止 QR 碼釣魚詐騙，到清理 Facebook、X、YouTube、TikTok、Instagram、LinkedIn 和 Amazon 連結，Clean Links 在 iPhone、iPad 和 Mac 的所有平台上保護你的私隱。",
     "shareSheet": {
-      "title": "分享頁擴充功能",
-      "description": "在 Safari、Mail、X、LinkedIn（以及任何支援 iOS 分享頁的 App）中調用 Clean Links，一鍵清理連結。"
+      "title": "分享表單整合",
+      "description": "Clean Links 可與 Safari、郵件、X、YouTube、LinkedIn 及任何應用程式中的 iOS 分享表單整合。點按「分享」，選擇 Clean Links，即可在轉寄給朋友或同事前，即時從任何連結中移除追蹤器 - 在每個應用程式中提供私隱保護。"
     },
     "controlCenter": {
-      "title": "控制中心板塊",
-      "description": "在「控制中心」加入快速存取按鈕，以便在 iOS 任何地方清理剪貼簿網址或檢查 QR 碼。"
+      "title": "控制中心快速取用",
+      "description": "將 Clean Links 加入 iPhone、iPad 和 Mac 的控制中心，即可一鍵清理連結。隨時隨地即時取用 QR 碼掃描器或清理剪貼簿中的網址 - 或將其指派給「動作」按鈕，以實現最快的私隱保護工作流程。"
     },
     "shortcuts": {
-      "title": "捷徑與 Siri 整合",
-      "description": "在 Apple Shortcuts 中自動化連結清理或 QR Code 生成，或透過 Siri 呼叫（「喂 Siri，清理我的連結」），將私隱保護融入您的日常。"
+      "title": "捷徑與 Siri 自動化",
+      "description": "使用 Apple「捷徑」和 Siri 語音指令自動化連結清理過程。建立工作流程，透過「喂 Siri，清理我的連結」指令來清理剪貼簿連結、產生 QR 碼或處理網址 - 將私隱保護無縫融入你的日常生活中。"
+    },
+    "stopPhishing": {
+      "title": "防止 QR 碼釣魚詐騙 (Quishing)",
+      "description": "在開啟 QR 碼前先預覽其目的地，以阻止釣魚攻擊。Clean Links 會揭示餐廳餐牌、停車收費錶、活動門票和電郵附件背後的真實網址，保護你免受會重新導向至虛假付款網站的惡意 \"quishing\" 詐騙。"
+    },
+    "facebookCleaner": {
+      "title": "Facebook 連結清理器",
+      "description": "自動移除 fbclid 追蹤參數和 l.facebook.com 重新導向，以清理 Facebook 連結。從每個分享的連結中移除 Facebook 的追蹤識別碼，在瀏覽 Facebook 帖子或從 Facebook Messenger 分享連結時保護你的私隱。"
+    },
+    "xTwitterCleaner": {
+      "title": "X (Twitter) 連結清理器",
+      "description": "透過展開 t.co 短網址來清理 X 和 Twitter 連結，以揭示其真實目的地。展開 X (Twitter) 的重新導向鏈、移除追蹤參數，並在點擊前查看連結的實際指向 - 這對於避免在 X 和 Twitter 上遭受釣魚詐騙至關重要。"
+    },
+    "youtubeCleaner": {
+      "title": "YouTube 連結清理器",
+      "description": "移除 YouTube 新增至分享影片連結的 si 追蹤參數，以清理 YouTube 連結。移除 YouTube 的分享追蹤碼，以獲取不含 si 參數的乾淨 youtube.com/watch 網址，避免追蹤影片分享者的身份。"
+    },
+    "tiktokCleaner": {
+      "title": "TikTok 連結清理器",
+      "description": "從 TikTok 影片分享和短連結中移除追蹤參數，以清理 TikTok 連結。移除 TikTok 的互動追蹤碼，以揭示直接通往影片的乾淨網址，避免你在平台上的分享行為受到監控。"
+    },
+    "instagramCleaner": {
+      "title": "Instagram 連結清理器",
+      "description": "移除 igshid 追蹤參數和 l.instagram.com 重新導向，以清理 Instagram 連結。從連結中移除 Instagram 分享識別碼，在分享 Instagram 帖子、Reels 或限時動態時保護你的私隱，免受 Meta 的跨平台追蹤。"
+    },
+    "linkedinCleaner": {
+      "title": "LinkedIn 連結清理器",
+      "description": "透過展開 lnkd.in 短網址並移除追蹤參數，以清理 LinkedIn 連結。展開 LinkedIn 的重新導向鏈，在點擊前查看專業網絡分享的真實目的地 - 這對於在商業環境中避免釣魚詐騙至關重要。"
+    },
+    "amazonCleaner": {
+      "title": "Amazon 連結清理器",
+      "description": "從產品網址中移除聯盟標籤參數和追蹤 ID，以清理 Amazon 連結。移除 Amazon 的 \"tag\" 參數，以便在購物或分享優惠時，獲取沒有聯盟追蹤或廣告技術剖析的直接產品頁面連結。"
+    },
+    "googleCleaner": {
+      "title": "Google 連結清理器",
+      "description": "從搜尋結果和廣告點擊中移除 gclid 追蹤參數，以清理 Google 連結。移除 Google 點擊識別碼，在點擊搜尋結果、Google 廣告或 Gmail 連結時保護你的私隱，免受跨網站追蹤監控。"
+    },
+    "shortLinkExpander": {
+      "title": "短網址展開器 (bit.ly, TinyURL)",
+      "description": "展開 bit.ly、TinyURL、t.co、rb.gy 及其他網址縮短服務背後的短連結，以揭示其真實目的地。Clean Links 會追蹤重新導向鏈，在點擊前向你顯示最終網址 - 這對於偵測隱藏在短網址背後的釣魚連結至關重要。"
+    },
+    "utmRemover": {
+      "title": "移除 UTM 追蹤參數",
+      "description": "從市場推廣連結和電郵宣傳中移除 UTM 參數 (utm_source, utm_medium, utm_campaign)。Clean Links 會自動移除活動追蹤碼，防止廣告網絡跨網站和平台剖析你的瀏覽行為。"
+    },
+    "qrGenerator": {
+      "title": "QR 碼產生器",
+      "description": "從任何網址移除追蹤器後，產生乾淨的 QR 碼。Clean Links 會建立保障私隱安全的 QR 碼，非常適合與朋友分享、印在名片上或在社交媒體上發布 - 確保接收者獲得可安全掃描的無追蹤器連結。"
+    },
+    "macMenuBar": {
+      "title": "Mac 選單列剪貼簿監控",
+      "description": "在 Mac 選單列中執行 Clean Links，並啟用自動剪貼簿監控。你複製的每個網址都會被即時清理、展開並移除追蹤器 - 所有操作均在裝置上完成，為你的 macOS 工作流程提供全面的私隱保障，無需手動操作。"
     }
   },
   "faq": {

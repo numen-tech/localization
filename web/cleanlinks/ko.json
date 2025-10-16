@@ -72,74 +72,70 @@
   },
   "useCases": {
     "title": "사용 사례 및 실제 적용",
-    "description": "QR 코드 피싱 방지부터 개인 정보 보호 작업 흐름 자동화까지, Clean Links는 17가지 주요 시나리오를 통해 iPhone, iPad, Mac에서의 디지털 생활에 맞춰 조정됩니다.",
-    "ecommerce": {
-      "title": "이커머스 쇼핑",
-      "description": "Clean Links는 제휴 및 마케팅 추적(예: Amazon \"tag\" 매개변수, 제휴 ID)을 제거하여 광고 기술 프로파일링 없이 판매자가 의도한 그대로의 제품 페이지를 볼 수 있도록 합니다."
-    },
-    "socialMedia": {
-      "title": "소셜 미디어 링크",
-      "description": "Facebook \"fbclid\", Twitter \"t.co\", Instagram \"l.instagram.com\" 리디렉션, LinkedIn \"lnkd.in\", TikTok 단축기 등에서 UTM 및 기타 캠페인 태그를 제거하여 탭하기 전에 실제 URL 미리보기를 제공합니다."
-    },
-    "searchEngine": {
-      "title": "검색 엔진 결과",
-      "description": "Google \"gclid\", Bing \"msclkid\", Yahoo 추적 토큰 및 유사한 매개변수를 제거하여 검색 결과를 클릭하는 것이 직접 URL을 입력하는 것처럼 느껴지게 합니다."
-    },
-    "advertising": {
-      "title": "광고 링크",
-      "description": "배너 광고, 이메일 프로모션, 유료 검색 랜딩 페이지에서 추적 매개변수를 제거하여 보이지 않는 광고 네트워크가 사용자를 프로파일링하는 것을 방지합니다."
-    },
-    "restaurantMenus": {
-      "title": "레스토랑 메뉴 및 현장 QR 코드",
-      "description": "디지털 메뉴(또는 공공장소의 코드)에 접속하기 전에 전체 링크를 확인하여 결제를 사기꾼에게 리디렉션하는 가짜 \"큐싱\" 스티커를 피하세요."
-    },
-    "eventTickets": {
-      "title": "이벤트 티켓 및 탑승권",
-      "description": "페스티벌 티켓, 탑승권 또는 컨퍼런스 배지의 QR 코드가 위조된 피싱 사이트가 아닌 공식 URL을 가리키는지 확인하세요."
-    },
-    "paymentCodes": {
-      "title": "결제 지점 코드 (주차 미터기, 대중교통, 자판기)",
-      "description": "공공 결제 QR 코드를 스캔하여 사기성 결제 수집 사이트가 아닌, 올바른 도시 또는 공급업체가 승인한 포털로 연결되는지 확인하세요."
-    },
-    "emailSms": {
-      "title": "이메일/SMS QR 첨부 파일",
-      "description": "예상치 못한 \"배송 실패\" 또는 \"계정 문제\" 메시지에 포함된 코드를 검사하여 악성 리디렉션을 차단하세요."
-    },
-    "shortLinks": {
-      "title": "Bit.ly, TinyURL, t.co, rb.gy",
-      "description": "클라이언트 또는 플랫폼 측에서 단축된 링크를 확장하고 미리보기를 통해 bit.ly/PayPal-update 또는 t.co/UD3p5uZH17가 어디로 연결될지 미리 알 수 있습니다."
-    },
-    "redirectChains": {
-      "title": "다중 리디렉션 체인",
-      "description": "리디렉션 시퀀스를 추적하고 축소하여 CAPTCHA 페이지나 계층화된 단축기로 인한 혼동을 방지하고 최종 목적지를 확인합니다."
-    },
-    "platformWrapped": {
-      "title": "플랫폼 래핑 링크",
-      "description": "Facebook/Instagram의 Link Shim, Twitter/X의 t.co, LinkedIn의 lnkd.in, YouTube의 리디렉션 페이지 등 뒤에 숨겨진 실제 URL을 확인하여 맹목적으로 클릭하지 않도록 하세요."
-    },
-    "emailForwarding": {
-      "title": "이메일 또는 메신저 전달",
-      "description": "동료나 친구에게 전달하기 전에 붙여넣은 URL을 정리하여 추적 매개변수 없는 \"깨끗한\" 링크를 제공하세요."
-    },
-    "marketingPosts": {
-      "title": "마케팅 및 소셜 미디어 게시물",
-      "description": "정리된 링크로 새로운 QR 코드를 생성하여 인쇄된 전단지, 포스터 또는 온라인 캠페인에 사용하여 고객에게 개인 정보 보호 우선 경험을 제공하세요."
-    },
-    "businessCards": {
-      "title": "명함 QR 코드",
-      "description": "인쇄물에 추적기 없는 짧은 QR 코드를 만들어, 모든 스캔이 지정된 랜딩 페이지로 정확하게 연결되도록 하세요."
-    },
+    "description": "QR 코드 피싱 방지부터 Facebook, X, YouTube, TikTok, Instagram, LinkedIn, Amazon 링크 정리까지, Clean Links는 iPhone, iPad, Mac의 모든 플랫폼에서 사용자의 개인정보를 보호합니다.",
     "shareSheet": {
-      "title": "공유 시트 확장 프로그램",
-      "description": "Safari, Mail, X, LinkedIn (및 iOS 공유 시트를 지원하는 모든 앱) 내에서 Clean Links를 호출하여 한 번의 탭으로 링크를 정리하세요."
+      "title": "공유 시트 연동",
+      "description": "Clean Links는 Safari, Mail, X, YouTube, LinkedIn 및 모든 앱의 iOS 공유 시트와 연동됩니다. '공유'를 탭하고 Clean Links를 선택하면, 친구나 동료에게 전달하기 전에 모든 링크에서 즉시 추적기를 제거할 수 있습니다. 모든 앱에서 개인정보를 보호하세요."
     },
     "controlCenter": {
-      "title": "제어 센터 타일",
-      "description": "제어 센터에 빠른 접근 버튼을 추가하여 iOS 어디에서나 클립보드 URL을 정리하거나 QR 코드를 스캔하세요."
+      "title": "제어 센터 빠른 접근",
+      "description": "iPhone, iPad, Mac의 제어 센터에 Clean Links를 추가하여 탭 한 번으로 링크를 정리하세요. 어디서든 즉시 QR 코드 스캐너를 사용하거나 클립보드의 URL을 정리할 수 있습니다. 동작 버튼에 할당하여 가장 빠른 개인정보 보호 작업 흐름을 만들어 보세요."
     },
     "shortcuts": {
-      "title": "단축어 및 Siri 통합",
-      "description": "Apple 단축어 내에서 링크 정리 또는 QR 생성을 자동화하거나 Siri를 통해(\"Siri야, 내 링크 정리해줘\") 호출하여 일상에 개인 정보 보호를 통합하세요."
+      "title": "단축어 및 Siri 자동화",
+      "description": "Apple 단축어와 Siri 음성 명령으로 링크 정리를 자동화하세요. \"Siri야, 내 링크 정리해 줘\" 같은 명령으로 클립보드 링크를 정리하거나 QR 코드를 생성하는 등 URL을 처리하는 작업 흐름을 만들어, 개인정보 보호를 일상에 자연스럽게 통합해 보세요."
+    },
+    "stopPhishing": {
+      "title": "QR 코드 피싱(큐싱) 방지",
+      "description": "QR 코드를 열기 전에 목적지를 미리 확인하여 피싱 공격을 막으세요. Clean Links는 레스토랑 메뉴, 주차 요금 정산기, 이벤트 티켓, 이메일 첨부 파일 뒤에 숨겨진 실제 URL을 공개하여, 가짜 결제 사이트로 연결되는 악성 \"큐싱\" 사기로부터 사용자를 보호합니다."
+    },
+    "facebookCleaner": {
+      "title": "Facebook 링크 클리너",
+      "description": "fbclid 추적 파라미터와 l.facebook.com 리디렉션을 자동으로 제거하여 Facebook 링크를 정리합니다. 모든 공유 링크에서 Facebook의 추적 식별자를 제거하여, Facebook 게시물을 보거나 Facebook Messenger에서 링크를 공유할 때 개인정보를 보호합니다."
+    },
+    "xTwitterCleaner": {
+      "title": "X (Twitter) 링크 클리너",
+      "description": "t.co 단축 URL을 확장하여 실제 목적지를 보여줌으로써 X 및 Twitter 링크를 정리합니다. X (Twitter) 리디렉션 체인을 펼쳐 추적 파라미터를 제거하고, 탭하기 전에 링크가 실제로 어디로 연결되는지 확인하세요. X와 Twitter에서 피싱을 피하기 위해 꼭 필요한 기능입니다."
+    },
+    "youtubeCleaner": {
+      "title": "YouTube 링크 클리너",
+      "description": "YouTube가 공유 동영상 링크에 추가하는 si 추적 파라미터를 제거하여 YouTube 링크를 정리합니다. YouTube의 공유 추적 코드를 제거하면, 누가 동영상을 공유했는지 추적하는 si 파라미터 없이 깨끗한 youtube.com/watch URL을 얻을 수 있습니다."
+    },
+    "tiktokCleaner": {
+      "title": "TikTok 링크 클리너",
+      "description": "TikTok 동영상 공유 및 단축 링크에서 추적 파라미터를 제거하여 TikTok 링크를 정리합니다. TikTok의 참여 추적 코드를 제거하여, 플랫폼에서 사용자의 공유 활동을 감시하지 않고 동영상으로 바로 연결되는 깨끗한 URL을 확인하세요."
+    },
+    "instagramCleaner": {
+      "title": "Instagram 링크 클리너",
+      "description": "igshid 추적 파라미터와 l.instagram.com 리디렉션을 제거하여 Instagram 링크를 정리합니다. 링크에서 Instagram 공유 식별자를 제거하여, Meta의 교차 플랫폼 추적 없이 Instagram 게시물, 릴스 또는 스토리를 공유할 때 개인정보를 보호하세요."
+    },
+    "linkedinCleaner": {
+      "title": "LinkedIn 링크 클리너",
+      "description": "lnkd.in 단축 URL을 확장하고 추적 파라미터를 제거하여 LinkedIn 링크를 정리합니다. LinkedIn의 리디렉션 체인을 펼쳐 클릭하기 전에 공유된 링크의 실제 목적지를 확인하세요. 비즈니스 환경에서 피싱을 피하는 데 매우 중요합니다."
+    },
+    "amazonCleaner": {
+      "title": "Amazon 링크 클리너",
+      "description": "상품 URL에서 제휴사 태그 파라미터와 추적 ID를 제거하여 Amazon 링크를 정리합니다. Amazon의 \"tag\" 파라미터를 제거하면, 쇼핑하거나 딜을 공유할 때 제휴사 추적이나 광고 기술 프로파일링 없이 상품 페이지로 바로 연결되는 링크를 얻을 수 있습니다."
+    },
+    "googleCleaner": {
+      "title": "Google 링크 클리너",
+      "description": "검색 결과 및 광고 클릭에서 gclid 추적 파라미터를 제거하여 Google 링크를 정리합니다. Google 클릭 식별자를 제거하여, 검색 결과, Google Ads 또는 Gmail 링크를 클릭할 때 교차 사이트 추적 감시 없이 개인정보를 보호하세요."
+    },
+    "shortLinkExpander": {
+      "title": "단축 링크 확장기 (bit.ly, TinyURL)",
+      "description": "bit.ly, TinyURL, t.co, rb.gy 및 기타 URL 단축 서비스 뒤에 숨겨진 실제 목적지를 보려면 단축 링크를 확장하세요. Clean Links는 리디렉션 체인을 따라가 탭하기 전에 최종 URL을 보여주므로, 단축 링크 뒤에 숨겨진 피싱 링크를 탐지하는 데 필수적입니다."
+    },
+    "utmRemover": {
+      "title": "UTM 추적 파라미터 제거",
+      "description": "마케팅 링크 및 이메일 프로모션에서 UTM 파라미터(utm_source, utm_medium, utm_campaign)를 제거하세요. Clean Links는 캠페인 추적 코드를 자동으로 제거하여, 광고 네트워크가 여러 웹사이트와 플랫폼에서 사용자의 브라우징 행동을 프로파일링하는 것을 방지합니다."
+    },
+    "qrGenerator": {
+      "title": "QR 코드 생성기",
+      "description": "추적기를 제거한 URL로 깨끗한 QR 코드를 생성하세요. Clean Links는 친구와 공유하거나, 명함에 인쇄하거나, 소셜 미디어에 게시하기에 완벽한 개인정보 보호 QR 코드를 만듭니다. 이를 통해 수신자는 추적기 없는 링크를 안전하게 스캔할 수 있습니다."
+    },
+    "macMenuBar": {
+      "title": "Mac 메뉴 막대 클립보드 모니터링",
+      "description": "자동 클립보드 모니터링 기능으로 Mac 메뉴 막대에서 Clean Links를 실행하세요. 복사하는 모든 URL은 즉시 정리되고, 단축이 풀리며, 추적기가 제거됩니다. 모든 작업이 기기 내에서 처리되어 수동 개입 없이 macOS 작업 흐름 속에서 완벽한 개인정보 보호를 보장합니다."
     }
   },
   "faq": {

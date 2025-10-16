@@ -72,74 +72,70 @@
   },
   "useCases": {
     "title": "Cazuri de utilizare și aplicații în lumea reală",
-    "description": "De la protecția împotriva phishingului prin coduri QR la automatizarea fluxurilor de lucru pentru confidențialitate, Clean Links se adaptează vieții tale digitale pe iPhone, iPad și Mac în 17 scenarii cheie.",
-    "ecommerce": {
-      "title": "Cumpărături e-commerce",
-      "description": "Clean Links elimină urmărirea de afiliere și marketing (de ex. parametrii „tag” de la Amazon, ID-urile de afiliat) astfel încât să vedeți o pagină de produs exact așa cum a intenționat comerciantul, fără profilare ad-tech."
-    },
-    "socialMedia": {
-      "title": "Linkuri de pe rețelele sociale",
-      "description": "Eliminați etichetele UTM și alte etichete de campanie din redirecționările Facebook „fbclid”, Twitter „t.co”, Instagram „l.instagram.com”, LinkedIn „lnkd.in”, shortener-ele TikTok etc., oferind o previzualizare reală a URL-ului înainte de a atinge."
-    },
-    "searchEngine": {
-      "title": "Rezultatele motoarelor de căutare",
-      "description": "Eliminați tokenurile de urmărire Google „gclid”, Bing „msclkid”, Yahoo și alți parametri similari, astfel încât clicurile pe rezultatele căutării să pară la fel de directe ca tastarea URL-ului."
-    },
-    "advertising": {
-      "title": "Linkuri publicitare",
-      "description": "Curățați parametrii de urmărire din bannere publicitare, promoții prin e-mail și pagini de destinație din căutări plătite pentru a preveni rețelele de publicitate invizibile să vă profileze."
-    },
-    "restaurantMenus": {
-      "title": "Meniuri de restaurant și coduri QR la fața locului",
-      "description": "Înainte de a ajunge pe un meniu digital (sau orice cod din spațiul public), vedeți linkul complet - evitând autocolantele false de „quishing” care redirecționează plățile către escroci."
-    },
-    "eventTickets": {
-      "title": "Bilete la evenimente și cărți de îmbarcare",
-      "description": "Verificați dacă codul QR de pe biletul dvs. la festival, cartea de îmbarcare sau ecusonul de conferință duce cu adevărat la URL-ul oficial, și nu la un site de phishing falsificat."
-    },
-    "paymentCodes": {
-      "title": "Coduri la puncte de plată (parcometre, transport public, automate)",
-      "description": "Verifică codurile QR pentru plăți publice pentru a confirma că duc la portalul corect al orașului sau la cel aprobat de furnizor, nu la un colector de plăți fraudulos."
-    },
-    "emailSms": {
-      "title": "Atașamente QR în e-mail/SMS",
-      "description": "Inspectați codurile încorporate în mesaje neașteptate de „livrare eșuată” sau „problemă de cont” pentru a dejuca redirecționările malițioase."
-    },
-    "shortLinks": {
-      "title": "Bit.ly, TinyURL, t.co, rb.gy",
-      "description": "Extindeți și previzualizați orice link scurtat pe partea clientului sau a platformei, astfel încât să știți dinainte unde vă va duce bit.ly/PayPal-update sau t.co/UD3p5uZH17."
-    },
-    "redirectChains": {
-      "title": "Lanțuri de redirecționări multiple",
-      "description": "Urmăriți și restrângeți secvențe de redirecționări - prevenind ascunderea prin pagini CAPTCHA sau shortener-e stratificate - până la destinația finală."
-    },
-    "platformWrapped": {
-      "title": "Linkuri împachetate de platforme",
-      "description": "Dezvăluiți URL-ul real din spatele Link Shim de la Facebook/Instagram, t.co de la Twitter/X, lnkd.in de la LinkedIn, paginile de redirecționare YouTube etc., astfel încât să nu dați niciodată clic orbește."
-    },
-    "emailForwarding": {
-      "title": "Redirecționare prin e-mail sau mesagerie",
-      "description": "Curățați URL-urile lipite înainte de a le redirecționa către colegi sau prieteni - astfel încât aceștia să primească un link „curat” fără parametri de urmărire."
-    },
-    "marketingPosts": {
-      "title": "Postări de marketing și social-media",
-      "description": "Generați un nou cod QR din orice link curățat pentru fluturași, postere sau campanii online - oferind publicului o experiență axată pe confidențialitate."
-    },
-    "businessCards": {
-      "title": "Coduri QR pe cărți de vizită",
-      "description": "Creează coduri QR scurte și fără trackere pe materialele tale tipărite, asigurându-te că fiecare scanare duce exact la pagina ta de destinație specificată."
-    },
+    "description": "De la oprirea tentativelor de phishing prin coduri QR până la curățarea linkurilor de pe Facebook, X, YouTube, TikTok, Instagram, LinkedIn și Amazon, Clean Links îți protejează confidențialitatea pe toate platformele, pe iPhone, iPad și Mac.",
     "shareSheet": {
-      "title": "Extensia Share-Sheet",
-      "description": "Invocați Clean Links din Safari, Mail, X, LinkedIn (și orice aplicație care suportă foile de partajare iOS) pentru a curăța linkurile cu o singură atingere."
+      "title": "Integrare cu meniul Partajare",
+      "description": "Clean Links se integrează cu meniul Partajare din iOS în Safari, Mail, X, YouTube, LinkedIn și orice altă aplicație. Atinge Partajați, selectează Clean Links și elimină instantaneu trackerele din orice link înainte de a-l redirecționa prietenilor sau colegilor - protecția confidențialității în fiecare aplicație."
     },
     "controlCenter": {
-      "title": "Element în Centrul de control",
-      "description": "Adaugă un buton de acces rapid în Centrul de control pentru a curăța URL-ul din clipboard sau a scana un cod QR oriunde în iOS."
+      "title": "Acces rapid din Centrul de control",
+      "description": "Adaugă Clean Links în Centrul de control pe iPhone, iPad și Mac pentru curățarea linkurilor cu o singură atingere. Accesează instantaneu cititorul de coduri QR sau curăță URL-urile din clipboard de oriunde - sau atribuie-l butonului Acțiune pentru cel mai rapid flux de lucru pentru protecția confidențialității."
     },
     "shortcuts": {
-      "title": "Integrare cu Scurtături și Siri",
-      "description": "Automatizați curățarea linkurilor sau generarea de coduri QR în Scurtături Apple sau apelați prin Siri („Hey Siri, curăță-mi linkul”), integrând confidențialitatea în rutinele zilnice."
+      "title": "Scurtături și automatizare cu Siri",
+      "description": "Automatizează curățarea linkurilor cu Scurtături Apple și comenzi vocale Siri. Creează fluxuri de lucru care curăță linkurile din clipboard, generează coduri QR sau procesează URL-uri cu \"Hey Siri, curăță-mi linkul\" - integrând perfect protecția confidențialității în rutinele tale zilnice."
+    },
+    "stopPhishing": {
+      "title": "Oprește phishingul prin coduri QR (Quishing)",
+      "description": "Oprește atacurile de phishing previzualizând destinațiile codurilor QR înainte de a le deschide. Clean Links dezvăluie URL-ul real din spatele meniurilor de restaurant, parcometrelor, biletelor la evenimente și atașamentelor de e-mail, protejându-te de înșelătoriile malițioase de tip \"quishing\" care te redirecționează către site-uri de plată false."
+    },
+    "facebookCleaner": {
+      "title": "Curățător de linkuri Facebook",
+      "description": "Curăță linkurile de pe Facebook eliminând automat parametrii de urmărire fbclid și redirecționările l.facebook.com. Elimină identificatorii de urmărire ai Facebook din fiecare link partajat, protejându-ți confidențialitatea atunci când navighezi prin postările de pe Facebook sau partajezi linkuri din Facebook Messenger."
+    },
+    "xTwitterCleaner": {
+      "title": "Curățător de linkuri X (Twitter)",
+      "description": "Curăță linkurile de pe X și Twitter dezvăluind URL-urile scurtate t.co pentru a afișa destinațiile reale. Extinde lanțurile de redirecționare de pe X (Twitter), elimină parametrii de urmărire și vezi unde duc de fapt linkurile înainte de a le accesa - esențial pentru a evita phishingul pe X și Twitter."
+    },
+    "youtubeCleaner": {
+      "title": "Curățător de linkuri YouTube",
+      "description": "Curăță linkurile YouTube eliminând parametrul de urmărire 'si' pe care YouTube îl adaugă la linkurile video partajate. Elimină codurile de urmărire a partajărilor de pe YouTube pentru a obține URL-uri curate de tip youtube.com/watch, fără parametrul 'si' care urmărește cine a partajat videoclipul."
+    },
+    "tiktokCleaner": {
+      "title": "Curățător de linkuri TikTok",
+      "description": "Curăță linkurile TikTok eliminând parametrii de urmărire din partajările video și linkurile scurte de pe TikTok. Elimină codurile de urmărire a interacțiunilor de pe TikTok pentru a dezvălui URL-uri curate care duc direct la videoclipuri, fără supravegherea comportamentului tău de partajare pe platformă."
+    },
+    "instagramCleaner": {
+      "title": "Curățător de linkuri Instagram",
+      "description": "Curăță linkurile Instagram eliminând parametrii de urmărire igshid și redirecționările l.instagram.com. Elimină Identificatorii de Partajare Instagram din linkuri, protejându-ți confidențialitatea atunci când partajezi postări, Reel-uri sau Story-uri de pe Instagram, fără urmărirea multi-platformă a Meta."
+    },
+    "linkedinCleaner": {
+      "title": "Curățător de linkuri LinkedIn",
+      "description": "Curăță linkurile LinkedIn extinzând URL-urile scurtate lnkd.in și eliminând parametrii de urmărire. Dezvăluie lanțurile de redirecționare de pe LinkedIn pentru a vedea destinația reală a partajărilor din rețeaua profesională înainte de a da clic - crucial pentru a evita phishingul în contexte de afaceri."
+    },
+    "amazonCleaner": {
+      "title": "Curățător de linkuri Amazon",
+      "description": "Curăță linkurile Amazon eliminând parametrii de etichetă afiliat și ID-urile de urmărire din URL-urile produselor. Elimină parametrii \"tag\" ai Amazon pentru a obține linkuri directe către paginile de produs, fără urmărire de afiliat sau profilare ad-tech atunci când faci cumpărături sau partajezi oferte."
+    },
+    "googleCleaner": {
+      "title": "Curățător de linkuri Google",
+      "description": "Curăță linkurile Google eliminând parametrii de urmărire gclid din rezultatele căutării și clicurile pe reclame. Elimină Identificatorii de Clic Google pentru a-ți proteja confidențialitatea atunci când dai clic pe rezultatele căutării, pe Google Ads sau pe linkuri din Gmail, fără supravegherea urmăririi pe mai multe site-uri."
+    },
+    "shortLinkExpander": {
+      "title": "Extindere linkuri scurte (bit.ly, TinyURL)",
+      "description": "Extinde linkurile scurte pentru a dezvălui destinația reală din spatele bit.ly, TinyURL, t.co, rb.gy și altor servicii de scurtare a URL-urilor. Clean Links urmărește lanțurile de redirecționare pentru a-ți arăta URL-ul final înainte de a-l accesa - esențial pentru a detecta linkurile de phishing ascunse în spatele linkurilor scurte."
+    },
+    "utmRemover": {
+      "title": "Elimină parametrii de urmărire UTM",
+      "description": "Elimină parametrii UTM (utm_source, utm_medium, utm_campaign) din linkurile de marketing și promoțiile prin e-mail. Clean Links elimină automat codurile de urmărire a campaniilor, împiedicând rețelele de publicitate să-ți profileze comportamentul de navigare pe site-uri și platforme."
+    },
+    "qrGenerator": {
+      "title": "Generator de coduri QR",
+      "description": "Generează coduri QR curate din orice URL, după eliminarea trackerelor. Clean Links creează coduri QR sigure pentru confidențialitate, perfecte pentru a le partaja cu prietenii, a le tipări pe cărți de vizită sau a le posta pe rețelele sociale - asigurând că destinatarii primesc linkuri fără trackere pe care le pot scana în siguranță."
+    },
+    "macMenuBar": {
+      "title": "Monitorizare clipboard din bara de meniu Mac",
+      "description": "Rulează Clean Links în bara de meniu a Mac-ului cu monitorizare automată a clipboardului. Fiecare URL pe care îl copiezi este curățat instantaneu, extins și eliberat de trackere - totul pe dispozitiv pentru confidențialitate totală în fluxul tău de lucru pe macOS, fără intervenție manuală."
     }
   },
   "faq": {
