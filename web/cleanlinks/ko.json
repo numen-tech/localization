@@ -211,19 +211,59 @@
     },
     "sendToMacVsAirdrop": {
       "question": "'Mac으로 보내기'는 AirDrop보다 어떤 점이 더 좋은가요?",
-      "answer": "'Mac으로 보내기'는 Mac이 오프라인이거나 잠자기 상태일 때, 또는 같은 네트워크에 있지 않을 때도 작동하며 AirDrop보다 훨씬 빠릅니다. 링크는 기본 브라우저에서 백그라운드로 열리므로 놓칠 염려가 없습니다. 반면 AirDrop은 두 기기가 모두 켜져 있고, 가까이 있으며, 같은 네트워크에 연결되어 있어야 하므로 실제 사용 시 종종 실패하곤 합니다."
+      "answer": "Mac이 잠자기 상태이거나 연결 범위 밖에 있을 때도 작동하며, 백그라운드에서 조용히 링크를 엽니다. 매번 안정적으로 전송되며 연결 문제나 기다릴 필요가 없습니다."
     },
     "sendToMacVsIcloudTabs": {
-      "question": "'Mac으로 보내기'는 iCloud 탭이나 Safari 읽기 목록보다 어떤 점이 더 좋은가요?",
-      "answer": "'Mac으로 보내기'는 Safari뿐만 아니라 모든 앱의 공유 시트를 통해 작동하며, Mac의 모든 브라우저를 지원합니다. 링크가 기본 브라우저에 새 탭으로 자동으로 열리기 때문에 놓칠 일이 없습니다. 긴 탭 목록이나 읽기 목록 항목을 일일이 찾아다닐 필요가 없으며, 동기화를 위해 iOS 기기에서 탭을 계속 열어둘 필요도 없습니다."
+      "question": "Send to Mac이 <icloudTabsLink>iCloud 탭</icloudTabsLink>보다 나은 점은 무엇인가요?",
+      "answer": "Safari뿐만 아니라 공유 시트가 있는 모든 앱에서 작동합니다. 링크가 브라우저 탭으로 자동 열려 놓칠 일이 없습니다. 동기화된 긴 탭 목록을 뒤질 필요가 없으며, Mac의 모든 브라우저를 지원합니다."
     },
     "sendToMacMultipleMacs": {
       "question": "여러 대의 Mac으로 링크를 보낼 수 있나요?",
       "answer": "네. macOS용 Clean Links가 설치되어 있고 동일한 Apple 계정으로 로그인되어 있다면, 사용자의 모든 Mac으로 링크를 보낼 수 있습니다. 특정 Mac을 제외하고 싶다면 해당 Mac의 앱 설정에서 링크 수신을 비활성화할 수 있습니다."
     },
     "sendToMacShortcuts": {
-      "question": "Clean Links를 사용하여 iPhone에서 Mac 단축어를 실행할 수 있나요?",
-      "answer": "네. Clean Links를 사용하여 iOS 기기에서 Mac의 단축어를 실행할 수 있습니다. 이 강력한 기기 간 자동화 기능으로 iPhone과 Mac을 넘나드는 워크플로를 구축할 수 있습니다. 예를 들어, 링크를 전송하여 Mac 단축어를 실행하고 해당 링크를 추가로 처리하도록 하는 것이 가능합니다."
+      "question": "Send to Mac을 단축어와 함께 사용할 수 있나요?",
+      "answer": "네. 핵심 공유 기능이 앱 인텐트(App Intent)로 제공되어, 기기 간 단축어 및 자동화를 쉽게 만들 수 있습니다."
+    },
+    "sendToMacVsSafariTabGroups": {
+      "question": "Send to Mac이 Safari 탭 그룹보다 나은 점은 무엇인가요?",
+      "answer": "Safari뿐만 아니라 모든 앱에서 작동합니다. iOS 기기에서 탭을 열어 둘 필요 없이 Mac의 모든 브라우저를 지원합니다."
+    },
+    "sendToMacVsSafariReadingList": {
+      "question": "Send to Mac이 Safari 읽기 목록보다 나은 점은 무엇인가요?",
+      "answer": "링크가 브라우저에서 자동으로 열려 놓칠 일이 없습니다. 쌓여있는 목록을 검색할 필요가 없으며, 모든 브라우저를 지원합니다."
+    },
+    "sendToMacVsHandoff": {
+      "question": "Send to Mac이 <handoffLink>Handoff</handoffLink>보다 나은 점은 무엇인가요?",
+      "answer": "Clean Links는 기기가 가까이 있을 때 Handoff를 지원하지만, Mac이 잠자기 상태이거나 연결 범위 밖에 있을 때도 작동합니다. 공유 시트가 있는 모든 앱과 브라우저를 지원하고, 백그라운드에서 자동으로 링크를 열며, 매번 안정적으로 작동합니다."
+    },
+    "sendToMacVsUniversalClipboard": {
+      "question": "Send to Mac이 <universalClipboardLink>유니버설 클립보드</universalClipboardLink>보다 나은 점은 무엇인가요?",
+      "answer": "링크가 자동으로 열리므로 직접 붙여넣을 필요가 없습니다. Mac이 잠자기 상태이거나 연결 범위 밖에 있을 때도 작동하며, 즉시 전송됩니다."
+    },
+    "sendToMacVsImessage": {
+      "question": "Send to Mac이 iMessage보다 나은 점은 무엇인가요?",
+      "answer": "메시지를 확인할 필요 없이 브라우저에서 링크가 자동으로 열립니다. 백그라운드에서 조용히 열리므로 하던 작업을 계속할 수 있습니다."
+    },
+    "sendToMacVsEmail": {
+      "question": "Send to Mac이 이메일보다 나은 점은 무엇인가요?",
+      "answer": "받은 편지함을 확인할 필요 없이 링크가 자동으로 열립니다. 백그라운드에서 조용히 열리며 받은 편지함을 깨끗하게 유지해 줍니다."
+    },
+    "sendToMacVsPushbullet": {
+      "question": "Send to Mac이 <pushbulletLink>Pushbullet</pushbulletLink>보다 나은 점은 무엇인가요?",
+      "answer": "모든 공유 시트에서 작동하는 네이티브 iOS 및 macOS 앱입니다. 별도 계정 없이 설치만 하면 바로 사용할 수 있습니다."
+    },
+    "sendToMacVsFirefoxSendTabs": {
+      "question": "Send to Mac이 Firefox <firefoxSendTabsLink>탭 보내기</firefoxSendTabsLink>보다 나은 점은 무엇인가요?",
+      "answer": "Firefox뿐만 아니라 모든 앱에서 작동하며, 더 적은 탭으로 Mac의 모든 브라우저를 지원합니다."
+    },
+    "sendToMacVsFirefoxTabSync": {
+      "question": "Send to Mac이 Firefox 탭 동기화보다 나은 점은 무엇인가요?",
+      "answer": "Firefox뿐만 아니라 공유 시트가 있는 모든 앱에서 작동합니다. iOS 기기에서 탭을 열어 둘 필요 없이 모든 브라우저를 지원합니다."
+    },
+    "sendToMacVsHyperduck": {
+      "question": "Send to Mac이 <hyperduckLink>HyperDuck</hyperduckLink>보다 나은 점은 무엇인가요?",
+      "answer": "완전 무료이며 37개 언어를 지원합니다. 여러 대의 Mac을 자동으로 지원하고 Mac 간 공유 기능도 포함하며, 단순한 공유를 넘어 완벽한 링크 정리 및 난독화 해제 기능까지 제공합니다."
     }
   },
   "cta": {

@@ -211,19 +211,59 @@
     },
     "sendToMacVsAirdrop": {
       "question": "En quoi l'envoi au Mac est-il meilleur qu'AirDrop ?",
-      "answer": "L'envoi au Mac fonctionne lorsque votre Mac est hors ligne ou en veille, lorsque vous n'êtes pas sur le même réseau, et est bien plus rapide qu'AirDrop. Les liens s'ouvrent en arrière-plan dans votre navigateur par défaut, vous ne risquez donc pas de les manquer. AirDrop nécessite que les deux appareils soient allumés, à proximité et sur le même réseau, ce qui échoue souvent en pratique."
+      "answer": "Fonctionne même lorsque votre Mac est en veille ou hors de portée, ouvre les liens silencieusement en arrière-plan et les envoie de manière fiable à chaque fois. Aucun problème de connexion ni d'attente."
     },
     "sendToMacVsIcloudTabs": {
-      "question": "En quoi l'envoi au Mac est-il meilleur que les Onglets iCloud ou la Liste de lecture Safari ?",
-      "answer": "L'envoi au Mac fonctionne dans n'importe quelle app via les feuilles de partage, pas seulement dans Safari. Les liens s'ouvrent automatiquement comme de nouveaux onglets dans votre navigateur par défaut, vous ne pouvez donc pas les manquer. Vous n'avez pas besoin de chercher dans une longue liste d'onglets ou d'éléments de la liste de lecture. Il prend en charge n'importe quel navigateur sur votre Mac, pas seulement Safari. Vous n'avez pas non plus besoin de garder l'onglet ouvert sur votre appareil iOS pour qu'il se synchronise."
+      "question": "En quoi Envoyer vers le Mac est-il meilleur que les <icloudTabsLink>Onglets iCloud</icloudTabsLink> ?",
+      "answer": "Fonctionne depuis n'importe quelle app avec une feuille de partage, pas seulement Safari. Les liens s'ouvrent automatiquement comme des onglets de navigateur - vous ne pouvez pas les manquer. Pas besoin de chercher dans de longues listes d'onglets synchronisés, et prend en charge n'importe quel navigateur sur votre Mac."
     },
     "sendToMacMultipleMacs": {
       "question": "Puis-je envoyer des liens à plusieurs Mac ?",
       "answer": "Oui. Vous pouvez envoyer des liens à tous vos Mac tant que Clean Links pour macOS est installé dessus et qu'ils sont connectés au même compte Apple. Vous pouvez désactiver la réception de liens dans les réglages de l'application macOS si vous souhaitez exclure un Mac spécifique."
     },
     "sendToMacShortcuts": {
-      "question": "Puis-je déclencher des raccourcis Mac depuis mon iPhone avec Clean Links ?",
-      "answer": "Oui. Vous pouvez utiliser Clean Links pour déclencher des raccourcis sur votre Mac depuis votre appareil iOS. Cette puissante automatisation multi-appareils vous permet de créer des flux de travail qui s'étendent à votre iPhone et votre Mac, comme l'envoi d'un lien qui déclenche un raccourci Mac pour un traitement plus poussé."
+      "question": "Puis-je utiliser Envoyer vers le Mac avec Raccourcis ?",
+      "answer": "Oui. La fonctionnalité de partage principale est disponible en tant qu'App Intent, ce qui facilite la création de raccourcis et d'automatisations multi-appareils."
+    },
+    "sendToMacVsSafariTabGroups": {
+      "question": "En quoi Envoyer vers le Mac est-il meilleur que les Groupes d'onglets Safari ?",
+      "answer": "Fonctionne depuis n'importe quelle app, pas seulement Safari. Prend en charge n'importe quel navigateur sur votre Mac sans exiger que vous gardiez des onglets ouverts sur votre appareil iOS."
+    },
+    "sendToMacVsSafariReadingList": {
+      "question": "En quoi Envoyer vers le Mac est-il meilleur que la Liste de lecture de Safari ?",
+      "answer": "Les liens s'ouvrent automatiquement dans votre navigateur - vous ne pouvez pas les manquer. Pas de recherche dans des listes accumulées, et prend en charge n'importe quel navigateur."
+    },
+    "sendToMacVsHandoff": {
+      "question": "En quoi Envoyer vers le Mac est-il meilleur que <handoffLink>Handoff</handoffLink> ?",
+      "answer": "Clean Links inclut la prise en charge de Handoff lorsque les appareils sont à proximité, mais fonctionne aussi lorsque votre Mac est en veille ou hors de portée. Prend en charge n'importe quelle app avec une feuille de partage et n'importe quel navigateur, ouvre les liens automatiquement en arrière-plan et fonctionne de manière fiable à chaque fois."
+    },
+    "sendToMacVsUniversalClipboard": {
+      "question": "En quoi Envoyer vers le Mac est-il meilleur que le <universalClipboardLink>Presse-papiers universel</universalClipboardLink> ?",
+      "answer": "Les liens s'ouvrent automatiquement - aucun collage manuel requis. Fonctionne même lorsque votre Mac est en veille ou hors de portée, et l'envoi est instantané."
+    },
+    "sendToMacVsImessage": {
+      "question": "En quoi Envoyer vers le Mac est-il meilleur qu'iMessage ?",
+      "answer": "Les liens s'ouvrent automatiquement dans votre navigateur sans avoir à consulter vos messages. S'ouvre silencieusement en arrière-plan pour que vous puissiez continuer ce que vous faites."
+    },
+    "sendToMacVsEmail": {
+      "question": "En quoi Envoyer vers le Mac est-il meilleur que l'e-mail ?",
+      "answer": "Les liens s'ouvrent automatiquement sans consulter votre boîte de réception. S'ouvre silencieusement en arrière-plan et garde votre boîte de réception propre."
+    },
+    "sendToMacVsPushbullet": {
+      "question": "En quoi Envoyer vers le Mac est-il meilleur que <pushbulletLink>Pushbullet</pushbulletLink> ?",
+      "answer": "Applications natives iOS et macOS qui fonctionnent depuis n'importe quelle feuille de partage. Aucun compte supplémentaire requis - il suffit d'installer et d'utiliser."
+    },
+    "sendToMacVsFirefoxSendTabs": {
+      "question": "En quoi Envoyer vers le Mac est-il meilleur que la fonction <firefoxSendTabsLink>Envoyer l'onglet</firefoxSendTabsLink> de Firefox ?",
+      "answer": "Fonctionne depuis n'importe quelle app, pas seulement Firefox. Prend en charge n'importe quel navigateur sur votre Mac avec moins de manipulations requises."
+    },
+    "sendToMacVsFirefoxTabSync": {
+      "question": "En quoi Envoyer vers le Mac est-il meilleur que la synchronisation d'onglets de Firefox ?",
+      "answer": "Fonctionne depuis n'importe quelle app avec une feuille de partage, pas seulement Firefox. Prend en charge n'importe quel navigateur sans exiger que vous gardiez des onglets ouverts sur votre appareil iOS."
+    },
+    "sendToMacVsHyperduck": {
+      "question": "En quoi Envoyer vers le Mac est-il meilleur que <hyperduckLink>HyperDuck</hyperduckLink> ?",
+      "answer": "Entièrement gratuit avec la prise en charge de 37 langues. Prend en charge automatiquement plusieurs Mac, inclut le partage de Mac à Mac, et offre un nettoyage complet et une désobfuscation des liens, au-delà du simple partage."
     }
   },
   "cta": {

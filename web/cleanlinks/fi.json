@@ -211,19 +211,59 @@
     },
     "sendToMacVsAirdrop": {
       "question": "Miten Send to Mac on parempi kuin AirDrop?",
-      "answer": "Send to Mac toimii, kun Macisi on offline-tilassa tai lepotilassa, kun et ole samassa verkossa, ja on paljon nopeampi kuin AirDrop. Linkit avautuvat oletusselaimeesi taustalla, joten ne eivät jää sinulta huomaamatta. AirDrop vaatii, että molemmat laitteet ovat hereillä, lähellä toisiaan ja samassa verkossa, mikä usein epäonnistuu käytännössä."
+      "answer": "Toimii, vaikka Macisi on lepotilassa tai kantaman ulkopuolella, avaa linkit äänettömästi taustalla ja toimii luotettavasti joka kerta. Ei yhteysongelmia tai odottelua."
     },
     "sendToMacVsIcloudTabs": {
-      "question": "Miten Send to Mac on parempi kuin iCloud-välilehdet tai Safarin lukulista?",
-      "answer": "Send to Mac toimii missä tahansa sovelluksessa jakovalikon kautta, ei vain Safarissa. Linkit avautuvat automaattisesti uusina välilehtinä oletusselaimeesi, joten et voi olla huomaamatta niitä. Sinun ei tarvitse etsiä niitä pitkästä välilehtien tai lukulistan kohteiden luettelosta. Se tukee mitä tahansa selainta Macissasi, ei vain Safaria. Sinun ei myöskään tarvitse pitää välilehteä auki iOS-laitteessasi, jotta se synkronoituisi."
+      "question": "Miten Lähetä Maciin on parempi kuin <icloudTabsLink>iCloud-välilehdet</icloudTabsLink>?",
+      "answer": "Toimii kaikista jakovalikon sisältävistä sovelluksista, ei vain Safarista. Linkit avautuvat automaattisesti selaimen välilehdiksi - et voi olla huomaamatta niitä. Ei tarvitse etsiä pitkistä synkronoitujen välilehtien luetteloista, ja se tukee mitä tahansa selainta Macillasi."
     },
     "sendToMacMultipleMacs": {
       "question": "Voinko lähettää linkkejä useisiin Maceihin?",
       "answer": "Kyllä. Voit lähettää linkkejä kaikkiin Maceihisi, kunhan niihin on asennettu Clean Links for macOS ja ne on kirjattu samalle Apple-tilille. Voit poistaa linkkien vastaanoton käytöstä macOS-sovelluksen asetuksista, jos haluat jättää tietyn Macin ulkopuolelle."
     },
     "sendToMacShortcuts": {
-      "question": "Voinko käynnistää Macin pikakomennot iPhonesta Clean Linksin avulla?",
-      "answer": "Kyllä. Clean Linksin avulla voit käynnistää pikakomentoja Macissasi iOS-laitteestasi. Tämä tehokas laitteidenvälinen automaatio antaa sinun rakentaa työnkulkuja, jotka ulottuvat iPhonen ja Macin välille, esimerkiksi lähettämällä linkin, joka käynnistää Macin pikakomennon jatkokäsittelemään sitä."
+      "question": "Voinko käyttää Lähetä Maciin -toimintoa Oikotiet-sovelluksen kanssa?",
+      "answer": "Kyllä. Jakotoiminnon ydin on saatavilla App Intent -muodossa, mikä tekee laitteiden välisten oikoteiden ja automaatioiden rakentamisesta helppoa."
+    },
+    "sendToMacVsSafariTabGroups": {
+      "question": "Miten Lähetä Maciin on parempi kuin Safarin välilehtiryhmät?",
+      "answer": "Toimii kaikista sovelluksista, ei vain Safarista. Tukee mitä tahansa selainta Macillasi ilman, että sinun tarvitsee pitää välilehtiä auki iOS-laitteellasi."
+    },
+    "sendToMacVsSafariReadingList": {
+      "question": "Miten Lähetä Maciin on parempi kuin Safarin lukulista?",
+      "answer": "Linkit avautuvat automaattisesti selaimessasi - et voi olla huomaamatta niitä. Ei tarvitse etsiä kertyneistä luetteloista, ja se tukee mitä tahansa selainta."
+    },
+    "sendToMacVsHandoff": {
+      "question": "Miten Lähetä Maciin on parempi kuin <handoffLink>Handoff</handoffLink>?",
+      "answer": "Clean Links sisältää Handoff-tuen, kun laitteet ovat lähellä toisiaan, mutta toimii myös, kun Macisi on lepotilassa tai kantaman ulkopuolella. Se tukee kaikkia jakovalikon sisältäviä sovelluksia ja mitä tahansa selainta, avaa linkit automaattisesti taustalla ja toimii luotettavasti joka kerta."
+    },
+    "sendToMacVsUniversalClipboard": {
+      "question": "Miten Lähetä Maciin on parempi kuin <universalClipboardLink>Yleinen leikepöytä</universalClipboardLink>?",
+      "answer": "Linkit avautuvat automaattisesti - manuaalista liittämistä ei tarvita. Toimii, vaikka Macisi on lepotilassa tai kantaman ulkopuolella, ja saapuu perille välittömästi."
+    },
+    "sendToMacVsImessage": {
+      "question": "Miten Lähetä Maciin on parempi kuin iMessage?",
+      "answer": "Linkit avautuvat automaattisesti selaimessasi ilman, että sinun tarvitsee tarkistaa viestejä. Avautuu äänettömästi taustalla, joten voit jatkaa sitä, mitä olit tekemässä."
+    },
+    "sendToMacVsEmail": {
+      "question": "Miten Lähetä Maciin on parempi kuin sähköposti?",
+      "answer": "Linkit avautuvat automaattisesti ilman, että sinun tarvitsee tarkistaa sähköpostiasi. Avautuu äänettömästi taustalla ja pitää saapuneet-kansiosi siistinä."
+    },
+    "sendToMacVsPushbullet": {
+      "question": "Miten Lähetä Maciin on parempi kuin <pushbulletLink>Pushbullet</pushbulletLink>?",
+      "answer": "Natiivit iOS- ja macOS-sovellukset, jotka toimivat kaikista jakovalikoista. Ei vaadi erillistä tiliä - asenna ja käytä."
+    },
+    "sendToMacVsFirefoxSendTabs": {
+      "question": "Miten Lähetä Maciin on parempi kuin Firefoxin <firefoxSendTabsLink>Lähetä välilehtiä</firefoxSendTabsLink> -toiminto?",
+      "answer": "Toimii kaikista sovelluksista, ei vain Firefoxista. Tukee mitä tahansa selainta Macillasi ja vaatii vähemmän napautuksia."
+    },
+    "sendToMacVsFirefoxTabSync": {
+      "question": "Miten Lähetä Maciin on parempi kuin Firefoxin välilehtien synkronointi?",
+      "answer": "Toimii kaikista jakovalikon sisältävistä sovelluksista, ei vain Firefoxista. Tukee mitä tahansa selainta ilman, että sinun tarvitsee pitää välilehtiä auki iOS-laitteellasi."
+    },
+    "sendToMacVsHyperduck": {
+      "question": "Miten Lähetä Maciin on parempi kuin <hyperduckLink>HyperDuck</hyperduckLink>?",
+      "answer": "Täysin ilmainen ja tukee 37 kieltä. Tukee automaattisesti useita Maceja, sisältää jakamisen Macien välillä ja tarjoaa pelkän jakamisen lisäksi täyden linkkien puhdistuksen ja hämäyksen poiston."
     }
   },
   "cta": {

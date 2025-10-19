@@ -211,19 +211,59 @@
     },
     "sendToMacVsAirdrop": {
       "question": "Em que é que o Envio para o Mac é melhor que o AirDrop?",
-      "answer": "O Envio para o Mac funciona quando o seu Mac está offline ou em suspensão, quando não está na mesma rede, e é muito mais rápido que o AirDrop. Os links abrem no seu navegador predefinido em segundo plano, para que não lhe escapem. O AirDrop exige que ambos os dispositivos estejam ativos, próximos e na mesma rede, o que muitas vezes falha na prática."
+      "answer": "Funciona mesmo quando o seu Mac está em suspensão ou fora de alcance, abre links silenciosamente em segundo plano e funciona sempre de forma fiável. Sem problemas de ligação ou esperas."
     },
     "sendToMacVsIcloudTabs": {
-      "question": "Em que é que o Envio para o Mac é melhor que os Separadores do iCloud ou a Lista de Leitura do Safari?",
-      "answer": "O Envio para o Mac funciona em qualquer aplicação através das folhas de partilha, não apenas no Safari. Os links abrem automaticamente como novos separadores no seu navegador predefinido, para que não lhe escapem. Não precisa de procurar numa longa lista de separadores ou itens da lista de leitura. Suporta qualquer navegador no seu Mac, não apenas o Safari. Também não precisa de manter o separador aberto no seu dispositivo iOS para que seja sincronizado."
+      "question": "Em que é que o Send to Mac é melhor do que os <icloudTabsLink>Separadores do iCloud</icloudTabsLink>?",
+      "answer": "Funciona a partir de qualquer app com um menu de partilha, não apenas do Safari. Os links abrem-se automaticamente como separadores no navegador - é impossível perdê-los. Não precisa de procurar em longas listas de separadores sincronizados e é compatível com qualquer navegador no seu Mac."
     },
     "sendToMacMultipleMacs": {
       "question": "Posso enviar links para vários Macs?",
       "answer": "Sim. Pode enviar links para todos os seus Macs desde que tenha o Clean Links para macOS instalado neles e tenham a sessão iniciada na mesma conta Apple. Pode desativar a receção de links nas definições da aplicação para macOS se quiser excluir um Mac específico."
     },
     "sendToMacShortcuts": {
-      "question": "Posso acionar atalhos do Mac a partir do meu iPhone usando o Clean Links?",
-      "answer": "Sim. Pode usar o Clean Links para acionar atalhos no seu Mac a partir do seu dispositivo iOS. Esta poderosa automação entre dispositivos permite-lhe criar fluxos de trabalho que abrangem o seu iPhone e Mac, como enviar um link que aciona um atalho do Mac para o processar posteriormente."
+      "question": "Posso usar o Send to Mac com os Atalhos?",
+      "answer": "Sim. A funcionalidade principal de partilha está disponível como uma App Intent, o que facilita a criação de atalhos e automações entre dispositivos."
+    },
+    "sendToMacVsSafariTabGroups": {
+      "question": "Em que é que o Send to Mac é melhor do que os Grupos de Separadores do Safari?",
+      "answer": "Funciona a partir de qualquer app, não apenas do Safari. É compatível com qualquer navegador no seu Mac sem exigir que mantenha os separadores abertos no seu dispositivo iOS."
+    },
+    "sendToMacVsSafariReadingList": {
+      "question": "Em que é que o Send to Mac é melhor do que a Lista de Leitura do Safari?",
+      "answer": "Os links abrem-se automaticamente no seu navegador - é impossível perdê-los. Não precisa de pesquisar em listas acumuladas e é compatível com qualquer navegador."
+    },
+    "sendToMacVsHandoff": {
+      "question": "Em que é que o Send to Mac é melhor do que o <handoffLink>Handoff</handoffLink>?",
+      "answer": "O Clean Links inclui suporte para Handoff quando os dispositivos estão próximos, mas também funciona quando o seu Mac está em suspensão ou fora de alcance. É compatível com qualquer app com um menu de partilha e qualquer navegador, abre links automaticamente em segundo plano e funciona sempre de forma fiável."
+    },
+    "sendToMacVsUniversalClipboard": {
+      "question": "Em que é que o Send to Mac é melhor do que o <universalClipboardLink>Clipboard Universal</universalClipboardLink>?",
+      "answer": "Os links abrem-se automaticamente - não é necessário colar manualmente. Funciona mesmo quando o seu Mac está em suspensão ou fora de alcance e a entrega é instantânea."
+    },
+    "sendToMacVsImessage": {
+      "question": "Em que é que o Send to Mac é melhor do que o iMessage?",
+      "answer": "Os links abrem-se automaticamente no seu navegador sem ter de ver as mensagens. Abre silenciosamente em segundo plano para que possa continuar o que está a fazer."
+    },
+    "sendToMacVsEmail": {
+      "question": "Em que é que o Send to Mac é melhor do que o e-mail?",
+      "answer": "Os links abrem-se automaticamente sem ter de verificar a sua caixa de entrada. Abre silenciosamente em segundo plano e mantém a sua caixa de entrada limpa."
+    },
+    "sendToMacVsPushbullet": {
+      "question": "Em que é que o Send to Mac é melhor do que o <pushbulletLink>Pushbullet</pushbulletLink>?",
+      "answer": "Aplicações nativas para iOS e macOS que funcionam a partir de qualquer menu de partilha. Não é necessária nenhuma conta adicional - basta instalar e usar."
+    },
+    "sendToMacVsFirefoxSendTabs": {
+      "question": "Em que é que o Send to Mac é melhor do que a função <firefoxSendTabsLink>Send Tabs</firefoxSendTabsLink> do Firefox?",
+      "answer": "Funciona a partir de qualquer app, não apenas do Firefox. É compatível com qualquer navegador no seu Mac e exige menos toques."
+    },
+    "sendToMacVsFirefoxTabSync": {
+      "question": "Em que é que o Send to Mac é melhor do que a sincronização de separadores do Firefox?",
+      "answer": "Funciona a partir de qualquer app com um menu de partilha, não apenas do Firefox. É compatível com qualquer navegador sem exigir que mantenha os separadores abertos no seu dispositivo iOS."
+    },
+    "sendToMacVsHyperduck": {
+      "question": "Em que é que o Send to Mac é melhor do que o <hyperduckLink>HyperDuck</hyperduckLink>?",
+      "answer": "Totalmente gratuito com suporte para 37 idiomas. Suporta automaticamente vários Macs, inclui partilha de Mac para Mac e oferece limpeza e desofuscação completas de links, para além da simples partilha."
     }
   },
   "cta": {

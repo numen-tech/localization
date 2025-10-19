@@ -211,19 +211,59 @@
     },
     "sendToMacVsAirdrop": {
       "question": "How is Send to Mac better than AirDrop?",
-      "answer": "Send to Mac works when your Mac is offline or asleep, when you are not on the same network, and is much faster than AirDrop. Links open in your default browser in the background, so you won't miss them. AirDrop requires both devices to be awake, nearby, and on the same network, which often fails in practice."
+      "answer": "Works even when your Mac is asleep or out of range, opens links silently in the background and delivers reliably every time. No connection issues or waiting."
     },
     "sendToMacVsIcloudTabs": {
-      "question": "How is Send to Mac better than iCloud Tabs or Safari Reading List?",
-      "answer": "Send to Mac works in any app via share sheets, not just Safari. Links open as new tabs in your default browser automatically, so you cannot miss them. You don't need to hunt through a long list of tabs or reading list items. It supports any browser on your Mac, not just Safari. You also don't need to keep the tab open on your iOS device for it to sync."
+      "question": "How is Send to Mac better than <icloudTabsLink>iCloud Tabs</icloudTabsLink>?",
+      "answer": "Works from any app with a share sheet, not just Safari. Links open automatically as browser tabs - you can't miss them. No hunting through long lists of synced tabs, and supports any browser on your Mac."
     },
     "sendToMacMultipleMacs": {
       "question": "Can I send links to multiple Macs?",
       "answer": "Yes. You can send links to all your Macs as long as you have Clean Links for macOS installed on them and they are signed into the same Apple account. You can disable receiving links in the macOS app's settings if you want to exclude a specific Mac."
     },
     "sendToMacShortcuts": {
-      "question": "Can I trigger Mac shortcuts from my iPhone using Clean Links?",
-      "answer": "Yes. You can use Clean Links to trigger shortcuts on your Mac from your iOS device. This powerful cross-device automation lets you build workflows that span your iPhone and Mac, such as sending a link that triggers a Mac shortcut to process it further."
+      "question": "Can I use Send to Mac with Shortcuts?",
+      "answer": "Yes. The core sharing functionality is available as an App Intent, making it easy to build cross-device shortcuts and automation."
+    },
+    "sendToMacVsSafariTabGroups": {
+      "question": "How is Send to Mac better than Safari Tab Groups?",
+      "answer": "Works from any app, not just Safari. Supports any browser on your Mac without requiring you to keep tabs open on your iOS device."
+    },
+    "sendToMacVsSafariReadingList": {
+      "question": "How is Send to Mac better than Safari Reading List?",
+      "answer": "Links open automatically in your browser - you can't miss them. No searching through accumulated lists, and supports any browser."
+    },
+    "sendToMacVsHandoff": {
+      "question": "How is Send to Mac better than <handoffLink>Handoff</handoffLink>?",
+      "answer": "Clean Links includes Handoff support when devices are nearby, but also works when your Mac is asleep or out of range. Supports any app with a share sheet and any browser, opens links automatically in the background and works reliably every time."
+    },
+    "sendToMacVsUniversalClipboard": {
+      "question": "How is Send to Mac better than <universalClipboardLink>Universal Clipboard</universalClipboardLink>?",
+      "answer": "Links open automatically - no manual pasting required. Works even when your Mac is asleep or out of range, and delivers instantly."
+    },
+    "sendToMacVsImessage": {
+      "question": "How is Send to Mac better than iMessage?",
+      "answer": "Links open automatically in your browser without checking messages. Opens silently in the background so you can continue what you're doing."
+    },
+    "sendToMacVsEmail": {
+      "question": "How is Send to Mac better than email?",
+      "answer": "Links open automatically without checking your inbox. Opens silently in the background and keeps your inbox clean."
+    },
+    "sendToMacVsPushbullet": {
+      "question": "How is Send to Mac better than <pushbulletLink>Pushbullet</pushbulletLink>?",
+      "answer": "Native iOS and macOS apps that work from any share sheet. No additional account required - just install and use."
+    },
+    "sendToMacVsFirefoxSendTabs": {
+      "question": "How is Send to Mac better than Firefox <firefoxSendTabsLink>Send Tabs</firefoxSendTabsLink>?",
+      "answer": "Works from any app, not just Firefox. Supports any browser on your Mac with fewer taps required."
+    },
+    "sendToMacVsFirefoxTabSync": {
+      "question": "How is Send to Mac better than Firefox tab sync?",
+      "answer": "Works from any app with a share sheet, not just Firefox. Supports any browser without requiring you to keep tabs open on your iOS device."
+    },
+    "sendToMacVsHyperduck": {
+      "question": "How is Send to Mac better than <hyperduckLink>HyperDuck</hyperduckLink>?",
+      "answer": "Completely free with support for 37 languages. Automatically supports multiple Macs, includes Mac-to-Mac sharing, and provides full link cleanup and deobfuscation beyond just sharing."
     }
   },
   "cta": {

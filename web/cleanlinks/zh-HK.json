@@ -211,19 +211,59 @@
     },
     "sendToMacVsAirdrop": {
       "question": "\"傳送到 Mac\" 功能如何比 AirDrop 優勝？",
-      "answer": "\"傳送到 Mac\" 功能在你的 Mac 離線、休眠或連接到不同網絡時都能運作，而且比 AirDrop 快得多。連結會在背景的預設瀏覽器中自動開啟，確保你不會錯過。相反，AirDrop 要求兩部裝置都必須處於喚醒狀態、在附近，並連接到相同網絡，這在實際使用中經常失敗。"
+      "answer": "即使你的 Mac 處於睡眠或超出範圍，連結仍可在背景靜默開啟，每次都能可靠傳送。沒有連線問題，無需等待。"
     },
     "sendToMacVsIcloudTabs": {
-      "question": "\"傳送到 Mac\" 功能如何比 iCloud 分頁或 Safari 閱讀列表優勝？",
-      "answer": "\"傳送到 Mac\" 功能可透過分享表單在任何應用程式中使用，不限於 Safari。連結會自動在你的預設瀏覽器中以新分頁開啟，讓你不會錯過。你無需在長長的分頁列表或閱讀列表中費時尋找。此功能支援你 Mac 上的任何瀏覽器，不限於 Safari。你亦無需在 iOS 裝置上保持分頁開啟來進行同步。"
+      "question": "Send to Mac 與 <icloudTabsLink>iCloud 分頁</icloudTabsLink> 相比有何優勝之處？",
+      "answer": "不僅限於 Safari，可從任何具備分享表單的 app 使用。連結會自動以瀏覽器分頁開啟——你絕不會錯過。無需在長長的同步分頁列表中尋找，並支援你 Mac 上的任何瀏覽器。"
     },
     "sendToMacMultipleMacs": {
       "question": "我可以將連結傳送到多部 Mac 嗎？",
       "answer": "可以。只要你的所有 Mac 都安裝了 Clean Links for macOS，並登入相同的 Apple 帳戶，你就可以將連結傳送到所有這些裝置。如果你想排除某部特定的 Mac，可以在其 macOS 應用程式的設定中停用接收連結功能。"
     },
     "sendToMacShortcuts": {
-      "question": "我可以使用 Clean Links 從 iPhone 觸發 Mac 上的捷徑嗎？",
-      "answer": "可以。你可以使用 Clean Links 從 iOS 裝置觸發 Mac 上的捷徑。這項強大的跨裝置自動化功能讓你能夠建立橫跨 iPhone 和 Mac 的工作流程，例如傳送一個連結來觸發 Mac 上的捷徑，以作進一步處理。"
+      "question": "我可以將 Send to Mac 與捷徑一同使用嗎？",
+      "answer": "可以。核心分享功能以 App Intent 形式提供，讓你輕鬆建立跨裝置捷徑和自動化操作。"
+    },
+    "sendToMacVsSafariTabGroups": {
+      "question": "Send to Mac 與 Safari 分頁群組相比有何優勝之處？",
+      "answer": "不僅限於 Safari，可從任何 app 使用。支援你 Mac 上的任何瀏覽器，且無需在你的 iOS 裝置上保持分頁開啟。"
+    },
+    "sendToMacVsSafariReadingList": {
+      "question": "Send to Mac 與 Safari 閱讀列表相比有何優勝之處？",
+      "answer": "連結會自動在你的瀏覽器中開啟——你絕不會錯過。無需在累積的列表中搜尋，並支援任何瀏覽器。"
+    },
+    "sendToMacVsHandoff": {
+      "question": "Send to Mac 與 <handoffLink>接力</handoffLink> 相比有何優勝之處？",
+      "answer": "當裝置在附近時，Clean Links 支援接力功能，但即使你的 Mac 處於睡眠或超出範圍，它也同樣運作。支援任何具備分享表單的 app 和任何瀏覽器，能在背景自動開啟連結，並且每次都能可靠運作。"
+    },
+    "sendToMacVsUniversalClipboard": {
+      "question": "Send to Mac 與 <universalClipboardLink>通用剪貼板</universalClipboardLink> 相比有何優勝之處？",
+      "answer": "連結會自動開啟——無需手動貼上。即使你的 Mac 處於睡眠或超出範圍，也能運作並即時傳送。"
+    },
+    "sendToMacVsImessage": {
+      "question": "Send to Mac 與 iMessage 相比有何優勝之處？",
+      "answer": "連結會自動在瀏覽器中開啟，無需查看訊息。它會在背景靜默開啟，讓你可繼續專注目前的工作。"
+    },
+    "sendToMacVsEmail": {
+      "question": "Send to Mac 與電郵相比有何優勝之處？",
+      "answer": "連結會自動開啟，無需檢查你的收件箱。它會在背景靜默開啟，並保持你的收件箱整潔。"
+    },
+    "sendToMacVsPushbullet": {
+      "question": "Send to Mac 與 <pushbulletLink>Pushbullet</pushbulletLink> 相比有何優勝之處？",
+      "answer": "原生 iOS 和 macOS app，可從任何分享表單使用。無需額外帳戶——只需安裝即可使用。"
+    },
+    "sendToMacVsFirefoxSendTabs": {
+      "question": "Send to Mac 與 Firefox <firefoxSendTabsLink>傳送分頁</firefoxSendTabsLink> 相比有何優勝之處？",
+      "answer": "不僅限於 Firefox，可從任何 app 使用。支援你 Mac 上的任何瀏覽器，而且所需點擊次數更少。"
+    },
+    "sendToMacVsFirefoxTabSync": {
+      "question": "Send to Mac 與 Firefox 分頁同步相比有何優勝之處？",
+      "answer": "不僅限於 Firefox，可從任何具備分享表單的 app 使用。支援任何瀏覽器，且無需在你的 iOS 裝置上保持分頁開啟。"
+    },
+    "sendToMacVsHyperduck": {
+      "question": "Send to Mac 與 <hyperduckLink>HyperDuck</hyperduckLink> 相比有何優勝之處？",
+      "answer": "完全免費，支援 37 種語言。自動支援多部 Mac，包含 Mac 之間的分享功能，而且除了分享外，還提供全面的連結清理和反混淆功能。"
     }
   },
   "cta": {

@@ -211,19 +211,59 @@
     },
     "sendToMacVsAirdrop": {
       "question": "Waarom is Stuur naar Mac beter dan AirDrop?",
-      "answer": "Stuur naar Mac werkt als je Mac offline is of in de sluimerstand staat, wanneer je niet op hetzelfde netwerk zit, en is veel sneller dan AirDrop. Links openen op de achtergrond in je standaardbrowser, zodat je ze niet kunt missen. Voor AirDrop moeten beide apparaten actief, in de buurt en op hetzelfde netwerk zijn, wat in de praktijk vaak mislukt."
+      "answer": "Werkt zelfs als je Mac in de sluimerstand staat of buiten bereik is, opent links stil op de achtergrond en werkt altijd betrouwbaar. Geen verbindingsproblemen of wachttijd."
     },
     "sendToMacVsIcloudTabs": {
-      "question": "Waarom is Stuur naar Mac beter dan iCloud-tabbladen of de Safari-leeslijst?",
-      "answer": "Stuur naar Mac werkt in elke app via het deelmenu, niet alleen in Safari. Links openen automatisch als nieuwe tabbladen in je standaardbrowser, dus je kunt ze niet missen. Je hoeft geen lange lijst met tabbladen of leeslijstitems door te spitten. Het ondersteunt elke browser op je Mac, niet alleen Safari. Je hoeft het tabblad ook niet open te houden op je iOS-apparaat om te synchroniseren."
+      "question": "Hoe is Stuur naar Mac beter dan <icloudTabsLink>iCloud-tabbladen</icloudTabsLink>?",
+      "answer": "Werkt vanuit elke app met een Deel-menu, niet alleen Safari. Links openen automatisch als browsertabbladen - die kun je niet missen. Je hoeft niet te zoeken in lange lijsten met gesynchroniseerde tabbladen en het ondersteunt elke browser op je Mac."
     },
     "sendToMacMultipleMacs": {
       "question": "Kan ik links sturen naar meerdere Macs?",
       "answer": "Ja. Je kunt links sturen naar al je Macs zolang je Clean Links voor macOS erop hebt geïnstalleerd en ze zijn ingelogd op hetzelfde Apple-account. Je kunt het ontvangen van links uitschakelen in de instellingen van de macOS-app als je een specifieke Mac wilt uitsluiten."
     },
     "sendToMacShortcuts": {
-      "question": "Kan ik Mac-opdrachten activeren vanaf mijn iPhone met Clean Links?",
-      "answer": "Ja. Je kunt Clean Links gebruiken om opdrachten op je Mac te activeren vanaf je iOS-apparaat. Met deze krachtige automatisering tussen apparaten kun je workflows bouwen die je iPhone en Mac overspannen, zoals het sturen van een link die een Mac-opdracht activeert om deze verder te verwerken."
+      "question": "Kan ik Stuur naar Mac gebruiken met Opdrachten?",
+      "answer": "Ja. De kernfunctionaliteit voor delen is beschikbaar als een App Intent, waardoor het eenvoudig is om cross-device opdrachten en automatiseringen te bouwen."
+    },
+    "sendToMacVsSafariTabGroups": {
+      "question": "Hoe is Stuur naar Mac beter dan Safari-tabgroepen?",
+      "answer": "Werkt vanuit elke app, niet alleen Safari. Ondersteunt elke browser op je Mac zonder dat je tabbladen open hoeft te houden op je iOS-apparaat."
+    },
+    "sendToMacVsSafariReadingList": {
+      "question": "Hoe is Stuur naar Mac beter dan de Leeslijst van Safari?",
+      "answer": "Links openen automatisch in je browser - die kun je niet missen. Je hoeft niet te zoeken in verzamelde lijsten en het ondersteunt elke browser."
+    },
+    "sendToMacVsHandoff": {
+      "question": "Hoe is Stuur naar Mac beter dan <handoffLink>Handoff</handoffLink>?",
+      "answer": "Clean Links heeft Handoff-ondersteuning als apparaten in de buurt zijn, maar werkt ook als je Mac in de sluimerstand staat of buiten bereik is. Het ondersteunt elke app met een Deel-menu en elke browser, opent links automatisch op de achtergrond en werkt altijd betrouwbaar."
+    },
+    "sendToMacVsUniversalClipboard": {
+      "question": "Hoe is Stuur naar Mac beter dan <universalClipboardLink>Universeel klembord</universalClipboardLink>?",
+      "answer": "Links openen automatisch - handmatig plakken is niet nodig. Werkt zelfs als je Mac in de sluimerstand staat of buiten bereik is, en komt direct aan."
+    },
+    "sendToMacVsImessage": {
+      "question": "Hoe is Stuur naar Mac beter dan iMessage?",
+      "answer": "Links openen automatisch in je browser zonder dat je berichten hoeft te checken. Het opent stil op de achtergrond, zodat je kunt doorgaan met waar je mee bezig was."
+    },
+    "sendToMacVsEmail": {
+      "question": "Hoe is Stuur naar Mac beter dan e-mail?",
+      "answer": "Links openen automatisch zonder dat je je inbox hoeft te checken. Het opent stil op de achtergrond en houdt je inbox schoon."
+    },
+    "sendToMacVsPushbullet": {
+      "question": "Hoe is Stuur naar Mac beter dan <pushbulletLink>Pushbullet</pushbulletLink>?",
+      "answer": "Native iOS- en macOS-apps die werken vanuit elk Deel-menu. Geen extra account nodig - gewoon installeren en gebruiken."
+    },
+    "sendToMacVsFirefoxSendTabs": {
+      "question": "Hoe is Stuur naar Mac beter dan <firefoxSendTabsLink>Tabbladen verzenden</firefoxSendTabsLink> van Firefox?",
+      "answer": "Werkt vanuit elke app, niet alleen Firefox. Ondersteunt elke browser op je Mac en vereist minder tikken."
+    },
+    "sendToMacVsFirefoxTabSync": {
+      "question": "Hoe is Stuur naar Mac beter dan de tabbladsynchronisatie van Firefox?",
+      "answer": "Werkt vanuit elke app met een Deel-menu, niet alleen Firefox. Ondersteunt elke browser zonder dat je tabbladen open hoeft te houden op je iOS-apparaat."
+    },
+    "sendToMacVsHyperduck": {
+      "question": "Hoe is Stuur naar Mac beter dan <hyperduckLink>HyperDuck</hyperduckLink>?",
+      "answer": "Volledig gratis met ondersteuning voor 37 talen. Ondersteunt automatisch meerdere Macs, inclusief delen van Mac naar Mac, en biedt volledige linkopschoning en de-obfuscatie, wat verder gaat dan alleen delen."
     }
   },
   "cta": {

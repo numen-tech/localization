@@ -211,19 +211,59 @@
     },
     "sendToMacVsAirdrop": {
       "question": "Varför är Skicka till Mac bättre än AirDrop?",
-      "answer": "Skicka till Mac fungerar när din Mac är offline eller i viloläge, när ni inte är på samma nätverk, och är mycket snabbare än AirDrop. Länkar öppnas i din standardwebbläsare i bakgrunden, så att du inte missar dem. AirDrop kräver att båda enheterna är vakna, i närheten och på samma nätverk, vilket ofta misslyckas i praktiken."
+      "answer": "Fungerar även när din Mac är i viloläge eller utom räckhåll, öppnar länkar tyst i bakgrunden och levererar pålitligt varje gång. Inga anslutningsproblem eller väntetider."
     },
     "sendToMacVsIcloudTabs": {
-      "question": "Varför är Skicka till Mac bättre än iCloud-flikar eller Safaris läslista?",
-      "answer": "Skicka till Mac fungerar i alla appar via delningsmenyn, inte bara i Safari. Länkar öppnas automatiskt som nya flikar i din standardwebbläsare, så att du inte kan missa dem. Du behöver inte leta igenom en lång lista med flikar eller objekt i läslistan. Det stöder alla webbläsare på din Mac, inte bara Safari. Du behöver inte heller ha fliken öppen på din iOS-enhet för att den ska synkroniseras."
+      "question": "Hur är Skicka till Mac bättre än <icloudTabsLink>iCloud Tabs</icloudTabsLink>?",
+      "answer": "Fungerar från alla appar med en delningsmeny, inte bara Safari. Länkar öppnas automatiskt som flikar i webbläsaren - du kan inte missa dem. Inget letande i långa listor med synkade flikar, och stöder alla webbläsare på din Mac."
     },
     "sendToMacMultipleMacs": {
       "question": "Kan jag skicka länkar till flera Mac-datorer?",
       "answer": "Ja. Du kan skicka länkar till alla dina Mac-datorer så länge du har Clean Links för macOS installerat på dem och de är inloggade på samma Apple-konto. Du kan inaktivera mottagning av länkar i macOS-appens inställningar om du vill exkludera en specifik Mac."
     },
     "sendToMacShortcuts": {
-      "question": "Kan jag aktivera Mac-genvägar från min iPhone med Clean Links?",
-      "answer": "Ja. Du kan använda Clean Links för att aktivera genvägar på din Mac från din iOS-enhet. Denna kraftfulla automatisering mellan enheter låter dig bygga arbetsflöden som sträcker sig över din iPhone och Mac, som att skicka en länk som aktiverar en Mac-genväg för att bearbeta den vidare."
+      "question": "Kan jag använda Skicka till Mac med Genvägar?",
+      "answer": "Ja. Kärnfunktionen för delning är tillgänglig som en App Intent, vilket gör det enkelt att bygga genvägar och automatiseringar mellan enheter."
+    },
+    "sendToMacVsSafariTabGroups": {
+      "question": "Hur är Skicka till Mac bättre än Safari Tab Groups?",
+      "answer": "Fungerar från alla appar, inte bara Safari. Stöder alla webbläsare på din Mac utan att du behöver ha flikar öppna på din iOS-enhet."
+    },
+    "sendToMacVsSafariReadingList": {
+      "question": "Hur är Skicka till Mac bättre än Safaris Läslista?",
+      "answer": "Länkar öppnas automatiskt i din webbläsare - du kan inte missa dem. Inget sökande i långa listor, och stöder alla webbläsare."
+    },
+    "sendToMacVsHandoff": {
+      "question": "Hur är Skicka till Mac bättre än <handoffLink>Handoff</handoffLink>?",
+      "answer": "Clean Links har stöd för Handoff när enheterna är i närheten, men fungerar även när din Mac är i viloläge eller utom räckhåll. Stöder alla appar med en delningsmeny och alla webbläsare, öppnar länkar automatiskt i bakgrunden och fungerar pålitligt varje gång."
+    },
+    "sendToMacVsUniversalClipboard": {
+      "question": "Hur är Skicka till Mac bättre än <universalClipboardLink>Universella urklipp</universalClipboardLink>?",
+      "answer": "Länkar öppnas automatiskt - ingen manuell inklistring krävs. Fungerar även när din Mac är i viloläge eller utom räckhåll och levererar omedelbart."
+    },
+    "sendToMacVsImessage": {
+      "question": "Hur är Skicka till Mac bättre än iMessage?",
+      "answer": "Länkar öppnas automatiskt i din webbläsare utan att du behöver kolla dina meddelanden. De öppnas tyst i bakgrunden så att du kan fortsätta med det du gör."
+    },
+    "sendToMacVsEmail": {
+      "question": "Hur är Skicka till Mac bättre än e-post?",
+      "answer": "Länkar öppnas automatiskt utan att du behöver kolla din inkorg. De öppnas tyst i bakgrunden och håller din inkorg ren."
+    },
+    "sendToMacVsPushbullet": {
+      "question": "Hur är Skicka till Mac bättre än <pushbulletLink>Pushbullet</pushbulletLink>?",
+      "answer": "Nativa appar för iOS och macOS som fungerar från alla delningsmenyer. Inget extra konto krävs - bara installera och använd."
+    },
+    "sendToMacVsFirefoxSendTabs": {
+      "question": "Hur är Skicka till Mac bättre än Firefox <firefoxSendTabsLink>Send Tabs</firefoxSendTabsLink>?",
+      "answer": "Fungerar från alla appar, inte bara Firefox. Stöder alla webbläsare på din Mac och kräver färre tryck."
+    },
+    "sendToMacVsFirefoxTabSync": {
+      "question": "Hur är Skicka till Mac bättre än Firefox fliksynkronisering?",
+      "answer": "Fungerar från alla appar med en delningsmeny, inte bara Firefox. Stöder alla webbläsare utan att du behöver ha flikar öppna på din iOS-enhet."
+    },
+    "sendToMacVsHyperduck": {
+      "question": "Hur är Skicka till Mac bättre än <hyperduckLink>HyperDuck</hyperduckLink>?",
+      "answer": "Helt gratis med stöd för 37 språk. Stöder automatiskt flera Mac-datorer, inkluderar delning från Mac till Mac och erbjuder fullständig länkrensning och deobfuskering utöver bara delning."
     }
   },
   "cta": {

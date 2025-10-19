@@ -211,19 +211,59 @@
     },
     "sendToMacVsAirdrop": {
       "question": "Warum ist 'An Mac senden' besser als AirDrop?",
-      "answer": "'An Mac senden' funktioniert, wenn dein Mac offline oder im Ruhezustand ist, wenn du nicht im selben Netzwerk bist, und ist viel schneller als AirDrop. Links öffnen sich im Hintergrund in deinem Standardbrowser, sodass du sie nicht verpasst. AirDrop erfordert, dass beide Geräte eingeschaltet, in der Nähe und im selben Netzwerk sind, was in der Praxis oft fehlschlägt."
+      "answer": "Funktioniert auch, wenn dein Mac im Ruhezustand oder außer Reichweite ist, öffnet Links unbemerkt im Hintergrund und stellt sie jedes Mal zuverlässig zu. Keine Verbindungsprobleme oder Wartezeiten."
     },
     "sendToMacVsIcloudTabs": {
-      "question": "Warum ist 'An Mac senden' besser als iCloud-Tabs oder die Safari-Leseliste?",
-      "answer": "'An Mac senden' funktioniert in jeder App über das Teilen-Menü, nicht nur in Safari. Links öffnen sich automatisch als neue Tabs in deinem Standardbrowser, sodass du sie nicht verpassen kannst. Du musst keine lange Liste von Tabs oder Leselisten-Einträgen durchsuchen. Es unterstützt jeden Browser auf deinem Mac, nicht nur Safari. Du musst den Tab auch nicht auf deinem iOS-Gerät geöffnet lassen, damit er synchronisiert wird."
+      "question": "Was macht 'An Mac senden' besser als <icloudTabsLink>iCloud-Tabs</icloudTabsLink>?",
+      "answer": "Funktioniert aus jeder App mit Teilen-Menü, nicht nur Safari. Links öffnen sich automatisch als Browser-Tabs - so übersiehst du sie nicht. Kein Suchen in langen Listen synchronisierter Tabs und Unterstützung für jeden Browser auf deinem Mac."
     },
     "sendToMacMultipleMacs": {
       "question": "Kann ich Links an mehrere Macs senden?",
       "answer": "Ja. Du kannst Links an alle deine Macs senden, solange du Clean Links für macOS darauf installiert hast und sie mit demselben Apple-Konto angemeldet sind. Du kannst den Empfang von Links in den Einstellungen der macOS-App deaktivieren, wenn du einen bestimmten Mac ausschließen möchtest."
     },
     "sendToMacShortcuts": {
-      "question": "Kann ich mit Clean Links Mac-Kurzbefehle von meinem iPhone aus auslösen?",
-      "answer": "Ja. Du kannst Clean Links verwenden, um Kurzbefehle auf deinem Mac von deinem iOS-Gerät aus auszulösen. Diese leistungsstarke geräteübergreifende Automatisierung ermöglicht es dir, Workflows zu erstellen, die dein iPhone und deinen Mac umfassen, zum Beispiel, indem du einen Link sendest, der einen Mac-Kurzbefehl auslöst, um ihn weiter zu verarbeiten."
+      "question": "Kann ich 'An Mac senden' mit Kurzbefehlen verwenden?",
+      "answer": "Ja. Die Kernfunktion zum Teilen ist als App Intent verfügbar, was es einfach macht, geräteübergreifende Kurzbefehle und Automationen zu erstellen."
+    },
+    "sendToMacVsSafariTabGroups": {
+      "question": "Was macht 'An Mac senden' besser als Safari-Tabgruppen?",
+      "answer": "Funktioniert aus jeder App, nicht nur Safari. Unterstützt jeden Browser auf deinem Mac, ohne dass du Tabs auf deinem iOS-Gerät offen halten musst."
+    },
+    "sendToMacVsSafariReadingList": {
+      "question": "Was macht 'An Mac senden' besser als die Safari-Leseliste?",
+      "answer": "Links öffnen sich automatisch in deinem Browser - so übersiehst du sie nicht. Kein Durchsuchen angesammelter Listen und Unterstützung für jeden Browser."
+    },
+    "sendToMacVsHandoff": {
+      "question": "Was macht 'An Mac senden' besser als <handoffLink>Handoff</handoffLink>?",
+      "answer": "Clean Links unterstützt Handoff, wenn Geräte in der Nähe sind, funktioniert aber auch, wenn dein Mac im Ruhezustand oder außer Reichweite ist. Es unterstützt jede App mit Teilen-Menü und jeden Browser, öffnet Links automatisch im Hintergrund und funktioniert jedes Mal zuverlässig."
+    },
+    "sendToMacVsUniversalClipboard": {
+      "question": "Was macht 'An Mac senden' besser als die <universalClipboardLink>Allgemeine Zwischenablage</universalClipboardLink>?",
+      "answer": "Links öffnen sich automatisch - kein manuelles Einfügen erforderlich. Funktioniert auch, wenn dein Mac im Ruhezustand oder außer Reichweite ist, und wird sofort zugestellt."
+    },
+    "sendToMacVsImessage": {
+      "question": "Was macht 'An Mac senden' besser als iMessage?",
+      "answer": "Links öffnen sich automatisch im Browser, ohne dass du Nachrichten prüfen musst. Sie öffnen sich unbemerkt im Hintergrund, sodass du mit deiner aktuellen Tätigkeit fortfahren kannst."
+    },
+    "sendToMacVsEmail": {
+      "question": "Was macht 'An Mac senden' besser als E-Mail?",
+      "answer": "Links öffnen sich automatisch, ohne dass du deinen Posteingang prüfen musst. Sie öffnen sich unbemerkt im Hintergrund und halten deinen Posteingang sauber."
+    },
+    "sendToMacVsPushbullet": {
+      "question": "Was macht 'An Mac senden' besser als <pushbulletLink>Pushbullet</pushbulletLink>?",
+      "answer": "Native Apps für iOS und macOS, die aus jedem Teilen-Menü funktionieren. Kein zusätzliches Konto erforderlich - einfach installieren und verwenden."
+    },
+    "sendToMacVsFirefoxSendTabs": {
+      "question": "Was macht 'An Mac senden' besser als Firefox <firefoxSendTabsLink>Tabs senden</firefoxSendTabsLink>?",
+      "answer": "Funktioniert aus jeder App, nicht nur aus Firefox. Unterstützt jeden Browser auf deinem Mac und erfordert weniger Fingertipps."
+    },
+    "sendToMacVsFirefoxTabSync": {
+      "question": "Was macht 'An Mac senden' besser als die Firefox-Tab-Synchronisierung?",
+      "answer": "Funktioniert aus jeder App mit Teilen-Menü, nicht nur aus Firefox. Unterstützt jeden Browser, ohne dass du Tabs auf deinem iOS-Gerät offen halten musst."
+    },
+    "sendToMacVsHyperduck": {
+      "question": "Was macht 'An Mac senden' besser als <hyperduckLink>HyperDuck</hyperduckLink>?",
+      "answer": "Komplett kostenlos mit Unterstützung für 37 Sprachen. Unterstützt automatisch mehrere Macs, beinhaltet das Teilen von Mac zu Mac und bietet über das reine Teilen hinaus eine vollständige Link-Bereinigung und -Entschleierung."
     }
   },
   "cta": {

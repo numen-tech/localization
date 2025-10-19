@@ -211,19 +211,59 @@
     },
     "sendToMacVsAirdrop": {
       "question": "W czym funkcja Wyślij na Maca jest lepsza od AirDrop?",
-      "answer": "Funkcja Wyślij na Maca działa, gdy Twój Mac jest offline lub uśpiony, gdy nie jesteś w tej samej sieci i jest znacznie szybsza niż AirDrop. Linki otwierają się w tle w Twojej domyślnej przeglądarce, więc ich nie przegapisz. AirDrop wymaga, aby oba urządzenia były aktywne, w pobliżu i w tej samej sieci, co w praktyce często zawodzi."
+      "answer": "Działa, nawet gdy Mac jest uśpiony lub poza zasięgiem, otwiera linki dyskretnie w tle i działa niezawodnie za każdym razem. Bez problemów z połączeniem i bez czekania."
     },
     "sendToMacVsIcloudTabs": {
-      "question": "W czym funkcja Wyślij na Maca jest lepsza od Kart iCloud lub Listy Czytelnia w Safari?",
-      "answer": "Funkcja Wyślij na Maca działa w każdej aplikacji przez arkusz udostępniania, nie tylko w Safari. Linki otwierają się automatycznie jako nowe karty w Twojej domyślnej przeglądarce, więc nie możesz ich przegapić. Nie musisz przeszukiwać długiej listy kart ani pozycji z listy czytelni. Obsługuje każdą przeglądarkę na Twoim Macu, nie tylko Safari. Nie musisz też trzymać otwartej karty na urządzeniu z iOS, aby nastąpiła synchronizacja."
+      "question": "Czym Send to Mac jest lepsze od <icloudTabsLink>iCloud Tabs</icloudTabsLink>?",
+      "answer": "Działa z każdej aplikacji z arkuszem udostępniania, nie tylko z Safari. Linki otwierają się automatycznie jako karty w przeglądarce - nie można ich przegapić. Bez przeszukiwania długich list zsynchronizowanych kart i z obsługą dowolnej przeglądarki na Macu."
     },
     "sendToMacMultipleMacs": {
       "question": "Czy mogę wysyłać linki na wiele Maców?",
       "answer": "Tak. Możesz wysyłać linki na wszystkie swoje Maci, o ile masz na nich zainstalowaną aplikację Clean Links dla macOS i są one zalogowane na to samo konto Apple. Możesz wyłączyć odbieranie linków w ustawieniach aplikacji na macOS, jeśli chcesz wykluczyć określonego Maca."
     },
     "sendToMacShortcuts": {
-      "question": "Czy mogę uruchamiać skróty na Macu z iPhone'a za pomocą Clean Links?",
-      "answer": "Tak. Możesz używać Clean Links do uruchamiania skrótów na Macu z urządzenia z iOS. Ta potężna automatyzacja między urządzeniami pozwala tworzyć przepływy pracy, które obejmują Twojego iPhone'a i Maca, na przykład wysyłając link, który uruchamia skrót na Macu w celu jego dalszego przetworzenia."
+      "question": "Czy mogę używać Send to Mac z aplikacją Skróty?",
+      "answer": "Tak. Główna funkcja udostępniania jest dostępna jako intencja aplikacji, co ułatwia tworzenie skrótów i automatyzacji działających na wielu urządzeniach."
+    },
+    "sendToMacVsSafariTabGroups": {
+      "question": "Czym Send to Mac jest lepsze od Grup kart Safari?",
+      "answer": "Działa z każdej aplikacji, nie tylko z Safari. Obsługuje dowolną przeglądarkę na Macu bez konieczności trzymania otwartych kart na urządzeniu z iOS."
+    },
+    "sendToMacVsSafariReadingList": {
+      "question": "Czym Send to Mac jest lepsze od Listy Czytelnia Safari?",
+      "answer": "Linki otwierają się automatycznie w przeglądarce - nie można ich przegapić. Bez przeszukiwania nagromadzonych list i z obsługą dowolnej przeglądarki."
+    },
+    "sendToMacVsHandoff": {
+      "question": "Czym Send to Mac jest lepsze od <handoffLink>Handoff</handoffLink>?",
+      "answer": "Clean Links obsługuje Handoff, gdy urządzenia są blisko siebie, ale działa też, gdy Mac jest uśpiony lub poza zasięgiem. Obsługuje dowolną aplikację z arkuszem udostępniania i każdą przeglądarkę, automatycznie otwiera linki w tle i jest niezawodne za każdym razem."
+    },
+    "sendToMacVsUniversalClipboard": {
+      "question": "Czym Send to Mac jest lepsze od <universalClipboardLink>Powszechnego schowka</universalClipboardLink>?",
+      "answer": "Linki otwierają się automatycznie - bez konieczności ręcznego wklejania. Działa, nawet gdy Mac jest uśpiony lub poza zasięgiem, i dostarcza linki natychmiast."
+    },
+    "sendToMacVsImessage": {
+      "question": "Czym Send to Mac jest lepsze od iMessage?",
+      "answer": "Linki otwierają się automatycznie w przeglądarce bez sprawdzania wiadomości. Otwierają się dyskretnie w tle, więc możesz kontynuować to, co robisz."
+    },
+    "sendToMacVsEmail": {
+      "question": "Czym Send to Mac jest lepsze od poczty e-mail?",
+      "answer": "Linki otwierają się automatycznie bez sprawdzania skrzynki odbiorczej. Otwierają się dyskretnie w tle i nie zaśmiecają Twojej skrzynki."
+    },
+    "sendToMacVsPushbullet": {
+      "question": "Czym Send to Mac jest lepsze od <pushbulletLink>Pushbullet</pushbulletLink>?",
+      "answer": "Natywne aplikacje na iOS i macOS, które działają z każdego arkusza udostępniania. Nie jest wymagane dodatkowe konto - po prostu zainstaluj i używaj."
+    },
+    "sendToMacVsFirefoxSendTabs": {
+      "question": "Czym Send to Mac jest lepsze od <firefoxSendTabsLink>Send Tabs</firefoxSendTabsLink> w Firefox?",
+      "answer": "Działa z każdej aplikacji, nie tylko z Firefox. Obsługuje dowolną przeglądarkę na Macu i wymaga mniej stuknięć."
+    },
+    "sendToMacVsFirefoxTabSync": {
+      "question": "Czym Send to Mac jest lepsze od synchronizacji kart w Firefox?",
+      "answer": "Działa z każdej aplikacji z arkuszem udostępniania, nie tylko z Firefox. Obsługuje dowolną przeglądarkę bez konieczności trzymania otwartych kart na urządzeniu z iOS."
+    },
+    "sendToMacVsHyperduck": {
+      "question": "Czym Send to Mac jest lepsze od <hyperduckLink>HyperDuck</hyperduckLink>?",
+      "answer": "Całkowicie za darmo z obsługą 37 języków. Automatycznie obsługuje wiele Maców, w tym udostępnianie Mac-Mac, i zapewnia pełne czyszczenie oraz deobfuskację linków, a nie tylko ich przesyłanie."
     }
   },
   "cta": {

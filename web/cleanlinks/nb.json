@@ -211,19 +211,59 @@
     },
     "sendToMacVsAirdrop": {
       "question": "Hvordan er Send til Mac bedre enn AirDrop?",
-      "answer": "Send til Mac fungerer når din Mac er frakoblet eller i dvale, når du ikke er på samme nettverk, og er mye raskere enn AirDrop. Lenker åpnes i standardnettleseren din i bakgrunnen, så du ikke går glipp av dem. AirDrop krever at begge enhetene er våkne, i nærheten, og på samme nettverk, noe som ofte mislykkes i praksis."
+      "answer": "Fungerer selv når Macen din er i dvale eller utenfor rekkevidde, åpner lenker stille i bakgrunnen og leverer pålitelig hver gang. Ingen tilkoblingsproblemer eller venting."
     },
     "sendToMacVsIcloudTabs": {
-      "question": "Hvordan er Send til Mac bedre enn iCloud-faner eller Safari Leseliste?",
-      "answer": "Send til Mac fungerer i alle apper via delingsmenyen, ikke bare Safari. Lenker åpnes automatisk som nye faner i standardnettleseren din, så du kan ikke gå glipp av dem. Du trenger ikke å lete gjennom en lang liste med faner eller leseliste-elementer. Den støtter alle nettlesere på din Mac, ikke bare Safari. Du trenger heller ikke å holde fanen åpen på iOS-enheten din for at den skal synkroniseres."
+      "question": "Hvordan er Send to Mac bedre enn <icloudTabsLink>iCloud Tabs</icloudTabsLink>?",
+      "answer": "Fungerer fra alle apper med et delingsark, ikke bare Safari. Lenker åpnes automatisk som faner i nettleseren – du kan ikke gå glipp av dem. Du slipper å lete gjennom lange lister med synkroniserte faner, og støtter alle nettlesere på Macen din."
     },
     "sendToMacMultipleMacs": {
       "question": "Kan jeg sende lenker til flere Macer?",
       "answer": "Ja. Du kan sende lenker til alle Macene dine så lenge du har Clean Links for macOS installert på dem og de er logget inn på samme Apple-konto. Du kan deaktivere mottak av lenker i innstillingene til macOS-appen hvis du vil ekskludere en bestemt Mac."
     },
     "sendToMacShortcuts": {
-      "question": "Kan jeg utløse Mac-snarveier fra min iPhone ved hjelp av Clean Links?",
-      "answer": "Ja. Du kan bruke Clean Links til å utløse snarveier på din Mac fra din iOS-enhet. Denne kraftige automatiseringen på tvers av enheter lar deg bygge arbeidsflyter som strekker seg over din iPhone og Mac, for eksempel ved å sende en lenke som utløser en Mac-snarvei for å behandle den videre."
+      "question": "Kan jeg bruke Send to Mac med Snarveier?",
+      "answer": "Ja. Kjernedelingen er tilgjengelig som en App Intent, noe som gjør det enkelt å bygge snarveier og automatiseringer på tvers av enheter."
+    },
+    "sendToMacVsSafariTabGroups": {
+      "question": "Hvordan er Send to Mac bedre enn Safari Tab Groups?",
+      "answer": "Fungerer fra alle apper, ikke bare Safari. Støtter alle nettlesere på Macen din uten at du må holde faner åpne på iOS-enheten din."
+    },
+    "sendToMacVsSafariReadingList": {
+      "question": "Hvordan er Send to Mac bedre enn Safaris leseliste?",
+      "answer": "Lenker åpnes automatisk i nettleseren din – du kan ikke gå glipp av dem. Du slipper å søke gjennom oppsamlede lister, og støtter alle nettlesere."
+    },
+    "sendToMacVsHandoff": {
+      "question": "Hvordan er Send to Mac bedre enn <handoffLink>Handoff</handoffLink>?",
+      "answer": "Clean Links inkluderer Handoff-støtte når enhetene er i nærheten, men fungerer også når Macen din er i dvale eller utenfor rekkevidde. Støtter alle apper med et delingsark og alle nettlesere, åpner lenker automatisk i bakgrunnen og fungerer pålitelig hver gang."
+    },
+    "sendToMacVsUniversalClipboard": {
+      "question": "Hvordan er Send to Mac bedre enn <universalClipboardLink>Universell utklippstavle</universalClipboardLink>?",
+      "answer": "Lenker åpnes automatisk – ingen manuell innliming er nødvendig. Fungerer selv når Macen din er i dvale eller utenfor rekkevidde, og leverer umiddelbart."
+    },
+    "sendToMacVsImessage": {
+      "question": "Hvordan er Send to Mac bedre enn iMessage?",
+      "answer": "Lenker åpnes automatisk i nettleseren din uten at du må sjekke meldinger. Åpnes stille i bakgrunnen slik at du kan fortsette med det du holder på med."
+    },
+    "sendToMacVsEmail": {
+      "question": "Hvordan er Send to Mac bedre enn e-post?",
+      "answer": "Lenker åpnes automatisk uten at du må sjekke innboksen din. Åpnes stille i bakgrunnen og holder innboksen din ren."
+    },
+    "sendToMacVsPushbullet": {
+      "question": "Hvordan er Send to Mac bedre enn <pushbulletLink>Pushbullet</pushbulletLink>?",
+      "answer": "Native apper for iOS og macOS som fungerer fra alle delingsark. Ingen ekstra konto kreves – bare installer og bruk."
+    },
+    "sendToMacVsFirefoxSendTabs": {
+      "question": "Hvordan er Send to Mac bedre enn Firefox <firefoxSendTabsLink>Send faner</firefoxSendTabsLink>?",
+      "answer": "Fungerer fra alle apper, ikke bare Firefox. Støtter alle nettlesere på Macen din med færre trykk."
+    },
+    "sendToMacVsFirefoxTabSync": {
+      "question": "Hvordan er Send to Mac bedre enn synkronisering av faner i Firefox?",
+      "answer": "Fungerer fra alle apper med et delingsark, ikke bare Firefox. Støtter alle nettlesere uten at du må holde faner åpne på iOS-enheten din."
+    },
+    "sendToMacVsHyperduck": {
+      "question": "Hvordan er Send to Mac bedre enn <hyperduckLink>HyperDuck</hyperduckLink>?",
+      "answer": "Helt gratis med støtte for 37 språk. Støtter automatisk flere Macer, inkluderer deling fra Mac til Mac, og tilbyr fullstendig lenkerensing og deobfuskering utover bare deling."
     }
   },
   "cta": {

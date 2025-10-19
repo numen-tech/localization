@@ -211,19 +211,59 @@
     },
     "sendToMacVsAirdrop": {
       "question": "\"发送到 Mac\" 功能相比 AirDrop 有何优势？",
-      "answer": "当您的 Mac 离线或处于睡眠状态，或当设备不在同一网络时，\"发送到 Mac\" 功能依然有效，并且速度远超 AirDrop。链接会在您的默认浏览器中后台打开，确保您不会错过。而 AirDrop 则要求两台设备都处于唤醒状态、在附近且连接同一网络，这在实际使用中常常失败。"
+      "answer": "即使 Mac 处于睡眠状态或不在连接范围内也能正常工作，链接会在后台静默打开，每次都能可靠送达。没有连接问题，无需等待。"
     },
     "sendToMacVsIcloudTabs": {
-      "question": "\"发送到 Mac\" 功能相比 iCloud 标签页或 Safari 阅读列表有何优势？",
-      "answer": "\"发送到 Mac\" 功能可通过分享菜单在任何应用中使用，而不仅仅是 Safari。链接会自动在您的默认浏览器中作为新标签页打开，因此您绝不会错过。您无需在长长的标签页列表或阅读列表中费力寻找。它支持您 Mac 上的任何浏览器，而不仅仅是 Safari。您也无需为了同步而在 iOS 设备上保持标签页打开。"
+      "question": "“发送到 Mac”比 <icloudTabsLink>iCloud Tabs</icloudTabsLink> 好在哪里？",
+      "answer": "可在任何带有分享菜单的应用中使用，而不仅限于 Safari。链接会自动以浏览器标签页的形式打开——你绝不会错过。无需在长长的同步标签页列表中翻找，并且支持你 Mac 上的任何浏览器。"
     },
     "sendToMacMultipleMacs": {
       "question": "我可以将链接发送到多台 Mac 吗？",
       "answer": "可以。只要您的所有 Mac 都安装了 Clean Links for macOS，并且登录了同一个 Apple 账户，您就可以将链接发送到所有这些设备。如果您想排除某台特定的 Mac，可以在 macOS 应用的设置中禁用接收链接。"
     },
     "sendToMacShortcuts": {
-      "question": "我可以使用 Clean Links 从 iPhone 触发 Mac 快捷指令吗？",
-      "answer": "可以。您可以使用 Clean Links 从 iOS 设备上触发 Mac 上的快捷指令。这种强大的跨设备自动化功能让您可以构建横跨 iPhone 和 Mac 的工作流，例如发送一个链接来触发 Mac 快捷指令，以对其进行进一步处理。"
+      "question": "我可以将“发送到 Mac”与 Shortcuts 搭配使用吗？",
+      "answer": "可以。其核心分享功能已作为 App Intent 提供，让你能轻松构建跨设备的快捷指令和自动化流程。"
+    },
+    "sendToMacVsSafariTabGroups": {
+      "question": "“发送到 Mac”比 Safari Tab Groups 好在哪里？",
+      "answer": "可在任何应用中使用，而不仅限于 Safari。支持你 Mac 上的任何浏览器，且无需在你的 iOS 设备上保持标签页打开。"
+    },
+    "sendToMacVsSafariReadingList": {
+      "question": "“发送到 Mac”比 Safari Reading List 好在哪里？",
+      "answer": "链接会在你的浏览器中自动打开——你绝不会错过。无需在累积的列表中搜索，并且支持任何浏览器。"
+    },
+    "sendToMacVsHandoff": {
+      "question": "“发送到 Mac”比 <handoffLink>Handoff</handoffLink> 好在哪里？",
+      "answer": "当设备在附近时，Clean Links 支持 Handoff 功能，但即使你的 Mac 处于睡眠状态或不在连接范围内，它也能正常工作。支持任何带有分享菜单的应用和任何浏览器，链接会在后台自动打开，并且每次都能可靠运行。"
+    },
+    "sendToMacVsUniversalClipboard": {
+      "question": "“发送到 Mac”比 <universalClipboardLink>Universal Clipboard</universalClipboardLink> 好在哪里？",
+      "answer": "链接会自动打开——无需手动粘贴。即使你的 Mac 处于睡眠状态或不在连接范围内也能正常工作，并能即时送达。"
+    },
+    "sendToMacVsImessage": {
+      "question": "“发送到 Mac”比 iMessage 好在哪里？",
+      "answer": "链接会在你的浏览器中自动打开，无需查看信息。它会在后台静默打开，因此你可以继续进行当前操作。"
+    },
+    "sendToMacVsEmail": {
+      "question": "“发送到 Mac”比电子邮件好在哪里？",
+      "answer": "链接会自动打开，无需查看收件箱。它会在后台静默打开，并保持你的收件箱整洁。"
+    },
+    "sendToMacVsPushbullet": {
+      "question": "“发送到 Mac”比 <pushbulletLink>Pushbullet</pushbulletLink> 好在哪里？",
+      "answer": "原生的 iOS 和 macOS 应用，可在任何分享菜单中使用。无需额外账户——只需安装即可使用。"
+    },
+    "sendToMacVsFirefoxSendTabs": {
+      "question": "“发送到 Mac”比 Firefox <firefoxSendTabsLink>Send Tabs</firefoxSendTabsLink> 好在哪里？",
+      "answer": "可在任何应用中使用，而不仅限于 Firefox。支持你 Mac 上的任何浏览器，且操作步骤更少。"
+    },
+    "sendToMacVsFirefoxTabSync": {
+      "question": "“发送到 Mac”比 Firefox tab sync 好在哪里？",
+      "answer": "可在任何带有分享菜单的应用中使用，而不仅限于 Firefox。支持任何浏览器，且无需在你的 iOS 设备上保持标签页打开。"
+    },
+    "sendToMacVsHyperduck": {
+      "question": "“发送到 Mac”比 <hyperduckLink>HyperDuck</hyperduckLink> 好在哪里？",
+      "answer": "完全免费，支持 37 种语言。自动支持多台 Mac，包括 Mac 之间的分享功能，并且除了分享之外，还提供全面的链接清理和反混淆功能。"
     }
   },
   "cta": {

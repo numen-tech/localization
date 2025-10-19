@@ -211,19 +211,59 @@
     },
     "sendToMacVsAirdrop": {
       "question": "Prin ce este funcția Trimitere către Mac mai bună decât AirDrop?",
-      "answer": "Funcția Trimitere către Mac funcționează când Mac-ul tău este offline sau în repaus, când nu ești pe aceeași rețea și este mult mai rapidă decât AirDrop. Linkurile se deschid în browserul tău implicit, în fundal, astfel încât nu le vei rata. AirDrop necesită ca ambele dispozitive să fie active, în apropiere și pe aceeași rețea, ceea ce în practică adesea nu funcționează."
+      "answer": "Funcționează chiar și atunci când Mac-ul tău este în repaus sau în afara razei de acțiune, deschide linkurile discret în fundal și funcționează fiabil de fiecare dată. Fără probleme de conexiune sau așteptare."
     },
     "sendToMacVsIcloudTabs": {
-      "question": "Prin ce este funcția Trimitere către Mac mai bună decât Taburile iCloud sau Lista de lecturi Safari?",
-      "answer": "Funcția Trimitere către Mac funcționează în orice aplicație prin meniul de partajare, nu doar în Safari. Linkurile se deschid automat ca taburi noi în browserul tău implicit, astfel încât nu le poți rata. Nu trebuie să cauți printr-o listă lungă de taburi sau articole din lista de lecturi. Funcția suportă orice browser de pe Mac, nu doar Safari. De asemenea, nu trebuie să menții tabul deschis pe dispozitivul tău iOS pentru ca acesta să se sincronizeze."
+      "question": "Prin ce este Send to Mac mai bun decât <icloudTabsLink>iCloud Tabs</icloudTabsLink>?",
+      "answer": "Funcționează din orice aplicație cu meniu de partajare, nu doar din Safari. Linkurile se deschid automat ca taburi în browser - nu ai cum să le ratezi. Fără a căuta prin liste lungi de taburi sincronizate și suportă orice browser de pe Mac-ul tău."
     },
     "sendToMacMultipleMacs": {
       "question": "Pot trimite linkuri către mai multe Mac-uri?",
       "answer": "Da. Poți trimite linkuri către toate Mac-urile tale atâta timp cât ai aplicația Clean Links pentru macOS instalată pe ele și sunt conectate la același cont Apple. Poți dezactiva primirea linkurilor din setările aplicației pentru macOS dacă vrei să excluzi un anumit Mac."
     },
     "sendToMacShortcuts": {
-      "question": "Pot declanșa scurtături Mac de pe iPhone folosind Clean Links?",
-      "answer": "Da. Poți folosi Clean Links pentru a declanșa scurtături pe Mac de pe dispozitivul tău iOS. Această automatizare puternică între dispozitive îți permite să creezi fluxuri de lucru care se extind pe iPhone și Mac, cum ar fi trimiterea unui link care declanșează o scurtătură pe Mac pentru a-l procesa ulterior."
+      "question": "Pot folosi Send to Mac cu aplicația Shortcuts?",
+      "answer": "Da. Funcționalitatea de bază pentru partajare este disponibilă ca App Intent, facilitând crearea de scurtături și automatizări între dispozitive."
+    },
+    "sendToMacVsSafariTabGroups": {
+      "question": "Prin ce este Send to Mac mai bun decât Grupurile de Taburi Safari?",
+      "answer": "Funcționează din orice aplicație, nu doar din Safari. Suportă orice browser de pe Mac-ul tău fără a necesita să ții taburi deschise pe dispozitivul tău iOS."
+    },
+    "sendToMacVsSafariReadingList": {
+      "question": "Prin ce este Send to Mac mai bun decât Lista de lecturi Safari?",
+      "answer": "Linkurile se deschid automat în browserul tău - nu ai cum să le ratezi. Fără a căuta prin liste acumulate și suportă orice browser."
+    },
+    "sendToMacVsHandoff": {
+      "question": "Prin ce este Send to Mac mai bun decât <handoffLink>Handoff</handoffLink>?",
+      "answer": "Clean Links include suport pentru Handoff când dispozitivele sunt în apropiere, dar funcționează și când Mac-ul tău este în repaus sau în afara razei de acțiune. Suportă orice aplicație cu meniu de partajare și orice browser, deschide linkurile automat în fundal și funcționează fiabil de fiecare dată."
+    },
+    "sendToMacVsUniversalClipboard": {
+      "question": "Prin ce este Send to Mac mai bun decât <universalClipboardLink>Clipboard Universal</universalClipboardLink>?",
+      "answer": "Linkurile se deschid automat - nu este necesară lipirea manuală. Funcționează chiar și atunci când Mac-ul tău este în repaus sau în afara razei de acțiune și se trimit instantaneu."
+    },
+    "sendToMacVsImessage": {
+      "question": "Prin ce este Send to Mac mai bun decât iMessage?",
+      "answer": "Linkurile se deschid automat în browserul tău, fără a verifica mesajele. Se deschid discret în fundal, astfel încât să poți continua ceea ce faci."
+    },
+    "sendToMacVsEmail": {
+      "question": "Prin ce este Send to Mac mai bun decât e-mailul?",
+      "answer": "Linkurile se deschid automat, fără a-ți verifica inboxul. Se deschid discret în fundal și îți mențin inboxul curat."
+    },
+    "sendToMacVsPushbullet": {
+      "question": "Prin ce este Send to Mac mai bun decât <pushbulletLink>Pushbullet</pushbulletLink>?",
+      "answer": "Aplicații native pentru iOS și macOS care funcționează din orice meniu de partajare. Nu este necesar un cont suplimentar - doar instalezi și folosești."
+    },
+    "sendToMacVsFirefoxSendTabs": {
+      "question": "Prin ce este Send to Mac mai bun decât funcția <firefoxSendTabsLink>Send Tabs</firefoxSendTabsLink> de la Firefox?",
+      "answer": "Funcționează din orice aplicație, nu doar din Firefox. Suportă orice browser de pe Mac-ul tău, necesitând mai puține atingeri."
+    },
+    "sendToMacVsFirefoxTabSync": {
+      "question": "Prin ce este Send to Mac mai bun decât sincronizarea taburilor din Firefox?",
+      "answer": "Funcționează din orice aplicație cu meniu de partajare, nu doar din Firefox. Suportă orice browser fără a necesita să ții taburi deschise pe dispozitivul tău iOS."
+    },
+    "sendToMacVsHyperduck": {
+      "question": "Prin ce este Send to Mac mai bun decât <hyperduckLink>HyperDuck</hyperduckLink>?",
+      "answer": "Complet gratuit, cu suport pentru 37 de limbi. Suportă automat mai multe Mac-uri, include partajare de la Mac la Mac și oferă curățare completă a linkurilor și de-obfuscare, dincolo de simpla partajare."
     }
   },
   "cta": {
