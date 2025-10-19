@@ -211,19 +211,59 @@
     },
     "sendToMacVsAirdrop": {
       "question": "V čem je funkce Send to Mac lepší než AirDrop?",
-      "answer": "Funkce Send to Mac funguje, i když je váš Mac offline nebo v režimu spánku, když nejste na stejné síti, a je mnohem rychlejší než AirDrop. Odkazy se otevírají na pozadí ve vašem výchozím prohlížeči, takže je nepřehlédnete. AirDrop vyžaduje, aby obě zařízení byla aktivní, blízko sebe a na stejné síti, což v praxi často selhává."
+      "answer": "Funguje, i když je váš Mac v režimu spánku nebo mimo dosah, tiše na pozadí otevírá odkazy a pokaždé spolehlivě doručí. Žádné problémy s připojením ani čekání."
     },
     "sendToMacVsIcloudTabs": {
-      "question": "V čem je funkce Send to Mac lepší než Panely iCloudu nebo Seznam četby v Safari?",
-      "answer": "Funkce Send to Mac funguje v jakékoli aplikaci přes list pro sdílení, nejen v Safari. Odkazy se automaticky otevírají jako nové panely ve vašem výchozím prohlížeči, takže je nemůžete přehlédnout. Nemusíte prohledávat dlouhý seznam panelů nebo položek v seznamu četby. Podporuje jakýkoli prohlížeč na vašem Macu, nejen Safari. Navíc nemusíte nechávat panel otevřený na vašem iOS zařízení, aby se synchronizoval."
+      "question": "V čem je Send to Mac lepší než <icloudTabsLink>Panely iCloudu</icloudTabsLink>?",
+      "answer": "Funguje z jakékoli aplikace s nabídkou sdílení, nejen ze Safari. Odkazy se automaticky otevírají jako panely prohlížeče - nemůžete je přehlédnout. Žádné prohledávání dlouhých seznamů synchronizovaných panelů a podporuje jakýkoli prohlížeč na vašem Macu."
     },
     "sendToMacMultipleMacs": {
       "question": "Mohu posílat odkazy na více Maců?",
       "answer": "Ano. Odkazy můžete posílat na všechny své Macy, pokud na nich máte nainstalovanou aplikaci Clean Links pro macOS a jsou přihlášeny ke stejnému účtu Apple. V nastavení aplikace pro macOS můžete příjem odkazů zakázat, pokud chcete některý Mac vyloučit."
     },
     "sendToMacShortcuts": {
-      "question": "Mohu pomocí Clean Links spouštět zkratky na Macu z iPhonu?",
-      "answer": "Ano. Pomocí Clean Links můžete spouštět zkratky na vašem Macu z vašeho iOS zařízení. Tato výkonná automatizace napříč zařízeními vám umožňuje vytvářet pracovní postupy, které propojují váš iPhone a Mac, jako je například odeslání odkazu, který spustí zkratku na Macu pro jeho další zpracování."
+      "question": "Lze Send to Mac používat se Zkratkami?",
+      "answer": "Ano. Základní funkce sdílení je k dispozici jako App Intent, což usnadňuje vytváření zkratek a automatizací napříč zařízeními."
+    },
+    "sendToMacVsSafariTabGroups": {
+      "question": "V čem je Send to Mac lepší než Skupiny panelů v Safari?",
+      "answer": "Funguje z jakékoli aplikace, nejen ze Safari. Podporuje jakýkoli prohlížeč na vašem Macu, aniž byste museli mít otevřené panely na svém iOS zařízení."
+    },
+    "sendToMacVsSafariReadingList": {
+      "question": "V čem je Send to Mac lepší než Seznam četby v Safari?",
+      "answer": "Odkazy se automaticky otevírají ve vašem prohlížeči - nemůžete je přehlédnout. Žádné prohledávání nahromaděných seznamů a podporuje jakýkoli prohlížeč."
+    },
+    "sendToMacVsHandoff": {
+      "question": "V čem je Send to Mac lepší než <handoffLink>Handoff</handoffLink>?",
+      "answer": "Clean Links zahrnuje podporu pro Handoff, když jsou zařízení poblíž, ale funguje i tehdy, když je váš Mac v režimu spánku nebo mimo dosah. Podporuje jakoukoli aplikaci s nabídkou sdílení a jakýkoli prohlížeč, automaticky otevírá odkazy na pozadí a pokaždé spolehlivě funguje."
+    },
+    "sendToMacVsUniversalClipboard": {
+      "question": "V čem je Send to Mac lepší než <universalClipboardLink>Univerzální schránka</universalClipboardLink>?",
+      "answer": "Odkazy se otevírají automaticky - není nutné ruční vkládání. Funguje, i když je váš Mac v režimu spánku nebo mimo dosah, a doručení je okamžité."
+    },
+    "sendToMacVsImessage": {
+      "question": "V čem je Send to Mac lepší než iMessage?",
+      "answer": "Odkazy se automaticky otevírají ve vašem prohlížeči, aniž byste museli kontrolovat zprávy. Otevírají se tiše na pozadí, takže můžete pokračovat v tom, co děláte."
+    },
+    "sendToMacVsEmail": {
+      "question": "V čem je Send to Mac lepší než e-mail?",
+      "answer": "Odkazy se otevírají automaticky, aniž byste museli kontrolovat doručenou poštu. Otevírají se tiše na pozadí a udržují vaši schránku čistou."
+    },
+    "sendToMacVsPushbullet": {
+      "question": "V čem je Send to Mac lepší než <pushbulletLink>Pushbullet</pushbulletLink>?",
+      "answer": "Nativní aplikace pro iOS a macOS, které fungují z jakékoli nabídky sdílení. Není vyžadován žádný další účet - stačí nainstalovat a používat."
+    },
+    "sendToMacVsFirefoxSendTabs": {
+      "question": "V čem je Send to Mac lepší než <firefoxSendTabsLink>Odesílání panelů</firefoxSendTabsLink> ve Firefoxu?",
+      "answer": "Funguje z jakékoli aplikace, nejen z Firefoxu. Podporuje jakýkoli prohlížeč na vašem Macu a vyžaduje méně klepnutí."
+    },
+    "sendToMacVsFirefoxTabSync": {
+      "question": "V čem je Send to Mac lepší než synchronizace panelů ve Firefoxu?",
+      "answer": "Funguje z jakékoli aplikace s nabídkou sdílení, nejen z Firefoxu. Podporuje jakýkoli prohlížeč, aniž byste museli mít otevřené panely na svém iOS zařízení."
+    },
+    "sendToMacVsHyperduck": {
+      "question": "V čem je Send to Mac lepší než <hyperduckLink>HyperDuck</hyperduckLink>?",
+      "answer": "Zcela zdarma s podporou 37 jazyků. Automaticky podporuje více Maců, zahrnuje sdílení mezi Macy a kromě samotného sdílení poskytuje i úplné čištění a deobfuskaci odkazů."
     }
   },
   "cta": {

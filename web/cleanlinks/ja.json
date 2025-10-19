@@ -211,19 +211,59 @@
     },
     "sendToMacVsAirdrop": {
       "question": "「Macへ送信」機能はAirDropと比べてどこが優れていますか？",
-      "answer": "「Macへ送信」は、Macがオフラインやスリープ状態の時、または同じネットワーク上にない時でも機能し、AirDropよりもはるかに高速です。リンクはデフォルトのブラウザでバックグラウンドで開かれるため、見逃すことがありません。一方、AirDropは両方のデバイスが起動中で、近くにあり、同じネットワークに接続している必要がありますが、これは実際にはうまくいかないことがよくあります。"
+      "answer": "Macがスリープ中や通信範囲外のときでも動作し、バックグラウンドで静かにリンクを開き、毎回確実に転送します。接続の問題や待ち時間もありません。"
     },
     "sendToMacVsIcloudTabs": {
-      "question": "「Macへ送信」機能は、iCloudタブやSafariのリーディングリストと比べてどこが優れていますか？",
-      "answer": "「Macへ送信」はSafariだけでなく、どのアプリからでも共有シート経由で利用できます。リンクはデフォルトのブラウザに新しいタブとして自動で開かれるため、見逃す心配がありません。大量のタブやリーディングリストの項目の中から探す必要はありません。Safariだけでなく、お使いのMac上のどのブラウザにも対応しています。また、同期のためにiOSデバイスでタブを開いたままにしておく必要もありません。"
+      "question": "Send to Macが<icloudTabsLink>iCloudタブ</icloudTabsLink>より優れている点は？",
+      "answer": "Safariだけでなく、共有シートのあるどのアプリからでも動作します。リンクはブラウザのタブとして自動的に開かれるので、見逃すことはありません。同期されたタブの長いリストを探し回る必要もなく、お使いのMac上のどのブラウザにも対応しています。"
     },
     "sendToMacMultipleMacs": {
       "question": "複数のMacにリンクを送信できますか？",
       "answer": "はい。お使いのすべてのMacにClean Links for macOSがインストールされており、同じAppleアカウントでサインインしていれば、リンクを送信できます。特定のMacを除外したい場合は、macOSアプリの設定でリンクの受信を無効にすることができます。"
     },
     "sendToMacShortcuts": {
-      "question": "Clean Linksを使って、iPhoneからMacのショートカットを起動できますか？",
-      "answer": "はい。Clean Linksを使って、iOSデバイスからMacのショートカットを起動できます。このパワフルなデバイス間の自動化機能により、iPhoneとMacにまたがるワークフローを構築できます。例えば、リンクを送信してMacのショートカットを起動し、さらに処理を続けるといったことが可能です。"
+      "question": "Send to Macはショートカットアプリで使えますか？",
+      "answer": "はい。主要な共有機能はApp Intentとして利用可能で、デバイス間のショートカットやオートメーションを簡単に作成できます。"
+    },
+    "sendToMacVsSafariTabGroups": {
+      "question": "Send to MacがSafariのタブグループより優れている点は？",
+      "answer": "Safariだけでなく、どのアプリからでも動作します。iOSデバイスでタブを開いたままにしておく必要なく、お使いのMac上のどのブラウザにも対応しています。"
+    },
+    "sendToMacVsSafariReadingList": {
+      "question": "Send to MacがSafariのリーディングリストより優れている点は？",
+      "answer": "リンクはブラウザで自動的に開かれるので、見逃すことはありません。溜まったリストの中から探し出す必要もなく、どのブラウザにも対応しています。"
+    },
+    "sendToMacVsHandoff": {
+      "question": "Send to Macが<handoffLink>Handoff</handoffLink>より優れている点は？",
+      "answer": "Clean Linksは、デバイスが近くにある場合のHandoffに対応していますが、Macがスリープ中や通信範囲外のときでも動作します。共有シートのあるどのアプリやブラウザにも対応し、バックグラウンドで自動的にリンクを開き、毎回確実に動作します。"
+    },
+    "sendToMacVsUniversalClipboard": {
+      "question": "Send to Macが<universalClipboardLink>ユニバーサルクリップボード</universalClipboardLink>より優れている点は？",
+      "answer": "リンクは自動的に開かれるため、手動でペーストする必要はありません。Macがスリープ中や通信範囲外のときでも動作し、即座に転送されます。"
+    },
+    "sendToMacVsImessage": {
+      "question": "Send to MacがiMessageより優れている点は？",
+      "answer": "メッセージを確認することなく、リンクがブラウザで自動的に開きます。バックグラウンドで静かに開くので、作業を中断する必要がありません。"
+    },
+    "sendToMacVsEmail": {
+      "question": "Send to Macがメールより優れている点は？",
+      "answer": "受信トレイを確認することなく、リンクが自動的に開きます。バックグラウンドで静かに開き、受信トレイをきれいに保ちます。"
+    },
+    "sendToMacVsPushbullet": {
+      "question": "Send to Macが<pushbulletLink>Pushbullet</pushbulletLink>より優れている点は？",
+      "answer": "どの共有シートからでも動作する、ネイティブのiOSおよびmacOSアプリです。追加のアカウントは不要で、インストールするだけで使えます。"
+    },
+    "sendToMacVsFirefoxSendTabs": {
+      "question": "Send to MacがFirefoxの<firefoxSendTabsLink>タブを送信</firefoxSendTabsLink>機能より優れている点は？",
+      "answer": "Firefoxだけでなく、どのアプリからでも動作します。より少ないタップ数で、Mac上のどのブラウザにも対応しています。"
+    },
+    "sendToMacVsFirefoxTabSync": {
+      "question": "Send to MacがFirefoxのタブ同期より優れている点は？",
+      "answer": "Firefoxだけでなく、共有シートのあるどのアプリからでも動作します。iOSデバイスでタブを開いたままにしておく必要なく、どのブラウザにも対応しています。"
+    },
+    "sendToMacVsHyperduck": {
+      "question": "Send to Macが<hyperduckLink>HyperDuck</hyperduckLink>より優れている点は？",
+      "answer": "37言語に対応し、完全に無料です。複数のMacに自動で対応し、Mac間の共有機能も含まれています。さらに、単なる共有だけでなく、完全なリンクのクリーンアップと難読化解除も提供します。"
     }
   },
   "cta": {

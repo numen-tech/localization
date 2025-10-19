@@ -211,19 +211,59 @@
     },
     "sendToMacVsAirdrop": {
       "question": "Miért jobb a Küldés Mac-re funkció, mint az AirDrop?",
-      "answer": "A Küldés Mac-re funkció akkor is működik, ha a Mac offline vagy alvó állapotban van, ha nem ugyanazon a hálózaton vannak, és sokkal gyorsabb, mint az AirDrop. A linkek a háttérben nyílnak meg az alapértelmezett böngészőben, így biztosan nem marad le róluk. Az AirDrop megköveteli, hogy mindkét eszköz ébren, egymás közelében és ugyanazon a hálózaton legyen, ami a gyakorlatban gyakran meghiúsul."
+      "answer": "Akkor is működik, ha a Mac alvó módban van vagy hatótávon kívül. A háttérben, csendben nyitja meg a linkeket, és minden alkalommal megbízhatóan kézbesít. Nincsenek csatlakozási problémák vagy várakozás."
     },
     "sendToMacVsIcloudTabs": {
-      "question": "Miért jobb a Küldés Mac-re, mint az iCloud-lapok vagy a Safari olvasólista?",
-      "answer": "A Küldés Mac-re funkció a megosztási menün keresztül bármely alkalmazásból működik, nem csak a Safariból. A linkek automatikusan új lapként nyílnak meg az alapértelmezett böngészőben, így nem maradhat le róluk. Nem kell végigböngésznie a lapok vagy az olvasólista elemeinek hosszú sorát. Bármely Mac-en futó böngészőt támogat, nem csak a Safarit. Ráadásul a szinkronizáláshoz nem kell nyitva tartania a lapot az iOS-eszközén."
+      "question": "Miben jobb a Send to Mac az <icloudTabsLink>iCloud Tabs</icloudTabsLink>-nál?",
+      "answer": "Bármely megosztási menüvel rendelkező alkalmazásból működik, nem csak a Safariból. A linkek automatikusan megnyílnak böngészőlapként - nem maradhatsz le róluk. Nem kell szinkronizált lapok hosszú listáiban keresgélni, és bármilyen böngészőt támogat a Mac-eden."
     },
     "sendToMacMultipleMacs": {
       "question": "Küldhetek linkeket több Mac-re is?",
       "answer": "Igen. Az összes Mac-jére küldhet linkeket, amennyiben telepítve van rajtuk a Clean Links macOS-verziója, és ugyanabba az Apple-fiókba vannak bejelentkezve. A macOS alkalmazás beállításaiban letilthatja a linkek fogadását, ha egy adott Mac-et ki szeretne zárni."
     },
     "sendToMacShortcuts": {
-      "question": "Indíthatok Mac parancsikonokat az iPhone-omról a Clean Links segítségével?",
-      "answer": "Igen. A Clean Links segítségével parancsikonokat indíthat a Mac-jén az iOS-eszközéről. Ez az erőteljes, eszközök közötti automatizálás lehetővé teszi, hogy olyan munkafolyamatokat építsen ki, amelyek átívelnek az iPhone-ján és a Mac-jén, például elküldhet egy linket, amely egy Mac parancsikont indít el annak további feldolgozására."
+      "question": "Használhatom a Send to Mac-et a Shortcuts-cal?",
+      "answer": "Igen. Az alapvető megosztási funkció elérhető App Intent-ként, ami megkönnyíti az eszközök közötti parancsikonok és automatizációk létrehozását."
+    },
+    "sendToMacVsSafariTabGroups": {
+      "question": "Miben jobb a Send to Mac a Safari Tab Groups-nál?",
+      "answer": "Bármely alkalmazásból működik, nem csak a Safariból. Bármilyen böngészőt támogat a Mac-eden anélkül, hogy nyitva kellene tartanod a lapokat az iOS-eszközödön."
+    },
+    "sendToMacVsSafariReadingList": {
+      "question": "Miben jobb a Send to Mac a Safari Reading List-nél?",
+      "answer": "A linkek automatikusan megnyílnak a böngésződben - nem maradhatsz le róluk. Nem kell felgyülemlett listákban keresgélni, és bármilyen böngészőt támogat."
+    },
+    "sendToMacVsHandoff": {
+      "question": "Miben jobb a Send to Mac a <handoffLink>Handoff</handoffLink>-nál?",
+      "answer": "A Clean Links támogatja a Handoffot, ha az eszközök közel vannak, de akkor is működik, ha a Mac alvó módban van vagy hatótávon kívül. Bármely megosztási menüvel rendelkező alkalmazást és böngészőt támogat, a linkeket automatikusan a háttérben nyitja meg, és minden alkalommal megbízhatóan működik."
+    },
+    "sendToMacVsUniversalClipboard": {
+      "question": "Miben jobb a Send to Mac az <universalClipboardLink>Universal Clipboard</universalClipboardLink>-nál?",
+      "answer": "A linkek automatikusan megnyílnak - nincs szükség kézi beillesztésre. Akkor is működik, ha a Mac alvó módban van vagy hatótávon kívül, és azonnal kézbesít."
+    },
+    "sendToMacVsImessage": {
+      "question": "Miben jobb a Send to Mac az iMessage-nél?",
+      "answer": "A linkek automatikusan megnyílnak a böngésződben anélkül, hogy ellenőrizned kellene az üzeneteidet. Csendben, a háttérben nyílik meg, így folytathatod, amit éppen csinálsz."
+    },
+    "sendToMacVsEmail": {
+      "question": "Miben jobb a Send to Mac az e-mailnél?",
+      "answer": "A linkek automatikusan megnyílnak anélkül, hogy ellenőrizned kellene a beérkező üzeneteidet. Csendben, a háttérben nyílik meg, és tisztán tartja a postafiókodat."
+    },
+    "sendToMacVsPushbullet": {
+      "question": "Miben jobb a Send to Mac a <pushbulletLink>Pushbullet</pushbulletLink>-nál?",
+      "answer": "Natív iOS és macOS alkalmazások, amelyek bármely megosztási menüből működnek. Nincs szükség külön fiókra - csak telepítsd és használd."
+    },
+    "sendToMacVsFirefoxSendTabs": {
+      "question": "Miben jobb a Send to Mac a Firefox <firefoxSendTabsLink>Send Tabs</firefoxSendTabsLink>-nál?",
+      "answer": "Bármely alkalmazásból működik, nem csak a Firefoxból. Bármilyen böngészőt támogat a Mac-eden, kevesebb koppintással."
+    },
+    "sendToMacVsFirefoxTabSync": {
+      "question": "Miben jobb a Send to Mac a Firefox lapszinkronizálásánál?",
+      "answer": "Bármely megosztási menüvel rendelkező alkalmazásból működik, nem csak a Firefoxból. Bármilyen böngészőt támogat anélkül, hogy nyitva kellene tartanod a lapokat az iOS-eszközödön."
+    },
+    "sendToMacVsHyperduck": {
+      "question": "Miben jobb a Send to Mac a <hyperduckLink>HyperDuck</hyperduckLink>-nál?",
+      "answer": "Teljesen ingyenes, 37 nyelv támogatásával. Automatikusan támogat több Mac-et is, tartalmaz Mac-ről Mac-re történő megosztást, és a puszta megosztáson túl teljes körű linktisztítást és -felderítést is biztosít."
     }
   },
   "cta": {

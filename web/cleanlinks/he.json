@@ -211,19 +211,59 @@
     },
     "sendToMacVsAirdrop": {
       "question": "במה 'שליחה ל-Mac' טובה יותר מ-AirDrop?",
-      "answer": "'שליחה ל-Mac' עובדת כשה-Mac שלכם לא מקוון או במצב שינה, כשאתם לא באותה הרשת, והיא מהירה הרבה יותר מ-AirDrop. קישורים נפתחים ברקע בדפדפן ברירת המחדל שלכם, כך שלא תפספסו אותם. AirDrop דורש ששני המכשירים יהיו פעילים, קרובים זה לזה ובאותה הרשת, מה שלעיתים קרובות נכשל בפועל."
+      "answer": "עובד גם כשה-Mac שלכם במצב שינה או מחוץ לטווח קליטה, פותח קישורים בשקט ברקע, ומעביר אותם באופן אמין בכל פעם. ללא בעיות חיבור או המתנה."
     },
     "sendToMacVsIcloudTabs": {
-      "question": "במה 'שליחה ל-Mac' טובה יותר מלשוניות iCloud או מרשימת הקריאה של Safari?",
-      "answer": "'שליחה ל-Mac' עובדת מכל אפליקציה דרך תפריט השיתוף, לא רק מ-Safari. קישורים נפתחים אוטומטית כלשוניות חדשות בדפדפן ברירת המחדל שלכם, כך שלא תוכלו לפספס אותם. אינכם צריכים לחפש ברשימה ארוכה של לשוניות או פריטים ברשימת הקריאה. התכונה תומכת בכל דפדפן ב-Mac שלכם, לא רק ב-Safari. בנוסף, אינכם צריכים להשאיר את הלשונית פתוחה במכשיר ה-iOS שלכם כדי שהיא תסונכרן."
+      "question": "במה Send to Mac טוב יותר מ-<icloudTabsLink>iCloud Tabs</icloudTabsLink>?",
+      "answer": "עובד מכל אפליקציה עם גיליון שיתוף, לא רק מ-Safari. קישורים נפתחים אוטומטית כלשוניות בדפדפן - אי אפשר לפספס אותם. אין צורך לחפש ברשימות ארוכות של לשוניות מסונכרנות, ותומך בכל דפדפן ב-Mac שלכם."
     },
     "sendToMacMultipleMacs": {
       "question": "האם אפשר לשלוח קישורים למספר מכשירי Mac?",
       "answer": "כן. אתם יכולים לשלוח קישורים לכל מכשירי ה-Mac שלכם כל עוד מותקנת עליהם האפליקציה Clean Links ל-macOS והם מחוברים לאותו חשבון Apple. אתם יכולים להשבית קבלת קישורים בהגדרות האפליקציה ב-macOS אם תרצו לא לכלול Mac מסוים."
     },
     "sendToMacShortcuts": {
-      "question": "האם אפשר להפעיל קיצורי דרך ב-Mac מה-iPhone באמצעות Clean Links?",
-      "answer": "כן. אתם יכולים להשתמש ב-Clean Links כדי להפעיל קיצורי דרך ב-Mac שלכם ממכשיר ה-iOS. אוטומציה עוצמתית זו בין מכשירים מאפשרת לכם לבנות תהליכי עבודה שמתפרסים על פני ה-iPhone וה-Mac שלכם, כמו למשל שליחת קישור שמפעיל קיצור דרך ב-Mac לעיבוד נוסף שלו."
+      "question": "האם אפשר להשתמש ב-Send to Mac עם Shortcuts?",
+      "answer": "כן. פונקציונליות השיתוף המרכזית זמינה כ-App Intent, מה שמקל על בניית קיצורי דרך ואוטומציות בין מכשירים."
+    },
+    "sendToMacVsSafariTabGroups": {
+      "question": "במה Send to Mac טוב יותר מ-Safari Tab Groups?",
+      "answer": "עובד מכל אפליקציה, לא רק מ-Safari. תומך בכל דפדפן ב-Mac שלכם מבלי לדרוש מכם להשאיר לשוניות פתוחות במכשיר ה-iOS שלכם."
+    },
+    "sendToMacVsSafariReadingList": {
+      "question": "במה Send to Mac טוב יותר מ-Safari Reading List?",
+      "answer": "קישורים נפתחים אוטומטית בדפדפן שלכם - אי אפשר לפספס אותם. אין צורך לחפש ברשימות שהצטברו, ותומך בכל דפדפן."
+    },
+    "sendToMacVsHandoff": {
+      "question": "במה Send to Mac טוב יותר מ-<handoffLink>Handoff</handoffLink>?",
+      "answer": "Clean Links כולל תמיכה ב-Handoff כשהמכשירים קרובים, אבל עובד גם כשה-Mac שלכם במצב שינה או מחוץ לטווח קליטה. תומך בכל אפליקציה עם גיליון שיתוף ובכל דפדפן, פותח קישורים אוטומטית ברקע, ועובד באופן אמין בכל פעם."
+    },
+    "sendToMacVsUniversalClipboard": {
+      "question": "במה Send to Mac טוב יותר מ-<universalClipboardLink>Universal Clipboard</universalClipboardLink>?",
+      "answer": "קישורים נפתחים אוטומטית - אין צורך בהדבקה ידנית. עובד גם כשה-Mac שלכם במצב שינה או מחוץ לטווח קליטה, וההעברה מיידית."
+    },
+    "sendToMacVsImessage": {
+      "question": "במה Send to Mac טוב יותר מ-iMessage?",
+      "answer": "קישורים נפתחים אוטומטית בדפדפן שלכם, מבלי שתצטרכו לבדוק הודעות. נפתח בשקט ברקע כדי שתוכלו להמשיך במה שאתם עושים."
+    },
+    "sendToMacVsEmail": {
+      "question": "במה Send to Mac טוב יותר מאימייל?",
+      "answer": "קישורים נפתחים אוטומטית מבלי לבדוק את תיבת הדואר הנכנס. נפתח בשקט ברקע ושומר על תיבת הדואר שלכם נקייה."
+    },
+    "sendToMacVsPushbullet": {
+      "question": "במה Send to Mac טוב יותר מ-<pushbulletLink>Pushbullet</pushbulletLink>?",
+      "answer": "אפליקציות נייטיב ל-iOS ול-macOS שעובדות מכל גיליון שיתוף. אין צורך בחשבון נוסף - פשוט להתקין ולהשתמש."
+    },
+    "sendToMacVsFirefoxSendTabs": {
+      "question": "במה Send to Mac טוב יותר מ-<firefoxSendTabsLink>Send Tabs</firefoxSendTabsLink> של Firefox?",
+      "answer": "עובד מכל אפליקציה, לא רק מ-Firefox. תומך בכל דפדפן ב-Mac שלכם ודורש פחות הקשות."
+    },
+    "sendToMacVsFirefoxTabSync": {
+      "question": "במה Send to Mac טוב יותר מסנכרון הלשוניות של Firefox?",
+      "answer": "עובד מכל אפליקציה עם גיליון שיתוף, לא רק מ-Firefox. תומך בכל דפדפן מבלי לדרוש מכם להשאיר לשוניות פתוחות במכשיר ה-iOS שלכם."
+    },
+    "sendToMacVsHyperduck": {
+      "question": "במה Send to Mac טוב יותר מ-<hyperduckLink>HyperDuck</hyperduckLink>?",
+      "answer": "חינם לחלוטין עם תמיכה ב-37 שפות. תומך אוטומטית במספר מכשירי Mac, כולל שיתוף בין מכשירי Mac, ומספק ניקוי מלא והסרת ערפול לקישורים, מעבר לשיתוף בלבד."
     }
   },
   "cta": {

@@ -211,19 +211,59 @@
     },
     "sendToMacVsAirdrop": {
       "question": "¿En qué es mejor Enviar a Mac que AirDrop?",
-      "answer": "Enviar a Mac funciona cuando tu Mac está sin conexión o en reposo, cuando no estás en la misma red, y es mucho más rápido que AirDrop. Los enlaces se abren en tu navegador predeterminado en segundo plano, para que no te los pierdas. AirDrop requiere que ambos dispositivos estén activos, cerca y en la misma red, lo que a menudo falla en la práctica."
+      "answer": "Funciona incluso si tu Mac está en reposo o fuera de alcance, abre los enlaces silenciosamente en segundo plano y funciona de forma fiable siempre. Sin problemas de conexión ni esperas."
     },
     "sendToMacVsIcloudTabs": {
-      "question": "¿En qué es mejor Enviar a Mac que las Pestañas de iCloud o la Lista de lectura de Safari?",
-      "answer": "Enviar a Mac funciona en cualquier app a través del menú de compartir, no solo en Safari. Los enlaces se abren automáticamente como pestañas nuevas en tu navegador predeterminado, para que no se te pasen por alto. No tienes que buscar en una larga lista de pestañas o elementos de la lista de lectura. Es compatible con cualquier navegador en tu Mac, no solo con Safari. Tampoco necesitas mantener la pestaña abierta en tu dispositivo iOS para que se sincronice."
+      "question": "¿Por qué Enviar al Mac es mejor que <icloudTabsLink>Pestañas de iCloud</icloudTabsLink>?",
+      "answer": "Funciona desde cualquier app con menú para compartir, no solo Safari. Los enlaces se abren automáticamente como pestañas del navegador - no te los perderás. No tienes que buscar en largas listas de pestañas sincronizadas y es compatible con cualquier navegador en tu Mac."
     },
     "sendToMacMultipleMacs": {
       "question": "¿Puedo enviar enlaces a varios Mac?",
       "answer": "Sí. Puedes enviar enlaces a todos tus Mac siempre que tengas Clean Links para macOS instalado en ellos y hayas iniciado sesión en la misma cuenta de Apple. Puedes desactivar la recepción de enlaces en los ajustes de la app de macOS si quieres excluir un Mac específico."
     },
     "sendToMacShortcuts": {
-      "question": "¿Puedo activar atajos de Mac desde mi iPhone usando Clean Links?",
-      "answer": "Sí. Puedes usar Clean Links para activar atajos en tu Mac desde tu dispositivo iOS. Esta potente automatización entre dispositivos te permite crear flujos de trabajo que abarcan tu iPhone y tu Mac, como enviar un enlace que active un atajo de Mac para procesarlo."
+      "question": "¿Puedo usar Enviar al Mac con Atajos?",
+      "answer": "Sí. La funcionalidad principal para compartir está disponible como una intención de la app, lo que facilita la creación de atajos y automatizaciones entre dispositivos."
+    },
+    "sendToMacVsSafariTabGroups": {
+      "question": "¿Por qué Enviar al Mac es mejor que los Grupos de pestañas de Safari?",
+      "answer": "Funciona desde cualquier app, no solo Safari. Es compatible con cualquier navegador en tu Mac sin necesidad de mantener pestañas abiertas en tu dispositivo iOS."
+    },
+    "sendToMacVsSafariReadingList": {
+      "question": "¿Por qué Enviar al Mac es mejor que la Lista de lectura de Safari?",
+      "answer": "Los enlaces se abren automáticamente en tu navegador - no te los perderás. No tienes que buscar en listas acumuladas y es compatible con cualquier navegador."
+    },
+    "sendToMacVsHandoff": {
+      "question": "¿Por qué Enviar al Mac es mejor que <handoffLink>Handoff</handoffLink>?",
+      "answer": "Clean Links es compatible con Handoff cuando los dispositivos están cerca, pero también funciona si tu Mac está en reposo o fuera de alcance. Es compatible con cualquier app con menú para compartir y con cualquier navegador, abre los enlaces automáticamente en segundo plano y funciona de forma fiable siempre."
+    },
+    "sendToMacVsUniversalClipboard": {
+      "question": "¿Por qué Enviar al Mac es mejor que el <universalClipboardLink>Portapapeles universal</universalClipboardLink>?",
+      "answer": "Los enlaces se abren automáticamente - sin necesidad de pegarlos manualmente. Funciona incluso si tu Mac está en reposo o fuera de alcance y se envían al instante."
+    },
+    "sendToMacVsImessage": {
+      "question": "¿Por qué Enviar al Mac es mejor que iMessage?",
+      "answer": "Los enlaces se abren automáticamente en tu navegador sin tener que revisar mensajes. Se abren silenciosamente en segundo plano para que puedas seguir con lo que estabas haciendo."
+    },
+    "sendToMacVsEmail": {
+      "question": "¿Por qué Enviar al Mac es mejor que el email?",
+      "answer": "Los enlaces se abren automáticamente sin tener que revisar tu bandeja de entrada. Se abren silenciosamente en segundo plano y mantienen limpia tu bandeja de entrada."
+    },
+    "sendToMacVsPushbullet": {
+      "question": "¿Por qué Enviar al Mac es mejor que <pushbulletLink>Pushbullet</pushbulletLink>?",
+      "answer": "Apps nativas para iOS y macOS que funcionan desde cualquier menú para compartir. No se necesita una cuenta adicional - solo tienes que instalar y usar."
+    },
+    "sendToMacVsFirefoxSendTabs": {
+      "question": "¿Por qué Enviar al Mac es mejor que <firefoxSendTabsLink>Enviar pestañas</firefoxSendTabsLink> de Firefox?",
+      "answer": "Funciona desde cualquier app, no solo Firefox. Es compatible con cualquier navegador en tu Mac y requiere menos toques."
+    },
+    "sendToMacVsFirefoxTabSync": {
+      "question": "¿Por qué Enviar al Mac es mejor que la sincronización de pestañas de Firefox?",
+      "answer": "Funciona desde cualquier app con menú para compartir, no solo Firefox. Es compatible con cualquier navegador sin necesidad de mantener pestañas abiertas en tu dispositivo iOS."
+    },
+    "sendToMacVsHyperduck": {
+      "question": "¿Por qué Enviar al Mac es mejor que <hyperduckLink>HyperDuck</hyperduckLink>?",
+      "answer": "Totalmente gratis y disponible en 37 idiomas. Compatible automáticamente con varios Mac, incluye la función de compartir de Mac a Mac y ofrece una limpieza y desofuscación completa de enlaces, más allá de simplemente compartirlos."
     }
   },
   "cta": {

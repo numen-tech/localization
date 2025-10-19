@@ -211,19 +211,59 @@
     },
     "sendToMacVsAirdrop": {
       "question": "Como o Enviar para o Mac é melhor que o AirDrop?",
-      "answer": "O Enviar para o Mac funciona quando seu Mac está offline ou em repouso, quando você não está na mesma rede, e é muito mais rápido que o AirDrop. Os links abrem no seu navegador padrão em segundo plano, assim você não os perde. O AirDrop exige que ambos os dispositivos estejam ativos, próximos e na mesma rede, o que muitas vezes falha na prática."
+      "answer": "Funciona mesmo quando seu Mac está em repouso ou fora de alcance, abre links silenciosamente em segundo plano e envia com confiança sempre. Sem problemas de conexão ou espera."
     },
     "sendToMacVsIcloudTabs": {
-      "question": "Como o Enviar para o Mac é melhor que as Abas do iCloud ou a Lista de Leitura do Safari?",
-      "answer": "O Enviar para o Mac funciona em qualquer app através do menu de compartilhamento, não apenas no Safari. Os links abrem como novas abas no seu navegador padrão automaticamente, assim, é impossível perdê-los. Você não precisa procurar em uma longa lista de abas ou itens da lista de leitura. Ele é compatível com qualquer navegador no seu Mac, não apenas o Safari. Você também não precisa manter a aba aberta no seu dispositivo iOS para que ela sincronize."
+      "question": "Por que o Enviar para o Mac é melhor que as <icloudTabsLink>Abas do iCloud</icloudTabsLink>?",
+      "answer": "Funciona em qualquer app com menu de compartilhamento, não apenas no Safari. Os links abrem automaticamente como abas no navegador - você não vai perdê-los. Sem precisar procurar em longas listas de abas sincronizadas, e é compatível com qualquer navegador no seu Mac."
     },
     "sendToMacMultipleMacs": {
       "question": "Posso enviar links para vários Macs?",
       "answer": "Sim. Você pode enviar links para todos os seus Macs, desde que você tenha o Clean Links para macOS instalado neles e eles estejam conectados à mesma conta Apple. Você pode desativar o recebimento de links nas configurações do app para macOS se quiser excluir um Mac específico."
     },
     "sendToMacShortcuts": {
-      "question": "Posso acionar atalhos do Mac pelo meu iPhone usando o Clean Links?",
-      "answer": "Sim. Você pode usar o Clean Links para acionar atalhos no seu Mac a partir do seu dispositivo iOS. Essa poderosa automação entre dispositivos permite que você crie fluxos de trabalho que abrangem seu iPhone e Mac, como enviar um link que aciona um atalho do Mac para processá-lo."
+      "question": "Posso usar o Enviar para o Mac com o Atalhos?",
+      "answer": "Sim. A funcionalidade principal de compartilhamento está disponível como uma Intenção de App, facilitando a criação de atalhos e automações entre dispositivos."
+    },
+    "sendToMacVsSafariTabGroups": {
+      "question": "Por que o Enviar para o Mac é melhor que os Grupos de Abas do Safari?",
+      "answer": "Funciona em qualquer app, não apenas no Safari. É compatível com qualquer navegador no seu Mac sem exigir que você mantenha abas abertas no seu dispositivo iOS."
+    },
+    "sendToMacVsSafariReadingList": {
+      "question": "Por que o Enviar para o Mac é melhor que a Lista de Leitura do Safari?",
+      "answer": "Os links abrem automaticamente no seu navegador - você não vai perdê-los. Sem precisar pesquisar em listas acumuladas, e é compatível com qualquer navegador."
+    },
+    "sendToMacVsHandoff": {
+      "question": "Por que o Enviar para o Mac é melhor que o <handoffLink>Handoff</handoffLink>?",
+      "answer": "O Clean Links inclui suporte ao Handoff para dispositivos próximos, mas também funciona com seu Mac em repouso ou fora de alcance. Compatível com qualquer app que tenha menu de compartilhamento e com qualquer navegador, ele abre links automaticamente em segundo plano e funciona de forma confiável sempre."
+    },
+    "sendToMacVsUniversalClipboard": {
+      "question": "Por que o Enviar para o Mac é melhor que a <universalClipboardLink>Área de Transferência Universal</universalClipboardLink>?",
+      "answer": "Os links abrem automaticamente - sem precisar colar manualmente. Funciona mesmo quando seu Mac está em repouso ou fora de alcance, e o envio é instantâneo."
+    },
+    "sendToMacVsImessage": {
+      "question": "Por que o Enviar para o Mac é melhor que o iMessage?",
+      "answer": "Os links abrem automaticamente no seu navegador sem que você precise checar as mensagens. Abrem silenciosamente em segundo plano para que você possa continuar o que está fazendo."
+    },
+    "sendToMacVsEmail": {
+      "question": "Por que o Enviar para o Mac é melhor que e-mail?",
+      "answer": "Os links abrem automaticamente sem que você precise checar sua caixa de entrada. Abrem silenciosamente em segundo plano e mantêm sua caixa de entrada limpa."
+    },
+    "sendToMacVsPushbullet": {
+      "question": "Por que o Enviar para o Mac é melhor que o <pushbulletLink>Pushbullet</pushbulletLink>?",
+      "answer": "Apps nativos para iOS e macOS que funcionam a partir de qualquer menu de compartilhamento. Nenhuma conta adicional é necessária - é só instalar e usar."
+    },
+    "sendToMacVsFirefoxSendTabs": {
+      "question": "Por que o Enviar para o Mac é melhor que o <firefoxSendTabsLink>Enviar Abas</firefoxSendTabsLink> do Firefox?",
+      "answer": "Funciona em qualquer app, não apenas no Firefox. É compatível com qualquer navegador no seu Mac com menos toques."
+    },
+    "sendToMacVsFirefoxTabSync": {
+      "question": "Por que o Enviar para o Mac é melhor que a sincronização de abas do Firefox?",
+      "answer": "Funciona em qualquer app com menu de compartilhamento, não apenas no Firefox. É compatível com qualquer navegador sem exigir que você mantenha abas abertas no seu dispositivo iOS."
+    },
+    "sendToMacVsHyperduck": {
+      "question": "Por que o Enviar para o Mac é melhor que o <hyperduckLink>HyperDuck</hyperduckLink>?",
+      "answer": "Totalmente gratuito e com suporte para 37 idiomas. Suporta múltiplos Macs automaticamente, inclui compartilhamento de Mac para Mac e oferece limpeza completa e desofuscação de links, indo além do simples compartilhamento."
     }
   },
   "cta": {

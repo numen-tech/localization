@@ -211,19 +211,59 @@
     },
     "sendToMacVsAirdrop": {
       "question": "In che modo Invia a Mac è migliore di AirDrop?",
-      "answer": "Invia a Mac funziona quando il tuo Mac è offline o in stop, quando non sei sulla stessa rete, ed è molto più veloce di AirDrop. I link si aprono nel tuo browser predefinito in background, così non te li perderai. AirDrop richiede che entrambi i dispositivi siano attivi, vicini e sulla stessa rete, cosa che spesso nella pratica non funziona."
+      "answer": "Funziona anche quando il tuo Mac è in stop o fuori portata, apre i link silenziosamente in background e funziona sempre in modo affidabile. Nessun problema di connessione o attesa."
     },
     "sendToMacVsIcloudTabs": {
-      "question": "In che modo Invia a Mac è migliore dei Pannelli iCloud o dell'Elenco lettura di Safari?",
-      "answer": "Invia a Mac funziona in qualsiasi app tramite il menu di condivisione, non solo in Safari. I link si aprono automaticamente come nuovi pannelli nel tuo browser predefinito, quindi non puoi perderli. Non devi cercare in una lunga lista di pannelli o di elementi dell'elenco lettura. Supporta qualsiasi browser sul tuo Mac, non solo Safari. Inoltre, non è necessario tenere aperto il pannello sul tuo dispositivo iOS affinché avvenga la sincronizzazione."
+      "question": "Perché Send to Mac è migliore di <icloudTabsLink>Pannelli iCloud</icloudTabsLink>?",
+      "answer": "Funziona da qualsiasi app con un menu di condivisione, non solo da Safari. I link si aprono automaticamente come pannelli del browser- non puoi perderli. Non devi cercare in lunghe liste di pannelli sincronizzati e supporta qualsiasi browser sul tuo Mac."
     },
     "sendToMacMultipleMacs": {
       "question": "Posso inviare link a più Mac?",
       "answer": "Sì. Puoi inviare link a tutti i tuoi Mac, a condizione che tu abbia installato Clean Links per macOS su di essi e che siano collegati allo stesso account Apple. Puoi disabilitare la ricezione dei link nelle impostazioni dell'app per macOS se vuoi escludere un Mac specifico."
     },
     "sendToMacShortcuts": {
-      "question": "Posso attivare i comandi rapidi del Mac dal mio iPhone usando Clean Links?",
-      "answer": "Sì. Puoi usare Clean Links per attivare i comandi rapidi sul tuo Mac dal tuo dispositivo iOS. Questa potente automazione tra dispositivi ti permette di creare flussi di lavoro che si estendono tra il tuo iPhone e il tuo Mac, come inviare un link che attiva un comando rapido del Mac per elaborarlo ulteriormente."
+      "question": "Posso usare Send to Mac con Comandi Rapidi?",
+      "answer": "Sì. La funzionalità di condivisione principale è disponibile come 'App Intent', rendendo semplice creare comandi rapidi e automazioni tra dispositivi."
+    },
+    "sendToMacVsSafariTabGroups": {
+      "question": "Perché Send to Mac è migliore dei Gruppi di pannelli di Safari?",
+      "answer": "Funziona da qualsiasi app, non solo da Safari. Supporta qualsiasi browser sul tuo Mac senza richiedere di tenere aperti i pannelli sul tuo dispositivo iOS."
+    },
+    "sendToMacVsSafariReadingList": {
+      "question": "Perché Send to Mac è migliore dell'Elenco lettura di Safari?",
+      "answer": "I link si aprono automaticamente nel tuo browser- non puoi perderli. Non devi cercare in lunghe liste e supporta qualsiasi browser."
+    },
+    "sendToMacVsHandoff": {
+      "question": "Perché Send to Mac è migliore di <handoffLink>Handoff</handoffLink>?",
+      "answer": "Clean Links include il supporto per Handoff quando i dispositivi sono vicini, ma funziona anche quando il tuo Mac è in stop o fuori portata. Supporta qualsiasi app con un menu di condivisione e qualsiasi browser, apre i link automaticamente in background e funziona sempre in modo affidabile."
+    },
+    "sendToMacVsUniversalClipboard": {
+      "question": "Perché Send to Mac è migliore di <universalClipboardLink>Appunti universali</universalClipboardLink>?",
+      "answer": "I link si aprono automaticamente- non è necessario incollare manualmente. Funziona anche quando il tuo Mac è in stop o fuori portata e l'invio è istantaneo."
+    },
+    "sendToMacVsImessage": {
+      "question": "Perché Send to Mac è migliore di iMessage?",
+      "answer": "I link si aprono automaticamente nel browser senza dover controllare i messaggi. Si aprono silenziosamente in background così puoi continuare a fare quello che stavi facendo."
+    },
+    "sendToMacVsEmail": {
+      "question": "Perché Send to Mac è migliore dell'email?",
+      "answer": "I link si aprono automaticamente senza controllare la posta in arrivo. Si aprono silenziosamente in background e mantengono pulita la tua casella di posta."
+    },
+    "sendToMacVsPushbullet": {
+      "question": "Perché Send to Mac è migliore di <pushbulletLink>Pushbullet</pushbulletLink>?",
+      "answer": "App native per iOS e macOS che funzionano da qualsiasi menu di condivisione. Nessun account aggiuntivo richiesto- basta installare e usare."
+    },
+    "sendToMacVsFirefoxSendTabs": {
+      "question": "Perché Send to Mac è migliore di <firefoxSendTabsLink>Invia pannelli</firefoxSendTabsLink> di Firefox?",
+      "answer": "Funziona da qualsiasi app, non solo da Firefox. Supporta qualsiasi browser sul tuo Mac con meno tocchi."
+    },
+    "sendToMacVsFirefoxTabSync": {
+      "question": "Perché Send to Mac è migliore della sincronizzazione dei pannelli di Firefox?",
+      "answer": "Funziona da qualsiasi app con un menu di condivisione, non solo da Firefox. Supporta qualsiasi browser senza richiedere di tenere aperti i pannelli sul tuo dispositivo iOS."
+    },
+    "sendToMacVsHyperduck": {
+      "question": "Perché Send to Mac è migliore di <hyperduckLink>HyperDuck</hyperduckLink>?",
+      "answer": "Completamente gratuito con supporto per 37 lingue. Supporta automaticamente più Mac, include la condivisione da Mac a Mac e, oltre alla semplice condivisione, fornisce una pulizia e un deoffuscamento completi dei link."
     }
   },
   "cta": {
