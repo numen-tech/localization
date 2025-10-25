@@ -31,7 +31,8 @@
       "whatIs": "Wat is Slop Or Not?",
       "howAccurate": "Hoe nauwkeurig is het?",
       "isDataPrivate": "Zijn mijn gegevens privé?",
-      "textCleanup": "Wat is Tekst Opschonen?"
+      "textCleanup": "Wat is Tekst Opschonen?",
+      "creatorProgram": "Creatorprogramma"
     },
     "copyright": "Alle rechten voorbehouden. Met ❤️ gebouwd in 🇪🇺"
   },
@@ -267,7 +268,7 @@
       "description": "Krijg hulp met Slop Or Not, de gratis on-device AI-contentdetector. Neem contact op via Discord of e-mail, of bekijk onze Help-pagina."
     },
     "title": "Support",
-    "description": "Slop Or Not wordt gebouwd door twee ingenieurs die je een gratis, on-device AI-contentdetector brengen. We kunnen geen onmiddellijke antwoorden beloven, maar we zullen ons best doen om te helpen.",
+    "description": "Slop Or Not is ontwikkeld door twee engineers en biedt je een gratis AI-contentdetector die op je apparaat werkt. We kunnen geen onmiddellijke reacties beloven, maar we doen ons best om je te helpen.",
     "contact": {
       "title": "Neem contact op",
       "discord": {
@@ -287,6 +288,123 @@
       "title": "Feedback & Functieverzoeken",
       "suggest": "<strong>Een functie voorstellen:</strong> Post in <code>#suggestions</code> op Discord.",
       "report": "<strong>Een bug melden:</strong> Stuur ons een DM op Discord of e-mail ons met een screenshot of log."
+    }
+  },
+  "CreatorProgram": {
+    "meta": {
+      "title": "Influencerprogramma: Verdien geld per 1.000 weergaven | TikTok, Instagram, YouTube",
+      "description": "Verdien $1,50 per 1.000 weergaven op TikTok, Instagram & YouTube. Geen minimumaantal volgers. Minimale uitbetaling van $150. PayPal, Revolut, Wise & meer.",
+      "ogTitle": "Slop or Not Creator- & Influencerprogramma",
+      "ogDescription": "Verdien $1,50/1k weergaven. Geen limiet. Minimale uitbetaling van $150. PayPal, Revolut, Wise & meer."
+    },
+    "hero": {
+      "title": "TikTok, Instagram, YouTube Influencerprogramma - Verdien geld per 1.000 weergaven",
+      "subtitle": "Krijg $1,50 betaald per 1.000 echte weergaven als je video's maakt over Slop Or Not. Geen minimumaantal volgers vereist. Minimale uitbetaling $150 USD."
+    },
+    "cta": {
+      "emailClaim": "E-mail ons om te claimen",
+      "backHome": "Terug naar start"
+    },
+    "earnings": {
+      "title": "Je verdiensten",
+      "rate": "$1,50 per 1.000 echte weergaven",
+      "minPayout": "Minimale uitbetaling: $150 USD",
+      "noCap": "Geen limiet - hoe meer je groeit, hoe meer je verdient"
+    },
+    "howToJoin": {
+      "title": "Hoe doe je mee?",
+      "steps": {
+        "1": "Maak leuke, informatieve content over Slop Or Not op TikTok, Instagram of YouTube.",
+        "2": "Vermeld duidelijk ons domein: slopornot.ai.",
+        "3": "Gebruik de hashtag #slopornot.",
+        "4": "E-mail ons op support@slopornot.ai om je geld te claimen."
+      }
+    },
+    "whyJoin": {
+      "title": "Waarom meedoen?",
+      "items": {
+        "0": "Snelle uitbetalingen",
+        "1": "Werk samen met een snelgroeiend merk",
+        "2": "Geen minimumaantal volgers",
+        "3": "Verdien met elke video - geen goedkeuring nodig"
+      }
+    },
+    "payouts": {
+      "title": "Uitbetalingsmethoden",
+      "methods": "PayPal, Revolut, Wise & meer (USD)"
+    },
+    "useCases": {
+      "title": "Waarom jouw publiek Slop or Not nodig heeft",
+      "subtitle": "Help je volgers zichzelf te beschermen tegen AI-misleiding",
+      "items": {
+        "0": {
+          "title": "Ontmasker catfishing & liefdesoplichting",
+          "description": "Liefdesoplichting kostte slachtoffers $1,14 miljard in 2023. Laat je publiek zien hoe ze kunnen controleren of profielfoto's door AI zijn gegenereerd voordat ze swipen."
+        },
+        "1": {
+          "title": "Verifieer productrecensies",
+          "description": "Valse AI-recensies overspoelen Amazon en webshops. Leer kijkers hoe ze door AI gegenereerde recensies kunnen herkennen voordat ze iets kopen."
+        },
+        "2": {
+          "title": "Detecteer deepfakes & misinformatie",
+          "description": "Viraal nepnieuws verspreidt zich sneller dan de waarheid. Help je community om afbeeldingen en tekst te verifiëren voordat ze die delen."
+        },
+        "3": {
+          "title": "Bescherm academische integriteit",
+          "description": "90% van de studenten gebruikt ChatGPT voor huiswerk. Laat docenten en ouders zien hoe ze op AI-geschreven essays kunnen controleren."
+        }
+      }
+    },
+    "contentIdeas": {
+      "title": "Contentideeën om geld te verdienen",
+      "subtitle": "Maak boeiende video's die je publiek geweldig zal vinden",
+      "ideas": {
+        "0": {
+          "title": "Test virale afbeeldingen",
+          "description": "Download trending afbeeldingen en test ze live. \"Is deze virale foto echt of AI?\" zorgt voor enorm veel engagement."
+        },
+        "1": {
+          "title": "Catfish Check Challenge",
+          "description": "Test profielen op datingapps met Slop Or Not. Je kijkers zullen vrienden taggen die dit moeten zien."
+        },
+        "2": {
+          "title": "Voordat je koopt",
+          "description": "Controleer productrecensies op AI voordat je iets koopt. Bescherm je volgers tegen valse 5-sterrenrecensies."
+        },
+        "3": {
+          "title": "AI vs. echte vergelijking",
+          "description": "Toon naast elkaar: door mensen geschreven tekst vs. AI-tekst. De detectiescores zullen je publiek verrassen."
+        },
+        "4": {
+          "title": "Verificatie van breaking news",
+          "description": "Wanneer er groot nieuws is, verifieer dan virale afbeeldingen in realtime. Wees de betrouwbare bron."
+        },
+        "5": {
+          "title": "Uitleg & tips",
+          "description": "Loop door de app-functies. Instructievideo's presteren altijd goed en helpen mensen."
+        }
+      }
+    },
+    "faq": {
+      "title": "Veelgestelde vragen",
+      "items": {
+        "noCap": {
+          "q": "Is er een uitbetalingslimiet?",
+          "a": "Nee. Er is geen limiet - verdien zoveel als je kunt."
+        },
+        "payouts": {
+          "q": "Hoe betalen jullie mij uit?",
+          "a": "We betalen uit via PayPal, Revolut, Wise en meer."
+        },
+        "currency": {
+          "q": "In welke valuta betalen jullie uit?",
+          "a": "Alle uitbetalingen worden verwerkt in USD."
+        },
+        "whenPaid": {
+          "q": "Wanneer word ik uitbetaald?",
+          "a": "Snelle uitbetalingen na verificatie. De minimale uitbetalingsdrempel is $150 USD."
+        }
+      }
     }
   }
 }

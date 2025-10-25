@@ -31,7 +31,8 @@
       "whatIs": "Qu'est-ce que Slop Or Not ?",
       "howAccurate": "Quelle est sa précision ?",
       "isDataPrivate": "Mes données sont-elles confidentielles ?",
-      "textCleanup": "Qu'est-ce que le Nettoyage de texte ?"
+      "textCleanup": "Qu'est-ce que le Nettoyage de texte ?",
+      "creatorProgram": "Programme Créateur"
     },
     "copyright": "Tous droits réservés. Conçu avec ❤️ en 🇪🇺"
   },
@@ -287,6 +288,123 @@
       "title": "Commentaires et demandes de fonctionnalités",
       "suggest": "<strong>Suggérer une fonctionnalité :</strong> Publiez dans <code>#suggestions</code> sur Discord.",
       "report": "<strong>Signaler un bug :</strong> Envoyez-nous un message privé sur Discord ou un e-mail avec une capture d'écran ou un journal."
+    }
+  },
+  "CreatorProgram": {
+    "meta": {
+      "title": "Programme Influenceur : Gagnez de l'argent par 1 000 vues | TikTok, Instagram, YouTube",
+      "description": "Gagnez 1,50 $ par 1 000 vues sur TikTok, Instagram et YouTube. Aucun minimum d'abonnés. Paiement minimum de 150 $. PayPal, Revolut, Wise et plus encore.",
+      "ogTitle": "Programme Créateur et Influenceur Slop or Not",
+      "ogDescription": "Gagnez 1,50 $/1k vues. Pas de plafond. Paiement minimum de 150 $. PayPal, Revolut, Wise et plus encore."
+    },
+    "hero": {
+      "title": "Programme Influenceur TikTok, Instagram, YouTube - Gagnez de l'argent par 1 000 vues",
+      "subtitle": "Soyez payé 1,50 $ par 1 000 vues réelles lorsque vous créez des vidéos sur Slop or Not. Aucun minimum d'abonnés requis. Paiement minimum de 150 $ USD."
+    },
+    "cta": {
+      "emailClaim": "Envoyez-nous un e-mail pour réclamer",
+      "backHome": "Retour à l'accueil"
+    },
+    "earnings": {
+      "title": "Vos gains",
+      "rate": "1,50 $ par 1 000 vues réelles",
+      "minPayout": "Paiement minimum : 150 $ USD",
+      "noCap": "Pas de plafond - plus votre audience grandit, plus vous gagnez"
+    },
+    "howToJoin": {
+      "title": "Comment participer",
+      "steps": {
+        "1": "Créez du contenu amusant et informatif sur Slop or Not sur TikTok, Instagram ou YouTube.",
+        "2": "Mentionnez clairement notre domaine : slopornot.ai.",
+        "3": "Utilisez le hashtag #slopornot.",
+        "4": "Envoyez-nous un e-mail à support@slopornot.ai pour réclamer votre argent."
+      }
+    },
+    "whyJoin": {
+      "title": "Pourquoi participer ?",
+      "items": {
+        "0": "Paiements rapides",
+        "1": "Associez-vous à une marque en pleine croissance",
+        "2": "Aucun minimum d'abonnés",
+        "3": "Gagnez de l'argent sur chaque vidéo - aucune approbation requise"
+      }
+    },
+    "payouts": {
+      "title": "Méthodes de paiement",
+      "methods": "PayPal, Revolut, Wise et plus (USD)"
+    },
+    "useCases": {
+      "title": "Pourquoi votre audience a besoin de Slop or Not",
+      "subtitle": "Aidez vos abonnés à se protéger contre la tromperie de l'IA",
+      "items": {
+        "0": {
+          "title": "Détectez les 'catfish' et les arnaques sentimentales",
+          "description": "Les arnaques sentimentales ont coûté 1,14 milliard de dollars aux victimes en 2023. Montrez à votre audience comment vérifier si les photos de profil sont générées par l'IA avant de 'swiper'."
+        },
+        "1": {
+          "title": "Vérifiez les avis sur les produits",
+          "description": "Les faux avis générés par l'IA inondent Amazon et les sites d'achat. Apprenez à vos spectateurs comment repérer les avis générés par l'IA avant d'acheter."
+        },
+        "2": {
+          "title": "Détectez les deepfakes et la désinformation",
+          "description": "Les fausses nouvelles virales se propagent plus vite que la vérité. Aidez votre communauté à vérifier les images et le texte avant de partager."
+        },
+        "3": {
+          "title": "Protégez l'intégrité académique",
+          "description": "90 % des étudiants utilisent ChatGPT pour leurs devoirs. Montrez aux enseignants et aux parents comment vérifier les dissertations écrites par l'IA."
+        }
+      }
+    },
+    "contentIdeas": {
+      "title": "Idées de contenu pour gagner de l'argent",
+      "subtitle": "Créez des vidéos captivantes que votre audience adorera",
+      "ideas": {
+        "0": {
+          "title": "Testez des images virales",
+          "description": "Téléchargez des images tendance et testez-les en direct. \"Cette photo virale est-elle réelle ou IA ?\" génère un engagement massif."
+        },
+        "1": {
+          "title": "Challenge : Vérification 'Catfish'",
+          "description": "Testez des profils d'applications de rencontre avec Slop or Not. Vos spectateurs identifieront des amis qui ont besoin de voir ça."
+        },
+        "2": {
+          "title": "Avant d'acheter",
+          "description": "Vérifiez les avis sur les produits pour détecter l'IA avant d'acheter. Épargnez à vos abonnés les faux avis 5 étoiles."
+        },
+        "3": {
+          "title": "Comparaison : IA vs Réel",
+          "description": "Montrez côte à côte : texte écrit par un humain vs texte IA. Les scores de détection surprendront votre audience."
+        },
+        "4": {
+          "title": "Vérification des dernières nouvelles",
+          "description": "Lorsqu'une nouvelle importante éclate, vérifiez les images virales en temps réel. Soyez la source de confiance."
+        },
+        "5": {
+          "title": "Tutoriel et astuces",
+          "description": "Présentez les fonctionnalités de l'application. Les vidéos tutorielles ont toujours de bons résultats et aident les gens."
+        }
+      }
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "noCap": {
+          "q": "Y a-t-il un plafond de paiement maximum ?",
+          "a": "Non. Il n'y a pas de plafond - gagnez autant que vous le pouvez."
+        },
+        "payouts": {
+          "q": "Comment serai-je payé ?",
+          "a": "Nous payons via PayPal, Revolut, Wise et plus encore."
+        },
+        "currency": {
+          "q": "Dans quelle devise payez-vous ?",
+          "a": "Tous les paiements sont traités en USD."
+        },
+        "whenPaid": {
+          "q": "Quand suis-je payé ?",
+          "a": "Paiements rapides après vérification. Le seuil de paiement minimum est de 150 $ USD."
+        }
+      }
     }
   }
 }

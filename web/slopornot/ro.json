@@ -31,7 +31,8 @@
       "whatIs": "Ce este Slop Or Not?",
       "howAccurate": "Cât de precisă este?",
       "isDataPrivate": "Sunt datele mele private?",
-      "textCleanup": "Ce este Text Cleanup?"
+      "textCleanup": "Ce este Text Cleanup?",
+      "creatorProgram": "Program pentru Creatori"
     },
     "copyright": "Toate drepturile rezervate. Creat cu ❤️ în 🇪🇺"
   },
@@ -267,7 +268,7 @@
       "description": "Obține ajutor pentru Slop Or Not, detectorul gratuit de conținut AI pe dispozitiv. Contactează-ne prin Discord sau e-mail, sau răsfoiește pagina noastră de Ajutor."
     },
     "title": "Suport",
-    "description": "Slop Or Not este creat de doi ingineri care vă aduc un detector gratuit de conținut AI pe dispozitiv. Nu putem promite răspunsuri instantanee, dar vom face tot posibilul să ajutăm.",
+    "description": "Slop Or Not este creată de doi ingineri pentru a-ți oferi un detector de conținut AI gratuit, direct pe dispozitiv. Nu putem promite răspunsuri instantanee, dar vom face tot posibilul să te ajutăm.",
     "contact": {
       "title": "Contactează-ne",
       "discord": {
@@ -287,6 +288,123 @@
       "title": "Feedback și Sugestii de Funcționalități",
       "suggest": "<strong>Sugerează o funcționalitate:</strong> Postează pe canalul <code>#suggestions</code> de pe Discord.",
       "report": "<strong>Raportează un bug:</strong> Trimite-ne un mesaj privat pe Discord sau un e-mail cu o captură de ecran sau un jurnal."
+    }
+  },
+  "CreatorProgram": {
+    "meta": {
+      "title": "Program pentru Influenceri: Câștigă Bani la 1.000 de Vizualizări | TikTok, Instagram, YouTube",
+      "description": "Câștigă 1,50 $ la 1.000 de vizualizări pe TikTok, Instagram și YouTube. Fără număr minim de urmăritori. Plată minimă de 150 $. PayPal, Revolut, Wise și altele.",
+      "ogTitle": "Programul pentru Creatori și Influenceri Slop or Not",
+      "ogDescription": "Câștigă 1,50 $/1k vizualizări. Fără limită. Plată minimă de 150 $. PayPal, Revolut, Wise și altele."
+    },
+    "hero": {
+      "title": "Program pentru Influenceri TikTok, Instagram, YouTube - Câștigă Bani la 1.000 de Vizualizări",
+      "subtitle": "Ești plătit cu 1,50 $ la 1.000 de vizualizări reale când faci videoclipuri despre Slop or Not. Nu este necesar un număr minim de urmăritori. Plată minimă de 150 USD."
+    },
+    "cta": {
+      "emailClaim": "Trimite-ne un e-mail pentru a revendica",
+      "backHome": "Înapoi la Acasă"
+    },
+    "earnings": {
+      "title": "Câștigurile Tale",
+      "rate": "1,50 $ la 1.000 de vizualizări reale",
+      "minPayout": "Plată minimă: 150 USD",
+      "noCap": "Fără limită - cu cât crești mai mult, cu atât câștigi mai mult"
+    },
+    "howToJoin": {
+      "title": "Cum te înscrii",
+      "steps": {
+        "1": "Creează conținut distractiv și informativ despre Slop or Not pe TikTok, Instagram sau YouTube.",
+        "2": "Menționează clar domeniul nostru: slopornot.ai.",
+        "3": "Folosește hashtagul #slopornot.",
+        "4": "Trimite-ne un e-mail la support@slopornot.ai pentru a-ți revendica banii."
+      }
+    },
+    "whyJoin": {
+      "title": "De ce să te înscrii?",
+      "items": {
+        "0": "Plăți rapide",
+        "1": "Devino partenerul unui brand în creștere rapidă",
+        "2": "Fără număr minim de urmăritori",
+        "3": "Câștigă de pe urma fiecărui video - nu este necesară aprobarea"
+      }
+    },
+    "payouts": {
+      "title": "Metode de Plată",
+      "methods": "PayPal, Revolut, Wise și altele (USD)"
+    },
+    "useCases": {
+      "title": "De ce are nevoie publicul tău de Slop or Not",
+      "subtitle": "Ajută-ți urmăritorii să se protejeze de înșelăciunile AI",
+      "items": {
+        "0": {
+          "title": "Depistează profilurile false și înșelăciunile romantice",
+          "description": "Înșelăciunile romantice au costat victimele 1,14 miliarde $ în 2023. Arată-le urmăritorilor tăi cum să verifice dacă pozele de profil sunt generate de AI înainte de a da swipe."
+        },
+        "1": {
+          "title": "Verifică recenziile produselor",
+          "description": "Recenziile false generate de AI inundă Amazon și site-urile de cumpărături. Învață-ți publicul cum să depisteze recenziile generate de AI înainte de a cumpăra."
+        },
+        "2": {
+          "title": "Detectează Deepfake-uri și Dezinformare",
+          "description": "Știrile false virale se răspândesc mai repede decât adevărul. Ajută-ți comunitatea să verifice imaginile și textele înainte de a le distribui."
+        },
+        "3": {
+          "title": "Protejează integritatea academică",
+          "description": "90% dintre studenți folosesc ChatGPT pentru teme. Arată-le profesorilor și părinților cum să verifice eseurile scrise de AI."
+        }
+      }
+    },
+    "contentIdeas": {
+      "title": "Idei de conținut pentru a câștiga bani",
+      "subtitle": "Creează videoclipuri captivante pe care publicul tău le va adora",
+      "ideas": {
+        "0": {
+          "title": "Testează imagini virale",
+          "description": "Descarcă imagini în tendințe și testează-le în direct. \"Este această poză virală reală sau AI?\" generează interacțiune masivă."
+        },
+        "1": {
+          "title": "Provocarea Verificării Profilurilor False",
+          "description": "Testează profiluri de pe aplicații de dating cu Slop or Not. Urmăritorii tăi vor eticheta prieteni care trebuie să vadă asta."
+        },
+        "2": {
+          "title": "Înainte de a cumpăra",
+          "description": "Verifică recenziile produselor pentru conținut AI înainte de a cumpăra. Scutește-ți urmăritorii de recenziile false de 5 stele."
+        },
+        "3": {
+          "title": "Comparație AI vs. Real",
+          "description": "Arată o comparație directă: text scris de un om vs. text AI. Scorurile de detecție îți vor surprinde publicul."
+        },
+        "4": {
+          "title": "Verificarea știrilor de ultimă oră",
+          "description": "Când apar știri importante, verifică imaginile virale în timp real. Fii sursa de încredere."
+        },
+        "5": {
+          "title": "Tutorial și Sfaturi",
+          "description": "Prezintă funcționalitățile aplicației. Videoclipurile cu instrucțiuni au în mod constant performanțe bune și ajută oamenii."
+        }
+      }
+    },
+    "faq": {
+      "title": "Întrebări Frecvente",
+      "items": {
+        "noCap": {
+          "q": "Există o limită maximă de plată?",
+          "a": "Nu. Nu există nicio limită - câștigă cât de mult poți."
+        },
+        "payouts": {
+          "q": "Cum voi fi plătit?",
+          "a": "Plătim prin PayPal, Revolut, Wise și altele."
+        },
+        "currency": {
+          "q": "În ce monedă se fac plățile?",
+          "a": "Toate plățile sunt procesate în USD."
+        },
+        "whenPaid": {
+          "q": "Când sunt plătit?",
+          "a": "Plăți rapide după verificare. Pragul minim de plată este de 150 USD."
+        }
+      }
     }
   }
 }

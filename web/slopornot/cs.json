@@ -31,7 +31,8 @@
       "whatIs": "Co je Slop Or Not?",
       "howAccurate": "Jak je to přesné?",
       "isDataPrivate": "Jsou moje data soukromá?",
-      "textCleanup": "Co je Vyčištění textu?"
+      "textCleanup": "Co je Vyčištění textu?",
+      "creatorProgram": "Program pro tvůrce"
     },
     "copyright": "Všechna práva vyhrazena. Vytvořeno s ❤️ v 🇪🇺"
   },
@@ -267,7 +268,7 @@
       "description": "Získejte pomoc s Slop Or Not, bezplatným detektorem obsahu AI na zařízení. Kontaktujte nás přes Discord nebo e-mail, nebo si projděte naši stránku Nápověda."
     },
     "title": "Podpora",
-    "description": "Slop Or Not je vyvíjen dvěma inženýry, kteří vám přinášejí bezplatný detektor obsahu AI na zařízení. Nemůžeme slíbit okamžité odpovědi, ale uděláme maximum, abychom vám pomohli.",
+    "description": "Aplikaci Slop Or Not vytvořili dva inženýři, aby vám přinesli bezplatný detektor AI obsahu, který funguje přímo na vašem zařízení. Nemůžeme slíbit okamžité odpovědi, ale uděláme maximum, abychom vám pomohli.",
     "contact": {
       "title": "Kontaktujte nás",
       "discord": {
@@ -287,6 +288,123 @@
       "title": "Zpětná vazba a požadavky na funkce",
       "suggest": "<strong>Navrhnout funkci:</strong> Napište do kanálu <code>#suggestions</code> na Discordu.",
       "report": "<strong>Nahlásit chybu:</strong> Napište nám soukromou zprávu na Discordu nebo nám pošlete e-mail se snímkem obrazovky nebo protokolem."
+    }
+  },
+  "CreatorProgram": {
+    "meta": {
+      "title": "Program pro influencery: Vydělávejte za 1 000 zhlédnutí | TikTok, Instagram, YouTube",
+      "description": "Vydělejte 1,50 $ za 1 000 zhlédnutí na TikToku, Instagramu a YouTube. Bez minimálního počtu sledujících. Minimální výplata 150 $. PayPal, Revolut, Wise a další.",
+      "ogTitle": "Program pro tvůrce a influencery Slop or Not",
+      "ogDescription": "Vydělejte 1,50 $ za 1 tis. zhlédnutí. Bez omezení. Minimální výplata 150 $. PayPal, Revolut, Wise a další."
+    },
+    "hero": {
+      "title": "Program pro influencery na TikToku, Instagramu a YouTube - Vydělávejte za 1 000 zhlédnutí",
+      "subtitle": "Získejte 1,50 $ za 1 000 reálných zhlédnutí, když vytvoříte video o Slop or Not. Není vyžadován žádný minimální počet sledujících. Minimální výplata 150 USD."
+    },
+    "cta": {
+      "emailClaim": "O odměnu si napište e-mailem",
+      "backHome": "Zpět na hlavní stránku"
+    },
+    "earnings": {
+      "title": "Vaše výdělky",
+      "rate": "1,50 $ za 1 000 reálných zhlédnutí",
+      "minPayout": "Minimální výplata: 150 USD",
+      "noCap": "Bez omezení - čím více rostete, tím více vyděláte"
+    },
+    "howToJoin": {
+      "title": "Jak se zapojit",
+      "steps": {
+        "1": "Vytvářejte zábavný a informativní obsah o Slop or Not na TikToku, Instagramu nebo YouTube.",
+        "2": "Jasně zmiňte naši doménu: slopornot.ai.",
+        "3": "Použijte hashtag #slopornot.",
+        "4": "Napište nám na support@slopornot.ai a přihlaste se o svou hotovost."
+      }
+    },
+    "whyJoin": {
+      "title": "Proč se zapojit?",
+      "items": {
+        "0": "Rychlé výplaty",
+        "1": "Staňte se partnerem rychle rostoucí značky",
+        "2": "Bez minimálního počtu sledujících",
+        "3": "Vydělávejte z každého videa - není potřeba žádné schválení"
+      }
+    },
+    "payouts": {
+      "title": "Metody výplaty",
+      "methods": "PayPal, Revolut, Wise a další (USD)"
+    },
+    "useCases": {
+      "title": "Proč vaše publikum potřebuje Slop or Not",
+      "subtitle": "Pomozte svým sledujícím chránit se před klamáním pomocí AI",
+      "items": {
+        "0": {
+          "title": "Odhalte catfishing a milostné podvody",
+          "description": "Milostné podvody stály oběti v roce 2023 1,14 miliardy dolarů. Ukažte svému publiku, jak před přejetím prstem zkontrolovat, zda jsou profilové fotky vygenerované AI."
+        },
+        "1": {
+          "title": "Ověřujte recenze produktů",
+          "description": "Falešné AI recenze zaplavují Amazon a nákupní weby. Naučte diváky, jak před nákupem rozpoznat recenze vygenerované AI."
+        },
+        "2": {
+          "title": "Odhalujte deepfakes a dezinformace",
+          "description": "Virové falešné zprávy se šíří rychleji než pravda. Pomozte své komunitě ověřit obrázky a texty před jejich sdílením."
+        },
+        "3": {
+          "title": "Chraňte akademickou integritu",
+          "description": "90 % studentů používá ChatGPT na domácí úkoly. Ukažte učitelům a rodičům, jak kontrolovat eseje napsané pomocí AI."
+        }
+      }
+    },
+    "contentIdeas": {
+      "title": "Nápady na obsah, se kterým si vyděláte",
+      "subtitle": "Vytvářejte poutavá videa, která si vaše publikum zamiluje",
+      "ideas": {
+        "0": {
+          "title": "Otestujte virové obrázky",
+          "description": "Stáhněte si populární obrázky a otestujte je živě. Otázka \"Je tato virová fotka skutečná, nebo od AI?\" má obrovský dosah."
+        },
+        "1": {
+          "title": "Výzva: Kontrola catfishing profilů",
+          "description": "Otestujte profily ze seznamovacích aplikací pomocí Slop or Not. Vaši diváci budou označovat přátele, kteří to musí vidět."
+        },
+        "2": {
+          "title": "Než nakoupíte",
+          "description": "Před nákupem zkontrolujte, zda recenze produktů nejsou od AI. Ušetřete své sledující před falešnými 5hvězdičkovými recenzemi."
+        },
+        "3": {
+          "title": "Srovnání: AI vs. realita",
+          "description": "Ukažte vedle sebe: text napsaný člověkem vs. text od AI. Výsledky detekce vaše publikum překvapí."
+        },
+        "4": {
+          "title": "Ověřování aktuálních zpráv",
+          "description": "Když se objeví důležitá zpráva, ověřujte virové obrázky v reálném čase. Staňte se důvěryhodným zdrojem."
+        },
+        "5": {
+          "title": "Návody a tipy",
+          "description": "Projděte si funkce aplikace. Videa s návody mají trvale dobré výsledky a pomáhají lidem."
+        }
+      }
+    },
+    "faq": {
+      "title": "Časté dotazy",
+      "items": {
+        "noCap": {
+          "q": "Existuje maximální limit pro výplatu?",
+          "a": "Ne. Žádný limit neexistuje - vydělejte si, kolik jen dokážete."
+        },
+        "payouts": {
+          "q": "Jak mi zaplatíte?",
+          "a": "Platíme přes PayPal, Revolut, Wise a další."
+        },
+        "currency": {
+          "q": "V jaké měně vyplácíte?",
+          "a": "Všechny výplaty jsou zpracovávány v USD."
+        },
+        "whenPaid": {
+          "q": "Kdy dostanu zaplaceno?",
+          "a": "Rychlé výplaty po ověření. Minimální hranice pro výplatu je 150 USD."
+        }
+      }
     }
   }
 }

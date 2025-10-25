@@ -31,7 +31,8 @@
       "whatIs": "Mi az a Slop Or Not?",
       "howAccurate": "Mennyire pontos?",
       "isDataPrivate": "Biztonságban vannak az adataim?",
-      "textCleanup": "Mi az a Szövegtisztítás?"
+      "textCleanup": "Mi az a Szövegtisztítás?",
+      "creatorProgram": "Alkotói Program"
     },
     "copyright": "Minden jog fenntartva. ❤️-el készült 🇪🇺-ban"
   },
@@ -267,7 +268,7 @@
       "description": "Kérjen segítséget a Slop Or Not-hoz, az ingyenes, eszközön futó MI tartalomdetektorhoz. Vegye fel velünk a kapcsolatot Discordon vagy e-mailben, vagy böngéssze Súgó oldalunkat."
     },
     "title": "Támogatás",
-    "description": "A Slop Or Not-ot két mérnök készíti, akik egy ingyenes, eszközön futó MI tartalomdetektort hoznak el Önnek. Nem ígérhetünk azonnali válaszokat, de mindent megteszünk, hogy segítsünk.",
+    "description": "A Slop Or Not alkalmazást két mérnök fejleszti, hogy egy ingyenes, eszközön futó MI-tartalom felismerőt biztosítsanak neked. Azonnali válaszokat nem ígérhetünk, de minden tőlünk telhetőt megteszünk, hogy segítsünk.",
     "contact": {
       "title": "Lépjen kapcsolatba velünk",
       "discord": {
@@ -287,6 +288,123 @@
       "title": "Visszajelzés és Funkciókérések",
       "suggest": "<strong>Javasoljon egy funkciót:</strong> Írjon a <code>#suggestions</code> csatornába a Discordon.",
       "report": "<strong>Jelentsen egy hibát:</strong> Írjon nekünk privát üzenetet a Discordon, vagy küldjön e-mailt egy képernyőképpel vagy naplóval."
+    }
+  },
+  "CreatorProgram": {
+    "meta": {
+      "title": "Influenszer Program: Keress pénzt 1000 megtekintésenként | TikTok, Instagram, YouTube",
+      "description": "Keress 1,50 $-t 1000 megtekintésenként a TikTokon, Instagramon és YouTube-on. Nincs követői minimum. 150 $-os minimális kifizetés. PayPal, Revolut, Wise és egyéb lehetőségek.",
+      "ogTitle": "Slop or Not Alkotói és Influenszer Program",
+      "ogDescription": "Keress 1,50 $-t 1000 megtekintésenként. Nincs felső határ. 150 $-os minimális kifizetés. PayPal, Revolut, Wise és egyéb lehetőségek."
+    },
+    "hero": {
+      "title": "TikTok, Instagram, YouTube Influenszer Program - Keress pénzt 1000 megtekintésenként",
+      "subtitle": "Kapj 1,50 $-t minden 1000 valós megtekintés után, ha videót készítesz a Slop or Not-ról. Nincs szükség minimális követőszámra. A minimális kifizetés 150 USD."
+    },
+    "cta": {
+      "emailClaim": "Írj nekünk e-mailt az igényléshez",
+      "backHome": "Vissza a kezdőlapra"
+    },
+    "earnings": {
+      "title": "Bevételeid",
+      "rate": "1,50 $ minden 1000 valós megtekintés után",
+      "minPayout": "Minimális kifizetés: 150 USD",
+      "noCap": "Nincs felső határ - minél többet fejlődsz, annál többet keresel"
+    },
+    "howToJoin": {
+      "title": "Hogyan csatlakozhatsz",
+      "steps": {
+        "1": "Készíts szórakoztató, informatív tartalmakat a Slop or Not-ról a TikTokon, Instagramon vagy YouTube-on.",
+        "2": "Említsd meg egyértelműen a domainnevünket: slopornot.ai.",
+        "3": "Használd a #slopornot hashtaget.",
+        "4": "Írj nekünk a support@slopornot.ai címre a pénzed igényléséhez."
+      }
+    },
+    "whyJoin": {
+      "title": "Miért csatlakozz?",
+      "items": {
+        "0": "Gyors kifizetések",
+        "1": "Legyél egy gyorsan növekvő márka partnere",
+        "2": "Nincs követői minimum",
+        "3": "Keress minden videóval - nincs szükség jóváhagyásra"
+      }
+    },
+    "payouts": {
+      "title": "Kifizetési módok",
+      "methods": "PayPal, Revolut, Wise és egyéb lehetőségek (USD)"
+    },
+    "useCases": {
+      "title": "Miért van szüksége a közönségednek a Slop or Not-ra",
+      "subtitle": "Segíts a követőidnek megvédeni magukat az MI-alapú megtévesztéstől",
+      "items": {
+        "0": {
+          "title": "Leleplezd a catfish-eket és a szerelmi csalásokat",
+          "description": "A szerelmi csalások 1,14 milliárd dollárjába kerültek az áldozatoknak 2023-ban. Mutasd meg a közönségednek, hogyan ellenőrizhetik, hogy a profilképek MI által generáltak-e, mielőtt továbblapoznának."
+        },
+        "1": {
+          "title": "Termékértékelések ellenőrzése",
+          "description": "A hamis MI-értékelések elárasztják az Amazont és a vásárlási oldalakat. Tanítsd meg a nézőidnek, hogyan ismerjék fel az MI által generált értékeléseket vásárlás előtt."
+        },
+        "2": {
+          "title": "Deepfake-ek és félretájékoztatás észlelése",
+          "description": "A vírusszerűen terjedő álhírek gyorsabban terjednek, mint az igazság. Segíts a közösségednek ellenőrizni a képeket és szövegeket megosztás előtt."
+        },
+        "3": {
+          "title": "A tanulmányi tisztesség védelme",
+          "description": "A diákok 90%-a használja a ChatGPT-t a házi feladatokhoz. Mutasd meg a tanároknak és a szülőknek, hogyan ellenőrizhetik az MI által írt esszéket."
+        }
+      }
+    },
+    "contentIdeas": {
+      "title": "Tartalomötletek pénzkereséshez",
+      "subtitle": "Készíts lebilincselő videókat, amiket a közönséged imádni fog",
+      "ideas": {
+        "0": {
+          "title": "Vírusszerűen terjedő képek tesztelése",
+          "description": "Tölts le felkapott képeket és teszteld őket élőben. \"Ez a vírusszerűen terjedő fotó valódi vagy MI?\" hatalmas elérést generál."
+        },
+        "1": {
+          "title": "Catfish Ellenőrző Kihívás",
+          "description": "Tesztelj társkereső profilokat a Slop or Not-tal. A nézőid be fogják jelölni azokat az ismerőseiket, akiknek ezt látniuk kell."
+        },
+        "2": {
+          "title": "Vásárlás előtt",
+          "description": "Ellenőrizd a termékértékeléseket MI-tartalomra vásárlás előtt. Óvd meg a követőidet a hamis 5 csillagos értékelésektől."
+        },
+        "3": {
+          "title": "MI vs. Valódi összehasonlítás",
+          "description": "Mutasd meg egymás mellett: ember által írt vs. MI-szöveg. Az észlelési pontszámok meg fogják lepni a közönségedet."
+        },
+        "4": {
+          "title": "Rendkívüli hírek ellenőrzése",
+          "description": "Amikor fontos hír jelenik meg, ellenőrizd a vírusszerűen terjedő képeket valós időben. Legyél te a megbízható forrás."
+        },
+        "5": {
+          "title": "Oktatóanyag és tippek",
+          "description": "Mutasd be az alkalmazás funkcióit. A \"hogyan csináld\" videók folyamatosan jól teljesítenek és segítenek az embereknek."
+        }
+      }
+    },
+    "faq": {
+      "title": "GYIK",
+      "items": {
+        "noCap": {
+          "q": "Van maximális kifizetési határ?",
+          "a": "Nincs. Nincs felső határ - keress annyit, amennyit csak tudsz."
+        },
+        "payouts": {
+          "q": "Hogyan fogtok fizetni?",
+          "a": "PayPal, Revolut, Wise és egyéb módokon fizetünk."
+        },
+        "currency": {
+          "q": "Milyen pénznemben fizettek?",
+          "a": "Minden kifizetés USD-ben történik."
+        },
+        "whenPaid": {
+          "q": "Mikor kapom meg a pénzt?",
+          "a": "Gyors kifizetések az ellenőrzés után. A minimális kifizetési küszöb 150 USD."
+        }
+      }
     }
   }
 }

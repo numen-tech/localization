@@ -31,7 +31,8 @@
       "whatIs": "Was ist Slop Or Not?",
       "howAccurate": "Wie genau ist es?",
       "isDataPrivate": "Sind meine Daten privat?",
-      "textCleanup": "Was ist die Text-Bereinigung?"
+      "textCleanup": "Was ist die Text-Bereinigung?",
+      "creatorProgram": "Creator-Programm"
     },
     "copyright": "Alle Rechte vorbehalten. Mit ❤️ in der 🇪🇺 entwickelt."
   },
@@ -267,7 +268,7 @@
       "description": "Holen Sie sich Hilfe für Slop Or Not, den kostenlosen On-Device-KI-Inhaltsdetektor. Kontaktieren Sie uns über Discord oder per E-Mail oder durchsuchen Sie unsere Hilfeseite."
     },
     "title": "Support",
-    "description": "Slop Or Not wird von zwei Ingenieuren entwickelt, die Ihnen einen kostenlosen On-Device-KI-Inhaltsdetektor zur Verfügung stellen. Wir können keine sofortigen Antworten versprechen, aber wir werden unser Bestes tun, um zu helfen.",
+    "description": "Slop Or Not wird von zwei Entwicklern entwickelt, die dir einen kostenlosen KI-Inhaltsdetektor für dein Gerät bieten. Wir können keine sofortigen Antworten versprechen, aber wir geben unser Bestes, um zu helfen.",
     "contact": {
       "title": "Kontaktieren Sie uns",
       "discord": {
@@ -287,6 +288,123 @@
       "title": "Feedback & Funktionswünsche",
       "suggest": "<strong>Schlagen Sie eine Funktion vor:</strong> Posten Sie in <code>#suggestions</code> auf Discord.",
       "report": "<strong>Melden Sie einen Fehler:</strong> Senden Sie uns eine DM auf Discord oder eine E-Mail mit einem Screenshot oder Protokoll."
+    }
+  },
+  "CreatorProgram": {
+    "meta": {
+      "title": "Influencer-Programm: Verdiene Geld pro 1.000 Aufrufe | TikTok, Instagram, YouTube",
+      "description": "Verdiene 1,50 $ pro 1.000 Aufrufe auf TikTok, Instagram & YouTube. Keine Mindestanzahl an Followern. 150 $ Mindestauszahlung. PayPal, Revolut, Wise & mehr.",
+      "ogTitle": "Slop or Not Creator- & Influencer-Programm",
+      "ogDescription": "Verdiene 1,50 $/1.000 Aufrufe. Keine Obergrenze. 150 $ Mindestauszahlung. PayPal, Revolut, Wise & mehr."
+    },
+    "hero": {
+      "title": "TikTok, Instagram, YouTube Influencer-Programm - Verdiene Geld pro 1.000 Aufrufe",
+      "subtitle": "Erhalte 1,50 $ pro 1.000 echte Aufrufe, wenn du Videos über Slop or Not machst. Keine Mindestanzahl an Followern erforderlich. Mindestauszahlung 150 $ USD."
+    },
+    "cta": {
+      "emailClaim": "Per E-Mail anfordern",
+      "backHome": "Zurück zur Startseite"
+    },
+    "earnings": {
+      "title": "Deine Einnahmen",
+      "rate": "1,50 $ pro 1.000 echte Aufrufe",
+      "minPayout": "Mindestauszahlung: 150 $ USD",
+      "noCap": "Keine Obergrenze - je mehr du wächst, desto mehr verdienst du"
+    },
+    "howToJoin": {
+      "title": "So nimmst du teil",
+      "steps": {
+        "1": "Erstelle unterhaltsame, informative Inhalte über Slop or Not auf TikTok, Instagram oder YouTube.",
+        "2": "Erwähne deutlich unsere Domain: slopornot.ai.",
+        "3": "Verwende den Hashtag #slopornot.",
+        "4": "Schreibe uns eine E-Mail an support@slopornot.ai, um dein Geld anzufordern."
+      }
+    },
+    "whyJoin": {
+      "title": "Warum teilnehmen?",
+      "items": {
+        "0": "Schnelle Auszahlungen",
+        "1": "Werde Partner einer schnell wachsenden Marke",
+        "2": "Keine Mindestanzahl an Followern",
+        "3": "Verdiene mit jedem Video - keine Genehmigung erforderlich"
+      }
+    },
+    "payouts": {
+      "title": "Auszahlungsmethoden",
+      "methods": "PayPal, Revolut, Wise & mehr (USD)"
+    },
+    "useCases": {
+      "title": "Warum dein Publikum Slop or Not braucht",
+      "subtitle": "Hilf deinen Followern, sich vor KI-Täuschung zu schützen",
+      "items": {
+        "0": {
+          "title": "Entlarve Catfishing & Liebesbetrug",
+          "description": "Liebesbetrug kostete Opfer im Jahr 2023 1,14 Mrd. $. Zeige deinem Publikum, wie man vor dem Swipen prüft, ob Profilfotos KI-generiert sind."
+        },
+        "1": {
+          "title": "Produktbewertungen überprüfen",
+          "description": "Gefälschte KI-Bewertungen überschwemmen Amazon und Shopping-Seiten. Zeige den Zuschauern, wie sie vor dem Kauf KI-generierte Bewertungen erkennen."
+        },
+        "2": {
+          "title": "Deepfakes & Falschinformationen erkennen",
+          "description": "Virale Fake News verbreiten sich schneller als die Wahrheit. Hilf deiner Community, Bilder und Texte vor dem Teilen zu überprüfen."
+        },
+        "3": {
+          "title": "Akademische Integrität schützen",
+          "description": "90 % der Studierenden und Schüler nutzen ChatGPT für Hausaufgaben. Zeige Lehrern und Eltern, wie man auf KI-geschriebene Aufsätze prüft."
+        }
+      }
+    },
+    "contentIdeas": {
+      "title": "Content-Ideen zum Geldverdienen",
+      "subtitle": "Erstelle fesselnde Videos, die dein Publikum lieben wird",
+      "ideas": {
+        "0": {
+          "title": "Teste virale Bilder",
+          "description": "Lade Trend-Bilder herunter und teste sie live. \"Ist dieses virale Foto echt oder KI?\" sorgt für massives Engagement."
+        },
+        "1": {
+          "title": "Catfish-Check-Challenge",
+          "description": "Teste Dating-App-Profile mit Slop or Not. Deine Zuschauer werden Freunde markieren, die das sehen müssen."
+        },
+        "2": {
+          "title": "Vor dem Kauf",
+          "description": "Prüfe Produktbewertungen vor dem Kauf auf KI. Bewahre deine Follower vor gefälschten 5-Sterne-Bewertungen."
+        },
+        "3": {
+          "title": "Vergleich: KI vs. echt",
+          "description": "Zeige nebeneinander: von Menschen geschriebener vs. KI-Text. Die Erkennungsergebnisse werden dein Publikum überraschen."
+        },
+        "4": {
+          "title": "Eilmeldungen überprüfen",
+          "description": "Wenn wichtige Nachrichten die Runde machen, überprüfe virale Bilder in Echtzeit. Sei die vertrauenswürdige Quelle."
+        },
+        "5": {
+          "title": "Anleitung & Tipps",
+          "description": "Führe durch die App-Funktionen. Anleitungs-Videos (How-tos) sind durchweg erfolgreich und helfen den Leuten."
+        }
+      }
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "noCap": {
+          "q": "Gibt es eine maximale Auszahlungsgrenze?",
+          "a": "Nein. Es gibt keine Obergrenze - verdiene so viel du kannst."
+        },
+        "payouts": {
+          "q": "Wie werdet ihr mich bezahlen?",
+          "a": "Wir zahlen über PayPal, Revolut, Wise und mehr."
+        },
+        "currency": {
+          "q": "In welcher Währung zahlt ihr?",
+          "a": "Alle Auszahlungen werden in USD abgewickelt."
+        },
+        "whenPaid": {
+          "q": "Wann werde ich bezahlt?",
+          "a": "Schnelle Auszahlungen nach der Verifizierung. Die Mindestauszahlungsgrenze liegt bei 150 $ USD."
+        }
+      }
     }
   }
 }

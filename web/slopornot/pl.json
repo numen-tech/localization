@@ -31,7 +31,8 @@
       "whatIs": "Czym jest Slop Or Not?",
       "howAccurate": "Jak dokładny jest?",
       "isDataPrivate": "Czy moje dane są prywatne?",
-      "textCleanup": "Czym jest Oczyszczanie Tekstu?"
+      "textCleanup": "Czym jest Oczyszczanie Tekstu?",
+      "creatorProgram": "Program dla twórców"
     },
     "copyright": "Wszelkie prawa zastrzeżone. Stworzono z ❤️ w 🇪🇺"
   },
@@ -267,7 +268,7 @@
       "description": "Uzyskaj pomoc dotyczącą Slop Or Not, darmowego wykrywacza treści AI działającego na urządzeniu. Skontaktuj się z nami przez Discord lub e-mail, albo przejrzyj naszą stronę Pomocy."
     },
     "title": "Wsparcie",
-    "description": "Slop Or Not jest tworzone przez dwóch inżynierów, którzy dostarczają Ci darmowy wykrywacz treści AI działający na urządzeniu. Nie możemy obiecać natychmiastowych odpowiedzi, ale dołożymy wszelkich starań, aby pomóc.",
+    "description": "Slop Or Not to aplikacja stworzona przez dwóch inżynierów, oferująca darmowy, działający na urządzeniu detektor treści AI. Nie możemy obiecać natychmiastowych odpowiedzi, ale zrobimy co w naszej mocy, aby pomóc.",
     "contact": {
       "title": "Skontaktuj się z nami",
       "discord": {
@@ -287,6 +288,123 @@
       "title": "Opinie i Propozycje Funkcji",
       "suggest": "<strong>Zaproponuj funkcję:</strong> Opublikuj w <code>#suggestions</code> na Discordzie.",
       "report": "<strong>Zgłoś błąd:</strong> Napisz do nas prywatną wiadomość na Discordzie lub wyślij e-mail ze zrzutem ekranu lub logiem."
+    }
+  },
+  "CreatorProgram": {
+    "meta": {
+      "title": "Program dla influencerów: Zarabiaj za 1000 wyświetleń | TikTok, Instagram, YouTube",
+      "description": "Zarabiaj 1,50 $ za 1000 wyświetleń na TikTok, Instagramie i YouTube. Brak minimum obserwujących. Minimalna wypłata 150 $. PayPal, Revolut, Wise i inne.",
+      "ogTitle": "Program dla twórców i influencerów Slop or Not",
+      "ogDescription": "Zarabiaj 1,50 $/1 tys. wyświetleń. Bez limitu. Minimalna wypłata 150 $. PayPal, Revolut, Wise i inne."
+    },
+    "hero": {
+      "title": "Program dla influencerów na TikTok, Instagram, YouTube - Zarabiaj za 1000 wyświetleń",
+      "subtitle": "Otrzymuj 1,50 $ za 1000 rzeczywistych wyświetleń za tworzenie filmów o Slop or Not. Brak wymaganego minimum obserwujących. Minimalna wypłata 150 USD."
+    },
+    "cta": {
+      "emailClaim": "Napisz do nas e-mail, aby odebrać",
+      "backHome": "Powrót do strony głównej"
+    },
+    "earnings": {
+      "title": "Twoje zarobki",
+      "rate": "1,50 $ za 1000 rzeczywistych wyświetleń",
+      "minPayout": "Minimalna wypłata: 150 USD",
+      "noCap": "Bez limitu - im bardziej się rozwijasz, tym więcej zarabiasz"
+    },
+    "howToJoin": {
+      "title": "Jak dołączyć",
+      "steps": {
+        "1": "Twórz zabawne, informacyjne treści o Slop or Not na TikTok, Instagramie lub YouTube.",
+        "2": "Wyraźnie wspomnij o naszej domenie: slopornot.ai.",
+        "3": "Użyj hashtagu #slopornot.",
+        "4": "Napisz do nas na adres support@slopornot.ai, aby odebrać gotówkę."
+      }
+    },
+    "whyJoin": {
+      "title": "Dlaczego warto dołączyć?",
+      "items": {
+        "0": "Szybkie wypłaty",
+        "1": "Zostań partnerem szybko rozwijającej się marki",
+        "2": "Brak minimum obserwujących",
+        "3": "Zarabiaj na każdym filmie - bez konieczności zatwierdzania"
+      }
+    },
+    "payouts": {
+      "title": "Metody wypłat",
+      "methods": "PayPal, Revolut, Wise i inne (USD)"
+    },
+    "useCases": {
+      "title": "Dlaczego Twoi odbiorcy potrzebują Slop or Not",
+      "subtitle": "Pomóż swoim obserwującym chronić się przed oszustwami AI",
+      "items": {
+        "0": {
+          "title": "Wykrywaj catfishing i oszustwa matrymonialne",
+          "description": "W 2023 roku ofiary oszustw matrymonialnych straciły 1,14 mld $. Pokaż swoim odbiorcom, jak sprawdzić, czy zdjęcia profilowe są wygenerowane przez AI, zanim przesuną palcem."
+        },
+        "1": {
+          "title": "Weryfikuj recenzje produktów",
+          "description": "Fałszywe recenzje AI zalewają Amazon i serwisy zakupowe. Naucz widzów, jak wykrywać recenzje wygenerowane przez AI przed zakupem."
+        },
+        "2": {
+          "title": "Wykrywaj deepfake'i i dezinformację",
+          "description": "Wirusowe fake newsy rozprzestrzeniają się szybciej niż prawda. Pomóż swojej społeczności weryfikować obrazy i tekst przed ich udostępnieniem."
+        },
+        "3": {
+          "title": "Chroń uczciwość akademicką",
+          "description": "90% studentów używa ChatGPT do zadań domowych. Pokaż nauczycielom i rodzicom, jak sprawdzać eseje napisane przez AI."
+        }
+      }
+    },
+    "contentIdeas": {
+      "title": "Pomysły na treści, na których zarobisz",
+      "subtitle": "Twórz angażujące filmy, które pokochają Twoi odbiorcy",
+      "ideas": {
+        "0": {
+          "title": "Testuj wirusowe obrazy",
+          "description": "Pobieraj popularne obrazy i testuj je na żywo. Pytanie \"Czy to wirusowe zdjęcie jest prawdziwe, czy stworzone przez AI?\" generuje ogromne zaangażowanie."
+        },
+        "1": {
+          "title": "Wyzwanie: Sprawdź catfisha",
+          "description": "Testuj profile z aplikacji randkowych za pomocą Slop or Not. Twoi widzowie oznaczą znajomych, którzy muszą to zobaczyć."
+        },
+        "2": {
+          "title": "Zanim kupisz",
+          "description": "Sprawdzaj recenzje produktów pod kątem AI przed zakupem. Uchroń swoich obserwujących przed fałszywymi 5-gwiazdkowymi opiniami."
+        },
+        "3": {
+          "title": "Porównanie: AI kontra rzeczywistość",
+          "description": "Pokaż obok siebie: tekst napisany przez człowieka kontra tekst AI. Wyniki detekcji zaskoczą Twoich odbiorców."
+        },
+        "4": {
+          "title": "Weryfikacja najnowszych wiadomości",
+          "description": "Gdy pojawią się ważne wiadomości, weryfikuj wirusowe obrazy w czasie rzeczywistym. Bądź zaufanym źródłem informacji."
+        },
+        "5": {
+          "title": "Samouczek i wskazówki",
+          "description": "Omów funkcje aplikacji. Filmy instruktażowe \"jak to zrobić\" regularnie osiągają dobre wyniki i pomagają ludziom."
+        }
+      }
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "noCap": {
+          "q": "Czy jest maksymalny limit wypłaty?",
+          "a": "Nie. Nie ma limitu - zarabiaj tyle, ile zdołasz."
+        },
+        "payouts": {
+          "q": "Jak mi zapłacicie?",
+          "a": "Płacimy przez PayPal, Revolut, Wise i inne."
+        },
+        "currency": {
+          "q": "W jakiej walucie płacicie?",
+          "a": "Wszystkie wypłaty są realizowane w USD."
+        },
+        "whenPaid": {
+          "q": "Kiedy otrzymam zapłatę?",
+          "a": "Szybkie wypłaty po weryfikacji. Minimalny próg wypłaty to 150 USD."
+        }
+      }
     }
   }
 }
