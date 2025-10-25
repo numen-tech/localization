@@ -31,7 +31,8 @@
       "whatIs": "Slop Or Not 是什麼？",
       "howAccurate": "準確率有多高？",
       "isDataPrivate": "我的資料是否私密？",
-      "textCleanup": "「文字清理」是什麼？"
+      "textCleanup": "「文字清理」是什麼？",
+      "creatorProgram": "創作者計劃"
     },
     "copyright": "版權所有。以 ❤️ 於 🇪🇺 構建"
   },
@@ -267,7 +268,7 @@
       "description": "獲取 Slop Or Not 的幫助，這是一款免費的裝置上 AI 內容偵測器。透過 Discord 或電郵聯繫我們，或瀏覽我們的幫助頁面。"
     },
     "title": "支援",
-    "description": "Slop Or Not 由兩位工程師打造，為你帶來免費的裝置上 AI 內容偵測器。我們無法保證即時回覆，但我們會盡力提供幫助。",
+    "description": "Slop Or Not 由兩位工程師開發，為你帶來免費、在裝置上運行的 AI 內容偵測器。我們無法保證即時回覆，但會盡力提供協助。",
     "contact": {
       "title": "聯絡我們",
       "discord": {
@@ -287,6 +288,123 @@
       "title": "反饋與功能請求",
       "suggest": "<strong>建議功能：</strong>在 Discord 的 <code>#suggestions</code> 中發帖。",
       "report": "<strong>報告錯誤：</strong>在 Discord 上私訊我們或發送電郵給我們，並附上螢幕截圖或日誌。"
+    }
+  },
+  "CreatorProgram": {
+    "meta": {
+      "title": "KOL 計劃：每 1,000 次觀看賺取收益 | TikTok、Instagram、YouTube",
+      "description": "在 TikTok、Instagram 和 YouTube 上每 1,000 次觀看可賺取 $1.50。無粉絲數量下限。最低派彩金額 $150。支援 PayPal、Revolut、Wise 等多種方式。",
+      "ogTitle": "Slop or Not 創作者與 KOL 計劃",
+      "ogDescription": "每 1,000 次觀看賺取 $1.50。無上限。最低派彩金額 $150。支援 PayPal、Revolut、Wise 等多種方式。"
+    },
+    "hero": {
+      "title": "TikTok、Instagram、YouTube KOL 計劃 - 每 1,000 次觀看賺取收益",
+      "subtitle": "製作關於 Slop or Not 的影片，每 1,000 次真實觀看即可賺取 $1.50。無粉絲數量下限要求。最低派彩金額為 $150 美元。"
+    },
+    "cta": {
+      "emailClaim": "電郵我們以領取獎金",
+      "backHome": "返回主頁"
+    },
+    "earnings": {
+      "title": "你的收益",
+      "rate": "每 1,000 次真實觀看可獲 $1.50",
+      "minPayout": "最低派彩金額：$150 美元",
+      "noCap": "無上限 - 你的影響力越大，賺得越多"
+    },
+    "howToJoin": {
+      "title": "如何加入",
+      "steps": {
+        "1": "在 TikTok、Instagram 或 YouTube 上創作關於 Slop or Not 的有趣、資訊豐富的內容。",
+        "2": "清晰地提及我們的網域：slopornot.ai。",
+        "3": "使用主題標籤 #slopornot。",
+        "4": "電郵至 support@slopornot.ai 聯絡我們，以領取你的現金獎賞。"
+      }
+    },
+    "whyJoin": {
+      "title": "為何加入？",
+      "items": {
+        "0": "快速派彩",
+        "1": "與快速成長的品牌合作",
+        "2": "無粉絲數量下限",
+        "3": "每段影片都能賺取收益 - 無需審批"
+      }
+    },
+    "payouts": {
+      "title": "派彩方式",
+      "methods": "PayPal、Revolut、Wise 及更多 (美元)"
+    },
+    "useCases": {
+      "title": "為何你的觀眾需要 Slop or Not",
+      "subtitle": "幫助你的粉絲保護自己，免受 AI 欺騙",
+      "items": {
+        "0": {
+          "title": "識破網戀騙案",
+          "description": "2023 年，網戀騙案令受害者損失高達 11.4 億美元。向你的觀眾展示如何在滑動配對前，檢查個人頭像是否由 AI 生成。"
+        },
+        "1": {
+          "title": "驗證產品評論",
+          "description": "虛假的 AI 評論充斥 Amazon 及各大購物網站。教導觀眾在購物前如何辨識 AI 生成的評論。"
+        },
+        "2": {
+          "title": "偵測深度偽造及不實資訊",
+          "description": "病毒式假新聞的傳播速度比真相更快。幫助你的社群在分享前驗證圖片和文字。"
+        },
+        "3": {
+          "title": "維護學術誠信",
+          "description": "90% 的學生使用 ChatGPT 做功課。向老師和家長展示如何檢查 AI 撰寫的文章。"
+        }
+      }
+    },
+    "contentIdeas": {
+      "title": "賺錢內容點子",
+      "subtitle": "創作你的觀眾會喜愛的精彩影片",
+      "ideas": {
+        "0": {
+          "title": "測試瘋傳圖片",
+          "description": "下載熱門圖片並進行直播測試。「這張瘋傳的相片是真是假，還是 AI 生成？」能獲得極高的互動率。"
+        },
+        "1": {
+          "title": "網戀防騙挑戰",
+          "description": "使用 Slop or Not 測試交友 App 的個人檔案。你的觀眾會標註需要看這個的朋友。"
+        },
+        "2": {
+          "title": "購物前先檢查",
+          "description": "購買前先檢查產品評論是否由 AI 生成。幫助你的粉絲避開虛假的五星好評。"
+        },
+        "3": {
+          "title": "AI vs 真實內容比較",
+          "description": "並排展示：人類撰寫 vs AI 生成的文字。偵測分數會讓你的觀眾大吃一驚。"
+        },
+        "4": {
+          "title": "突發新聞驗證",
+          "description": "當重大新聞發生時，即時驗證瘋傳的圖片。成為值得信賴的資訊來源。"
+        },
+        "5": {
+          "title": "教學與貼士",
+          "description": "逐步介紹 App 的功能。教學影片的表現一向很好，而且能幫助到人。"
+        }
+      }
+    },
+    "faq": {
+      "title": "常見問題",
+      "items": {
+        "noCap": {
+          "q": "派彩金額有上限嗎？",
+          "a": "沒有。派彩金額沒有上限 - 你能賺多少，就賺多少。"
+        },
+        "payouts": {
+          "q": "你們會如何付款給我？",
+          "a": "我們透過 PayPal、Revolut、Wise 等多種方式付款。"
+        },
+        "currency": {
+          "q": "你們用哪種貨幣支付？",
+          "a": "所有款項均以美元處理。"
+        },
+        "whenPaid": {
+          "q": "我何時會收到款項？",
+          "a": "驗證後快速派彩。最低派彩門檻為 $150 美元。"
+        }
+      }
     }
   }
 }

@@ -31,7 +31,8 @@
       "whatIs": "Vad är Slop Or Not?",
       "howAccurate": "Hur exakt är den?",
       "isDataPrivate": "Är min data privat?",
-      "textCleanup": "Vad är Text Cleanup?"
+      "textCleanup": "Vad är Text Cleanup?",
+      "creatorProgram": "Kreatörsprogram"
     },
     "copyright": "Alla rättigheter förbehållna. Byggd med ❤️ i 🇪🇺"
   },
@@ -267,7 +268,7 @@
       "description": "Få hjälp med Slop Or Not, den kostnadsfria AI-innehållsdetektorn på enheten. Kontakta oss via Discord eller e-post, eller bläddra på vår hjälpsida."
     },
     "title": "Support",
-    "description": "Slop Or Not är byggd av två ingenjörer som ger dig en gratis AI-innehållsdetektor på enheten. Vi kan inte lova omedelbara svar, men vi gör vårt bästa för att hjälpa till.",
+    "description": "Slop Or Not är byggd av två ingenjörer som ger dig en gratis AI-innehållsdetektor som körs på din enhet. Vi kan inte lova omedelbara svar, men vi gör vårt bästa för att hjälpa till.",
     "contact": {
       "title": "Kontakta oss",
       "discord": {
@@ -287,6 +288,123 @@
       "title": "Feedback & funktionsförfrågningar",
       "suggest": "<strong>Föreslå en funktion:</strong> Publicera i <code>#suggestions</code> på Discord.",
       "report": "<strong>Rapportera en bugg:</strong> Skicka ett direktmeddelande till oss på Discord eller mejla oss med en skärmdump eller logg."
+    }
+  },
+  "CreatorProgram": {
+    "meta": {
+      "title": "Influencerprogram: Tjäna pengar per 1 000 visningar | TikTok, Instagram, YouTube",
+      "description": "Tjäna $1.50 per 1 000 visningar på TikTok, Instagram & YouTube. Inget minimikrav på följare. Minsta utbetalning $150. PayPal, Revolut, Wise med flera.",
+      "ogTitle": "Slop or Not kreatörs- och influencerprogram",
+      "ogDescription": "Tjäna $1.50/1k visningar. Inget tak. Minsta utbetalning $150. PayPal, Revolut, Wise med flera."
+    },
+    "hero": {
+      "title": "Influencerprogram för TikTok, Instagram, YouTube - Tjäna pengar per 1 000 visningar",
+      "subtitle": "Få betalt $1.50 per 1 000 verkliga visningar när du gör videor om Slop or Not. Inget minimikrav på följare. Minsta utbetalning 150 USD."
+    },
+    "cta": {
+      "emailClaim": "Mejla oss för att begära utbetalning",
+      "backHome": "Tillbaka till startsidan"
+    },
+    "earnings": {
+      "title": "Dina intäkter",
+      "rate": "$1.50 per 1 000 verkliga visningar",
+      "minPayout": "Minsta utbetalning: 150 USD",
+      "noCap": "Inget tak - ju mer du växer, desto mer tjänar du"
+    },
+    "howToJoin": {
+      "title": "Hur du går med",
+      "steps": {
+        "1": "Skapa roligt och informativt innehåll om Slop or Not på TikTok, Instagram eller YouTube.",
+        "2": "Nämn tydligt vår domän: slopornot.ai.",
+        "3": "Använd hashtaggen #slopornot.",
+        "4": "Mejla oss på support@slopornot.ai för att hämta dina pengar."
+      }
+    },
+    "whyJoin": {
+      "title": "Varför gå med?",
+      "items": {
+        "0": "Snabba utbetalningar",
+        "1": "Samarbeta med ett snabbväxande varumärke",
+        "2": "Inget minimikrav på följare",
+        "3": "Tjäna på varje video - inget godkännande krävs"
+      }
+    },
+    "payouts": {
+      "title": "Utbetalningsmetoder",
+      "methods": "PayPal, Revolut, Wise med flera (USD)"
+    },
+    "useCases": {
+      "title": "Varför din publik behöver Slop or Not",
+      "subtitle": "Hjälp dina följare att skydda sig mot vilseledande AI-innehåll",
+      "items": {
+        "0": {
+          "title": "Avslöja catfishing och romansbedrägerier",
+          "description": "Romansbedrägerier kostade offren 1,14 miljarder dollar under 2023. Visa din publik hur de kontrollerar om profilbilder är AI-genererade innan de sveper."
+        },
+        "1": {
+          "title": "Verifiera produktrecensioner",
+          "description": "Falska AI-recensioner översvämmar Amazon och shoppingsajter. Lär tittarna hur de upptäcker AI-genererade recensioner innan de handlar."
+        },
+        "2": {
+          "title": "Upptäck deepfakes och desinformation",
+          "description": "Virala falska nyheter sprids snabbare än sanningen. Hjälp ditt community att verifiera bilder och text innan de delas."
+        },
+        "3": {
+          "title": "Skydda akademisk integritet",
+          "description": "90 % av studenter använder ChatGPT för sina läxor. Visa lärare och föräldrar hur man kontrollerar AI-skrivna uppsatser."
+        }
+      }
+    },
+    "contentIdeas": {
+      "title": "Innehållsidéer för att tjäna pengar",
+      "subtitle": "Skapa engagerande videor som din publik kommer att älska",
+      "ideas": {
+        "0": {
+          "title": "Testa virala bilder",
+          "description": "Ladda ner trendande bilder och testa dem live. \"Är den här virala bilden verklig eller AI?\" skapar enormt engagemang."
+        },
+        "1": {
+          "title": "Catfish-utmaningen",
+          "description": "Testa profiler på dejtingappar med Slop or Not. Dina tittare kommer att tagga vänner som behöver se detta."
+        },
+        "2": {
+          "title": "Innan du köper",
+          "description": "Kontrollera produktrecensioner för AI innan du handlar. Rädda dina följare från falska 5-stjärniga recensioner."
+        },
+        "3": {
+          "title": "Jämförelse: AI vs. verkligt",
+          "description": "Visa sida vid sida: mänskligt skriven text vs. AI-text. Detektionsresultaten kommer att överraska din publik."
+        },
+        "4": {
+          "title": "Verifiering av senaste nytt",
+          "description": "När stora nyheter slår, verifiera virala bilder i realtid. Bli den pålitliga källan."
+        },
+        "5": {
+          "title": "Guide och tips",
+          "description": "Gå igenom appens funktioner. Instruktionsvideor presterar genomgående bra och hjälper människor."
+        }
+      }
+    },
+    "faq": {
+      "title": "Vanliga frågor",
+      "items": {
+        "noCap": {
+          "q": "Finns det ett maximalt utbetalningstak?",
+          "a": "Nej. Det finns inget tak - tjäna så mycket du kan."
+        },
+        "payouts": {
+          "q": "Hur betalar ni mig?",
+          "a": "Vi betalar via PayPal, Revolut, Wise med flera."
+        },
+        "currency": {
+          "q": "I vilken valuta betalar ni ut?",
+          "a": "Alla utbetalningar behandlas i USD."
+        },
+        "whenPaid": {
+          "q": "När får jag betalt?",
+          "a": "Snabba utbetalningar efter verifiering. Minsta utbetalningsgräns är 150 USD."
+        }
+      }
     }
   }
 }

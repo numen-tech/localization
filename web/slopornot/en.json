@@ -27,6 +27,7 @@
       "download": "Download",
       "privacyPolicy": "Privacy Policy",
       "blog": "Blog",
+      "creatorProgram": "Creator Program",
       "helpCenter": "Help Center",
       "whatIs": "What is Slop Or Not?",
       "howAccurate": "How accurate is it?",
@@ -267,7 +268,7 @@
       "description": "Get help with Slop Or Not, the free on-device AI content detector. Reach out via Discord or email, or browse our Help page."
     },
     "title": "Support",
-    "description": "Slop Or Not is built by two engineers bringing you a free, on-device AI content detector. We can’t promise instant replies, but we’ll do our best to help.",
+    "description": "Slop Or Not is built by two engineers bringing you a free, on-device AI content detector. We can't promise instant replies, but we'll do our best to help.",
     "contact": {
       "title": "Contact Us",
       "discord": {
@@ -287,6 +288,123 @@
       "title": "Feedback & Feature Requests",
       "suggest": "<strong>Suggest a feature:</strong> Post in <code>#suggestions</code> on Discord.",
       "report": "<strong>Report a bug:</strong> DM us on Discord or email us with a screenshot or log."
+    }
+  },
+  "CreatorProgram": {
+    "meta": {
+      "title": "Influencer Program: Earn Money per 1,000 Views | TikTok, Instagram, YouTube",
+      "description": "Earn $1.50 per 1,000 views on TikTok, Instagram & YouTube. No follower minimum. $150 minimum payout. PayPal, Revolut, Wise & more.",
+      "ogTitle": "Slop or Not Creator & Influencer Program",
+      "ogDescription": "Earn $1.50/1k views. No cap. $150 minimum payout. PayPal, Revolut, Wise & more."
+    },
+    "hero": {
+      "title": "TikTok, Instagram, YouTube Influencer Program - Earn Money Per 1,000 Views",
+      "subtitle": "Get paid $1.50 per 1,000 real views when you make videos about Slop or Not. No follower minimum required. Minimum payout $150 USD."
+    },
+    "cta": {
+      "emailClaim": "Email us to claim",
+      "backHome": "Back to Home"
+    },
+    "earnings": {
+      "title": "Your Earnings",
+      "rate": "$1.50 per 1,000 real views",
+      "minPayout": "Minimum payout: $150 USD",
+      "noCap": "No cap - the more you grow, the more you earn"
+    },
+    "howToJoin": {
+      "title": "How to Join",
+      "steps": {
+        "1": "Create fun, informative content about Slop or Not on TikTok, Instagram, or YouTube.",
+        "2": "Clearly mention our domain: slopornot.ai.",
+        "3": "Use the hashtag #slopornot.",
+        "4": "Email us at support@slopornot.ai to claim your cash."
+      }
+    },
+    "whyJoin": {
+      "title": "Why Join?",
+      "items": {
+        "0": "Fast payouts",
+        "1": "Partner with a fast-growing brand",
+        "2": "No follower minimum",
+        "3": "Earn from every video - no approval needed"
+      }
+    },
+    "payouts": {
+      "title": "Payout Methods",
+      "methods": "PayPal, Revolut, Wise & more (USD)"
+    },
+    "useCases": {
+      "title": "Why Your Audience Needs Slop or Not",
+      "subtitle": "Help your followers protect themselves from AI deception",
+      "items": {
+        "0": {
+          "title": "Catch Catfish & Romance Scams",
+          "description": "Romance scams cost victims $1.14B in 2023. Show your audience how to check if profile photos are AI-generated before swiping."
+        },
+        "1": {
+          "title": "Verify Product Reviews",
+          "description": "Fake AI reviews flood Amazon and shopping sites. Teach viewers how to spot AI-generated reviews before buying."
+        },
+        "2": {
+          "title": "Detect Deepfakes & Misinformation",
+          "description": "Viral fake news spreads faster than truth. Help your community verify images and text before sharing."
+        },
+        "3": {
+          "title": "Protect Academic Integrity",
+          "description": "90% of students use ChatGPT for homework. Show teachers and parents how to check for AI-written essays."
+        }
+      }
+    },
+    "contentIdeas": {
+      "title": "Content Ideas to Earn Money",
+      "subtitle": "Create engaging videos your audience will love",
+      "ideas": {
+        "0": {
+          "title": "Test Viral Images",
+          "description": "Download trending images and test them live. \"Is this viral photo real or AI?\" gets massive engagement."
+        },
+        "1": {
+          "title": "Catfish Check Challenge",
+          "description": "Test dating app profiles with Slop or Not. Your viewers will tag friends who need to see this."
+        },
+        "2": {
+          "title": "Before You Buy",
+          "description": "Check product reviews for AI before purchasing. Save your followers from fake 5-star reviews."
+        },
+        "3": {
+          "title": "AI vs Real Comparison",
+          "description": "Show side-by-side: human-written vs AI text. The detection scores will surprise your audience."
+        },
+        "4": {
+          "title": "Breaking News Verification",
+          "description": "When major news breaks, verify viral images in real-time. Be the trusted source."
+        },
+        "5": {
+          "title": "Tutorial & Tips",
+          "description": "Walk through app features. How-to videos consistently perform well and help people."
+        }
+      }
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "noCap": {
+          "q": "Is there max payout cap?",
+          "a": "No. There is no cap - earn as much as you can."
+        },
+        "payouts": {
+          "q": "How will you pay me?",
+          "a": "We pay via PayPal, Revolut, Wise and more."
+        },
+        "currency": {
+          "q": "Which currency do you pay in?",
+          "a": "All payouts are processed in USD."
+        },
+        "whenPaid": {
+          "q": "When do I get paid?",
+          "a": "Fast payouts after verification. Minimum payout threshold is $150 USD."
+        }
+      }
     }
   }
 }

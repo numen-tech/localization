@@ -31,7 +31,8 @@
       "whatIs": "Hva er Slop Or Not?",
       "howAccurate": "Hvor nøyaktig er den?",
       "isDataPrivate": "Er dataene mine private?",
-      "textCleanup": "Hva er Tekstopprydding?"
+      "textCleanup": "Hva er Tekstopprydding?",
+      "creatorProgram": "Skaperprogram"
     },
     "copyright": "Alle rettigheter forbeholdt. Laget med ❤️ i 🇪🇺"
   },
@@ -267,7 +268,7 @@
       "description": "Få hjelp med Slop Or Not, den gratis AI-innholdsdetektoren på enheten. Kontakt oss via Discord eller e-post, eller se vår Hjelp-side."
     },
     "title": "Brukerstøtte",
-    "description": "Slop Or Not er bygget av to ingeniører som gir deg en gratis, enhetsbasert AI-innholdsdetektor. Vi kan ikke love umiddelbare svar, men vi vil gjøre vårt beste for å hjelpe.",
+    "description": "Slop Or Not er utviklet av to ingeniører som gir deg en gratis AI-innholdsdetektor som kjører på enheten din. Vi kan ikke love umiddelbare svar, men vi vil gjøre vårt beste for å hjelpe.",
     "contact": {
       "title": "Kontakt oss",
       "discord": {
@@ -287,6 +288,123 @@
       "title": "Tilbakemeldinger og funksjonsforespørsler",
       "suggest": "<strong>Foreslå en funksjon:</strong> Legg inn et innlegg i <code>#suggestions</code> på Discord.",
       "report": "<strong>Rapporter en feil:</strong> Send oss en direktemelding på Discord eller send oss en e-post med et skjermbilde eller en logg."
+    }
+  },
+  "CreatorProgram": {
+    "meta": {
+      "title": "Influenserprogram: Tjen penger per 1000 visninger | TikTok, Instagram, YouTube",
+      "description": "Tjen $1.50 per 1000 visninger på TikTok, Instagram og YouTube. Ingen minimumskrav til følgere. Minimumsutbetaling på $150. PayPal, Revolut, Wise og mer.",
+      "ogTitle": "Slop or Not skaper- og influenserprogram",
+      "ogDescription": "Tjen $1.50/1000 visninger. Ingen øvre grense. Minimumsutbetaling på $150. PayPal, Revolut, Wise og mer."
+    },
+    "hero": {
+      "title": "TikTok, Instagram, YouTube influenserprogram - Tjen penger per 1000 visninger",
+      "subtitle": "Få betalt $1.50 per 1000 reelle visninger når du lager videoer om Slop or Not. Ingen minimumskrav til følgere. Minimumsutbetaling på $150 USD."
+    },
+    "cta": {
+      "emailClaim": "Send oss en e-post for å motta betaling",
+      "backHome": "Tilbake til startsiden"
+    },
+    "earnings": {
+      "title": "Din inntjening",
+      "rate": "$1.50 per 1000 reelle visninger",
+      "minPayout": "Minimumsutbetaling: $150 USD",
+      "noCap": "Ingen øvre grense - jo mer du vokser, jo mer tjener du"
+    },
+    "howToJoin": {
+      "title": "Slik blir du med",
+      "steps": {
+        "1": "Lag morsomt og informativt innhold om Slop or Not på TikTok, Instagram eller YouTube.",
+        "2": "Nevn domenet vårt tydelig: slopornot.ai.",
+        "3": "Bruk emneknaggen #slopornot.",
+        "4": "Send oss en e-post på support@slopornot.ai for å motta betalingen din."
+      }
+    },
+    "whyJoin": {
+      "title": "Hvorfor bli med?",
+      "items": {
+        "0": "Raske utbetalinger",
+        "1": "Bli partner med en merkevare i rask vekst",
+        "2": "Ingen minimumskrav til følgere",
+        "3": "Tjen på hver video - ingen godkjenning nødvendig"
+      }
+    },
+    "payouts": {
+      "title": "Utbetalingsmetoder",
+      "methods": "PayPal, Revolut, Wise og mer (USD)"
+    },
+    "useCases": {
+      "title": "Hvorfor publikummet ditt trenger Slop or Not",
+      "subtitle": "Hjelp følgerne dine med å beskytte seg mot AI-bedrageri",
+      "items": {
+        "0": {
+          "title": "Avslør catfishing og romansesvindel",
+          "description": "Romansesvindel kostet ofre 1,14 milliarder dollar i 2023. Vis publikummet ditt hvordan de kan sjekke om profilbilder er AI-generert før de sveiper."
+        },
+        "1": {
+          "title": "Verifiser produktanmeldelser",
+          "description": "Falske AI-anmeldelser oversvømmer Amazon og nettbutikker. Lær seerne hvordan de kan oppdage AI-genererte anmeldelser før de kjøper."
+        },
+        "2": {
+          "title": "Oppdag deepfakes og feilinformasjon",
+          "description": "Virale falske nyheter sprer seg raskere enn sannheten. Hjelp samfunnet ditt med å verifisere bilder og tekst før de deler."
+        },
+        "3": {
+          "title": "Beskytt akademisk integritet",
+          "description": "90 % av studenter bruker ChatGPT til lekser. Vis lærere og foreldre hvordan de kan sjekke for AI-skrevne stiler."
+        }
+      }
+    },
+    "contentIdeas": {
+      "title": "Innholdsideer for å tjene penger",
+      "subtitle": "Lag engasjerende videoer som publikummet ditt vil elske",
+      "ideas": {
+        "0": {
+          "title": "Test virale bilder",
+          "description": "Last ned bilder som trender og test dem direkte. \"Er dette virale bildet ekte eller AI?\" skaper enormt engasjement."
+        },
+        "1": {
+          "title": "Catfish-sjekk utfordring",
+          "description": "Test profiler på datingapper med Slop or Not. Seerne dine vil tagge venner som trenger å se dette."
+        },
+        "2": {
+          "title": "Før du kjøper",
+          "description": "Sjekk produktanmeldelser for AI før du kjøper. Redd følgerne dine fra falske 5-stjerners anmeldelser."
+        },
+        "3": {
+          "title": "AI vs. ekte sammenligning",
+          "description": "Vis side om side: menneskeskrevet vs. AI-tekst. Deteksjonsscorene vil overraske publikummet ditt."
+        },
+        "4": {
+          "title": "Verifisering av siste nytt",
+          "description": "Når store nyheter slipper, verifiser virale bilder i sanntid. Vær den troverdige kilden."
+        },
+        "5": {
+          "title": "Veiledning og tips",
+          "description": "Gå gjennom appens funksjoner. 'Slik gjør du det'-videoer gjør det jevnt over bra og hjelper folk."
+        }
+      }
+    },
+    "faq": {
+      "title": "Ofte stilte spørsmål",
+      "items": {
+        "noCap": {
+          "q": "Er det en øvre grense for utbetaling?",
+          "a": "Nei. Det er ingen øvre grense - tjen så mye du kan."
+        },
+        "payouts": {
+          "q": "Hvordan betaler dere meg?",
+          "a": "Vi betaler via PayPal, Revolut, Wise og mer."
+        },
+        "currency": {
+          "q": "Hvilken valuta betaler dere i?",
+          "a": "Alle utbetalinger behandles i USD."
+        },
+        "whenPaid": {
+          "q": "Når får jeg betalt?",
+          "a": "Raske utbetalinger etter verifisering. Minimumsgrensen for utbetaling er $150 USD."
+        }
+      }
     }
   }
 }

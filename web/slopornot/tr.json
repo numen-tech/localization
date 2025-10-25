@@ -31,7 +31,8 @@
       "whatIs": "Slop Or Not Nedir?",
       "howAccurate": "Ne kadar doğru?",
       "isDataPrivate": "Verilerim güvende mi?",
-      "textCleanup": "Metin Temizleme nedir?"
+      "textCleanup": "Metin Temizleme nedir?",
+      "creatorProgram": "İçerik Üretici Programı"
     },
     "copyright": "Tüm hakları saklıdır. ❤️ ile 🇪🇺'da geliştirildi."
   },
@@ -267,7 +268,7 @@
       "description": "Ücretsiz, cihaz üstü yapay zeka içerik dedektörü Slop Or Not ile ilgili yardım alın. Discord veya e-posta yoluyla bize ulaşın ya da Yardım sayfamıza göz atın."
     },
     "title": "Destek",
-    "description": "Slop Or Not, size ücretsiz, cihaz üstü bir yapay zeka içerik dedektörü sunan iki mühendis tarafından geliştirilmiştir. Anında yanıt sözü veremeyiz, ancak yardımcı olmak için elimizden gelenin en iyisini yapacağız.",
+    "description": "Slop Or Not, size ücretsiz ve cihaz üzerinde çalışan bir yapay zeka içerik dedektörü sunan iki mühendis tarafından geliştirildi. Anında yanıt sözü veremeyiz, ancak yardımcı olmak için elimizden geleni yapacağız.",
     "contact": {
       "title": "Bize Ulaşın",
       "discord": {
@@ -287,6 +288,123 @@
       "title": "Geri Bildirim ve Özellik Talepleri",
       "suggest": "<strong>Bir özellik önerin:</strong> Discord'daki <code>#suggestions</code> kanalında paylaşın.",
       "report": "<strong>Bir hata bildirin:</strong> Discord'dan bize DM atın veya ekran görüntüsü ya da günlük kaydı ile e-posta gönderin."
+    }
+  },
+  "CreatorProgram": {
+    "meta": {
+      "title": "Influencer Programı: 1.000 Görüntülenme Başına Para Kazanın | TikTok, Instagram, YouTube",
+      "description": "TikTok, Instagram ve YouTube'da 1.000 görüntülenme başına 1.50$ kazanın. Takipçi alt sınırı yok. Minimum 150$ ödeme. PayPal, Revolut, Wise ve daha fazlası.",
+      "ogTitle": "Slop or Not İçerik Üretici ve Influencer Programı",
+      "ogDescription": "000 görüntülenme başına 1.50$ kazanın. Üst sınır yok. Minimum 150$ ödeme. PayPal, Revolut, Wise ve daha fazlası."
+    },
+    "hero": {
+      "title": "TikTok, Instagram, YouTube Influencer Programı - 1.000 Görüntülenme Başına Para Kazanın",
+      "subtitle": "Slop or Not hakkında videolar çektiğinizde 1.000 gerçek görüntülenme başına 1.50$ ödeme alın. Takipçi alt sınırı gerekmez. Minimum ödeme 150 USD."
+    },
+    "cta": {
+      "emailClaim": "Talep etmek için bize e-posta gönderin",
+      "backHome": "Ana Sayfaya Dön"
+    },
+    "earnings": {
+      "title": "Kazançlarınız",
+      "rate": "000 gerçek görüntülenme başına 1.50$",
+      "minPayout": "Minimum ödeme: 150 USD",
+      "noCap": "Üst sınır yok - ne kadar büyürseniz o kadar çok kazanırsınız"
+    },
+    "howToJoin": {
+      "title": "Nasıl Katılınır",
+      "steps": {
+        "1": "TikTok, Instagram veya YouTube'da Slop or Not hakkında eğlenceli, bilgilendirici içerikler oluşturun.",
+        "2": "Alan adımızı açıkça belirtin: slopornot.ai.",
+        "3": "#slopornot etiketini kullanın.",
+        "4": "Paranızı talep etmek için support@slopornot.ai adresinden bize e-posta gönderin."
+      }
+    },
+    "whyJoin": {
+      "title": "Neden Katılmalısınız?",
+      "items": {
+        "0": "Hızlı ödemeler",
+        "1": "Hızla büyüyen bir markayla ortak olun",
+        "2": "Takipçi alt sınırı yok",
+        "3": "Her videodan kazanın - onay gerekmez"
+      }
+    },
+    "payouts": {
+      "title": "Ödeme Yöntemleri",
+      "methods": "PayPal, Revolut, Wise ve daha fazlası (USD)"
+    },
+    "useCases": {
+      "title": "Kitlenizin Neden Slop or Not'a İhtiyacı Var?",
+      "subtitle": "Takipçilerinizin yapay zeka aldatmacalarından korunmasına yardımcı olun",
+      "items": {
+        "0": {
+          "title": "Sahte Profilleri ve Aşk Dolandırıcılıklarını Yakalayın",
+          "description": "Aşk dolandırıcılıkları 2023'te kurbanlara 1,14 milyar dolara mal oldu. Kitlenize, bir profili beğenmeden önce profil fotoğraflarının yapay zeka tarafından oluşturulup oluşturulmadığını nasıl kontrol edeceklerini gösterin."
+        },
+        "1": {
+          "title": "Ürün Yorumlarını Doğrulayın",
+          "description": "Sahte yapay zeka yorumları Amazon ve alışveriş sitelerini dolduruyor. İzleyicilere satın almadan önce yapay zeka tarafından oluşturulmuş yorumları nasıl tespit edeceklerini öğretin."
+        },
+        "2": {
+          "title": "Deepfake ve Yanlış Bilgileri Tespit Edin",
+          "description": "Viral sahte haberler gerçekten daha hızlı yayılır. Topluluğunuzun paylaşmadan önce görselleri ve metinleri doğrulamasina yardımcı olun."
+        },
+        "3": {
+          "title": "Akademik Dürüstlüğü Koruyun",
+          "description": "Öğrencilerin %90'ı ödevleri için ChatGPT kullanıyor. Öğretmenlere ve ebeveynlere yapay zeka tarafından yazılmış makaleleri nasıl kontrol edeceklerini gösterin."
+        }
+      }
+    },
+    "contentIdeas": {
+      "title": "Para Kazanmak İçin İçerik Fikirleri",
+      "subtitle": "Kitlenizin seveceği ilgi çekici videolar oluşturun",
+      "ideas": {
+        "0": {
+          "title": "Viral Görselleri Test Edin",
+          "description": "Trend olan görselleri indirin ve canlı yayında test edin. \"Bu viral fotoğraf gerçek mi, yoksa yapay zeka mı?\" sorusu büyük etkileşim alır."
+        },
+        "1": {
+          "title": "Sahte Profil Kontrolü Challenge'ı",
+          "description": "Flört uygulaması profillerini Slop or Not ile test edin. İzleyicileriniz bunu görmesi gereken arkadaşlarını etiketleyecektir."
+        },
+        "2": {
+          "title": "Satın Almadan Önce",
+          "description": "Satın almadan önce ürün yorumlarında yapay zeka kontrolü yapın. Takipçilerinizi sahte 5 yıldızlı yorumlardan kurtarın."
+        },
+        "3": {
+          "title": "Yapay Zeka vs Gerçek Karşılaştırması",
+          "description": "Yan yana gösterin: insan tarafından yazılmış metin vs yapay zeka metni. Tespit skorları kitlenizi şaşırtacak."
+        },
+        "4": {
+          "title": "Son Dakika Haber Doğrulaması",
+          "description": "Önemli bir haber çıktığında, viral görselleri gerçek zamanlı olarak doğrulayın. Güvenilir kaynak siz olun."
+        },
+        "5": {
+          "title": "Eğitim ve İpuçları",
+          "description": "Uygulama özelliklerini adım adım anlatın. 'Nasıl yapılır' videoları sürekli olarak iyi performans gösterir ve insanlara yardımcı olur."
+        }
+      }
+    },
+    "faq": {
+      "title": "SSS",
+      "items": {
+        "noCap": {
+          "q": "Maksimum ödeme sınırı var mı?",
+          "a": "Hayır. Üst sınır yok - kazanabildiğiniz kadar kazanın."
+        },
+        "payouts": {
+          "q": "Ödemeyi nasıl yapacaksınız?",
+          "a": "Ödemeyi PayPal, Revolut, Wise ve daha fazlası aracılığıyla yapıyoruz."
+        },
+        "currency": {
+          "q": "Ödemeyi hangi para biriminde yapıyorsunuz?",
+          "a": "Tüm ödemeler USD olarak işlenir."
+        },
+        "whenPaid": {
+          "q": "Ödememi ne zaman alırım?",
+          "a": "Doğrulama sonrası hızlı ödemeler. Minimum ödeme eşiği 150 USD'dir."
+        }
+      }
     }
   }
 }

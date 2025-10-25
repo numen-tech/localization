@@ -31,7 +31,8 @@
       "whatIs": "O que é o Slop Or Not?",
       "howAccurate": "Qual é a sua precisão?",
       "isDataPrivate": "Os meus dados são privados?",
-      "textCleanup": "O que é a Limpeza de Texto?"
+      "textCleanup": "O que é a Limpeza de Texto?",
+      "creatorProgram": "Programa de Criadores"
     },
     "copyright": "Todos os direitos reservados. Construído com ❤️ na 🇪🇺"
   },
@@ -267,7 +268,7 @@
       "description": "Obtenha ajuda com o Slop Or Not, o detetor de conteúdo de IA gratuito no dispositivo. Contacte-nos através do Discord ou e-mail, ou consulte a nossa página de Ajuda."
     },
     "title": "Suporte",
-    "description": "O Slop Or Not é desenvolvido por dois engenheiros para lhe trazer um detetor de conteúdo de IA gratuito e no dispositivo. Não podemos prometer respostas instantâneas, mas faremos o nosso melhor para ajudar.",
+    "description": "O Slop Or Not foi criado por dois engenheiros para lhe oferecer um detetor de conteúdo de IA gratuito e no dispositivo. Não podemos prometer respostas imediatas, mas faremos o nosso melhor para ajudar.",
     "contact": {
       "title": "Contacte-nos",
       "discord": {
@@ -287,6 +288,123 @@
       "title": "Feedback e Pedidos de Funcionalidades",
       "suggest": "<strong>Sugira uma funcionalidade:</strong> Publique em <code>#suggestions</code> no Discord.",
       "report": "<strong>Reporte um erro:</strong> Envie-nos uma DM no Discord ou um e-mail com uma captura de ecrã ou registo."
+    }
+  },
+  "CreatorProgram": {
+    "meta": {
+      "title": "Programa de Influenciadores: Ganhe Dinheiro por cada 1000 Visualizações | TikTok, Instagram, YouTube",
+      "description": "Ganhe 1,50 $ por cada 1000 visualizações no TikTok, Instagram e YouTube. Sem mínimo de seguidores. Pagamento mínimo de 150 $. PayPal, Revolut, Wise e mais.",
+      "ogTitle": "Programa de Criadores e Influenciadores Slop or Not",
+      "ogDescription": "Ganhe 1,50 $/1k visualizações. Sem limite. Pagamento mínimo de 150 $. PayPal, Revolut, Wise e mais."
+    },
+    "hero": {
+      "title": "Programa de Influenciadores do TikTok, Instagram e YouTube - Ganhe Dinheiro por cada 1000 Visualizações",
+      "subtitle": "Receba 1,50 $ por cada 1000 visualizações reais ao criar vídeos sobre o Slop or Not. Não é necessário um número mínimo de seguidores. Pagamento mínimo de 150 USD."
+    },
+    "cta": {
+      "emailClaim": "Envie-nos um email para solicitar",
+      "backHome": "Voltar ao Início"
+    },
+    "earnings": {
+      "title": "Os seus Ganhos",
+      "rate": "1,50 $ por cada 1000 visualizações reais",
+      "minPayout": "Pagamento mínimo: 150 USD",
+      "noCap": "Sem limite - quanto mais crescer, mais ganha"
+    },
+    "howToJoin": {
+      "title": "Como Aderir",
+      "steps": {
+        "1": "Crie conteúdo divertido e informativo sobre o Slop or Not no TikTok, Instagram ou YouTube.",
+        "2": "Mencione claramente o nosso domínio: slopornot.ai.",
+        "3": "Use a hashtag #slopornot.",
+        "4": "Envie-nos um email para support@slopornot.ai para solicitar o seu dinheiro."
+      }
+    },
+    "whyJoin": {
+      "title": "Porquê Aderir?",
+      "items": {
+        "0": "Pagamentos rápidos",
+        "1": "Associe-se a uma marca em rápido crescimento",
+        "2": "Sem mínimo de seguidores",
+        "3": "Ganhe com todos os vídeos - não é necessária aprovação"
+      }
+    },
+    "payouts": {
+      "title": "Métodos de Pagamento",
+      "methods": "PayPal, Revolut, Wise e mais (USD)"
+    },
+    "useCases": {
+      "title": "Porque é que o seu Público Precisa do Slop or Not",
+      "subtitle": "Ajude os seus seguidores a protegerem-se do engano da IA",
+      "items": {
+        "0": {
+          "title": "Detete 'Catfish' e Burlas Românticas",
+          "description": "As burlas românticas custaram 1,14 mil milhões de dólares às vítimas em 2023. Mostre ao seu público como verificar se as fotos de perfil são geradas por IA antes de deslizar."
+        },
+        "1": {
+          "title": "Verifique Análises de Produtos",
+          "description": "Análises falsas de IA inundam a Amazon e sites de compras. Ensine os espetadores a detetar análises geradas por IA antes de comprar."
+        },
+        "2": {
+          "title": "Detete Deepfakes e Desinformação",
+          "description": "As notícias falsas virais espalham-se mais rápido do que a verdade. Ajude a sua comunidade a verificar imagens e texto antes de partilhar."
+        },
+        "3": {
+          "title": "Proteja a Integridade Académica",
+          "description": "90% dos estudantes usam o ChatGPT para os trabalhos de casa. Mostre a professores e pais como verificar se as redações foram escritas por IA."
+        }
+      }
+    },
+    "contentIdeas": {
+      "title": "Ideias de Conteúdo para Ganhar Dinheiro",
+      "subtitle": "Crie vídeos cativantes que o seu público vai adorar",
+      "ideas": {
+        "0": {
+          "title": "Teste Imagens Virais",
+          "description": "Descarregue imagens populares e teste-as em direto. \"Esta foto viral é real ou IA?\" gera um enorme envolvimento."
+        },
+        "1": {
+          "title": "Desafio de Verificação de 'Catfish'",
+          "description": "Teste perfis de apps de encontros com o Slop or Not. Os seus espetadores vão identificar amigos que precisam de ver isto."
+        },
+        "2": {
+          "title": "Antes de Comprar",
+          "description": "Verifique se há IA nas análises de produtos antes de comprar. Poupe os seus seguidores de análises falsas de 5 estrelas."
+        },
+        "3": {
+          "title": "Comparação: IA vs. Real",
+          "description": "Mostre lado a lado: texto escrito por humanos vs. texto de IA. As pontuações de deteção vão surpreender o seu público."
+        },
+        "4": {
+          "title": "Verificação de Notícias de Última Hora",
+          "description": "Quando surgem notícias importantes, verifique imagens virais em tempo real. Seja a fonte de confiança."
+        },
+        "5": {
+          "title": "Tutorial e Dicas",
+          "description": "Mostre as funcionalidades da app. Os vídeos tutoriais têm consistentemente um bom desempenho e ajudam as pessoas."
+        }
+      }
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "noCap": {
+          "q": "Existe um limite máximo de pagamento?",
+          "a": "Não. Não há limite - ganhe o máximo que conseguir."
+        },
+        "payouts": {
+          "q": "Como é que me vão pagar?",
+          "a": "Pagamos através de PayPal, Revolut, Wise e mais."
+        },
+        "currency": {
+          "q": "Em que moeda pagam?",
+          "a": "Todos os pagamentos são processados em USD."
+        },
+        "whenPaid": {
+          "q": "Quando é que recebo o pagamento?",
+          "a": "Pagamentos rápidos após a verificação. O limite mínimo de pagamento é de 150 USD."
+        }
+      }
     }
   }
 }

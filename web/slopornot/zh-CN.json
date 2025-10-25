@@ -31,7 +31,8 @@
       "whatIs": "什么是 Slop Or Not？",
       "howAccurate": "准确率有多高？",
       "isDataPrivate": "我的数据是私密的吗？",
-      "textCleanup": "什么是文本清理？"
+      "textCleanup": "什么是文本清理？",
+      "creatorProgram": "创作者计划"
     },
     "copyright": "版权所有。在欧盟用 ❤️ 构建"
   },
@@ -267,7 +268,7 @@
       "description": "获取Slop Or Not的帮助，这是一款免费的设备端AI内容检测器。通过Discord或电子邮件联系我们，或浏览我们的帮助页面。"
     },
     "title": "支持",
-    "description": "Slop Or Not 由两名工程师打造，为您带来一款免费的设备端AI内容检测器。我们无法保证即时回复，但会尽力提供帮助。",
+    "description": "Slop Or Not 由两名工程师打造, 为您带来一款免费的、在设备上运行的 AI 内容检测器。我们无法保证即时回复, 但会尽力提供帮助。",
     "contact": {
       "title": "联系我们",
       "discord": {
@@ -287,6 +288,123 @@
       "title": "反馈与功能请求",
       "suggest": "<strong>功能建议：</strong> 在Discord的 <code>#suggestions</code> 频道中发帖。",
       "report": "<strong>报告错误：</strong> 在Discord上私信我们，或通过电子邮件将屏幕截图或日志发送给我们。"
+    }
+  },
+  "CreatorProgram": {
+    "meta": {
+      "title": "达人计划: 每千次观看即可赚取收益 | TikTok, Instagram, YouTube",
+      "description": "在 TikTok、Instagram 和 YouTube 上每获得 1000 次观看即可赚取 1.50 美元。无粉丝数要求。最低支付金额 150 美元。支持 PayPal、Revolut、Wise 等多种方式。",
+      "ogTitle": "Slop or Not 创作者与达人计划",
+      "ogDescription": "每千次观看赚取 1.50 美元。无上限。最低支付金额 150 美元。支持 PayPal、Revolut、Wise 等多种方式。"
+    },
+    "hero": {
+      "title": "TikTok、Instagram、YouTube 达人计划 - 每千次观看即可赚取收益",
+      "subtitle": "制作关于 Slop or Not 的视频, 每 1000 次真实观看即可获得 1.50 美元报酬。无粉丝数要求。最低支付金额 150 美元。"
+    },
+    "cta": {
+      "emailClaim": "发送邮件联系我们申领",
+      "backHome": "返回首页"
+    },
+    "earnings": {
+      "title": "您的收益",
+      "rate": "每 1000 次真实观看可获 1.50 美元",
+      "minPayout": "最低支付金额: 150 美元",
+      "noCap": "无上限 - 您的影响力越大, 收益越多"
+    },
+    "howToJoin": {
+      "title": "如何加入",
+      "steps": {
+        "1": "在 TikTok、Instagram 或 YouTube 上创作关于 Slop or Not 的有趣、有料的内容。",
+        "2": "清晰地提及我们的域名: slopornot.ai。",
+        "3": "使用话题标签 #slopornot。",
+        "4": "发送邮件至 support@slopornot.ai 申领您的现金奖励。"
+      }
+    },
+    "whyJoin": {
+      "title": "为何加入?",
+      "items": {
+        "0": "快速支付",
+        "1": "与快速成长的品牌合作",
+        "2": "无粉丝数要求",
+        "3": "每个视频都能赚取收益 - 无需审批"
+      }
+    },
+    "payouts": {
+      "title": "支付方式",
+      "methods": "PayPal、Revolut、Wise 等多种方式 (美元)"
+    },
+    "useCases": {
+      "title": "为什么您的观众需要 Slop or Not",
+      "subtitle": "帮助您的粉丝免受 AI 欺诈的侵害",
+      "items": {
+        "0": {
+          "title": "识破“杀猪盘”与情感诈骗",
+          "description": "2023 年, 情感诈骗造成的损失高达 11.4 亿美元。向您的观众展示如何在滑动匹配前, 检测个人资料照片是否由 AI 生成。"
+        },
+        "1": {
+          "title": "验证商品评价",
+          "description": "虚假的 AI 评价充斥着 Amazon 和各大购物网站。教您的观众如何在购买前识别 AI 生成的评价。"
+        },
+        "2": {
+          "title": "检测深度伪造与虚假信息",
+          "description": "病毒式假新闻的传播速度比真相更快。帮助您的社群在分享前验证图片和文本的真伪。"
+        },
+        "3": {
+          "title": "维护学术诚信",
+          "description": "90% 的学生使用 ChatGPT 做作业。向老师和家长展示如何检测 AI 撰写的文章。"
+        }
+      }
+    },
+    "contentIdeas": {
+      "title": "内容创作点子助您赚取收益",
+      "subtitle": "创作您的观众会喜爱的、引人入胜的视频",
+      "ideas": {
+        "0": {
+          "title": "测试疯传的图片",
+          "description": "下载热门图片并进行直播测试。“这张疯传的照片是真的还是 AI 生成的?” 这类话题能获得极高的互动量。"
+        },
+        "1": {
+          "title": "“杀猪盘”检测挑战",
+          "description": "使用 Slop or Not 测试交友软件的个人资料。您的观众会标记那些需要看这个视频的朋友。"
+        },
+        "2": {
+          "title": "购买前必看",
+          "description": "购买前检测商品评价是否为 AI 生成。让您的粉丝远离虚假的五星好评。"
+        },
+        "3": {
+          "title": "AI 与真人的对比",
+          "description": "并排展示: 人类撰写的文本 vs AI 文本。检测分数会让您的观众大吃一惊。"
+        },
+        "4": {
+          "title": "突发新闻核实",
+          "description": "当重大新闻发生时, 实时核实疯传的图片。成为值得信赖的信息来源。"
+        },
+        "5": {
+          "title": "教程与技巧",
+          "description": "详细介绍应用功能。操作指南类视频一直表现很好, 并且能帮助到人们。"
+        }
+      }
+    },
+    "faq": {
+      "title": "常见问题",
+      "items": {
+        "noCap": {
+          "q": "支付金额有上限吗?",
+          "a": "没有。收益无上限 - 您能赚多少, 就赚多少。"
+        },
+        "payouts": {
+          "q": "你们如何向我付款?",
+          "a": "我们通过 PayPal、Revolut、Wise 等多种方式付款。"
+        },
+        "currency": {
+          "q": "你们用哪种货币支付?",
+          "a": "所有款项均以美元支付。"
+        },
+        "whenPaid": {
+          "q": "我什么时候能收到付款?",
+          "a": "审核通过后快速支付。最低支付门槛为 150 美元。"
+        }
+      }
     }
   }
 }

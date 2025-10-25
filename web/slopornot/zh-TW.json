@@ -31,7 +31,8 @@
       "whatIs": "什麼是 Slop Or Not？",
       "howAccurate": "它的準確度如何？",
       "isDataPrivate": "我的資料是私密的嗎？",
-      "textCleanup": "什麼是「文字清理」？"
+      "textCleanup": "什麼是「文字清理」？",
+      "creatorProgram": "創作者計畫"
     },
     "copyright": "版權所有。以 ❤️ 在 🇪🇺 打造"
   },
@@ -267,7 +268,7 @@
       "description": "取得 Slop Or Not 的幫助，這是一款免費的裝置上 AI 內容偵測器。透過 Discord 或電子郵件聯繫我們，或瀏覽我們的幫助頁面。"
     },
     "title": "支援",
-    "description": "Slop Or Not 由兩位工程師打造，為您帶來一款免費的裝置上 AI 內容偵測器。我們無法保證即時回覆，但我們會盡力提供幫助。",
+    "description": "Slop Or Not 由兩位工程師打造,為您帶來一款免費、在裝置上運行的 AI 內容偵測器。我們無法保證即時回覆,但會盡力提供協助。",
     "contact": {
       "title": "聯繫我們",
       "discord": {
@@ -287,6 +288,123 @@
       "title": "回饋與功能請求",
       "suggest": "<strong>建議功能：</strong>在 Discord 的 <code>#suggestions</code> 中發布。",
       "report": "<strong>回報錯誤：</strong>在 Discord 上私訊我們或將螢幕截圖或日誌透過電子郵件寄給我們。"
+    }
+  },
+  "CreatorProgram": {
+    "meta": {
+      "title": "網紅計畫: 每千次觀看賺取獎金 | TikTok、Instagram、YouTube",
+      "description": "在 TikTok、Instagram 和 YouTube 上每千次觀看賺取 1.50 美元。無粉絲數門檻。最低支付金額 150 美元。支援 PayPal、Revolut、Wise 等多種方式。",
+      "ogTitle": "Slop or Not 創作者與網紅計畫",
+      "ogDescription": "每千次觀看賺取 1.50 美元。無上限。最低支付金額 150 美元。支援 PayPal、Revolut、Wise 等多種方式。"
+    },
+    "hero": {
+      "title": "TikTok、Instagram、YouTube 網紅計畫 - 每千次觀看賺取獎金",
+      "subtitle": "製作關於 Slop or Not 的影片,每千次真實觀看即可賺取 1.50 美元。無粉絲數門檻要求。最低支付金額 150 美元。"
+    },
+    "cta": {
+      "emailClaim": "來信申請獎金",
+      "backHome": "返回首頁"
+    },
+    "earnings": {
+      "title": "您的收益",
+      "rate": "每千次真實觀看 1.50 美元",
+      "minPayout": "最低支付金額: 150 美元",
+      "noCap": "無上限 - 成長越多,賺得越多"
+    },
+    "howToJoin": {
+      "title": "如何加入",
+      "steps": {
+        "1": "在 TikTok、Instagram 或 YouTube 上創作關於 Slop or Not 的有趣、資訊豐富的內容。",
+        "2": "請清楚提及我們的網域: slopornot.ai。",
+        "3": "使用 #slopornot 標籤。",
+        "4": "來信至 support@slopornot.ai 申請您的現金獎勵。"
+      }
+    },
+    "whyJoin": {
+      "title": "為何加入?",
+      "items": {
+        "0": "快速支付",
+        "1": "與快速成長的品牌合作",
+        "2": "無粉絲數門檻",
+        "3": "每支影片都能賺錢 - 無需審核"
+      }
+    },
+    "payouts": {
+      "title": "支付方式",
+      "methods": "PayPal、Revolut、Wise 及其他方式 (以美元支付)"
+    },
+    "useCases": {
+      "title": "為什麼您的觀眾需要 Slop or Not",
+      "subtitle": "幫助您的粉絲保護自己,免受 AI 詐騙的侵害",
+      "items": {
+        "0": {
+          "title": "識破網路交友與愛情詐騙",
+          "description": "2023 年,愛情詐騙讓受害者損失了 11.4 億美元。向您的觀眾展示如何在滑動前,檢查個人資料照片是否為 AI 生成。"
+        },
+        "1": {
+          "title": "驗證商品評論",
+          "description": "假的 AI 評論充斥著 Amazon 和各大購物網站。教導觀眾如何在購買前,辨識出 AI 生成的評論。"
+        },
+        "2": {
+          "title": "偵測深偽技術與不實資訊",
+          "description": "病毒式的假新聞傳播速度比真相還快。幫助您的社群在分享前,驗證圖片和文字的真偽。"
+        },
+        "3": {
+          "title": "維護學術誠信",
+          "description": "90% 的學生使用 ChatGPT 做作業。向老師和家長展示如何檢查 AI 撰寫的文章。"
+        }
+      }
+    },
+    "contentIdeas": {
+      "title": "賺錢的內容點子",
+      "subtitle": "創作觀眾會喜愛的吸睛影片",
+      "ideas": {
+        "0": {
+          "title": "測試瘋傳的圖片",
+          "description": "下載熱門圖片並進行直播測試。「這張瘋傳的照片是真的還是 AI 生成的?」能獲得大量互動。"
+        },
+        "1": {
+          "title": "網路交友防詐挑戰",
+          "description": "用 Slop or Not 測試交友軟體的個人檔案。您的觀眾會標記需要看這個的朋友。"
+        },
+        "2": {
+          "title": "購買前先檢查",
+          "description": "購買前先檢查商品評論是否為 AI 生成。幫助您的粉絲避開假的五星好評。"
+        },
+        "3": {
+          "title": "AI 與真人內容比較",
+          "description": "並排展示: 真人撰寫與 AI 生成的文本。偵測分數會讓您的觀眾大吃一驚。"
+        },
+        "4": {
+          "title": "重大新聞即時驗證",
+          "description": "當重大新聞發生時,即時驗證瘋傳的圖片。成為值得信賴的資訊來源。"
+        },
+        "5": {
+          "title": "教學與技巧",
+          "description": "逐步介紹 App 功能。教學影片的表現一直都很好,也能幫助到人們。"
+        }
+      }
+    },
+    "faq": {
+      "title": "常見問題",
+      "items": {
+        "noCap": {
+          "q": "支付金額有上限嗎?",
+          "a": "沒有。支付金額無上限 - 您能賺多少就賺多少。"
+        },
+        "payouts": {
+          "q": "你們會如何支付款項?",
+          "a": "我們透過 PayPal、Revolut、Wise 等多種方式支付。"
+        },
+        "currency": {
+          "q": "你們以哪種貨幣支付?",
+          "a": "所有款項皆以美元處理。"
+        },
+        "whenPaid": {
+          "q": "我什麼時候會收到款項?",
+          "a": "驗證後快速支付。最低支付門檻為 150 美元。"
+        }
+      }
     }
   }
 }

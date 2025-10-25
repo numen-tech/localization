@@ -31,7 +31,8 @@
       "whatIs": "Mikä on Slop Or Not?",
       "howAccurate": "Kuinka tarkka se on?",
       "isDataPrivate": "Ovatko tietoni yksityisiä?",
-      "textCleanup": "Mikä on tekstin puhdistus?"
+      "textCleanup": "Mikä on tekstin puhdistus?",
+      "creatorProgram": "Sisällöntuottajaohjelma"
     },
     "copyright": "Kaikki oikeudet pidätetään. Rakennettu ❤️:llä 🇪🇺:ssa"
   },
@@ -267,7 +268,7 @@
       "description": "Hae apua Slop Or Not -sovellukselle, ilmaiselle laitteella toimivalle tekoälysisällön tunnistimelle. Ota yhteyttä Discordin tai sähköpostin kautta tai selaa ohjesivuamme."
     },
     "title": "Tuki",
-    "description": "Slop Or Not on kahden insinöörin rakentama ilmainen, laitteella toimiva tekoälysisällön tunnistin. Emme voi luvata välittömiä vastauksia, mutta teemme parhaamme auttaaksemme.",
+    "description": "Slop Or Not on kahden insinöörin kehittämä ilmainen, laitteessa toimiva AI-sisällön tunnistin. Emme voi luvata välittömiä vastauksia, mutta teemme parhaamme auttaaksemme.",
     "contact": {
       "title": "Ota yhteyttä",
       "discord": {
@@ -287,6 +288,123 @@
       "title": "Palaute & ominaisuuspyynnöt",
       "suggest": "<strong>Ehdota ominaisuutta:</strong> Kirjoita viesti Discordissa kanavalle <code>#suggestions</code>.",
       "report": "<strong>Ilmoita bugista:</strong> Lähetä meille yksityisviesti Discordissa tai sähköpostia kuvakaappauksen tai lokitiedoston kera."
+    }
+  },
+  "CreatorProgram": {
+    "meta": {
+      "title": "Vaikuttajaohjelma: Ansaitse rahaa 1 000 näyttökertaa kohden | TikTok, Instagram, YouTube",
+      "description": "Ansaitse 1,50 $ per 1 000 näyttökertaa TikTokissa, Instagramissa & YouTubessa. Ei seuraajien vähimmäismäärää. 150 $ vähimmäismaksu. PayPal, Revolut, Wise & muut.",
+      "ogTitle": "Slop or Not -sisällöntuottaja- & vaikuttajaohjelma",
+      "ogDescription": "Ansaitse 1,50 $/1 000 näyttökertaa. Ei ylärajaa. 150 $ vähimmäismaksu. PayPal, Revolut, Wise & muut."
+    },
+    "hero": {
+      "title": "TikTok, Instagram, YouTube -vaikuttajaohjelma - Ansaitse rahaa 1 000 näyttökertaa kohden",
+      "subtitle": "Saat 1,50 $ per 1 000 aitoa näyttökertaa, kun teet videoita Slop or Notista. Ei seuraajien vähimmäismäärää. Vähimmäismaksu 150 USD."
+    },
+    "cta": {
+      "emailClaim": "Lunasta sähköpostilla",
+      "backHome": "Takaisin etusivulle"
+    },
+    "earnings": {
+      "title": "Ansiosi",
+      "rate": "1,50 $ per 1 000 aitoa näyttökertaa",
+      "minPayout": "Vähimmäismaksu: 150 USD",
+      "noCap": "Ei ylärajaa - mitä enemmän kasvat, sitä enemmän ansaitset"
+    },
+    "howToJoin": {
+      "title": "Miten liittyä mukaan",
+      "steps": {
+        "1": "Luo hauskaa ja informatiivista sisältöä Slop or Notista TikTokiin, Instagramiin tai YouTubeen.",
+        "2": "Mainitse selkeästi verkkotunnuksemme: slopornot.ai.",
+        "3": "Käytä hashtagia #slopornot.",
+        "4": "Lunasta rahasi lähettämällä sähköpostia osoitteeseen support@slopornot.ai."
+      }
+    },
+    "whyJoin": {
+      "title": "Miksi liittyä?",
+      "items": {
+        "0": "Nopeat maksut",
+        "1": "Tee yhteistyötä nopeasti kasvavan brändin kanssa",
+        "2": "Ei seuraajien vähimmäismäärää",
+        "3": "Ansaitse jokaisella videolla - hyväksyntää ei tarvita"
+      }
+    },
+    "payouts": {
+      "title": "Maksutavat",
+      "methods": "PayPal, Revolut, Wise & muut (USD)"
+    },
+    "useCases": {
+      "title": "Miksi yleisösi tarvitsee Slop or Notia",
+      "subtitle": "Auta seuraajiasi suojautumaan AI-petoksilta",
+      "items": {
+        "0": {
+          "title": "Paljasta deittihuijaukset ja romanssipetokset",
+          "description": "Romanssipetokset maksoivat uhreille 1,14 miljardia dollaria vuonna 2023. Näytä yleisöllesi, miten tarkistaa, ovatko profiilikuvat tekoälyllä luotuja, ennen kuin swaippaat."
+        },
+        "1": {
+          "title": "Varmista tuotearvostelujen aitous",
+          "description": "Väärennetyt AI-arvostelut tulvivat Amazoniin ja verkkokauppoihin. Opeta katsojia tunnistamaan tekoälyllä luodut arvostelut ennen ostamista."
+        },
+        "2": {
+          "title": "Tunnista deepfake-väärennökset & misinformaatio",
+          "description": "Viraalit valeuutiset leviävät nopeammin kuin totuus. Auta yhteisöäsi varmistamaan kuvien ja tekstien aitous ennen jakamista."
+        },
+        "3": {
+          "title": "Suojele akateemista rehellisyyttä",
+          "description": "90 % opiskelijoista käyttää ChatGPT:tä kotitehtäviin. Näytä opettajille ja vanhemmille, miten tarkistaa tekoälyn kirjoittamat esseet."
+        }
+      }
+    },
+    "contentIdeas": {
+      "title": "Sisältöideoita rahan ansaitsemiseen",
+      "subtitle": "Luo koukuttavia videoita, joista yleisösi pitää",
+      "ideas": {
+        "0": {
+          "title": "Testaa viraaleja kuvia",
+          "description": "Lataa trendaavia kuvia ja testaa niitä livenä. \"Onko tämä viraalikuva aito vai tekoälyä?\" saa valtavasti sitoutumista."
+        },
+        "1": {
+          "title": "Deittihuijari-tarkistushaaste",
+          "description": "Testaa deittisovellusten profiileja Slop or Notilla. Katsojasi tägäävät kavereita, joiden on nähtävä tämä."
+        },
+        "2": {
+          "title": "Ennen kuin ostat",
+          "description": "Tarkista tuotearvostelut tekoälyn varalta ennen ostamista. Säästä seuraajasi väärennetyiltä 5 tähden arvosteluilta."
+        },
+        "3": {
+          "title": "AI vs. aito -vertailu",
+          "description": "Näytä rinnakkain: ihmisen kirjoittama vs. tekoälyteksti. Tunnistuspisteet yllättävät yleisösi."
+        },
+        "4": {
+          "title": "Uutispommien tarkistus",
+          "description": "Kun suuri uutinen julkaistaan, tarkista viraalikuvat reaaliajassa. Ole luotettu lähde."
+        },
+        "5": {
+          "title": "Opas & vinkit",
+          "description": "Käy läpi sovelluksen ominaisuuksia. Ohjevideot menestyvät jatkuvasti hyvin ja auttavat ihmisiä."
+        }
+      }
+    },
+    "faq": {
+      "title": "UKK",
+      "items": {
+        "noCap": {
+          "q": "Onko maksuilla ylärajaa?",
+          "a": "Ei. Ylärajaa ei ole - ansaitse niin paljon kuin pystyt."
+        },
+        "payouts": {
+          "q": "Miten maksatte minulle?",
+          "a": "Maksamme PayPalin, Revolutin, Wisen ja muiden kautta."
+        },
+        "currency": {
+          "q": "Missä valuutassa maksatte?",
+          "a": "Kaikki maksut käsitellään USD-valuutassa."
+        },
+        "whenPaid": {
+          "q": "Milloin saan maksun?",
+          "a": "Nopeat maksut vahvistuksen jälkeen. Vähimmäismaksuraja on 150 USD."
+        }
+      }
     }
   }
 }
