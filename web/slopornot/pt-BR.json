@@ -293,13 +293,13 @@
   "CreatorProgram": {
     "meta": {
       "title": "Programa de Influenciadores: Ganhe Dinheiro a Cada 1.000 Visualizações | TikTok, Instagram, YouTube",
-      "description": "Ganhe US$ 1,50 a cada 1.000 visualizações no TikTok, Instagram e YouTube. Sem mínimo de seguidores. Pagamento mínimo de US$ 150. PayPal, Revolut, Wise e mais.",
+      "description": "Ganhe US$ 1,50 por 1.000 visualizações no TikTok, Instagram e YouTube. Sem mínimo de seguidores. Pagamento mínimo de US$ 15. PayPal, Revolut, Wise e mais.",
       "ogTitle": "Programa de Criadores e Influenciadores do Slop or Not",
-      "ogDescription": "Ganhe US$ 1,50/1k de visualizações. Sem limite. Pagamento mínimo de US$ 150. PayPal, Revolut, Wise e mais."
+      "ogDescription": "Ganhe US$ 1,50/1k de visualizações. Sem limite. Pagamento mínimo de US$ 15. PayPal, Revolut, Wise e mais."
     },
     "hero": {
       "title": "Programa de Influenciadores para TikTok, Instagram e YouTube - Ganhe Dinheiro a Cada 1.000 Visualizações",
-      "subtitle": "Receba US$ 1,50 a cada 1.000 visualizações reais ao criar vídeos sobre o Slop or Not. Não há exigência de um número mínimo de seguidores. Pagamento mínimo de US$ 150."
+      "subtitle": "Receba US$ 1,50 por 1.000 visualizações reais ao criar vídeos sobre o Slop or Not. Sem mínimo de seguidores. Pagamento mínimo de US$ 15."
     },
     "cta": {
       "emailClaim": "Envie-nos um e-mail para resgatar",
@@ -308,7 +308,7 @@
     "earnings": {
       "title": "Seus Ganhos",
       "rate": "US$ 1,50 a cada 1.000 visualizações reais",
-      "minPayout": "Pagamento mínimo: US$ 150",
+      "minPayout": "Pagamento mínimo: US$ 15",
       "noCap": "Sem limite - quanto mais você cresce, mais você ganha"
     },
     "howToJoin": {
@@ -402,7 +402,7 @@
         },
         "whenPaid": {
           "q": "Quando eu recebo o pagamento?",
-          "a": "Pagamentos rápidos após a verificação. O valor mínimo para pagamento é de US$ 150."
+          "a": "Pagamentos rápidos após a verificação. O valor mínimo para pagamento é de US$ 15."
         }
       }
     }

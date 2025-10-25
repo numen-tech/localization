@@ -293,13 +293,13 @@
   "CreatorProgram": {
     "meta": {
       "title": "Programme Influenceur : Gagnez de l'argent par 1 000 vues | TikTok, Instagram, YouTube",
-      "description": "Gagnez 1,50 $ par 1 000 vues sur TikTok, Instagram et YouTube. Aucun minimum d'abonnés. Paiement minimum de 150 $. PayPal, Revolut, Wise et plus encore.",
+      "description": "Gagnez $1.50 pour 1 000 vues sur TikTok, Instagram et YouTube. Aucun minimum d'abonnés. Paiement minimum de $15. PayPal, Revolut, Wise et plus encore.",
       "ogTitle": "Programme Créateur et Influenceur Slop or Not",
-      "ogDescription": "Gagnez 1,50 $/1k vues. Pas de plafond. Paiement minimum de 150 $. PayPal, Revolut, Wise et plus encore."
+      "ogDescription": "Gagnez $1.50/1k vues. Sans plafond. Paiement minimum de $15. PayPal, Revolut, Wise et plus encore."
     },
     "hero": {
       "title": "Programme Influenceur TikTok, Instagram, YouTube - Gagnez de l'argent par 1 000 vues",
-      "subtitle": "Soyez payé 1,50 $ par 1 000 vues réelles lorsque vous créez des vidéos sur Slop or Not. Aucun minimum d'abonnés requis. Paiement minimum de 150 $ USD."
+      "subtitle": "Soyez payé $1.50 pour 1 000 vues réelles en créant des vidéos sur Slop or Not. Aucun minimum d'abonnés requis. Paiement minimum de $15."
     },
     "cta": {
       "emailClaim": "Envoyez-nous un e-mail pour réclamer",
@@ -308,7 +308,7 @@
     "earnings": {
       "title": "Vos gains",
       "rate": "1,50 $ par 1 000 vues réelles",
-      "minPayout": "Paiement minimum : 150 $ USD",
+      "minPayout": "Paiement minimum : $15",
       "noCap": "Pas de plafond - plus votre audience grandit, plus vous gagnez"
     },
     "howToJoin": {
@@ -402,7 +402,7 @@
         },
         "whenPaid": {
           "q": "Quand suis-je payé ?",
-          "a": "Paiements rapides après vérification. Le seuil de paiement minimum est de 150 $ USD."
+          "a": "Paiements rapides après vérification. Le seuil de paiement minimum est de $15."
         }
       }
     }

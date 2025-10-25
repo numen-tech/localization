@@ -293,13 +293,13 @@
   "CreatorProgram": {
     "meta": {
       "title": "Influenserprogram: Tjen penger per 1000 visninger | TikTok, Instagram, YouTube",
-      "description": "Tjen $1.50 per 1000 visninger på TikTok, Instagram og YouTube. Ingen minimumskrav til følgere. Minimumsutbetaling på $150. PayPal, Revolut, Wise og mer.",
+      "description": "Tjen $1,50 per 1000 visninger på TikTok, Instagram og YouTube. Ingen minimumskrav til følgere. Minimumsutbetaling på $15. PayPal, Revolut, Wise og mer.",
       "ogTitle": "Slop or Not skaper- og influenserprogram",
-      "ogDescription": "Tjen $1.50/1000 visninger. Ingen øvre grense. Minimumsutbetaling på $150. PayPal, Revolut, Wise og mer."
+      "ogDescription": "Tjen $1,50/1000 visninger. Uten tak. $15 i minimumsutbetaling. PayPal, Revolut, Wise og mer."
     },
     "hero": {
       "title": "TikTok, Instagram, YouTube influenserprogram - Tjen penger per 1000 visninger",
-      "subtitle": "Få betalt $1.50 per 1000 reelle visninger når du lager videoer om Slop or Not. Ingen minimumskrav til følgere. Minimumsutbetaling på $150 USD."
+      "subtitle": "Få betalt $1,50 per 1000 reelle visninger når du lager videoer om Slop or Not. Ingen minimumskrav til antall følgere. Minimumsutbetaling: $15."
     },
     "cta": {
       "emailClaim": "Send oss en e-post for å motta betaling",
@@ -308,7 +308,7 @@
     "earnings": {
       "title": "Din inntjening",
       "rate": "$1.50 per 1000 reelle visninger",
-      "minPayout": "Minimumsutbetaling: $150 USD",
+      "minPayout": "Minimumsutbetaling: $15",
       "noCap": "Ingen øvre grense - jo mer du vokser, jo mer tjener du"
     },
     "howToJoin": {
@@ -402,7 +402,7 @@
         },
         "whenPaid": {
           "q": "Når får jeg betalt?",
-          "a": "Raske utbetalinger etter verifisering. Minimumsgrensen for utbetaling er $150 USD."
+          "a": "Raske utbetalinger etter verifisering. Minimumsutbetalingen er $15."
         }
       }
     }

@@ -293,13 +293,13 @@
   "CreatorProgram": {
     "meta": {
       "title": "Influenszer Program: Keress pénzt 1000 megtekintésenként | TikTok, Instagram, YouTube",
-      "description": "Keress 1,50 $-t 1000 megtekintésenként a TikTokon, Instagramon és YouTube-on. Nincs követői minimum. 150 $-os minimális kifizetés. PayPal, Revolut, Wise és egyéb lehetőségek.",
+      "description": "Keress $1.50-t 1000 megtekintésenként a TikTokon, Instagramon & YouTube-on. Nincs minimális követőszám. Minimális kifizetés: $15. PayPal, Revolut, Wise & mások.",
       "ogTitle": "Slop or Not Alkotói és Influenszer Program",
-      "ogDescription": "Keress 1,50 $-t 1000 megtekintésenként. Nincs felső határ. 150 $-os minimális kifizetés. PayPal, Revolut, Wise és egyéb lehetőségek."
+      "ogDescription": "Keress $1.50-t/1k megtekintés. Nincs felső határ. Minimális kifizetés: $15. PayPal, Revolut, Wise & mások."
     },
     "hero": {
       "title": "TikTok, Instagram, YouTube Influenszer Program - Keress pénzt 1000 megtekintésenként",
-      "subtitle": "Kapj 1,50 $-t minden 1000 valós megtekintés után, ha videót készítesz a Slop or Not-ról. Nincs szükség minimális követőszámra. A minimális kifizetés 150 USD."
+      "subtitle": "Kapj $1.50-t minden 1000 valódi megtekintés után, ha videókat készítesz a Slop or Not-ról. Nincs szükség minimális követőszámra. Minimális kifizetés: $15."
     },
     "cta": {
       "emailClaim": "Írj nekünk e-mailt az igényléshez",
@@ -308,7 +308,7 @@
     "earnings": {
       "title": "Bevételeid",
       "rate": "1,50 $ minden 1000 valós megtekintés után",
-      "minPayout": "Minimális kifizetés: 150 USD",
+      "minPayout": "Minimális kifizetés: $15",
       "noCap": "Nincs felső határ - minél többet fejlődsz, annál többet keresel"
     },
     "howToJoin": {
@@ -402,7 +402,7 @@
         },
         "whenPaid": {
           "q": "Mikor kapom meg a pénzt?",
-          "a": "Gyors kifizetések az ellenőrzés után. A minimális kifizetési küszöb 150 USD."
+          "a": "Gyors kifizetés ellenőrzés után. A minimális kifizetési határ $15."
         }
       }
     }

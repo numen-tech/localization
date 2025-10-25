@@ -293,13 +293,13 @@
   "CreatorProgram": {
     "meta": {
       "title": "Influencerprogram: Tjäna pengar per 1 000 visningar | TikTok, Instagram, YouTube",
-      "description": "Tjäna $1.50 per 1 000 visningar på TikTok, Instagram & YouTube. Inget minimikrav på följare. Minsta utbetalning $150. PayPal, Revolut, Wise med flera.",
+      "description": "Tjäna 1,50 $ per 1 000 visningar på TikTok, Instagram och YouTube. Inget minimikrav på följare. Minsta utbetalning 15 $. PayPal, Revolut, Wise med flera.",
       "ogTitle": "Slop or Not kreatörs- och influencerprogram",
-      "ogDescription": "Tjäna $1.50/1k visningar. Inget tak. Minsta utbetalning $150. PayPal, Revolut, Wise med flera."
+      "ogDescription": "Tjäna 1,50 $/1k visningar. Inget tak. Minsta utbetalning 15 $. PayPal, Revolut, Wise m.fl."
     },
     "hero": {
       "title": "Influencerprogram för TikTok, Instagram, YouTube - Tjäna pengar per 1 000 visningar",
-      "subtitle": "Få betalt $1.50 per 1 000 verkliga visningar när du gör videor om Slop or Not. Inget minimikrav på följare. Minsta utbetalning 150 USD."
+      "subtitle": "Få betalt 1,50 $ per 1 000 verkliga visningar när du skapar videor om Slop or Not. Inget minimikrav på följare. Minsta utbetalning 15 $."
     },
     "cta": {
       "emailClaim": "Mejla oss för att begära utbetalning",
@@ -308,7 +308,7 @@
     "earnings": {
       "title": "Dina intäkter",
       "rate": "$1.50 per 1 000 verkliga visningar",
-      "minPayout": "Minsta utbetalning: 150 USD",
+      "minPayout": "Minsta utbetalning: 15 $",
       "noCap": "Inget tak - ju mer du växer, desto mer tjänar du"
     },
     "howToJoin": {
@@ -402,7 +402,7 @@
         },
         "whenPaid": {
           "q": "När får jag betalt?",
-          "a": "Snabba utbetalningar efter verifiering. Minsta utbetalningsgräns är 150 USD."
+          "a": "Snabba utbetalningar efter verifiering. Minsta utbetalningsgräns är 15 $."
         }
       }
     }

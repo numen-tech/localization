@@ -293,13 +293,13 @@
   "CreatorProgram": {
     "meta": {
       "title": "インフルエンサープログラム: 1,000再生ごとに収益を獲得 | TikTok, Instagram, YouTube",
-      "description": "TikTok, Instagram, YouTubeで1,000再生ごとに$1.50の収益。フォロワー数の条件なし。最低支払額$150。PayPal, Revolut, Wiseなどで支払い。",
+      "description": "TikTok、Instagram、YouTubeで1,000再生ごとに$1.50を獲得。フォロワー数の条件なし。最低支払額は$15。PayPal、Revolut、Wiseなどに対応。",
       "ogTitle": "Slop or Not クリエイター & インフルエンサープログラム",
-      "ogDescription": "1,000再生ごとに$1.50の収益。上限なし。最低支払額$150。PayPal, Revolut, Wiseなどで支払い。"
+      "ogDescription": "1,000再生あたり$1.50を獲得。上限なし。最低支払額$15。PayPal、Revolut、Wiseなどに対応。"
     },
     "hero": {
       "title": "TikTok, Instagram, YouTube インフルエンサープログラム - 1,000再生ごとに収益を獲得",
-      "subtitle": "Slop or Notに関する動画を作成すると、1,000リアル再生ごとに$1.50が支払われます。フォロワー数の条件はありません。最低支払額は$150 USDです。"
+      "subtitle": "Slop or Notに関する動画を作成し、1,000リアル再生ごとに$1.50の報酬を獲得。フォロワー数の条件は不要です。最低支払額$15。"
     },
     "cta": {
       "emailClaim": "報酬を申請するにはメールをお送りください。",
@@ -308,7 +308,7 @@
     "earnings": {
       "title": "あなたの収益",
       "rate": "1,000リアル再生ごとに$1.50",
-      "minPayout": "最低支払額: $150 USD",
+      "minPayout": "最低支払額: $15",
       "noCap": "上限なし - 成長すればするほど、収益も増加します"
     },
     "howToJoin": {
@@ -402,7 +402,7 @@
         },
         "whenPaid": {
           "q": "いつ支払われますか？",
-          "a": "認証後、迅速に支払われます。最低支払額は$150 USDです。"
+          "a": "認証後、迅速にお支払い。最低支払額は$15です。"
         }
       }
     }

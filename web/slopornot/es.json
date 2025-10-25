@@ -293,13 +293,13 @@
   "CreatorProgram": {
     "meta": {
       "title": "Programa de Influencers: Gana dinero por cada 1000 visualizaciones | TikTok, Instagram, YouTube",
-      "description": "Gana $1.50 por cada 1000 visualizaciones en TikTok, Instagram y YouTube. Sin mínimo de seguidores. Pago mínimo de $150. PayPal, Revolut, Wise y más.",
+      "description": "Gana $1.50 por cada 1,000 visualizaciones en TikTok, Instagram y YouTube. Sin mínimo de seguidores. Pago mínimo de $15. PayPal, Revolut, Wise y más.",
       "ogTitle": "Programa de Creadores e Influencers de Slop or Not",
-      "ogDescription": "Gana $1.50/1k visualizaciones. Sin límite. Pago mínimo de $150. PayPal, Revolut, Wise y más."
+      "ogDescription": "Gana $1.50/1k vistas. Sin límite. Pago mínimo de $15. PayPal, Revolut, Wise y más."
     },
     "hero": {
       "title": "Programa de Influencers de TikTok, Instagram y YouTube - Gana dinero por cada 1000 visualizaciones",
-      "subtitle": "Recibe $1.50 por cada 1000 visualizaciones reales al crear videos sobre Slop or Not. No se requiere un mínimo de seguidores. Pago mínimo de $150 USD."
+      "subtitle": "Gana $1.50 por cada 1,000 visualizaciones reales al crear videos sobre Slop or Not. Sin mínimo de seguidores. Pago mínimo de $15."
     },
     "cta": {
       "emailClaim": "Envíanos un email para reclamar",
@@ -308,7 +308,7 @@
     "earnings": {
       "title": "Tus ganancias",
       "rate": "$1.50 por cada 1000 visualizaciones reales",
-      "minPayout": "Pago mínimo: $150 USD",
+      "minPayout": "Pago mínimo: $15",
       "noCap": "Sin límite: cuanto más creces, más ganas"
     },
     "howToJoin": {
@@ -402,7 +402,7 @@
         },
         "whenPaid": {
           "q": "¿Cuándo me pagan?",
-          "a": "Pagos rápidos tras la verificación. El umbral mínimo de pago es de $150 USD."
+          "a": "Pagos rápidos tras la verificación. El umbral de pago mínimo es de $15."
         }
       }
     }

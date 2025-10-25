@@ -293,13 +293,13 @@
   "CreatorProgram": {
     "meta": {
       "title": "达人计划: 每千次观看即可赚取收益 | TikTok, Instagram, YouTube",
-      "description": "在 TikTok、Instagram 和 YouTube 上每获得 1000 次观看即可赚取 1.50 美元。无粉丝数要求。最低支付金额 150 美元。支持 PayPal、Revolut、Wise 等多种方式。",
+      "description": "在 TikTok、Instagram 和 YouTube 上, 每千次观看可赚取 1.50 美元。无粉丝门槛。最低提现 15 美元。支持 PayPal、Revolut、Wise 等多种方式。",
       "ogTitle": "Slop or Not 创作者与达人计划",
-      "ogDescription": "每千次观看赚取 1.50 美元。无上限。最低支付金额 150 美元。支持 PayPal、Revolut、Wise 等多种方式。"
+      "ogDescription": "每千次观看赚取 1.50 美元。上不封顶。最低提现 15 美元。支持 PayPal、Revolut、Wise 等。"
     },
     "hero": {
       "title": "TikTok、Instagram、YouTube 达人计划 - 每千次观看即可赚取收益",
-      "subtitle": "制作关于 Slop or Not 的视频, 每 1000 次真实观看即可获得 1.50 美元报酬。无粉丝数要求。最低支付金额 150 美元。"
+      "subtitle": "制作关于 Slop or Not 的视频, 每千次真实观看即可赚取 1.50 美元。无粉丝数量要求。最低提现 15 美元。"
     },
     "cta": {
       "emailClaim": "发送邮件联系我们申领",
@@ -308,7 +308,7 @@
     "earnings": {
       "title": "您的收益",
       "rate": "每 1000 次真实观看可获 1.50 美元",
-      "minPayout": "最低支付金额: 150 美元",
+      "minPayout": "最低提现: 15 美元",
       "noCap": "无上限 - 您的影响力越大, 收益越多"
     },
     "howToJoin": {
@@ -402,7 +402,7 @@
         },
         "whenPaid": {
           "q": "我什么时候能收到付款?",
-          "a": "审核通过后快速支付。最低支付门槛为 150 美元。"
+          "a": "审核通过后可快速提现。最低提现门槛为 15 美元。"
         }
       }
     }

@@ -293,13 +293,13 @@
   "CreatorProgram": {
     "meta": {
       "title": "Program pro influencery: Vydělávejte za 1 000 zhlédnutí | TikTok, Instagram, YouTube",
-      "description": "Vydělejte 1,50 $ za 1 000 zhlédnutí na TikToku, Instagramu a YouTube. Bez minimálního počtu sledujících. Minimální výplata 150 $. PayPal, Revolut, Wise a další.",
+      "description": "Vydělejte 1,50 $ za 1 000 zhlédnutí na TikToku, Instagramu a YouTube. Bez minimálního počtu sledujících. Minimální výplata 15 $. PayPal, Revolut, Wise a další.",
       "ogTitle": "Program pro tvůrce a influencery Slop or Not",
-      "ogDescription": "Vydělejte 1,50 $ za 1 tis. zhlédnutí. Bez omezení. Minimální výplata 150 $. PayPal, Revolut, Wise a další."
+      "ogDescription": "Vydělejte 1,50 $/1k zhlédnutí. Bez omezení. Minimální výplata 15 $. PayPal, Revolut, Wise a další."
     },
     "hero": {
       "title": "Program pro influencery na TikToku, Instagramu a YouTube - Vydělávejte za 1 000 zhlédnutí",
-      "subtitle": "Získejte 1,50 $ za 1 000 reálných zhlédnutí, když vytvoříte video o Slop or Not. Není vyžadován žádný minimální počet sledujících. Minimální výplata 150 USD."
+      "subtitle": "Získejte 1,50 $ za 1 000 reálných zhlédnutí, když vytvoříte videa o Slop or Not. Není vyžadován minimální počet sledujících. Minimální výplata 15 $."
     },
     "cta": {
       "emailClaim": "O odměnu si napište e-mailem",
@@ -308,7 +308,7 @@
     "earnings": {
       "title": "Vaše výdělky",
       "rate": "1,50 $ za 1 000 reálných zhlédnutí",
-      "minPayout": "Minimální výplata: 150 USD",
+      "minPayout": "Minimální výplata: 15 $",
       "noCap": "Bez omezení - čím více rostete, tím více vyděláte"
     },
     "howToJoin": {
@@ -402,7 +402,7 @@
         },
         "whenPaid": {
           "q": "Kdy dostanu zaplaceno?",
-          "a": "Rychlé výplaty po ověření. Minimální hranice pro výplatu je 150 USD."
+          "a": "Rychlé výplaty po ověření. Minimální částka pro výplatu je 15 $."
         }
       }
     }

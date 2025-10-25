@@ -293,13 +293,13 @@
   "CreatorProgram": {
     "meta": {
       "title": "Influencer-Programm: Verdiene Geld pro 1.000 Aufrufe | TikTok, Instagram, YouTube",
-      "description": "Verdiene 1,50 $ pro 1.000 Aufrufe auf TikTok, Instagram & YouTube. Keine Mindestanzahl an Followern. 150 $ Mindestauszahlung. PayPal, Revolut, Wise & mehr.",
+      "description": "Verdiene $1,50 pro 1.000 Aufrufe auf TikTok, Instagram & YouTube. Kein Follower-Minimum. $15 Mindestauszahlung. PayPal, Revolut, Wise & mehr.",
       "ogTitle": "Slop or Not Creator- & Influencer-Programm",
-      "ogDescription": "Verdiene 1,50 $/1.000 Aufrufe. Keine Obergrenze. 150 $ Mindestauszahlung. PayPal, Revolut, Wise & mehr."
+      "ogDescription": "Verdiene $1,50/1k Views. Kein Limit. $15 Mindestauszahlung. PayPal, Revolut, Wise & mehr."
     },
     "hero": {
       "title": "TikTok, Instagram, YouTube Influencer-Programm - Verdiene Geld pro 1.000 Aufrufe",
-      "subtitle": "Erhalte 1,50 $ pro 1.000 echte Aufrufe, wenn du Videos über Slop or Not machst. Keine Mindestanzahl an Followern erforderlich. Mindestauszahlung 150 $ USD."
+      "subtitle": "Erhalte $1,50 pro 1.000 echte Aufrufe, wenn du Videos über Slop or Not erstellst. Keine Mindestanzahl an Followern erforderlich. Mindestauszahlung $15."
     },
     "cta": {
       "emailClaim": "Per E-Mail anfordern",
@@ -308,7 +308,7 @@
     "earnings": {
       "title": "Deine Einnahmen",
       "rate": "1,50 $ pro 1.000 echte Aufrufe",
-      "minPayout": "Mindestauszahlung: 150 $ USD",
+      "minPayout": "Mindestauszahlung: $15",
       "noCap": "Keine Obergrenze - je mehr du wächst, desto mehr verdienst du"
     },
     "howToJoin": {
@@ -402,7 +402,7 @@
         },
         "whenPaid": {
           "q": "Wann werde ich bezahlt?",
-          "a": "Schnelle Auszahlungen nach der Verifizierung. Die Mindestauszahlungsgrenze liegt bei 150 $ USD."
+          "a": "Schnelle Auszahlungen nach Verifizierung. Die Mindestauszahlung beträgt $15."
         }
       }
     }

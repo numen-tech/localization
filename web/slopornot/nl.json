@@ -293,13 +293,13 @@
   "CreatorProgram": {
     "meta": {
       "title": "Influencerprogramma: Verdien geld per 1.000 weergaven | TikTok, Instagram, YouTube",
-      "description": "Verdien $1,50 per 1.000 weergaven op TikTok, Instagram & YouTube. Geen minimumaantal volgers. Minimale uitbetaling van $150. PayPal, Revolut, Wise & meer.",
+      "description": "Verdien $1,50 per 1.000 views op TikTok, Instagram & YouTube. Geen minimumaantal volgers. Minimale uitbetaling $15. PayPal, Revolut, Wise & meer.",
       "ogTitle": "Slop or Not Creator- & Influencerprogramma",
-      "ogDescription": "Verdien $1,50/1k weergaven. Geen limiet. Minimale uitbetaling van $150. PayPal, Revolut, Wise & meer."
+      "ogDescription": "Verdien $1,50/1k views. Geen limiet. Min. uitbetaling $15. PayPal, Revolut, Wise & meer."
     },
     "hero": {
       "title": "TikTok, Instagram, YouTube Influencerprogramma - Verdien geld per 1.000 weergaven",
-      "subtitle": "Krijg $1,50 betaald per 1.000 echte weergaven als je video's maakt over Slop Or Not. Geen minimumaantal volgers vereist. Minimale uitbetaling $150 USD."
+      "subtitle": "Krijg $1,50 betaald per 1.000 echte views als je video's maakt over Slop or Not. Geen minimumaantal volgers vereist. Minimale uitbetaling $15."
     },
     "cta": {
       "emailClaim": "E-mail ons om te claimen",
@@ -308,7 +308,7 @@
     "earnings": {
       "title": "Je verdiensten",
       "rate": "$1,50 per 1.000 echte weergaven",
-      "minPayout": "Minimale uitbetaling: $150 USD",
+      "minPayout": "Minimale uitbetaling: $15",
       "noCap": "Geen limiet - hoe meer je groeit, hoe meer je verdient"
     },
     "howToJoin": {
@@ -402,7 +402,7 @@
         },
         "whenPaid": {
           "q": "Wanneer word ik uitbetaald?",
-          "a": "Snelle uitbetalingen na verificatie. De minimale uitbetalingsdrempel is $150 USD."
+          "a": "Snelle uitbetalingen na verificatie. De minimale uitbetaling is $15."
         }
       }
     }

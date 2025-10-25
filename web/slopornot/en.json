@@ -293,13 +293,13 @@
   "CreatorProgram": {
     "meta": {
       "title": "Influencer Program: Earn Money per 1,000 Views | TikTok, Instagram, YouTube",
-      "description": "Earn $1.50 per 1,000 views on TikTok, Instagram & YouTube. No follower minimum. $150 minimum payout. PayPal, Revolut, Wise & more.",
+      "description": "Earn $1.50 per 1,000 views on TikTok, Instagram & YouTube. No follower minimum. $15 minimum payout. PayPal, Revolut, Wise & more.",
       "ogTitle": "Slop or Not Creator & Influencer Program",
-      "ogDescription": "Earn $1.50/1k views. No cap. $150 minimum payout. PayPal, Revolut, Wise & more."
+      "ogDescription": "Earn $1.50/1k views. No cap. $15 minimum payout. PayPal, Revolut, Wise & more."
     },
     "hero": {
       "title": "TikTok, Instagram, YouTube Influencer Program - Earn Money Per 1,000 Views",
-      "subtitle": "Get paid $1.50 per 1,000 real views when you make videos about Slop or Not. No follower minimum required. Minimum payout $150 USD."
+      "subtitle": "Get paid $1.50 per 1,000 real views when you make videos about Slop or Not. No follower minimum required. Minimum payout $15."
     },
     "cta": {
       "emailClaim": "Email us to claim",
@@ -308,7 +308,7 @@
     "earnings": {
       "title": "Your Earnings",
       "rate": "$1.50 per 1,000 real views",
-      "minPayout": "Minimum payout: $150 USD",
+      "minPayout": "Minimum payout: $15",
       "noCap": "No cap - the more you grow, the more you earn"
     },
     "howToJoin": {
@@ -402,7 +402,7 @@
         },
         "whenPaid": {
           "q": "When do I get paid?",
-          "a": "Fast payouts after verification. Minimum payout threshold is $150 USD."
+          "a": "Fast payouts after verification. Minimum payout threshold is $15."
         }
       }
     }

@@ -293,13 +293,13 @@
   "CreatorProgram": {
     "meta": {
       "title": "網紅計畫: 每千次觀看賺取獎金 | TikTok、Instagram、YouTube",
-      "description": "在 TikTok、Instagram 和 YouTube 上每千次觀看賺取 1.50 美元。無粉絲數門檻。最低支付金額 150 美元。支援 PayPal、Revolut、Wise 等多種方式。",
+      "description": "在 TikTok、Instagram 與 YouTube 上，每千次觀看即可賺取 $1.50 美元。無粉絲數門檻，最低支付金額 $15 美元。支援 PayPal、Revolut、Wise 等多種方式。",
       "ogTitle": "Slop or Not 創作者與網紅計畫",
-      "ogDescription": "每千次觀看賺取 1.50 美元。無上限。最低支付金額 150 美元。支援 PayPal、Revolut、Wise 等多種方式。"
+      "ogDescription": "每千次觀看賺取 $1.50 美元。無上限。最低支付 $15 美元。支援 PayPal、Revolut、Wise 等。"
     },
     "hero": {
       "title": "TikTok、Instagram、YouTube 網紅計畫 - 每千次觀看賺取獎金",
-      "subtitle": "製作關於 Slop or Not 的影片,每千次真實觀看即可賺取 1.50 美元。無粉絲數門檻要求。最低支付金額 150 美元。"
+      "subtitle": "製作關於 Slop or Not 的影片，每 1,000 次真實觀看即可獲得 $1.50 美元。無最低粉絲數要求。最低支付金額 $15 美元。"
     },
     "cta": {
       "emailClaim": "來信申請獎金",
@@ -308,7 +308,7 @@
     "earnings": {
       "title": "您的收益",
       "rate": "每千次真實觀看 1.50 美元",
-      "minPayout": "最低支付金額: 150 美元",
+      "minPayout": "最低支付金額：$15",
       "noCap": "無上限 - 成長越多,賺得越多"
     },
     "howToJoin": {
@@ -402,7 +402,7 @@
         },
         "whenPaid": {
           "q": "我什麼時候會收到款項?",
-          "a": "驗證後快速支付。最低支付門檻為 150 美元。"
+          "a": "通過驗證後即可快速收到款項。最低支付門檻為 $15 美元。"
         }
       }
     }

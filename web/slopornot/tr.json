@@ -293,13 +293,13 @@
   "CreatorProgram": {
     "meta": {
       "title": "Influencer Programı: 1.000 Görüntülenme Başına Para Kazanın | TikTok, Instagram, YouTube",
-      "description": "TikTok, Instagram ve YouTube'da 1.000 görüntülenme başına 1.50$ kazanın. Takipçi alt sınırı yok. Minimum 150$ ödeme. PayPal, Revolut, Wise ve daha fazlası.",
+      "description": "TikTok, Instagram ve YouTube'da 1.000 görüntüleme başına 1,50$ kazanın. Minimum takipçi şartı yok. Minimum ödeme tutarı 15$. PayPal, Revolut, Wise ve daha fazlası.",
       "ogTitle": "Slop or Not İçerik Üretici ve Influencer Programı",
-      "ogDescription": "000 görüntülenme başına 1.50$ kazanın. Üst sınır yok. Minimum 150$ ödeme. PayPal, Revolut, Wise ve daha fazlası."
+      "ogDescription": "1k görüntüleme başına 1,50$ kazanın. Üst limit yok. Minimum ödeme 15$. PayPal, Revolut, Wise ve daha fazlası."
     },
     "hero": {
       "title": "TikTok, Instagram, YouTube Influencer Programı - 1.000 Görüntülenme Başına Para Kazanın",
-      "subtitle": "Slop or Not hakkında videolar çektiğinizde 1.000 gerçek görüntülenme başına 1.50$ ödeme alın. Takipçi alt sınırı gerekmez. Minimum ödeme 150 USD."
+      "subtitle": "Slop or Not hakkında videolar çektiğinizde 1.000 gerçek görüntüleme başına 1,50$ ödeme alın. Minimum takipçi şartı gerekmez. Minimum ödeme 15$."
     },
     "cta": {
       "emailClaim": "Talep etmek için bize e-posta gönderin",
@@ -308,7 +308,7 @@
     "earnings": {
       "title": "Kazançlarınız",
       "rate": "000 gerçek görüntülenme başına 1.50$",
-      "minPayout": "Minimum ödeme: 150 USD",
+      "minPayout": "Minimum ödeme: 15$",
       "noCap": "Üst sınır yok - ne kadar büyürseniz o kadar çok kazanırsınız"
     },
     "howToJoin": {
@@ -402,7 +402,7 @@
         },
         "whenPaid": {
           "q": "Ödememi ne zaman alırım?",
-          "a": "Doğrulama sonrası hızlı ödemeler. Minimum ödeme eşiği 150 USD'dir."
+          "a": "Doğrulama sonrası hızlı ödemeler. Minimum ödeme eşiği 15$."
         }
       }
     }

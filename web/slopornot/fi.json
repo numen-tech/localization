@@ -293,13 +293,13 @@
   "CreatorProgram": {
     "meta": {
       "title": "Vaikuttajaohjelma: Ansaitse rahaa 1 000 näyttökertaa kohden | TikTok, Instagram, YouTube",
-      "description": "Ansaitse 1,50 $ per 1 000 näyttökertaa TikTokissa, Instagramissa & YouTubessa. Ei seuraajien vähimmäismäärää. 150 $ vähimmäismaksu. PayPal, Revolut, Wise & muut.",
+      "description": "Ansaitse 1,50 $ per 1 000 näyttökertaa TikTokissa, Instagramissa ja YouTubessa. Ei vähimmäisseuraajamäärää. Minimimaksu 15 $. PayPal, Revolut, Wise ja muita.",
       "ogTitle": "Slop or Not -sisällöntuottaja- & vaikuttajaohjelma",
-      "ogDescription": "Ansaitse 1,50 $/1 000 näyttökertaa. Ei ylärajaa. 150 $ vähimmäismaksu. PayPal, Revolut, Wise & muut."
+      "ogDescription": "Ansaitse 1,50 $/1k näyttökertaa. Ei ylärajaa. Minimimaksu 15 $. PayPal, Revolut, Wise ja muita."
     },
     "hero": {
       "title": "TikTok, Instagram, YouTube -vaikuttajaohjelma - Ansaitse rahaa 1 000 näyttökertaa kohden",
-      "subtitle": "Saat 1,50 $ per 1 000 aitoa näyttökertaa, kun teet videoita Slop or Notista. Ei seuraajien vähimmäismäärää. Vähimmäismaksu 150 USD."
+      "subtitle": "Saa 1,50 $ per 1 000 aitoa näyttökertaa, kun teet videoita Slop or Notista. Ei vähimmäisseuraajamäärää. Minimimaksu 15 $."
     },
     "cta": {
       "emailClaim": "Lunasta sähköpostilla",
@@ -308,7 +308,7 @@
     "earnings": {
       "title": "Ansiosi",
       "rate": "1,50 $ per 1 000 aitoa näyttökertaa",
-      "minPayout": "Vähimmäismaksu: 150 USD",
+      "minPayout": "Minimimaksu: 15 $",
       "noCap": "Ei ylärajaa - mitä enemmän kasvat, sitä enemmän ansaitset"
     },
     "howToJoin": {
@@ -402,7 +402,7 @@
         },
         "whenPaid": {
           "q": "Milloin saan maksun?",
-          "a": "Nopeat maksut vahvistuksen jälkeen. Vähimmäismaksuraja on 150 USD."
+          "a": "Nopeat maksut vahvistuksen jälkeen. Minimimaksuraja on 15 $."
         }
       }
     }

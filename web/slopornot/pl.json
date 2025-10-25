@@ -293,13 +293,13 @@
   "CreatorProgram": {
     "meta": {
       "title": "Program dla influencerów: Zarabiaj za 1000 wyświetleń | TikTok, Instagram, YouTube",
-      "description": "Zarabiaj 1,50 $ za 1000 wyświetleń na TikTok, Instagramie i YouTube. Brak minimum obserwujących. Minimalna wypłata 150 $. PayPal, Revolut, Wise i inne.",
+      "description": "Zarabiaj $1,50 za 1000 wyświetleń na TikToku, Instagramie i YouTube. Brak minimum obserwujących. Minimalna wypłata $15. PayPal, Revolut, Wise i inne.",
       "ogTitle": "Program dla twórców i influencerów Slop or Not",
-      "ogDescription": "Zarabiaj 1,50 $/1 tys. wyświetleń. Bez limitu. Minimalna wypłata 150 $. PayPal, Revolut, Wise i inne."
+      "ogDescription": "Zarabiaj $1,50/1 tys. wyświetleń. Bez limitu. Minimalna wypłata $15. PayPal, Revolut, Wise i inne."
     },
     "hero": {
       "title": "Program dla influencerów na TikTok, Instagram, YouTube - Zarabiaj za 1000 wyświetleń",
-      "subtitle": "Otrzymuj 1,50 $ za 1000 rzeczywistych wyświetleń za tworzenie filmów o Slop or Not. Brak wymaganego minimum obserwujących. Minimalna wypłata 150 USD."
+      "subtitle": "Otrzymuj $1,50 za 1000 prawdziwych wyświetleń, gdy tworzysz filmy o Slop or Not. Brak minimum obserwujących. Minimalna wypłata $15."
     },
     "cta": {
       "emailClaim": "Napisz do nas e-mail, aby odebrać",
@@ -308,7 +308,7 @@
     "earnings": {
       "title": "Twoje zarobki",
       "rate": "1,50 $ za 1000 rzeczywistych wyświetleń",
-      "minPayout": "Minimalna wypłata: 150 USD",
+      "minPayout": "Minimalna wypłata: $15",
       "noCap": "Bez limitu - im bardziej się rozwijasz, tym więcej zarabiasz"
     },
     "howToJoin": {
@@ -402,7 +402,7 @@
         },
         "whenPaid": {
           "q": "Kiedy otrzymam zapłatę?",
-          "a": "Szybkie wypłaty po weryfikacji. Minimalny próg wypłaty to 150 USD."
+          "a": "Szybkie wypłaty po weryfikacji. Minimalny próg wypłaty wynosi $15."
         }
       }
     }

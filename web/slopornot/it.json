@@ -293,13 +293,13 @@
   "CreatorProgram": {
     "meta": {
       "title": "Programma Influencer: Guadagna per 1.000 visualizzazioni | TikTok, Instagram, YouTube",
-      "description": "Guadagna 1,50 $ ogni 1.000 visualizzazioni su TikTok, Instagram e YouTube. Nessun minimo di follower. Pagamento minimo di 150 $. PayPal, Revolut, Wise e altro.",
+      "description": "Guadagna $1.50 ogni 1.000 visualizzazioni su TikTok, Instagram e YouTube. Nessun minimo di follower. Pagamento minimo di $15. PayPal, Revolut, Wise e altro ancora.",
       "ogTitle": "Programma Creator e Influencer di Slop or Not",
-      "ogDescription": "Guadagna 1,50 $/1.000 visualizzazioni. Nessun limite. Pagamento minimo di 150 $. PayPal, Revolut, Wise e altro."
+      "ogDescription": "Guadagna $1.50/1.000 visualizzazioni. Nessun limite. Pagamento minimo di $15. PayPal, Revolut, Wise e altro ancora."
     },
     "hero": {
       "title": "Programma Influencer per TikTok, Instagram, YouTube - Guadagna per 1.000 visualizzazioni",
-      "subtitle": "Ricevi 1,50 $ ogni 1.000 visualizzazioni reali quando crei video su Slop or Not. Nessun minimo di follower richiesto. Pagamento minimo di 150 $ USD."
+      "subtitle": "Guadagna $1.50 ogni 1.000 visualizzazioni reali creando video su Slop or Not. Nessun minimo di follower richiesto. Pagamento minimo di $15."
     },
     "cta": {
       "emailClaim": "Inviaci un'email per richiedere il pagamento",
@@ -308,7 +308,7 @@
     "earnings": {
       "title": "I tuoi guadagni",
       "rate": "1,50 $ ogni 1.000 visualizzazioni reali",
-      "minPayout": "Pagamento minimo: 150 $ USD",
+      "minPayout": "Pagamento minimo: $15",
       "noCap": "Nessun limite - piu' cresci, piu' guadagni"
     },
     "howToJoin": {
@@ -402,7 +402,7 @@
         },
         "whenPaid": {
           "q": "Quando verro' pagato?",
-          "a": "Pagamenti veloci dopo la verifica. La soglia minima di pagamento e' di 150 $ USD."
+          "a": "Pagamenti veloci dopo la verifica. La soglia minima di pagamento è di $15."
         }
       }
     }

@@ -293,13 +293,13 @@
   "CreatorProgram": {
     "meta": {
       "title": "인플루언서 프로그램: 조회수 1,000회당 수익 창출 | TikTok, Instagram, YouTube",
-      "description": "TikTok, Instagram, YouTube에서 조회수 1,000회당 $1.50의 수익을 얻으세요. 최소 팔로워 조건 없음. 최소 지급액 $150. PayPal, Revolut, Wise 등 지원.",
+      "description": "TikTok, Instagram & YouTube 조회수 1,000회당 $1.50 수익. 팔로워 수 제한 없음. 최소 지급액 $15. PayPal, Revolut, Wise 등으로 지급.",
       "ogTitle": "Slop or Not 크리에이터 & 인플루언서 프로그램",
-      "ogDescription": "조회수 1,000회당 $1.50 수익. 상한 없음. 최소 지급액 $150. PayPal, Revolut, Wise 등 지원."
+      "ogDescription": "조회수 1k당 $1.50 수익. 상한 없음. 최소 지급액 $15. PayPal, Revolut, Wise 등으로 지급."
     },
     "hero": {
       "title": "TikTok, Instagram, YouTube 인플루언서 프로그램 - 조회수 1,000회당 수익 창출",
-      "subtitle": "Slop or Not에 대한 동영상을 제작하고 실제 조회수 1,000회당 $1.50를 받으세요. 최소 팔로워 조건은 필요 없습니다. 최소 지급액은 $150 USD입니다."
+      "subtitle": "Slop or Not 관련 동영상 제작 시 실제 조회수 1,000회당 $1.50 지급. 팔로워 수 제한 없음. 최소 지급액 $15."
     },
     "cta": {
       "emailClaim": "이메일로 지급 신청",
@@ -308,7 +308,7 @@
     "earnings": {
       "title": "나의 수익",
       "rate": "실제 조회수 1,000회당 $1.50",
-      "minPayout": "최소 지급액: $150 USD",
+      "minPayout": "최소 지급액: $15",
       "noCap": "수익 상한 없음 - 채널이 성장할수록 더 많은 수익을 얻습니다"
     },
     "howToJoin": {
@@ -402,7 +402,7 @@
         },
         "whenPaid": {
           "q": "수익금은 언제 지급되나요?",
-          "a": "검증 후 빠르게 지급됩니다. 최소 지급 기준액은 $150 USD입니다."
+          "a": "인증 후 빠른 지급. 최소 지급 기준액은 $15입니다."
         }
       }
     }
