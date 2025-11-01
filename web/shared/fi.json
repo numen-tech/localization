@@ -27,7 +27,13 @@
     "uk": "Ukraina",
     "ur": "Urdu",
     "en": "Englanti (Yhdysvallat)",
-    "en-GB": "Englanti (Iso-Britannia)"
+    "en-GB": "Englanti (Iso-Britannia)",
+    "label": "Kieli",
+    "dialogTitle": "Kieli",
+    "close": "Sulje",
+    "buttonAria": "Nykyinen kieli: {flag}. Napsauta vaihtaaksesi kieltä.",
+    "languageChanged": "Kieli vaihdettu: {language}",
+    "unknown": "Tuntematon"
   },
   "DiscordBadge": {
     "discord": "Discord",

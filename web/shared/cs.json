@@ -27,7 +27,13 @@
     "uk": "Ukrajinština",
     "ur": "Urdština",
     "en": "Angličtina (USA)",
-    "en-GB": "Angličtina (VB)"
+    "en-GB": "Angličtina (VB)",
+    "label": "Jazyk",
+    "dialogTitle": "Jazyk",
+    "close": "Zavřít",
+    "buttonAria": "Aktuální jazyk: {flag}. Kliknutím změníte jazyk.",
+    "languageChanged": "Jazyk změněn na {language}.",
+    "unknown": "Neznámý"
   },
   "DiscordBadge": {
     "discord": "Discord",

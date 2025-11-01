@@ -27,7 +27,13 @@
     "uk": "우크라이나어",
     "ur": "우르두어",
     "en": "영어(미국)",
-    "en-GB": "영어(영국)"
+    "en-GB": "영어(영국)",
+    "label": "언어",
+    "dialogTitle": "언어",
+    "close": "닫기",
+    "buttonAria": "현재 언어: {flag}. 클릭하여 언어를 변경하세요.",
+    "languageChanged": "언어가 {language}로 변경되었어요.",
+    "unknown": "알 수 없음"
   },
   "DiscordBadge": {
     "discord": "Discord",

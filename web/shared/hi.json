@@ -27,7 +27,13 @@
     "uk": "यूक्रेनी",
     "ur": "उर्दू",
     "en": "अंग्रेजी (यूएस)",
-    "en-GB": "अंग्रेजी (यूके)"
+    "en-GB": "अंग्रेजी (यूके)",
+    "label": "भाषा",
+    "dialogTitle": "भाषा",
+    "close": "बंद करें",
+    "buttonAria": "वर्तमान भाषा: {flag}. भाषा बदलने के लिए क्लिक करें",
+    "languageChanged": "भाषा बदलकर {language} हो गई है",
+    "unknown": "अज्ञात"
   },
   "DiscordBadge": {
     "discord": "Discord",

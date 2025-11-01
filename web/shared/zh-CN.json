@@ -27,7 +27,13 @@
     "uk": "乌克兰语",
     "ur": "乌尔都语",
     "en": "英语（美国）",
-    "en-GB": "英语（英国）"
+    "en-GB": "英语（英国）",
+    "label": "语言",
+    "dialogTitle": "语言",
+    "close": "关闭",
+    "buttonAria": "当前语言：{flag}。点击更改语言",
+    "languageChanged": "语言已切换为 {language}",
+    "unknown": "未知"
   },
   "DiscordBadge": {
     "discord": "Discord",

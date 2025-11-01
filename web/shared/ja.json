@@ -27,7 +27,13 @@
     "uk": "ウクライナ語",
     "ur": "ウルドゥー語",
     "en": "英語（米国）",
-    "en-GB": "英語（英国）"
+    "en-GB": "英語（英国）",
+    "label": "言語",
+    "dialogTitle": "言語",
+    "close": "閉じる",
+    "buttonAria": "現在の言語: {flag}。タップして言語を変更",
+    "languageChanged": "言語が{language}に変更されました",
+    "unknown": "不明"
   },
   "DiscordBadge": {
     "discord": "Discord",

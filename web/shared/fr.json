@@ -27,7 +27,13 @@
     "uk": "Ukrainien",
     "ur": "Ourdou",
     "en": "Anglais (États-Unis)",
-    "en-GB": "Anglais (Royaume-Uni)"
+    "en-GB": "Anglais (Royaume-Uni)",
+    "label": "Langue",
+    "dialogTitle": "Langue",
+    "close": "Fermer",
+    "buttonAria": "Langue actuelle : {flag}. Cliquez pour changer de langue",
+    "languageChanged": "Langue changée en {language}",
+    "unknown": "Inconnu"
   },
   "DiscordBadge": {
     "discord": "Discord",

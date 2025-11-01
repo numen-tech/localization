@@ -27,7 +27,13 @@
     "uk": "Ukrán",
     "ur": "Urdu",
     "en": "Angol (USA)",
-    "en-GB": "Angol (Egyesült Királyság)"
+    "en-GB": "Angol (Egyesült Királyság)",
+    "label": "Nyelv",
+    "dialogTitle": "Nyelv",
+    "close": "Bezárás",
+    "buttonAria": "Jelenlegi nyelv: {flag}. Kattints a nyelv megváltoztatásához",
+    "languageChanged": "A nyelv megváltozott: {language}",
+    "unknown": "Ismeretlen"
   },
   "DiscordBadge": {
     "discord": "Discord",

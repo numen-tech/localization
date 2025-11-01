@@ -27,7 +27,13 @@
     "uk": "Ucraineană",
     "ur": "Urdu",
     "en": "Engleză (SUA)",
-    "en-GB": "Engleză (Regatul Unit)"
+    "en-GB": "Engleză (Regatul Unit)",
+    "label": "Limbă",
+    "dialogTitle": "Limbă",
+    "close": "Închide",
+    "buttonAria": "Limba curentă: {flag}. Apasă pentru a schimba limba",
+    "languageChanged": "Limba a fost schimbată în {language}",
+    "unknown": "Necunoscut"
   },
   "DiscordBadge": {
     "discord": "Discord",

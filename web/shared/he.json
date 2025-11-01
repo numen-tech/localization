@@ -27,7 +27,13 @@
     "uk": "אוקראינית",
     "ur": "אורדו",
     "en": "אנגלית (ארה\"ב)",
-    "en-GB": "אנגלית (בריטניה)"
+    "en-GB": "אנגלית (בריטניה)",
+    "label": "שפה",
+    "dialogTitle": "שפה",
+    "close": "סגירה",
+    "buttonAria": "שפה נוכחית: {flag}. לחצו לשינוי השפה",
+    "languageChanged": "השפה שונתה ל{language}",
+    "unknown": "לא ידוע"
   },
   "DiscordBadge": {
     "discord": "Discord",

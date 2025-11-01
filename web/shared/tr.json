@@ -27,7 +27,13 @@
     "uk": "Ukraynaca",
     "ur": "Urduca",
     "en": "İngilizce (ABD)",
-    "en-GB": "İngilizce (BK)"
+    "en-GB": "İngilizce (BK)",
+    "label": "Dil",
+    "dialogTitle": "Dil",
+    "close": "Kapat",
+    "buttonAria": "Mevcut dil: {flag}. Dili değiştirmek için tıklayın",
+    "languageChanged": "Dil, {language} olarak değiştirildi",
+    "unknown": "Bilinmiyor"
   },
   "DiscordBadge": {
     "discord": "Discord",
