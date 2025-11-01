@@ -27,7 +27,13 @@
     "uk": "Oekraïens",
     "ur": "Urdu",
     "en": "Engels (VS)",
-    "en-GB": "Engels (VK)"
+    "en-GB": "Engels (VK)",
+    "label": "Taal",
+    "dialogTitle": "Taal",
+    "close": "Sluiten",
+    "buttonAria": "Huidige taal: {flag}. Klik om de taal te wijzigen",
+    "languageChanged": "Taal gewijzigd naar {language}",
+    "unknown": "Onbekend"
   },
   "DiscordBadge": {
     "discord": "Discord",

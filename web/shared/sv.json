@@ -27,7 +27,13 @@
     "uk": "Ukrainska",
     "ur": "Urdu",
     "en": "Engelska (USA)",
-    "en-GB": "Engelska (Storbritannien)"
+    "en-GB": "Engelska (Storbritannien)",
+    "label": "Språk",
+    "dialogTitle": "Språk",
+    "close": "Stäng",
+    "buttonAria": "Nuvarande språk: {flag}. Klicka för att byta språk",
+    "languageChanged": "Språk ändrat till {language}",
+    "unknown": "Okänd"
   },
   "DiscordBadge": {
     "discord": "Discord",

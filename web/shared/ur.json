@@ -27,7 +27,13 @@
     "uk": "یوکرینی",
     "ur": "اردو",
     "en": "انگریزی (امریکی)",
-    "en-GB": "انگریزی (برطانوی)"
+    "en-GB": "انگریزی (برطانوی)",
+    "label": "زبان",
+    "dialogTitle": "زبان",
+    "close": "بند کریں",
+    "buttonAria": "موجودہ زبان: {flag}۔ زبان تبدیل کرنے کے لیے کلک کریں",
+    "languageChanged": "زبان {language} میں تبدیل ہو گئی",
+    "unknown": "نامعلوم"
   },
   "DiscordBadge": {
     "discord": "Discord",

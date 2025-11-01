@@ -27,7 +27,13 @@
     "uk": "Ukrainian",
     "ur": "Urdu",
     "en": "English (US)",
-    "en-GB": "English (UK)"
+    "en-GB": "English (UK)",
+    "label": "Language",
+    "dialogTitle": "Language",
+    "close": "Close",
+    "buttonAria": "Current language: {flag}. Tap to change language",
+    "languageChanged": "Language changed to {language}",
+    "unknown": "Unknown"
   },
   "DiscordBadge": {
     "discord": "Discord",
