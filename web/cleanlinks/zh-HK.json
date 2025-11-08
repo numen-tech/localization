@@ -138,134 +138,6 @@
       "description": "在 Mac 選單列中執行 Clean Links，並啟用自動剪貼簿監控。你複製的每個網址都會被即時清理、展開並移除追蹤器 - 所有操作均在裝置上完成，為你的 macOS 工作流程提供全面的私隱保障，無需手動操作。"
     }
   },
-  "faq": {
-    "title": "常見問題",
-    "description": "關於 Clean Links 的常見問題",
-    "whatIs": {
-      "question": "什麼是 Clean Links？",
-      "answer": "Clean Links 是一款適用於 iPhone、iPad 和 Mac 的免費工具程式，它能移除網址中的追蹤參數，並揭示 QR 碼和短連結背後的真正目標——讓你只開啟你想要的內容，不受隱藏追蹤器或重定向的干擾。"
-    },
-    "deviceRequirements": {
-      "question": "Clean Links 支援哪些裝置和 iOS 版本？",
-      "answer": "Clean Links 支援運行 iOS 18.0 或更新版本的 iPhone 和 iPad，以及運行 macOS Sequoia 或更新版本的 Mac 裝置。"
-    },
-    "whyCreate": {
-      "question": "我們為什麼要創建 Clean Links？",
-      "answer": "我們最初是為自己打造這個工具，以避免遭到「quishing」攻擊並保護自己免受充滿追蹤器的連結侵害。後來我們了解到，網絡釣魚和 quishing 正在影響全球許多善良的人，其中不乏有技術背景的人士。因此，我們決定將它免費發布給所有人。"
-    },
-    "privacyProtection": {
-      "question": "Clean Links 如何保護我的私隱？",
-      "answer": "所有處理都在您的裝置上進行——沒有任何 cookie、識別碼或分析數據會離開您的手機。Clean Links 僅在載入連結前移除已知的追蹤參數（UTM 標籤、聯盟 ID、廣告技術代幣）。對於短連結，我們會在一個隔離的環境中發出請求，不含任何 cookie、對話等。這能擊敗網址縮短服務、廣告商和數據中介用來追蹤用戶的 cookie 追蹤技術。"
-    },
-    "phishingProtection": {
-      "question": "Clean Links 能否阻擋釣魚（「quishing」）攻擊？",
-      "answer": "是的。當你掃描 QR Code 時，Clean Links 會向你顯示完整、未經遮蔽的網址，讓你自行決定是否開啟。這與 iOS 的相機 App 及其他付費 QR Code 掃描器 App 不同，它們會在未經你同意的情況下，直接開啟 QR Code 指向的連結。還有一點：在跟隨重新導向時，Clean Links 使用的是較低層級 (NSURLRequest) API，其攻擊面遠小於一個功能齊全的網頁瀏覽器。因此，Clean Links 能免疫大多數針對網頁瀏覽器的零日漏洞攻擊。其次，此 App 在其自身的沙盒環境中運行，這又增加了一層安全性。"
-    },
-    "historyStorage": {
-      "question": "Clean Links 會儲存我的歷史記錄或已檢查的 QR 碼嗎？",
-      "answer": "不會。根據設計，Clean Links 不會記錄或儲存你清理或檢查的任何連結。"
-    },
-    "cleanWorkflow": {
-      "question": "我如何清理已複製的連結？",
-      "answer": "你可以建立一個 Apple「捷徑」，它會從你的剪貼簿獲取網址，將其清理，然後將乾淨的連結放回。例如，下載這個<shortcut>一鍵捷徑</shortcut>。想更快存取，可將該捷徑指派至 iPhone 的「動作」按鈕 (iPhone 15 Pro 及更新型號)，這樣只需隨處一按即可清理剪貼簿連結。你可以在 iPhone、iPad 和 Mac 上將 Clean Links 加入「控制中心」：可從兩種操作中選擇 - \"開啟 App\" 或 \"QR 碼掃描器\"。你可以直接在「控制中心」或「鎖定畫面」上使用這些功能，或將它們指派至「動作」按鈕，以便隨時隨地一鍵清理。你也可以手動開啟 Clean Links app 並貼上你的網址來清理。"
-    },
-    "qrScanning": {
-      "question": "如何檢查 QR 碼？",
-      "answer": "在 iPhone、iPad 或 Mac 上，從「主畫面」、「捷徑」或「動作」按鈕啟動 Clean Links，然後將你的相機對準代碼。在選擇開啟之前，你會看到真正的目標網址。Clean Links 會追蹤所有重定向並從最終目標網址中移除追蹤參數，從而防止隱藏在短連結或重定向服務背後的網絡釣魚連結。"
-    },
-    "urlExpansion": {
-      "question": "我能展開和預覽縮短的網址嗎？",
-      "answer": "當然可以。將任何 bit.ly、TinyURL、t.co 或其他短連結貼上或分享到 Clean Links。它會解開所有重定向鏈，並在您點擊前向您顯示最終的網址。"
-    },
-    "qrGeneration": {
-      "question": "我能從清理過的連結生成一個對私隱安全的 QR Code 嗎？",
-      "answer": "可以。清理網址後，點按「生成 QR 碼」即可創建一個完全不含追蹤參數的新代碼以供分享。當你想與朋友分享已清理的連結時，這功能特別方便：只需一按，他們便可掃描你的 QR 碼，開啟完全相同、無追蹤器的網址。當你嘗試與使用 Android 的朋友分享內容，又不想被 (咳咳，嗰個 App 叫咩名話？) 監視時，這也很有用。這能幫助你和你的朋友在未來一兩個星期內，避免被剛剛分享的內容相關廣告瘋狂轟炸。"
-    },
-    "systemIntegration": {
-      "question": "Clean Links 能否在 Safari、Mail 和其他 App 內運作？",
-      "answer": "是。Clean Links 在 iPhone、iPad 和 Mac 上的全系統「分享表單」擴充功能，可以在 Safari、「郵件」、X (Twitter)、Youtube、LinkedIn 或任何其他使用原生「分享表單」的應用程式中使用。"
-    },
-    "shortcutsAutomation": {
-      "question": "我能用 Shortcuts 或 Siri 自動化連結清理嗎？",
-      "answer": "Clean Links 支援 App Intents，可與 Apple「捷徑」及 Siri 搭配使用。你可以建立捷徑來清除剪貼簿或其他來源的連結。例如，使用這個 <shortcut>「Clean Links」捷徑</shortcut>，便能讀取剪貼簿中的連結，清除後再將乾淨的網址貼回剪貼簿。"
-    },
-    "manualCleaning": {
-      "question": "為何我需要這個應用程式，而不能手動清理連結？",
-      "answer": "現時，大多數追蹤參數都隱藏在 t.co、l.facebook.com、l.instagram.com 和 lnkd.in 等重定向連結之後 - 你在點擊前無法看到這些參數。Clean Links 會自動為你處理，省去繁瑣的手動操作，並保護你免受隱藏追蹤器的侵害。"
-    },
-    "localProcessing": {
-      "question": "這個處理過程真的是在裝置本機上進行嗎？我看到它會向 URL 發出網絡請求。",
-      "answer": "是的，Clean Links 真正做到所有處理程序均在本機上完成。Clean Links 可以在完全離線、不發出任何網絡請求的情況下，清理大多數帶有追蹤參數和重新導向的連結。對於來自縮網址服務和某些廣告網絡的連結，其重新導向網址無法僅從網址本身計算出來。在這些情況下，Clean Links 會直接從你的裝置發出網絡請求，以解析隱藏在重新導向後的追蹤參數——這在技術上是必要的，因為許多追蹤器只有在跟隨重新導向鏈後才會顯現。然而，這過程不涉及任何第三方 API (甚至不包括我們自己的伺服器)。每個請求都從一個完全純淨的狀態開始：請求之間不會保留任何 Cookies、不保存任何瀏覽記錄，並且我們使用具備隨機用戶代理的沙盒化工作階段。此外，我們在跟隨每次重新導向的前後都會移除追蹤參數。縮網址服務主要用於隱藏網址中的追蹤參數，而 Clean Links 的這項功能正好堵塞了這個漏洞，這是透過手動複製部分連結，或使用像 \"Link Cleaner\" 這種不跟隨重新導向的網絡應用程式所無法做到的。最重要的是，我們絕不記錄或追蹤你所清理的任何連結。永不。你的連結清理活動會完全保留在你的裝置上，絕對保密。為加強私隱保護，我們建議你使用 iCloud 私密轉送或 VPN，以便在 Clean Links 發出解析重新導向所需的網絡請求時，隱藏你的 IP 地址。"
-    },
-    "safariAtfp": {
-      "question": "Clean Links 與 iOS 26 Safari 的「進階追蹤與指紋保護」功能有何不同？",
-      "answer": "iOS 26 Safari 的「進階追蹤與指紋保護」(ATFP) 功能在 Safari 瀏覽期間能有效減少追蹤，但它亦有限制。ATFP 只在 Safari 中運作，在應用程式內置瀏覽器 (例如 Instagram 或 TikTok 的網頁視圖) 或其他瀏覽器中則無效。它亦無法預覽短連結，或清理出現在重新導向鏈末端的追蹤器。Clean Links 能輔助 ATFP，透過在所有應用程式中跨系統運作、追蹤每一次重新導向，並在您開啟連結前顯示最終網址。當您分享連結時，Clean Links 會移除平台包裝 (例如 t.co 或 l.instagram.com)，讓您的收件人獲得真正純淨的網址，無論他們是否使用 Safari 或已啟用 ATFP。建議兩者並用：在 Safari 中保持開啟 ATFP 以獲得自動的瀏覽器內保護，並在開啟或分享連結前使用 Clean Links 來處理縮網址、重新導向和跨應用程式的情況。<link>閱讀我們的詳細比較</link>以了解更多。"
-    },
-    "vsOtherCleaners": {
-      "question": "Clean Links 與 Firefox、Brave 或 Link Cleaner 等其他 URL 清理工具有何不同？",
-      "answer": "大多數 URL 清理工具 (包括 Firefox、Brave 及 Link Cleaner 等網頁工具) 只專注於移除您所提供網址中可見的追蹤參數。它們不會追蹤重新導向鏈，因此隱藏在短連結 (bit.ly、t.co、lnkd.in) 或社交平台包裝 (l.facebook.com、l.instagram.com) 後的追蹤器便會漏網。Firefox 甚至設有白名單，容許某些大型科技公司的追蹤器通過。Clean Links 則不同：它會追蹤每一次重新導向、展開短連結，並在每一步移除追蹤器，在您開啟連結前揭示最終目的地。Clean Links 還內置 QR Code 掃描器，可安全地預覽網址，100% 在裝置上運作且不含任何分析功能 (與 Link Cleaner 的匿名使用統計數據不同)，並原生整合 iOS 的分享表單、捷徑、Siri 及 Mac 的剪貼簿監控功能。如果您想獲得能攔截隱藏追蹤器，並適用於您所有 Apple 裝置的全面保護，Clean Links 正是為此而設。<link>查看與 Link Cleaner 的完整比較</link>以了解更多詳情。"
-    },
-    "sendToMac": {
-      "question": "如何從 iPhone 傳送連結到 Mac？",
-      "answer": "Clean Links 讓你透過分享表單從 iPhone 分享連結到 Mac。你的 iOS 裝置和 Mac 都必須安裝 Clean Links、啟用 iCloud，並登入相同的 Apple 帳戶。連結是透過 iCloud 同步傳送，因此即使你的 Mac 處於離線或連接到不同網絡，連結亦會在你 Mac 上線時自動出現。這比 AirDrop 更快，比 Safari 分頁更可靠，並適用於你 Mac 上的任何瀏覽器。想了解更多，請<link>閱讀我們關於從 iPhone 傳送連結到 Mac 的詳細指南</link>。"
-    },
-    "sendToMacVsAirdrop": {
-      "question": "\"傳送到 Mac\" 功能如何比 AirDrop 優勝？",
-      "answer": "即使你的 Mac 處於睡眠或超出範圍，連結仍可在背景靜默開啟，每次都能可靠傳送。沒有連線問題，無需等待。"
-    },
-    "sendToMacVsIcloudTabs": {
-      "question": "Send to Mac 與 <icloudTabsLink>iCloud 分頁</icloudTabsLink> 相比有何優勝之處？",
-      "answer": "不僅限於 Safari，可從任何具備分享表單的 app 使用。連結會自動以瀏覽器分頁開啟——你絕不會錯過。無需在長長的同步分頁列表中尋找，並支援你 Mac 上的任何瀏覽器。"
-    },
-    "sendToMacMultipleMacs": {
-      "question": "我可以將連結傳送到多部 Mac 嗎？",
-      "answer": "可以。只要你的所有 Mac 都安裝了 Clean Links for macOS，並登入相同的 Apple 帳戶，你就可以將連結傳送到所有這些裝置。如果你想排除某部特定的 Mac，可以在其 macOS 應用程式的設定中停用接收連結功能。"
-    },
-    "sendToMacShortcuts": {
-      "question": "我可以將 Send to Mac 與捷徑一同使用嗎？",
-      "answer": "可以。核心分享功能以 App Intent 形式提供，讓你輕鬆建立跨裝置捷徑和自動化操作。"
-    },
-    "sendToMacVsSafariTabGroups": {
-      "question": "Send to Mac 與 Safari 分頁群組相比有何優勝之處？",
-      "answer": "不僅限於 Safari，可從任何 app 使用。支援你 Mac 上的任何瀏覽器，且無需在你的 iOS 裝置上保持分頁開啟。"
-    },
-    "sendToMacVsSafariReadingList": {
-      "question": "Send to Mac 與 Safari 閱讀列表相比有何優勝之處？",
-      "answer": "連結會自動在你的瀏覽器中開啟——你絕不會錯過。無需在累積的列表中搜尋，並支援任何瀏覽器。"
-    },
-    "sendToMacVsHandoff": {
-      "question": "Send to Mac 與 <handoffLink>接力</handoffLink> 相比有何優勝之處？",
-      "answer": "當裝置在附近時，Clean Links 支援接力功能，但即使你的 Mac 處於睡眠或超出範圍，它也同樣運作。支援任何具備分享表單的 app 和任何瀏覽器，能在背景自動開啟連結，並且每次都能可靠運作。"
-    },
-    "sendToMacVsUniversalClipboard": {
-      "question": "Send to Mac 與 <universalClipboardLink>通用剪貼板</universalClipboardLink> 相比有何優勝之處？",
-      "answer": "連結會自動開啟——無需手動貼上。即使你的 Mac 處於睡眠或超出範圍，也能運作並即時傳送。"
-    },
-    "sendToMacVsImessage": {
-      "question": "Send to Mac 與 iMessage 相比有何優勝之處？",
-      "answer": "連結會自動在瀏覽器中開啟，無需查看訊息。它會在背景靜默開啟，讓你可繼續專注目前的工作。"
-    },
-    "sendToMacVsEmail": {
-      "question": "Send to Mac 與電郵相比有何優勝之處？",
-      "answer": "連結會自動開啟，無需檢查你的收件箱。它會在背景靜默開啟，並保持你的收件箱整潔。"
-    },
-    "sendToMacVsPushbullet": {
-      "question": "Send to Mac 與 <pushbulletLink>Pushbullet</pushbulletLink> 相比有何優勝之處？",
-      "answer": "原生 iOS 和 macOS app，可從任何分享表單使用。無需額外帳戶——只需安裝即可使用。"
-    },
-    "sendToMacVsFirefoxSendTabs": {
-      "question": "Send to Mac 與 Firefox <firefoxSendTabsLink>傳送分頁</firefoxSendTabsLink> 相比有何優勝之處？",
-      "answer": "不僅限於 Firefox，可從任何 app 使用。支援你 Mac 上的任何瀏覽器，而且所需點擊次數更少。"
-    },
-    "sendToMacVsFirefoxTabSync": {
-      "question": "Send to Mac 與 Firefox 分頁同步相比有何優勝之處？",
-      "answer": "不僅限於 Firefox，可從任何具備分享表單的 app 使用。支援任何瀏覽器，且無需在你的 iOS 裝置上保持分頁開啟。"
-    },
-    "sendToMacVsHyperduck": {
-      "question": "Send to Mac 與 <hyperduckLink>HyperDuck</hyperduckLink> 相比有何優勝之處？",
-      "answer": "完全免費，支援 37 種語言。自動支援多部 Mac，包含 Mac 之間的分享功能，而且除了分享外，還提供全面的連結清理和反混淆功能。"
-    }
-  },
   "cta": {
     "title": "QR 碼讀取器與連結清理器 - 保護你的私隱",
     "description": "即時揭示真實網址，清除隱藏的追蹤器，並建立可供分享的 QR Code——全部 100% 在裝置上處理，100% 免費。",
@@ -342,5 +214,149 @@
   },
   "appRating": {
     "text": "{rating} ({count, plural, =0 {沒有評論} =1 {# 則評論} other {# 則評論}})"
+  },
+  "faqPage": {
+    "metadata": {
+      "title": "常見問題",
+      "description": "獲取關於 Clean Links 的清晰解答 - 我們如何清理追蹤參數、阻止 QR 碼釣魚，並將所有操作 100% 保留在裝置上。"
+    },
+    "heading": {
+      "title": "常見問題",
+      "description": "關於 Clean Links 的常見問題"
+    },
+    "items": {
+      "whatIs": {
+        "question": "什麼是 Clean Links？",
+        "answer": "Clean Links 是一款適用於 iPhone、iPad 和 Mac 的免費工具程式，它能移除網址中的追蹤參數，並揭示 QR 碼和短連結背後的真正目標——讓你只開啟你想要的內容，不受隱藏追蹤器或重定向的干擾。"
+      },
+      "deviceRequirements": {
+        "question": "Clean Links 支援哪些裝置和 iOS 版本？",
+        "answer": "Clean Links 支援運行 iOS 18.0 或更新版本的 iPhone 和 iPad，以及運行 macOS Sequoia 或更新版本的 Mac 裝置。"
+      },
+      "whyCreate": {
+        "question": "我們為什麼要創建 Clean Links？",
+        "answer": "我們最初是為自己打造這個工具，以避免遭到「quishing」攻擊並保護自己免受充滿追蹤器的連結侵害。後來我們了解到，網絡釣魚和 quishing 正在影響全球許多善良的人，其中不乏有技術背景的人士。因此，我們決定將它免費發布給所有人。"
+      },
+      "privacyProtection": {
+        "question": "Clean Links 如何保護我的私隱？",
+        "answer": "所有處理都在您的裝置上進行——沒有任何 cookie、識別碼或分析數據會離開您的手機。Clean Links 僅在載入連結前移除已知的追蹤參數（UTM 標籤、聯盟 ID、廣告技術代幣）。對於短連結，我們會在一個隔離的環境中發出請求，不含任何 cookie、對話等。這能擊敗網址縮短服務、廣告商和數據中介用來追蹤用戶的 cookie 追蹤技術。"
+      },
+      "phishingProtection": {
+        "question": "Clean Links 能否阻擋釣魚（「quishing」）攻擊？",
+        "answer": "是的。當你掃描 QR Code 時，Clean Links 會向你顯示完整、未經遮蔽的網址，讓你自行決定是否開啟。這與 iOS 的相機 App 及其他付費 QR Code 掃描器 App 不同，它們會在未經你同意的情況下，直接開啟 QR Code 指向的連結。還有一點：在跟隨重新導向時，Clean Links 使用的是較低層級 (NSURLRequest) API，其攻擊面遠小於一個功能齊全的網頁瀏覽器。因此，Clean Links 能免疫大多數針對網頁瀏覽器的零日漏洞攻擊。其次，此 App 在其自身的沙盒環境中運行，這又增加了一層安全性。"
+      },
+      "historyStorage": {
+        "question": "Clean Links 會儲存我的歷史記錄或已檢查的 QR 碼嗎？",
+        "answer": "不會。根據設計，Clean Links 不會記錄或儲存你清理或檢查的任何連結。"
+      },
+      "cleanWorkflow": {
+        "question": "我如何清理已複製的連結？",
+        "answer": "你可以建立一個 Apple「捷徑」，它會從你的剪貼簿獲取網址，將其清理，然後將乾淨的連結放回。例如，下載這個<shortcut>一鍵捷徑</shortcut>。想更快存取，可將該捷徑指派至 iPhone 的「動作」按鈕 (iPhone 15 Pro 及更新型號)，這樣只需隨處一按即可清理剪貼簿連結。你可以在 iPhone、iPad 和 Mac 上將 Clean Links 加入「控制中心」：可從兩種操作中選擇 - \"開啟 App\" 或 \"QR 碼掃描器\"。你可以直接在「控制中心」或「鎖定畫面」上使用這些功能，或將它們指派至「動作」按鈕，以便隨時隨地一鍵清理。你也可以手動開啟 Clean Links app 並貼上你的網址來清理。"
+      },
+      "qrScanning": {
+        "question": "如何檢查 QR 碼？",
+        "answer": "在 iPhone、iPad 或 Mac 上，從「主畫面」、「捷徑」或「動作」按鈕啟動 Clean Links，然後將你的相機對準代碼。在選擇開啟之前，你會看到真正的目標網址。Clean Links 會追蹤所有重定向並從最終目標網址中移除追蹤參數，從而防止隱藏在短連結或重定向服務背後的網絡釣魚連結。"
+      },
+      "urlExpansion": {
+        "question": "我能展開和預覽縮短的網址嗎？",
+        "answer": "當然可以。將任何 bit.ly、TinyURL、t.co 或其他短連結貼上或分享到 Clean Links。它會解開所有重定向鏈，並在您點擊前向您顯示最終的網址。"
+      },
+      "qrGeneration": {
+        "question": "我能從清理過的連結生成一個對私隱安全的 QR Code 嗎？",
+        "answer": "可以。清理網址後，點按「生成 QR 碼」即可創建一個完全不含追蹤參數的新代碼以供分享。當你想與朋友分享已清理的連結時，這功能特別方便：只需一按，他們便可掃描你的 QR 碼，開啟完全相同、無追蹤器的網址。當你嘗試與使用 Android 的朋友分享內容，又不想被 (咳咳，嗰個 App 叫咩名話？) 監視時，這也很有用。這能幫助你和你的朋友在未來一兩個星期內，避免被剛剛分享的內容相關廣告瘋狂轟炸。"
+      },
+      "systemIntegration": {
+        "question": "Clean Links 能否在 Safari、Mail 和其他 App 內運作？",
+        "answer": "是。Clean Links 在 iPhone、iPad 和 Mac 上的全系統「分享表單」擴充功能，可以在 Safari、「郵件」、X (Twitter)、Youtube、LinkedIn 或任何其他使用原生「分享表單」的應用程式中使用。"
+      },
+      "shortcutsAutomation": {
+        "question": "我能用 Shortcuts 或 Siri 自動化連結清理嗎？",
+        "answer": "Clean Links 支援 App Intents，可與 Apple「捷徑」及 Siri 搭配使用。你可以建立捷徑來清除剪貼簿或其他來源的連結。例如，使用這個 <shortcut>「Clean Links」捷徑</shortcut>，便能讀取剪貼簿中的連結，清除後再將乾淨的網址貼回剪貼簿。"
+      },
+      "manualCleaning": {
+        "question": "為何我需要這個應用程式，而不能手動清理連結？",
+        "answer": "現時，大多數追蹤參數都隱藏在 t.co、l.facebook.com、l.instagram.com 和 lnkd.in 等重定向連結之後 - 你在點擊前無法看到這些參數。Clean Links 會自動為你處理，省去繁瑣的手動操作，並保護你免受隱藏追蹤器的侵害。"
+      },
+      "localProcessing": {
+        "question": "這個處理過程真的是在裝置本機上進行嗎？我看到它會向 URL 發出網絡請求。",
+        "answer": "是的，Clean Links 真正做到所有處理程序均在本機上完成。Clean Links 可以在完全離線、不發出任何網絡請求的情況下，清理大多數帶有追蹤參數和重新導向的連結。對於來自縮網址服務和某些廣告網絡的連結，其重新導向網址無法僅從網址本身計算出來。在這些情況下，Clean Links 會直接從你的裝置發出網絡請求，以解析隱藏在重新導向後的追蹤參數——這在技術上是必要的，因為許多追蹤器只有在跟隨重新導向鏈後才會顯現。然而，這過程不涉及任何第三方 API (甚至不包括我們自己的伺服器)。每個請求都從一個完全純淨的狀態開始：請求之間不會保留任何 Cookies、不保存任何瀏覽記錄，並且我們使用具備隨機用戶代理的沙盒化工作階段。此外，我們在跟隨每次重新導向的前後都會移除追蹤參數。縮網址服務主要用於隱藏網址中的追蹤參數，而 Clean Links 的這項功能正好堵塞了這個漏洞，這是透過手動複製部分連結，或使用像 \"Link Cleaner\" 這種不跟隨重新導向的網絡應用程式所無法做到的。最重要的是，我們絕不記錄或追蹤你所清理的任何連結。永不。你的連結清理活動會完全保留在你的裝置上，絕對保密。為加強私隱保護，我們建議你使用 iCloud 私密轉送或 VPN，以便在 Clean Links 發出解析重新導向所需的網絡請求時，隱藏你的 IP 地址。"
+      },
+      "safariAtfp": {
+        "question": "Clean Links 與 iOS 26 Safari 的「進階追蹤與指紋保護」功能有何不同？",
+        "answer": "iOS 26 Safari 的「進階追蹤與指紋保護」(ATFP) 功能在 Safari 瀏覽期間能有效減少追蹤，但它亦有限制。ATFP 只在 Safari 中運作，在應用程式內置瀏覽器 (例如 Instagram 或 TikTok 的網頁視圖) 或其他瀏覽器中則無效。它亦無法預覽短連結，或清理出現在重新導向鏈末端的追蹤器。Clean Links 能輔助 ATFP，透過在所有應用程式中跨系統運作、追蹤每一次重新導向，並在您開啟連結前顯示最終網址。當您分享連結時，Clean Links 會移除平台包裝 (例如 t.co 或 l.instagram.com)，讓您的收件人獲得真正純淨的網址，無論他們是否使用 Safari 或已啟用 ATFP。建議兩者並用：在 Safari 中保持開啟 ATFP 以獲得自動的瀏覽器內保護，並在開啟或分享連結前使用 Clean Links 來處理縮網址、重新導向和跨應用程式的情況。<link>閱讀我們的詳細比較</link>以了解更多。"
+      },
+      "vsOtherCleaners": {
+        "question": "Clean Links 與 Firefox、Brave 或 Link Cleaner 等其他 URL 清理工具有何不同？",
+        "answer": "大多數 URL 清理工具 (包括 Firefox、Brave 及 Link Cleaner 等網頁工具) 只專注於移除您所提供網址中可見的追蹤參數。它們不會追蹤重新導向鏈，因此隱藏在短連結 (bit.ly、t.co、lnkd.in) 或社交平台包裝 (l.facebook.com、l.instagram.com) 後的追蹤器便會漏網。Firefox 甚至設有白名單，容許某些大型科技公司的追蹤器通過。Clean Links 則不同：它會追蹤每一次重新導向、展開短連結，並在每一步移除追蹤器，在您開啟連結前揭示最終目的地。Clean Links 還內置 QR Code 掃描器，可安全地預覽網址，100% 在裝置上運作且不含任何分析功能 (與 Link Cleaner 的匿名使用統計數據不同)，並原生整合 iOS 的分享表單、捷徑、Siri 及 Mac 的剪貼簿監控功能。如果您想獲得能攔截隱藏追蹤器，並適用於您所有 Apple 裝置的全面保護，Clean Links 正是為此而設。<link>查看與 Link Cleaner 的完整比較</link>以了解更多詳情。"
+      },
+      "sendToMac": {
+        "question": "如何從 iPhone 傳送連結到 Mac？",
+        "answer": "Clean Links 讓你透過分享表單從 iPhone 分享連結到 Mac。你的 iOS 裝置和 Mac 都必須安裝 Clean Links、啟用 iCloud，並登入相同的 Apple 帳戶。連結是透過 iCloud 同步傳送，因此即使你的 Mac 處於離線或連接到不同網絡，連結亦會在你 Mac 上線時自動出現。這比 AirDrop 更快，比 Safari 分頁更可靠，並適用於你 Mac 上的任何瀏覽器。想了解更多，請<link>閱讀我們關於從 iPhone 傳送連結到 Mac 的詳細指南</link>。"
+      },
+      "sendToMacVsAirdrop": {
+        "question": "\"傳送到 Mac\" 功能如何比 AirDrop 優勝？",
+        "answer": "即使你的 Mac 處於睡眠或超出範圍，連結仍可在背景靜默開啟，每次都能可靠傳送。沒有連線問題，無需等待。"
+      },
+      "sendToMacVsIcloudTabs": {
+        "question": "Send to Mac 與 <icloudTabsLink>iCloud 分頁</icloudTabsLink> 相比有何優勝之處？",
+        "answer": "不僅限於 Safari，可從任何具備分享表單的 app 使用。連結會自動以瀏覽器分頁開啟——你絕不會錯過。無需在長長的同步分頁列表中尋找，並支援你 Mac 上的任何瀏覽器。"
+      },
+      "sendToMacMultipleMacs": {
+        "question": "我可以將連結傳送到多部 Mac 嗎？",
+        "answer": "可以。只要你的所有 Mac 都安裝了 Clean Links for macOS，並登入相同的 Apple 帳戶，你就可以將連結傳送到所有這些裝置。如果你想排除某部特定的 Mac，可以在其 macOS 應用程式的設定中停用接收連結功能。"
+      },
+      "sendToMacShortcuts": {
+        "question": "我可以將 Send to Mac 與捷徑一同使用嗎？",
+        "answer": "可以。核心分享功能以 App Intent 形式提供，讓你輕鬆建立跨裝置捷徑和自動化操作。"
+      },
+      "sendToMacVsSafariTabGroups": {
+        "question": "Send to Mac 與 Safari 分頁群組相比有何優勝之處？",
+        "answer": "不僅限於 Safari，可從任何 app 使用。支援你 Mac 上的任何瀏覽器，且無需在你的 iOS 裝置上保持分頁開啟。"
+      },
+      "sendToMacVsSafariReadingList": {
+        "question": "Send to Mac 與 Safari 閱讀列表相比有何優勝之處？",
+        "answer": "連結會自動在你的瀏覽器中開啟——你絕不會錯過。無需在累積的列表中搜尋，並支援任何瀏覽器。"
+      },
+      "sendToMacVsHandoff": {
+        "question": "Send to Mac 與 <handoffLink>接力</handoffLink> 相比有何優勝之處？",
+        "answer": "當裝置在附近時，Clean Links 支援接力功能，但即使你的 Mac 處於睡眠或超出範圍，它也同樣運作。支援任何具備分享表單的 app 和任何瀏覽器，能在背景自動開啟連結，並且每次都能可靠運作。"
+      },
+      "sendToMacVsUniversalClipboard": {
+        "question": "Send to Mac 與 <universalClipboardLink>通用剪貼板</universalClipboardLink> 相比有何優勝之處？",
+        "answer": "連結會自動開啟——無需手動貼上。即使你的 Mac 處於睡眠或超出範圍，也能運作並即時傳送。"
+      },
+      "sendToMacVsImessage": {
+        "question": "Send to Mac 與 iMessage 相比有何優勝之處？",
+        "answer": "連結會自動在瀏覽器中開啟，無需查看訊息。它會在背景靜默開啟，讓你可繼續專注目前的工作。"
+      },
+      "sendToMacVsEmail": {
+        "question": "Send to Mac 與電郵相比有何優勝之處？",
+        "answer": "連結會自動開啟，無需檢查你的收件箱。它會在背景靜默開啟，並保持你的收件箱整潔。"
+      },
+      "sendToMacVsPushbullet": {
+        "question": "Send to Mac 與 <pushbulletLink>Pushbullet</pushbulletLink> 相比有何優勝之處？",
+        "answer": "原生 iOS 和 macOS app，可從任何分享表單使用。無需額外帳戶——只需安裝即可使用。"
+      },
+      "sendToMacVsFirefoxSendTabs": {
+        "question": "Send to Mac 與 Firefox <firefoxSendTabsLink>傳送分頁</firefoxSendTabsLink> 相比有何優勝之處？",
+        "answer": "不僅限於 Firefox，可從任何 app 使用。支援你 Mac 上的任何瀏覽器，而且所需點擊次數更少。"
+      },
+      "sendToMacVsFirefoxTabSync": {
+        "question": "Send to Mac 與 Firefox 分頁同步相比有何優勝之處？",
+        "answer": "不僅限於 Firefox，可從任何具備分享表單的 app 使用。支援任何瀏覽器，且無需在你的 iOS 裝置上保持分頁開啟。"
+      },
+      "sendToMacVsHyperduck": {
+        "question": "Send to Mac 與 <hyperduckLink>HyperDuck</hyperduckLink> 相比有何優勝之處？",
+        "answer": "完全免費，支援 37 種語言。自動支援多部 Mac，包含 Mac 之間的分享功能，而且除了分享外，還提供全面的連結清理和反混淆功能。"
+      }
+    },
+    "viewAll": "查看全部",
+    "categories": {
+      "gettingStarted": "開始使用",
+      "privacySecurity": "私隱與安全",
+      "features": "功能與整合",
+      "sendToMac": "傳送到 Mac",
+      "comparisons": "比較"
+    }
   }
 }

@@ -138,134 +138,6 @@
       "description": "Käytä Clean Linksiä Macin valikkorivillä automaattisella leikepöydän seurannalla. Jokainen kopioimasi URL-osoite puhdistetaan, laajennetaan ja siitä poistetaan seuraimet välittömästi – kaikki laitteella täydellisen yksityisyyden takaamiseksi macOS-työnkulussasi ilman manuaalisia toimenpiteitä."
     }
   },
-  "faq": {
-    "title": "UKK",
-    "description": "Usein kysytyt kysymykset Clean Links -sovelluksesta",
-    "whatIs": {
-      "question": "Mikä on Clean Links?",
-      "answer": "Clean Links on ilmainen apuohjelma iPhonelle, iPadille ja Macille, joka poistaa seurantaparametrit URL-osoitteista ja paljastaa todellisen kohteen QR-koodien ja lyhennettyjen linkkien takana - jotta avaat vain haluamasi asiat, ilman piilotettuja seuraimia tai uudelleenohjauksia."
-    },
-    "deviceRequirements": {
-      "question": "Mitä laitteita ja iOS-versioita Clean Links tukee?",
-      "answer": "Clean Links tukee iPhone-, iPad- ja Mac-laitteita, joissa on käytössä iOS 18.0 tai uudempi (iPhone/iPad) tai macOS Sequoia tai uudempi."
-    },
-    "whyCreate": {
-      "question": "Miksi loimme Clean Links -sovelluksen?",
-      "answer": "Rakensimme sen alun perin itsellemme välttääksemme \"quishing\"-huijauksia ja suojautuaksemme seuraimia täynnä olevilta linkeiltä. Myöhemmin opimme, että phishing ja quishing vaikuttavat moniin hyviin ihmisiin ympäri maailmaa, joista monet ovat teknisesti suuntautuneita. Siksi päätimme julkaista sen kaikille ja teimme siitä täysin ilmaisen."
-    },
-    "privacyProtection": {
-      "question": "Miten Clean Links suojaa yksityisyyttäni?",
-      "answer": "Kaikki käsittely tapahtuu laitteellasi – evästeet, tunnisteet tai analytiikkatiedot eivät koskaan poistu puhelimestasi. Clean Links yksinkertaisesti poistaa tunnetut seurantaparametrit (UTM-tunnisteet, kumppanitunnisteet, mainosteknologian tunnisteet) ennen linkin lataamista. Lyhennettyjen linkkien osalta teemme pyynnöt eristetyssä kontekstissa ilman evästeitä, istuntoja jne. Tämä estää URL-lyhentimien, mainostajien ja datavälittäjien käyttämän evästepohjaisen seurannan."
-    },
-    "phishingProtection": {
-      "question": "Voiko Clean Links estää phishing (\"quishing\") -yritykset?",
-      "answer": "Kyllä. Kun tarkistat QR-koodin, Clean Links näyttää sinulle koko peittämättömän URL-osoitteen. Saat itse päättää, avaatko sen vai et. Tämä eroaa iOS-kamerasovelluksesta ja muista maksullisista QR-koodinlukijasovelluksista, jotka avaavat linkin suoraan ilman lupaasi. Lisäksi uudelleenohjauksia seuratessaan Clean Links käyttää matalan tason (NSURLRequest) ohjelmointirajapintoja, joiden hyökkäyspinta-ala on hyvin pieni verrattuna täysimittaiseen selaimeen. Siksi Clean Links on immuuni useimmille nollapäivähaavoittuvuuksille, jotka kohdistuvat verkkoselaimiin. Toiseksi, sovellus toimii omassa hiekkalaatikossaan, mikä lisää ylimääräisen turvakerroksen."
-    },
-    "historyStorage": {
-      "question": "Tallentaako Clean Links historiani tai tarkistamani QR-koodit?",
-      "answer": "Ei. Clean Links on suunniteltu siten, ettei se kirjaa tai tallenna puhdistamiasi tai tarkistamiasi linkkejä."
-    },
-    "cleanWorkflow": {
-      "question": "Miten puhdistan kopioimani linkin?",
-      "answer": "Voit luoda Apple-pikakomennon, joka ottaa URL-osoitteen leikepöydältäsi, puhdistaa sen ja kopioi puhdistetun linkin takaisin. Lataa esimerkiksi tämä <shortcut>yhden napautuksen pikakomento</shortcut>. Vielä nopeampaa käyttöä varten voit määrittää pikakomennon iPhonesi Toimintopainikkeeseen (iPhone 15 Pro ja uudemmat), jotta yksi painallus puhdistaa leikepöydän linkin. Voit lisätä Clean Links -sovelluksen Ohjauskeskukseen iPhonella, iPadilla ja Macilla: valitse kahdesta toiminnosta - \"Avaa sovellus\" tai \"QR-koodinlukija\". Pääset näihin käsiksi suoraan Ohjauskeskuksesta tai Lukitusnäytöltä, tai voit määrittää ne Toimintopainikkeeseen, jolloin puhdistus onnistuu yhdellä napautuksella missä tahansa. Voit myös avata Clean Links -sovelluksen ja liittää URL-osoitteen puhdistettavaksi."
-    },
-    "qrScanning": {
-      "question": "Miten tarkistan QR-koodin?",
-      "answer": "Käynnistä Clean Links Koti-valikosta, Pikakomennosta tai Toimintopainikkeesta iPhonella, iPadilla tai Macilla ja suuntaa kamerasi koodiin. Näet todellisen kohde-URL-osoitteen ennen kuin päätät avata sen. Clean Links seuraa kaikkia uudelleenohjauksia ja poistaa seurantaparametrit lopullisesta kohteesta - estäen tietojenkalastelulinkit, jotka on piilotettu lyhytlinkki- tai uudelleenohjauspalveluiden taakse."
-    },
-    "urlExpansion": {
-      "question": "Voinko laajentaa ja esikatsella lyhennettyjä URL-osoitteita?",
-      "answer": "Ehdottomasti. Liitä tai jaa mikä tahansa bit.ly-, TinyURL-, t.co- tai muu lyhytlinkki Clean Links -sovellukseen. Se purkaa kaikki uudelleenohjausketjut ja näyttää lopullisen URL-osoitteen ennen kuin napautat."
-    },
-    "qrGeneration": {
-      "question": "Voinko luoda yksityisyyttä suojaavan QR-koodin puhdistetusta linkistä?",
-      "answer": "Kyllä. Puhdistettuasi URL-osoitteen, napauta \"Luo QR\" luodaksesi uuden koodin, jonka voit jakaa täysin ilman seurantaparametreja. Tämä on erityisen kätevää, kun haluat jakaa puhdistetun linkin ystävillesi: yhdellä napautuksella he voivat tarkistaa QR-koodisi ja avata täsmälleen saman, seurannasta vapaan URL-osoitteen. Hyödyllinen myös, kun yrität jakaa sisältöä Androidia käyttäville ystävillesi ilman, että teitä vakoilee, kröhöm: Mikä sen sovelluksen nimi olikaan? Tämä auttaa sinua ja ystäviäsi välttämään, että teitä pommitetaan juuri jakamaanne sisältöön liittyvillä mainoksilla seuraavan viikon tai parin ajan."
-    },
-    "systemIntegration": {
-      "question": "Toimiiko Clean Links Safarissa, Mailissa ja muissa sovelluksissa?",
-      "answer": "Kyllä. Clean Linksin järjestelmänlaajuista jakovalikkolaajennusta iPhonella, iPadilla ja Macilla voi käyttää Safarissa, Mailissa, X:ssä (Twitter), Youtubessa, LinkedInissä tai missä tahansa muussa sovelluksessa, joka käyttää natiivia jakovalikkoa."
-    },
-    "shortcutsAutomation": {
-      "question": "Voinko automatisoida linkkien puhdistuksen Oikoteillä tai Sirillä?",
-      "answer": "Clean Links tukee App Intents -toimintoja, jotka toimivat sekä Apple Shortcuts -sovelluksen että Sirin kanssa. Voit luoda pikakomennon, joka puhdistaa linkkejä leikepöydältäsi tai mistä tahansa muualta. Esimerkiksi tällä <shortcut>\"Clean Links\" -pikakomennolla</shortcut> voit noutaa linkin leikepöydältäsi, puhdistaa sen ja liittää puhdistetun URL-osoitteen takaisin leikepöydälle."
-    },
-    "manualCleaning": {
-      "question": "Mihin tarvitsen tätä sovellusta ja miksi en voi vain puhdistaa linkkejä käsin?",
-      "answer": "Useimmat seurantaparametrit ovat nykyään piilossa uudelleenohjausten, kuten t.co, l.facebook.com, l.instagram.com ja lnkd.in, takana - et näe näitä parametreja ennen kuin klikkaat. Clean Links hoitaa tämän automaattisesti puolestasi, mikä säästää sinut vaivalloiselta manuaaliselta työltä ja suojaa sinua piilotetuilta seuraimilta."
-    },
-    "localProcessing": {
-      "question": "Toimiiko tämä todella paikallisesti? Näen, että se tekee verkkopyyntöjä URL-osoitteeseen.",
-      "answer": "Kyllä, Clean Links käsittelee kaiken aidosti paikallisesti. Clean Links voi puhdistaa useimmat seurantaparametreja ja uudelleenohjauksia sisältävät linkit täysin offline-tilassa ilman verkkopyyntöjä. URL-lyhentäjien ja tiettyjen mainosverkkojen linkeissä uudelleenohjauksen URL-osoitetta ei voi laskea pelkän osoitteen perusteella. Tällaisissa tapauksissa Clean Links tekee verkkopyyntöjä suoraan laitteeltasi selvittääkseen uudelleenohjausten taakse piilotetut seurantaparametrit - tämä on teknisesti välttämätöntä, koska monet seuraimet paljastuvat vasta uudelleenohjausketjun seuraamisen jälkeen. Mukana ei kuitenkaan ole kolmannen osapuolen ohjelmointirajapintoja (ei edes omia palvelimiamme). Jokainen pyyntö alkaa täysin puhtaalta pöydältä: evästeitä ei säilytetä pyyntöjen välillä, selaushistoriaa ei tallenneta, ja käytämme hiekkalaatikoituja istuntoja satunnaistetuilla user agent -tunnisteilla. Lisäksi poistamme seurantaparametrit ennen ja jälkeen jokaisen uudelleenohjauksen seuraamista. URL-lyhentäjiä käytetään enimmäkseen piilottamaan seurantaparametreja URL-osoitteisiin, ja tämä Clean Links -ominaisuus korjaa sen porsaanreiän. Tätä ei voi tehdä manuaalisesti kopioimalla linkkien osia tai \"Link Cleaner\" -tyyppisillä verkkosovelluksilla, jotka eivät seuraa uudelleenohjauksia. Tärkeintä on, että emme kirjaa tai seuraa puhdistamiasi linkkejä. Emme koskaan. Linkkien puhdistuksesi pysyy täysin yksityisenä laitteellasi. Lisäsuojaa yksityisyydellesi saat käyttämällä iCloudin Yksityistä siirtoa tai VPN-yhteyttä IP-osoitteesi peittämiseen, kun Clean Links tekee näitä välttämättömiä verkkopyyntöjä uudelleenohjausten selvittämiseksi."
-    },
-    "safariAtfp": {
-      "question": "Miten Clean Links eroaa Safarin edistyneestä seurannan ja sormenjälkien tunnistuksen suojauksesta iOS 26:ssa?",
-      "answer": "Safarin edistynyt seurannan ja sormenjälkien tunnistuksen suojaus (ATFP) iOS 26:ssa on erinomainen vähentämään seurantaa Safari-selauksen aikana, mutta sillä on rajoituksensa. ATFP toimii vain Safarissa - ei sovellusten sisäisissä selaimissa (kuten Instagramin tai TikTokin verkkonäkymissä) tai muissa selaimissa. Se ei myöskään esikatsele lyhytlinkkejä tai puhdista seuraimia, jotka ilmestyvät uudelleenohjausketjujen lopussa. Clean Links täydentää ATFP:tä toimimalla järjestelmänlaajuisesti kaikissa sovelluksissa, seuraamalla jokaista uudelleenohjausta ja näyttämällä lopullisen URL-osoitteen ennen sen avaamista. Kun jaat linkkejä, Clean Links poistaa alustojen kääreet (kuten t.co tai l.instagram.com), jotta vastaanottajat saavat aidosti puhtaita URL-osoitteita riippumatta siitä, käyttävätkö he Safaria tai onko heillä ATFP käytössä. Käytä molempia yhdessä: pidä ATFP päällä Safarissa automaattista selaimen suojausta varten ja käytä Clean Linksiä ennen linkkien avaamista tai jakamista lyhenteiden, uudelleenohjausten ja sovellusten välisten tilanteiden käsittelyyn. <link>Lue yksityiskohtainen vertailumme</link> saadaksesi lisätietoja."
-    },
-    "vsOtherCleaners": {
-      "question": "Miten Clean Links eroaa muista URL-puhdistajista, kuten Firefox, Brave tai Link Cleaner?",
-      "answer": "Useimmat URL-puhdistajat (mukaan lukien Firefox, Brave ja verkkopohjaiset työkalut, kuten Link Cleaner) keskittyvät näkyvien seurantaparametrien poistamiseen antamastasi URL-osoitteesta. Ne eivät seuraa uudelleenohjausketjuja, joten lyhytlinkkien (bit.ly, t.co, lnkd.in) tai sosiaalisen median kääreiden (l.facebook.com, l.instagram.com) taakse piilotetut seuraimet pääsevät läpi. Firefoxilla on jopa sallittujen lista, joka päästää läpi tiettyjen suurten teknologiayritysten seuraimia. Clean Links on erilainen: se seuraa jokaista uudelleenohjausta, laajentaa lyhytlinkit ja poistaa seuraimet jokaisessa vaiheessa - paljastaen lopullisen määränpään ennen kuin avaat sen. Clean Links sisältää myös sisäänrakennetun QR-koodinlukijan, joka esikatselee URL-osoitteet turvallisesti, toimii 100 % laitteella ilman analytiikkaa (toisin kuin Link Cleaner -sovelluksen anonyymit käyttötilastot) ja integroituu natiivisti iOS:n jakovalikkoon, oikopolkuihin, Siriin ja Macin leikepöydän seurantaan. Jos haluat kattavan suojan, joka nappaa piilotetut seuraimet ja toimii kaikilla Apple-laitteillasi, Clean Links on tehty juuri sitä varten. <link>Katso täysi vertailu Link Cleaneriin</link> saadaksesi lisätietoja."
-    },
-    "sendToMac": {
-      "question": "Miten lähetän linkkejä iPhonesta Maciin?",
-      "answer": "Clean Linksin avulla voit jakaa linkkejä iPhonesta Maciin jakovalikon kautta. iOS-laitteessasi ja Macissasi on oltava Clean Links asennettuna, iCloud käytössä ja sinun on oltava kirjautuneena samalle Apple-tilille. Linkit lähetetään iCloud-synkronoinnin kautta, joten ne toimivat, vaikka Macisi olisi offline-tilassa tai eri verkossa - linkki ilmestyy automaattisesti, kun Macisi yhdistyy verkkoon. Tämä on nopeampaa kuin AirDrop, luotettavampaa kuin Safari-välilehdet ja toimii millä tahansa selaimella Macissasi. <link>Lue yksityiskohtainen oppaamme linkkien lähettämisestä iPhonesta Maciin</link> saadaksesi lisätietoja."
-    },
-    "sendToMacVsAirdrop": {
-      "question": "Miten Send to Mac on parempi kuin AirDrop?",
-      "answer": "Toimii, vaikka Macisi on lepotilassa tai kantaman ulkopuolella, avaa linkit äänettömästi taustalla ja toimii luotettavasti joka kerta. Ei yhteysongelmia tai odottelua."
-    },
-    "sendToMacVsIcloudTabs": {
-      "question": "Miten Lähetä Maciin on parempi kuin <icloudTabsLink>iCloud-välilehdet</icloudTabsLink>?",
-      "answer": "Toimii kaikista jakovalikon sisältävistä sovelluksista, ei vain Safarista. Linkit avautuvat automaattisesti selaimen välilehdiksi - et voi olla huomaamatta niitä. Ei tarvitse etsiä pitkistä synkronoitujen välilehtien luetteloista, ja se tukee mitä tahansa selainta Macillasi."
-    },
-    "sendToMacMultipleMacs": {
-      "question": "Voinko lähettää linkkejä useisiin Maceihin?",
-      "answer": "Kyllä. Voit lähettää linkkejä kaikkiin Maceihisi, kunhan niihin on asennettu Clean Links for macOS ja ne on kirjattu samalle Apple-tilille. Voit poistaa linkkien vastaanoton käytöstä macOS-sovelluksen asetuksista, jos haluat jättää tietyn Macin ulkopuolelle."
-    },
-    "sendToMacShortcuts": {
-      "question": "Voinko käyttää Lähetä Maciin -toimintoa Oikotiet-sovelluksen kanssa?",
-      "answer": "Kyllä. Jakotoiminnon ydin on saatavilla App Intent -muodossa, mikä tekee laitteiden välisten oikoteiden ja automaatioiden rakentamisesta helppoa."
-    },
-    "sendToMacVsSafariTabGroups": {
-      "question": "Miten Lähetä Maciin on parempi kuin Safarin välilehtiryhmät?",
-      "answer": "Toimii kaikista sovelluksista, ei vain Safarista. Tukee mitä tahansa selainta Macillasi ilman, että sinun tarvitsee pitää välilehtiä auki iOS-laitteellasi."
-    },
-    "sendToMacVsSafariReadingList": {
-      "question": "Miten Lähetä Maciin on parempi kuin Safarin lukulista?",
-      "answer": "Linkit avautuvat automaattisesti selaimessasi - et voi olla huomaamatta niitä. Ei tarvitse etsiä kertyneistä luetteloista, ja se tukee mitä tahansa selainta."
-    },
-    "sendToMacVsHandoff": {
-      "question": "Miten Lähetä Maciin on parempi kuin <handoffLink>Handoff</handoffLink>?",
-      "answer": "Clean Links sisältää Handoff-tuen, kun laitteet ovat lähellä toisiaan, mutta toimii myös, kun Macisi on lepotilassa tai kantaman ulkopuolella. Se tukee kaikkia jakovalikon sisältäviä sovelluksia ja mitä tahansa selainta, avaa linkit automaattisesti taustalla ja toimii luotettavasti joka kerta."
-    },
-    "sendToMacVsUniversalClipboard": {
-      "question": "Miten Lähetä Maciin on parempi kuin <universalClipboardLink>Yleinen leikepöytä</universalClipboardLink>?",
-      "answer": "Linkit avautuvat automaattisesti - manuaalista liittämistä ei tarvita. Toimii, vaikka Macisi on lepotilassa tai kantaman ulkopuolella, ja saapuu perille välittömästi."
-    },
-    "sendToMacVsImessage": {
-      "question": "Miten Lähetä Maciin on parempi kuin iMessage?",
-      "answer": "Linkit avautuvat automaattisesti selaimessasi ilman, että sinun tarvitsee tarkistaa viestejä. Avautuu äänettömästi taustalla, joten voit jatkaa sitä, mitä olit tekemässä."
-    },
-    "sendToMacVsEmail": {
-      "question": "Miten Lähetä Maciin on parempi kuin sähköposti?",
-      "answer": "Linkit avautuvat automaattisesti ilman, että sinun tarvitsee tarkistaa sähköpostiasi. Avautuu äänettömästi taustalla ja pitää saapuneet-kansiosi siistinä."
-    },
-    "sendToMacVsPushbullet": {
-      "question": "Miten Lähetä Maciin on parempi kuin <pushbulletLink>Pushbullet</pushbulletLink>?",
-      "answer": "Natiivit iOS- ja macOS-sovellukset, jotka toimivat kaikista jakovalikoista. Ei vaadi erillistä tiliä - asenna ja käytä."
-    },
-    "sendToMacVsFirefoxSendTabs": {
-      "question": "Miten Lähetä Maciin on parempi kuin Firefoxin <firefoxSendTabsLink>Lähetä välilehtiä</firefoxSendTabsLink> -toiminto?",
-      "answer": "Toimii kaikista sovelluksista, ei vain Firefoxista. Tukee mitä tahansa selainta Macillasi ja vaatii vähemmän napautuksia."
-    },
-    "sendToMacVsFirefoxTabSync": {
-      "question": "Miten Lähetä Maciin on parempi kuin Firefoxin välilehtien synkronointi?",
-      "answer": "Toimii kaikista jakovalikon sisältävistä sovelluksista, ei vain Firefoxista. Tukee mitä tahansa selainta ilman, että sinun tarvitsee pitää välilehtiä auki iOS-laitteellasi."
-    },
-    "sendToMacVsHyperduck": {
-      "question": "Miten Lähetä Maciin on parempi kuin <hyperduckLink>HyperDuck</hyperduckLink>?",
-      "answer": "Täysin ilmainen ja tukee 37 kieltä. Tukee automaattisesti useita Maceja, sisältää jakamisen Macien välillä ja tarjoaa pelkän jakamisen lisäksi täyden linkkien puhdistuksen ja hämäyksen poiston."
-    }
-  },
   "cta": {
     "title": "QR-koodinlukija ja linkkien puhdistaja - Suojaa yksityisyyttäsi",
     "description": "Paljasta todellinen URL-osoite välittömästi, poista piilotetut seuraimet ja luo jakovalmiita QR-koodeja – kaikki 100 % laitteella, 100 % ilmaiseksi.",
@@ -342,5 +214,149 @@
   },
   "appRating": {
     "text": "{rating} ({count, plural, =0 {ei arvosteluja} =1 {# arvostelu} other {# arvostelua}})"
+  },
+  "faqPage": {
+    "metadata": {
+      "title": "UKK",
+      "description": "Saa selkeät vastaukset Clean Linksistä - miten puhdistamme seurantaparametrit, estämme QR-koodihuijaukset ja pidämme kaiken 100-prosenttisesti laitteellasi."
+    },
+    "heading": {
+      "title": "UKK",
+      "description": "Usein kysytyt kysymykset Clean Links -sovelluksesta"
+    },
+    "items": {
+      "whatIs": {
+        "question": "Mikä on Clean Links?",
+        "answer": "Clean Links on ilmainen apuohjelma iPhonelle, iPadille ja Macille, joka poistaa seurantaparametrit URL-osoitteista ja paljastaa todellisen kohteen QR-koodien ja lyhennettyjen linkkien takana - jotta avaat vain haluamasi asiat, ilman piilotettuja seuraimia tai uudelleenohjauksia."
+      },
+      "deviceRequirements": {
+        "question": "Mitä laitteita ja iOS-versioita Clean Links tukee?",
+        "answer": "Clean Links tukee iPhone-, iPad- ja Mac-laitteita, joissa on käytössä iOS 18.0 tai uudempi (iPhone/iPad) tai macOS Sequoia tai uudempi."
+      },
+      "whyCreate": {
+        "question": "Miksi loimme Clean Links -sovelluksen?",
+        "answer": "Rakensimme sen alun perin itsellemme välttääksemme \"quishing\"-huijauksia ja suojautuaksemme seuraimia täynnä olevilta linkeiltä. Myöhemmin opimme, että phishing ja quishing vaikuttavat moniin hyviin ihmisiin ympäri maailmaa, joista monet ovat teknisesti suuntautuneita. Siksi päätimme julkaista sen kaikille ja teimme siitä täysin ilmaisen."
+      },
+      "privacyProtection": {
+        "question": "Miten Clean Links suojaa yksityisyyttäni?",
+        "answer": "Kaikki käsittely tapahtuu laitteellasi – evästeet, tunnisteet tai analytiikkatiedot eivät koskaan poistu puhelimestasi. Clean Links yksinkertaisesti poistaa tunnetut seurantaparametrit (UTM-tunnisteet, kumppanitunnisteet, mainosteknologian tunnisteet) ennen linkin lataamista. Lyhennettyjen linkkien osalta teemme pyynnöt eristetyssä kontekstissa ilman evästeitä, istuntoja jne. Tämä estää URL-lyhentimien, mainostajien ja datavälittäjien käyttämän evästepohjaisen seurannan."
+      },
+      "phishingProtection": {
+        "question": "Voiko Clean Links estää phishing (\"quishing\") -yritykset?",
+        "answer": "Kyllä. Kun tarkistat QR-koodin, Clean Links näyttää sinulle koko peittämättömän URL-osoitteen. Saat itse päättää, avaatko sen vai et. Tämä eroaa iOS-kamerasovelluksesta ja muista maksullisista QR-koodinlukijasovelluksista, jotka avaavat linkin suoraan ilman lupaasi. Lisäksi uudelleenohjauksia seuratessaan Clean Links käyttää matalan tason (NSURLRequest) ohjelmointirajapintoja, joiden hyökkäyspinta-ala on hyvin pieni verrattuna täysimittaiseen selaimeen. Siksi Clean Links on immuuni useimmille nollapäivähaavoittuvuuksille, jotka kohdistuvat verkkoselaimiin. Toiseksi, sovellus toimii omassa hiekkalaatikossaan, mikä lisää ylimääräisen turvakerroksen."
+      },
+      "historyStorage": {
+        "question": "Tallentaako Clean Links historiani tai tarkistamani QR-koodit?",
+        "answer": "Ei. Clean Links on suunniteltu siten, ettei se kirjaa tai tallenna puhdistamiasi tai tarkistamiasi linkkejä."
+      },
+      "cleanWorkflow": {
+        "question": "Miten puhdistan kopioimani linkin?",
+        "answer": "Voit luoda Apple-pikakomennon, joka ottaa URL-osoitteen leikepöydältäsi, puhdistaa sen ja kopioi puhdistetun linkin takaisin. Lataa esimerkiksi tämä <shortcut>yhden napautuksen pikakomento</shortcut>. Vielä nopeampaa käyttöä varten voit määrittää pikakomennon iPhonesi Toimintopainikkeeseen (iPhone 15 Pro ja uudemmat), jotta yksi painallus puhdistaa leikepöydän linkin. Voit lisätä Clean Links -sovelluksen Ohjauskeskukseen iPhonella, iPadilla ja Macilla: valitse kahdesta toiminnosta - \"Avaa sovellus\" tai \"QR-koodinlukija\". Pääset näihin käsiksi suoraan Ohjauskeskuksesta tai Lukitusnäytöltä, tai voit määrittää ne Toimintopainikkeeseen, jolloin puhdistus onnistuu yhdellä napautuksella missä tahansa. Voit myös avata Clean Links -sovelluksen ja liittää URL-osoitteen puhdistettavaksi."
+      },
+      "qrScanning": {
+        "question": "Miten tarkistan QR-koodin?",
+        "answer": "Käynnistä Clean Links Koti-valikosta, Pikakomennosta tai Toimintopainikkeesta iPhonella, iPadilla tai Macilla ja suuntaa kamerasi koodiin. Näet todellisen kohde-URL-osoitteen ennen kuin päätät avata sen. Clean Links seuraa kaikkia uudelleenohjauksia ja poistaa seurantaparametrit lopullisesta kohteesta - estäen tietojenkalastelulinkit, jotka on piilotettu lyhytlinkki- tai uudelleenohjauspalveluiden taakse."
+      },
+      "urlExpansion": {
+        "question": "Voinko laajentaa ja esikatsella lyhennettyjä URL-osoitteita?",
+        "answer": "Ehdottomasti. Liitä tai jaa mikä tahansa bit.ly-, TinyURL-, t.co- tai muu lyhytlinkki Clean Links -sovellukseen. Se purkaa kaikki uudelleenohjausketjut ja näyttää lopullisen URL-osoitteen ennen kuin napautat."
+      },
+      "qrGeneration": {
+        "question": "Voinko luoda yksityisyyttä suojaavan QR-koodin puhdistetusta linkistä?",
+        "answer": "Kyllä. Puhdistettuasi URL-osoitteen, napauta \"Luo QR\" luodaksesi uuden koodin, jonka voit jakaa täysin ilman seurantaparametreja. Tämä on erityisen kätevää, kun haluat jakaa puhdistetun linkin ystävillesi: yhdellä napautuksella he voivat tarkistaa QR-koodisi ja avata täsmälleen saman, seurannasta vapaan URL-osoitteen. Hyödyllinen myös, kun yrität jakaa sisältöä Androidia käyttäville ystävillesi ilman, että teitä vakoilee, kröhöm: Mikä sen sovelluksen nimi olikaan? Tämä auttaa sinua ja ystäviäsi välttämään, että teitä pommitetaan juuri jakamaanne sisältöön liittyvillä mainoksilla seuraavan viikon tai parin ajan."
+      },
+      "systemIntegration": {
+        "question": "Toimiiko Clean Links Safarissa, Mailissa ja muissa sovelluksissa?",
+        "answer": "Kyllä. Clean Linksin järjestelmänlaajuista jakovalikkolaajennusta iPhonella, iPadilla ja Macilla voi käyttää Safarissa, Mailissa, X:ssä (Twitter), Youtubessa, LinkedInissä tai missä tahansa muussa sovelluksessa, joka käyttää natiivia jakovalikkoa."
+      },
+      "shortcutsAutomation": {
+        "question": "Voinko automatisoida linkkien puhdistuksen Oikoteillä tai Sirillä?",
+        "answer": "Clean Links tukee App Intents -toimintoja, jotka toimivat sekä Apple Shortcuts -sovelluksen että Sirin kanssa. Voit luoda pikakomennon, joka puhdistaa linkkejä leikepöydältäsi tai mistä tahansa muualta. Esimerkiksi tällä <shortcut>\"Clean Links\" -pikakomennolla</shortcut> voit noutaa linkin leikepöydältäsi, puhdistaa sen ja liittää puhdistetun URL-osoitteen takaisin leikepöydälle."
+      },
+      "manualCleaning": {
+        "question": "Mihin tarvitsen tätä sovellusta ja miksi en voi vain puhdistaa linkkejä käsin?",
+        "answer": "Useimmat seurantaparametrit ovat nykyään piilossa uudelleenohjausten, kuten t.co, l.facebook.com, l.instagram.com ja lnkd.in, takana - et näe näitä parametreja ennen kuin klikkaat. Clean Links hoitaa tämän automaattisesti puolestasi, mikä säästää sinut vaivalloiselta manuaaliselta työltä ja suojaa sinua piilotetuilta seuraimilta."
+      },
+      "localProcessing": {
+        "question": "Toimiiko tämä todella paikallisesti? Näen, että se tekee verkkopyyntöjä URL-osoitteeseen.",
+        "answer": "Kyllä, Clean Links käsittelee kaiken aidosti paikallisesti. Clean Links voi puhdistaa useimmat seurantaparametreja ja uudelleenohjauksia sisältävät linkit täysin offline-tilassa ilman verkkopyyntöjä. URL-lyhentäjien ja tiettyjen mainosverkkojen linkeissä uudelleenohjauksen URL-osoitetta ei voi laskea pelkän osoitteen perusteella. Tällaisissa tapauksissa Clean Links tekee verkkopyyntöjä suoraan laitteeltasi selvittääkseen uudelleenohjausten taakse piilotetut seurantaparametrit - tämä on teknisesti välttämätöntä, koska monet seuraimet paljastuvat vasta uudelleenohjausketjun seuraamisen jälkeen. Mukana ei kuitenkaan ole kolmannen osapuolen ohjelmointirajapintoja (ei edes omia palvelimiamme). Jokainen pyyntö alkaa täysin puhtaalta pöydältä: evästeitä ei säilytetä pyyntöjen välillä, selaushistoriaa ei tallenneta, ja käytämme hiekkalaatikoituja istuntoja satunnaistetuilla user agent -tunnisteilla. Lisäksi poistamme seurantaparametrit ennen ja jälkeen jokaisen uudelleenohjauksen seuraamista. URL-lyhentäjiä käytetään enimmäkseen piilottamaan seurantaparametreja URL-osoitteisiin, ja tämä Clean Links -ominaisuus korjaa sen porsaanreiän. Tätä ei voi tehdä manuaalisesti kopioimalla linkkien osia tai \"Link Cleaner\" -tyyppisillä verkkosovelluksilla, jotka eivät seuraa uudelleenohjauksia. Tärkeintä on, että emme kirjaa tai seuraa puhdistamiasi linkkejä. Emme koskaan. Linkkien puhdistuksesi pysyy täysin yksityisenä laitteellasi. Lisäsuojaa yksityisyydellesi saat käyttämällä iCloudin Yksityistä siirtoa tai VPN-yhteyttä IP-osoitteesi peittämiseen, kun Clean Links tekee näitä välttämättömiä verkkopyyntöjä uudelleenohjausten selvittämiseksi."
+      },
+      "safariAtfp": {
+        "question": "Miten Clean Links eroaa Safarin edistyneestä seurannan ja sormenjälkien tunnistuksen suojauksesta iOS 26:ssa?",
+        "answer": "Safarin edistynyt seurannan ja sormenjälkien tunnistuksen suojaus (ATFP) iOS 26:ssa on erinomainen vähentämään seurantaa Safari-selauksen aikana, mutta sillä on rajoituksensa. ATFP toimii vain Safarissa - ei sovellusten sisäisissä selaimissa (kuten Instagramin tai TikTokin verkkonäkymissä) tai muissa selaimissa. Se ei myöskään esikatsele lyhytlinkkejä tai puhdista seuraimia, jotka ilmestyvät uudelleenohjausketjujen lopussa. Clean Links täydentää ATFP:tä toimimalla järjestelmänlaajuisesti kaikissa sovelluksissa, seuraamalla jokaista uudelleenohjausta ja näyttämällä lopullisen URL-osoitteen ennen sen avaamista. Kun jaat linkkejä, Clean Links poistaa alustojen kääreet (kuten t.co tai l.instagram.com), jotta vastaanottajat saavat aidosti puhtaita URL-osoitteita riippumatta siitä, käyttävätkö he Safaria tai onko heillä ATFP käytössä. Käytä molempia yhdessä: pidä ATFP päällä Safarissa automaattista selaimen suojausta varten ja käytä Clean Linksiä ennen linkkien avaamista tai jakamista lyhenteiden, uudelleenohjausten ja sovellusten välisten tilanteiden käsittelyyn. <link>Lue yksityiskohtainen vertailumme</link> saadaksesi lisätietoja."
+      },
+      "vsOtherCleaners": {
+        "question": "Miten Clean Links eroaa muista URL-puhdistajista, kuten Firefox, Brave tai Link Cleaner?",
+        "answer": "Useimmat URL-puhdistajat (mukaan lukien Firefox, Brave ja verkkopohjaiset työkalut, kuten Link Cleaner) keskittyvät näkyvien seurantaparametrien poistamiseen antamastasi URL-osoitteesta. Ne eivät seuraa uudelleenohjausketjuja, joten lyhytlinkkien (bit.ly, t.co, lnkd.in) tai sosiaalisen median kääreiden (l.facebook.com, l.instagram.com) taakse piilotetut seuraimet pääsevät läpi. Firefoxilla on jopa sallittujen lista, joka päästää läpi tiettyjen suurten teknologiayritysten seuraimia. Clean Links on erilainen: se seuraa jokaista uudelleenohjausta, laajentaa lyhytlinkit ja poistaa seuraimet jokaisessa vaiheessa - paljastaen lopullisen määränpään ennen kuin avaat sen. Clean Links sisältää myös sisäänrakennetun QR-koodinlukijan, joka esikatselee URL-osoitteet turvallisesti, toimii 100 % laitteella ilman analytiikkaa (toisin kuin Link Cleaner -sovelluksen anonyymit käyttötilastot) ja integroituu natiivisti iOS:n jakovalikkoon, oikopolkuihin, Siriin ja Macin leikepöydän seurantaan. Jos haluat kattavan suojan, joka nappaa piilotetut seuraimet ja toimii kaikilla Apple-laitteillasi, Clean Links on tehty juuri sitä varten. <link>Katso täysi vertailu Link Cleaneriin</link> saadaksesi lisätietoja."
+      },
+      "sendToMac": {
+        "question": "Miten lähetän linkkejä iPhonesta Maciin?",
+        "answer": "Clean Linksin avulla voit jakaa linkkejä iPhonesta Maciin jakovalikon kautta. iOS-laitteessasi ja Macissasi on oltava Clean Links asennettuna, iCloud käytössä ja sinun on oltava kirjautuneena samalle Apple-tilille. Linkit lähetetään iCloud-synkronoinnin kautta, joten ne toimivat, vaikka Macisi olisi offline-tilassa tai eri verkossa - linkki ilmestyy automaattisesti, kun Macisi yhdistyy verkkoon. Tämä on nopeampaa kuin AirDrop, luotettavampaa kuin Safari-välilehdet ja toimii millä tahansa selaimella Macissasi. <link>Lue yksityiskohtainen oppaamme linkkien lähettämisestä iPhonesta Maciin</link> saadaksesi lisätietoja."
+      },
+      "sendToMacVsAirdrop": {
+        "question": "Miten Send to Mac on parempi kuin AirDrop?",
+        "answer": "Toimii, vaikka Macisi on lepotilassa tai kantaman ulkopuolella, avaa linkit äänettömästi taustalla ja toimii luotettavasti joka kerta. Ei yhteysongelmia tai odottelua."
+      },
+      "sendToMacVsIcloudTabs": {
+        "question": "Miten Lähetä Maciin on parempi kuin <icloudTabsLink>iCloud-välilehdet</icloudTabsLink>?",
+        "answer": "Toimii kaikista jakovalikon sisältävistä sovelluksista, ei vain Safarista. Linkit avautuvat automaattisesti selaimen välilehdiksi - et voi olla huomaamatta niitä. Ei tarvitse etsiä pitkistä synkronoitujen välilehtien luetteloista, ja se tukee mitä tahansa selainta Macillasi."
+      },
+      "sendToMacMultipleMacs": {
+        "question": "Voinko lähettää linkkejä useisiin Maceihin?",
+        "answer": "Kyllä. Voit lähettää linkkejä kaikkiin Maceihisi, kunhan niihin on asennettu Clean Links for macOS ja ne on kirjattu samalle Apple-tilille. Voit poistaa linkkien vastaanoton käytöstä macOS-sovelluksen asetuksista, jos haluat jättää tietyn Macin ulkopuolelle."
+      },
+      "sendToMacShortcuts": {
+        "question": "Voinko käyttää Lähetä Maciin -toimintoa Oikotiet-sovelluksen kanssa?",
+        "answer": "Kyllä. Jakotoiminnon ydin on saatavilla App Intent -muodossa, mikä tekee laitteiden välisten oikoteiden ja automaatioiden rakentamisesta helppoa."
+      },
+      "sendToMacVsSafariTabGroups": {
+        "question": "Miten Lähetä Maciin on parempi kuin Safarin välilehtiryhmät?",
+        "answer": "Toimii kaikista sovelluksista, ei vain Safarista. Tukee mitä tahansa selainta Macillasi ilman, että sinun tarvitsee pitää välilehtiä auki iOS-laitteellasi."
+      },
+      "sendToMacVsSafariReadingList": {
+        "question": "Miten Lähetä Maciin on parempi kuin Safarin lukulista?",
+        "answer": "Linkit avautuvat automaattisesti selaimessasi - et voi olla huomaamatta niitä. Ei tarvitse etsiä kertyneistä luetteloista, ja se tukee mitä tahansa selainta."
+      },
+      "sendToMacVsHandoff": {
+        "question": "Miten Lähetä Maciin on parempi kuin <handoffLink>Handoff</handoffLink>?",
+        "answer": "Clean Links sisältää Handoff-tuen, kun laitteet ovat lähellä toisiaan, mutta toimii myös, kun Macisi on lepotilassa tai kantaman ulkopuolella. Se tukee kaikkia jakovalikon sisältäviä sovelluksia ja mitä tahansa selainta, avaa linkit automaattisesti taustalla ja toimii luotettavasti joka kerta."
+      },
+      "sendToMacVsUniversalClipboard": {
+        "question": "Miten Lähetä Maciin on parempi kuin <universalClipboardLink>Yleinen leikepöytä</universalClipboardLink>?",
+        "answer": "Linkit avautuvat automaattisesti - manuaalista liittämistä ei tarvita. Toimii, vaikka Macisi on lepotilassa tai kantaman ulkopuolella, ja saapuu perille välittömästi."
+      },
+      "sendToMacVsImessage": {
+        "question": "Miten Lähetä Maciin on parempi kuin iMessage?",
+        "answer": "Linkit avautuvat automaattisesti selaimessasi ilman, että sinun tarvitsee tarkistaa viestejä. Avautuu äänettömästi taustalla, joten voit jatkaa sitä, mitä olit tekemässä."
+      },
+      "sendToMacVsEmail": {
+        "question": "Miten Lähetä Maciin on parempi kuin sähköposti?",
+        "answer": "Linkit avautuvat automaattisesti ilman, että sinun tarvitsee tarkistaa sähköpostiasi. Avautuu äänettömästi taustalla ja pitää saapuneet-kansiosi siistinä."
+      },
+      "sendToMacVsPushbullet": {
+        "question": "Miten Lähetä Maciin on parempi kuin <pushbulletLink>Pushbullet</pushbulletLink>?",
+        "answer": "Natiivit iOS- ja macOS-sovellukset, jotka toimivat kaikista jakovalikoista. Ei vaadi erillistä tiliä - asenna ja käytä."
+      },
+      "sendToMacVsFirefoxSendTabs": {
+        "question": "Miten Lähetä Maciin on parempi kuin Firefoxin <firefoxSendTabsLink>Lähetä välilehtiä</firefoxSendTabsLink> -toiminto?",
+        "answer": "Toimii kaikista sovelluksista, ei vain Firefoxista. Tukee mitä tahansa selainta Macillasi ja vaatii vähemmän napautuksia."
+      },
+      "sendToMacVsFirefoxTabSync": {
+        "question": "Miten Lähetä Maciin on parempi kuin Firefoxin välilehtien synkronointi?",
+        "answer": "Toimii kaikista jakovalikon sisältävistä sovelluksista, ei vain Firefoxista. Tukee mitä tahansa selainta ilman, että sinun tarvitsee pitää välilehtiä auki iOS-laitteellasi."
+      },
+      "sendToMacVsHyperduck": {
+        "question": "Miten Lähetä Maciin on parempi kuin <hyperduckLink>HyperDuck</hyperduckLink>?",
+        "answer": "Täysin ilmainen ja tukee 37 kieltä. Tukee automaattisesti useita Maceja, sisältää jakamisen Macien välillä ja tarjoaa pelkän jakamisen lisäksi täyden linkkien puhdistuksen ja hämäyksen poiston."
+      }
+    },
+    "viewAll": "Näytä kaikki",
+    "categories": {
+      "gettingStarted": "Näin pääset alkuun",
+      "privacySecurity": "Yksityisyys ja tietoturva",
+      "features": "Ominaisuudet ja integraatiot",
+      "sendToMac": "Lähetä Maciin",
+      "comparisons": "Vertailut"
+    }
   }
 }

@@ -138,134 +138,6 @@
       "description": "Clean Links'i Mac menü çubuğunuzda otomatik pano izleme ile çalıştırın. Kopyaladığınız her URL, macOS iş akışınızda manuel müdahale olmadan, tam gizlilik için tümüyle cihaz üzerinde anında temizlenir, kısaltması açılır ve izleyicilerden arındırılır."
     }
   },
-  "faq": {
-    "title": "SSS",
-    "description": "Clean Links hakkında sıkça sorulan sorular",
-    "whatIs": {
-      "question": "Clean Links nedir?",
-      "answer": "Clean Links, iPhone, iPad ve Mac için URL'lerden izleme parametrelerini temizleyen ve QR kodları ile kısaltılmış bağlantıların ardındaki gerçek hedefi gösteren ücretsiz bir araçtır. Bu sayede, gizli izleyiciler veya yönlendirmeler olmadan sadece istediğiniz bağlantıları açarsınız."
-    },
-    "deviceRequirements": {
-      "question": "Clean Links hangi cihazları ve iOS sürümlerini destekliyor?",
-      "answer": "Clean Links, iOS 18.0 veya üzerini (iPhone/iPad) ya da macOS Sequoia veya üzerini çalıştırabilen iPhone, iPad ve Mac cihazlarını destekler."
-    },
-    "whyCreate": {
-      "question": "Clean Links'i neden oluşturduk?",
-      "answer": "Başlangıçta \"quishing\" tuzağına düşmemek ve izleyicilerle dolu bağlantılardan kendimizi korumak için kendimiz için geliştirdik. Daha sonra, kimlik avı ve QR kod dolandırıcılığının dünyanın dört bir yanındaki, çoğu teknik altyapıya sahip birçok iyi insanı etkilediğini öğrendik. Bu yüzden, herkes için yayınlamaya karar verdik ve tamamen ücretsiz yaptık."
-    },
-    "privacyProtection": {
-      "question": "Clean Links gizliliğimi nasıl korur?",
-      "answer": "Tüm işlemler cihazınızda gerçekleşir - hiçbir çerez, tanımlayıcı veya analiz verisi telefonunuzdan ayrılmaz. Clean Links, bir bağlantıyı yüklemeden önce bilinen izleme parametrelerini (UTM etiketleri, satış ortağı kimlikleri, reklam teknolojisi jetonları) basitçe kaldırır. Kısaltılmış bağlantılar için, istekleri herhangi bir çerez, oturum vb. olmadan yalıtılmış bir bağlamda yaparız. Bu, URL kısaltıcıların, reklamverenlerin ve veri komisyoncularının kullanıcıları izlemek için kullandığı çerezler aracılığıyla takibi engeller."
-    },
-    "phishingProtection": {
-      "question": "Clean Links, kimlik avı (\"quishing\") girişimlerini engelleyebilir mi?",
-      "answer": "Evet. Bir QR kodu okuttuğunuzda, Clean Links size tam, maskelenmemiş URL'yi gösterir. Bağlantıyı açıp açmamaya siz karar verirsiniz. Bu, QR kodun yönlendirdiği bağlantıyı sizin rızanız olmadan doğrudan açan iOS kamera uygulaması ve diğer ücretli QR kod okuyucu uygulamalarından farklıdır. Ek olarak, Clean Links yönlendirmeleri takip ederken tam teşekküllü bir web tarayıcısına kıyasla çok küçük bir saldırı yüzeyine sahip olan daha alt seviye (NSURLRequest) API'lerini kullanır. Bu sayede Clean Links, web tarayıcılarını hedef alan çoğu sıfır gün açığına karşı bağışıktır. İkinci olarak, uygulama kendi korumalı alanı içinde çalışır ve bu da ek bir güvenlik katmanı sağlar."
-    },
-    "historyStorage": {
-      "question": "Clean Links geçmişimi veya kontrol ettiğim QR kodlarını saklıyor mu?",
-      "answer": "Hayır. Clean Links, tasarımı gereği temizlediğiniz veya kontrol ettiğiniz bağlantıları kaydetmez ya da saklamaz."
-    },
-    "cleanWorkflow": {
-      "question": "Kopyaladığım bir bağlantıyı nasıl temizlerim?",
-      "answer": "Panonuzdaki URL'yi alan, temizleyen ve temizlenmiş bağlantıyı panonuza geri kopyalayan bir Apple Kestirmesi oluşturabilirsiniz. Örneğin, bu <shortcut>tek dokunuşluk kestirmeyi</shortcut> indirin. Daha da hızlı erişim için bu kestirmeyi iPhone'unuzun Eylem düğmesine (iPhone 15 Pro ve daha yeni modeller) atayın; bu sayede herhangi bir yerden tek bir basışla panodaki bağlantıyı temizleyebilirsiniz. Clean Links'i iPhone, iPad ve Mac'te Denetim Merkezinize ekleyebilirsiniz: iki eylem arasından seçim yapın-\"Uygulamayı Aç\" veya \"QR Okuyucu.\" Bunlara doğrudan Denetim Merkezi'nden veya Kilitli Ekran'dan erişin ya da herhangi bir yerden tek dokunuşla temizleme için Eylem düğmesine atayın. Ayrıca Clean Links uygulamasını manuel olarak açıp URL'nizi temizlemek için yapıştırabilirsiniz."
-    },
-    "qrScanning": {
-      "question": "Bir QR kodunu nasıl kontrol ederim?",
-      "answer": "iPhone, iPad veya Mac'te Ana Ekranınızdan, Kestirme'den veya Eylem düğmesinden Clean Links'i başlatın ve kameranızı koda doğrultun. Açmayı seçmeden önce gerçek hedef URL'yi göreceksiniz. Clean Links, tüm yönlendirmeleri takip eder ve nihai hedeften izleme parametrelerini kaldırır, böylece kısa bağlantı veya yönlendirme servislerinin arkasına gizlenmiş oltalama bağlantılarını önler."
-    },
-    "urlExpansion": {
-      "question": "Kısaltılmış URL'leri genişletip önizleyebilir miyim?",
-      "answer": "Kesinlikle. Herhangi bir bit.ly, TinyURL, t.co veya diğer kısa bağlantıları Clean Links'e yapıştırın veya paylaşın. Tüm yönlendirme zincirlerini çözer ve dokunmadan önce size nihai URL'yi gösterir."
-    },
-    "qrGeneration": {
-      "question": "Temizlenmiş bir bağlantıdan gizlilik açısından güvenli bir QR kodu oluşturabilir miyim?",
-      "answer": "Evet. Bir URL'yi temizledikten sonra, tamamen izleme parametrelerinden arındırılmış yeni bir kod oluşturmak için \"QR Oluştur\"a dokunun. Bu, özellikle temizlenmiş bağlantıyı arkadaşlarınızla paylaşmak istediğinizde kullanışlıdır: tek dokunuşla QR kodunuzu kontrol edebilir ve aynı, izleyicisiz URL'yi açabilirler. Ayrıca, Android kullanan arkadaşlarınızla içerik paylaşmaya çalışırken de işe yarar. Hani şu malum uygulama tarafından gözetlenmeden... Adı neydi o uygulamanın? Bu, sizin ve arkadaşlarınızın, paylaştığınız içerikle ilgili reklam bombardımanına tutulmasını önümüzdeki bir iki hafta boyunca engellemenize yardımcı olur."
-    },
-    "systemIntegration": {
-      "question": "Clean Links, Safari, Mail ve diğer uygulamaların içinde çalışır mı?",
-      "answer": "Evet. Clean Links'in iPhone, iPad ve Mac'teki sistem genelinde çalışan Paylaşım Sayfası eklentisi, Safari, Mail, X (Twitter), Youtube, LinkedIn veya yerel Paylaşım Sayfalarını kullanan diğer herhangi bir uygulama içinde kullanılabilir."
-    },
-    "shortcutsAutomation": {
-      "question": "Bağlantı temizlemeyi Kestirmeler veya Siri ile otomatikleştirebilir miyim?",
-      "answer": "Clean Links, Apple Kestirmeler ve Siri ile uyumlu eylemler sunar. Bu sayede panonuzdan veya dilediğiniz bir yerden bağlantıları temizleyen kestirmeler oluşturabilirsiniz. Örneğin, bu <shortcut>\"Clean Links\" kestirmesini</shortcut> kullanarak panonuzdaki bağlantıyı alabilir, temizleyebilir ve temizlenmiş URL'yi tekrar panoya yapıştırabilirsiniz."
-    },
-    "manualCleaning": {
-      "question": "Bu uygulamaya neden ihtiyacım var ve bağlantıları neden elle temizleyemiyorum?",
-      "answer": "Çoğu izleme parametresi artık t.co, l.facebook.com, l.instagram.com ve lnkd.in gibi yönlendirmelerin arkasında gizlidir - bu parametreleri tıklayana kadar göremezsiniz. Clean Links bunu sizin için otomatik olarak halleder, sizi zahmetli manuel işlerden kurtarır ve gizli izleyicilerden korur."
-    },
-    "localProcessing": {
-      "question": "Uygulama gerçekten yerel olarak mı çalışıyor? URL'ye ağ istekleri yaptığını görüyorum.",
-      "answer": "Evet, Clean Links her şeyi gerçekten yerel olarak işler. Clean Links, izleme parametreleri ve yönlendirme bağlantıları içeren çoğu bağlantıyı herhangi bir ağ isteği yapmadan, tamamen çevrimdışı olarak temizleyebilir. URL kısaltıcılardan ve belirli reklam ağlarından gelen bağlantılar için yönlendirme URL'si yalnızca URL'den hesaplanamaz. Bu gibi durumlarda Clean Links, yönlendirmelerin arkasına gizlenmiş izleme parametrelerini çözümlemek için doğrudan cihazınızdan ağ istekleri yapar - bu teknik olarak gereklidir çünkü birçok izleyici yalnızca yönlendirme zinciri takip edildikten sonra ortaya çıkar. Ancak bu sürece hiçbir üçüncü taraf API'si (kendi sunucularımız bile) dahil olmaz. Her istek tamamen temiz bir başlangıç yapar: istekler arasında çerezler saklanmaz, tarama geçmişi tutulmaz ve rastgele kullanıcı aracıları ile korumalı alan oturumları kullanırız. Ayrıca, her yönlendirmeyi takip etmeden önce ve sonra izleme parametrelerini kaldırırız. URL kısaltıcılar çoğunlukla URL'lerdeki izleme parametrelerini gizlemek için kullanılır ve Clean Links'in bu özelliği, bağlantıların parçalarını manuel olarak kopyalayıp yapıştırarak veya yönlendirmeleri takip etmeyen \"Link Cleaner\" gibi web uygulamalarıyla giderilemeyen bu açığı kapatır. En önemlisi, hangi bağlantıları temizlediğinizi asla kaydetmez veya izlemeyiz. Hiçbir zaman. Bağlantı temizleme etkinliğiniz cihazınızda tamamen gizli kalır. Ek gizlilik koruması için, Clean Links yönlendirmeleri çözümlemek amacıyla bu gerekli ağ isteklerini yaptığında IP adresinizi maskelemek için iCloud Private Relay veya bir VPN kullanmanızı öneririz."
-    },
-    "safariAtfp": {
-      "question": "Clean Links'in iOS 26'daki Safari'nin Gelişmiş Takip ve Parmak İzi Koruması'ndan farkı nedir?",
-      "answer": "iOS 26'daki Safari'nin Gelişmiş Takip ve Parmak İzi Koruması (ATFP), Safari'de gezinirken takibi azaltmak için mükemmeldir, ancak sınırlamaları vardır. ATFP yalnızca Safari'de çalışır; uygulama içi tarayıcılarda (Instagram veya TikTok web görünümleri gibi) veya diğer tarayıcılarda çalışmaz. Ayrıca kısa bağlantıları önizlemez veya yönlendirme zincirlerinin sonunda görünen izleyicileri temizlemez. Clean Links, tüm uygulamalarda sistem genelinde çalışarak, her yönlendirme adımını takip ederek ve açmadan önce size nihai URL'yi göstererek ATFP'yi tamamlar. Bağlantı paylaştığınızda, Clean Links platform sarmalayıcılarını (t.co veya l.instagram.com gibi) kaldırır, böylece alıcılarınız Safari kullanıp kullanmadıklarına veya ATFP'yi etkinleştirip etkinleştirmediklerine bakılmaksızın gerçekten temiz URL'ler alırlar. İkisini birlikte kullanın: Tarayıcıda otomatik koruma için Safari'de ATFP'yi açık tutun ve kısaltıcıları, yönlendirmeleri ve uygulamalar arası senaryoları yönetmek için bağlantıları açmadan veya paylaşmadan önce Clean Links'i kullanın. Daha fazla bilgi edinmek için <link>ayrıntılı karşılaştırmamızı okuyun</link>."
-    },
-    "vsOtherCleaners": {
-      "question": "Clean Links'in Firefox, Brave veya Link Cleaner gibi diğer URL temizleyicilerden farkı nedir?",
-      "answer": "Çoğu URL temizleyici (Firefox, Brave ve Link Cleaner gibi web tabanlı araçlar dahil), sağladığınız URL'deki görünür izleme parametrelerini kırpmaya odaklanır. Yönlendirme zincirlerini takip etmezler, bu nedenle kısa bağlantıların (bit.ly, t.co, lnkd.in) veya sosyal medya sarmalayıcılarının (l.facebook.com, l.instagram.com) arkasına gizlenmiş izleyiciler gözden kaçar. Hatta Firefox, belirli büyük teknoloji şirketlerinin izleyicilerine izin veren bir izin listesi bulundurur. Clean Links ise farklıdır: her yönlendirme adımını takip eder, kısa bağlantıları genişletir ve her adımda izleyicileri kaldırarak açmadan önce nihai hedefi ortaya çıkarır. Clean Links ayrıca URL'leri güvenli bir şekilde önizleyen yerleşik bir QR kod okuyucu içerir, sıfır analizle %100 cihaz üzerinde çalışır (Link Cleaner'ın anonim kullanım istatistiklerinin aksine) ve iOS Paylaşım Menüleri, Kestirmeler, Siri ve Mac pano izleme ile yerel olarak entegre olur. Gizli izleyicileri yakalayan ve tüm Apple cihazlarınızda çalışan kapsamlı bir koruma istiyorsanız, Clean Links bunun için tasarlanmıştır. Daha fazla ayrıntı için <link>Link Cleaner ile tam karşılaştırmaya bakın</link>."
-    },
-    "sendToMac": {
-      "question": "iPhone'umdan Mac'ime nasıl bağlantı gönderirim?",
-      "answer": "Clean Links, paylaşım menüsünü kullanarak iPhone'dan Mac'e bağlantı paylaşmanızı sağlar. iOS cihazınızda ve Mac'inizde Clean Links yüklü, iCloud etkinleştirilmiş ve aynı Apple hesabıyla oturum açılmış olmalıdır. Bağlantılar iCloud senkronizasyonu ile gönderilir, bu nedenle Mac'iniz çevrimdışı veya farklı bir ağdayken bile çalışır; Mac'iniz internete bağlandığında bağlantı otomatik olarak görünür. Bu, AirDrop'tan daha hızlı, Safari sekmelerinden daha güvenilir ve Mac'inizdeki herhangi bir tarayıcıyla çalışır. Daha fazla bilgi edinmek için <link>iPhone'dan Mac'e bağlantı gönderme hakkındaki ayrıntılı rehberimizi okuyun</link>."
-    },
-    "sendToMacVsAirdrop": {
-      "question": "Mac'e Gönder, AirDrop'tan neden daha iyi?",
-      "answer": "Mac'iniz uyku modunda veya kapsama alanı dışında olsa bile çalışır, bağlantıları arka planda sessizce açar ve her zaman güvenilir bir şekilde iletir. Bağlantı sorunu veya bekleme yok."
-    },
-    "sendToMacVsIcloudTabs": {
-      "question": "Mac'e Gönder neden <icloudTabsLink>iCloud Tabs</icloudTabsLink>'den daha iyi?",
-      "answer": "Sadece Safari'de değil, paylaşım menüsü olan her uygulamadan çalışır. Bağlantılar tarayıcı sekmeleri olarak otomatik açılır-gözünüzden kaçmaz. Uzun senkronize sekme listelerinde arama yapmak yok ve Mac'inizdeki tüm tarayıcıları destekler."
-    },
-    "sendToMacMultipleMacs": {
-      "question": "Birden fazla Mac'e bağlantı gönderebilir miyim?",
-      "answer": "Evet. macOS için Clean Links yüklü olan ve aynı Apple hesabıyla oturum açılmış tüm Mac'lerinize bağlantı gönderebilirsiniz. Belirli bir Mac'i hariç tutmak isterseniz, macOS uygulamasının ayarlarından bağlantı almayı devre dışı bırakabilirsiniz."
-    },
-    "sendToMacShortcuts": {
-      "question": "Mac'e Gönder'i Kestirmeler ile kullanabilir miyim?",
-      "answer": "Evet. Temel paylaşım işlevi bir App Intent olarak mevcuttur, bu da cihazlar arası kestirmeler ve otomasyonlar oluşturmayı kolaylaştırır."
-    },
-    "sendToMacVsSafariTabGroups": {
-      "question": "Mac'e Gönder neden Safari Sekme Grupları'ndan daha iyi?",
-      "answer": "Sadece Safari'de değil, her uygulamadan çalışır. iOS cihazınızda sekmeleri açık tutmanızı gerektirmeden Mac'inizdeki tüm tarayıcıları destekler."
-    },
-    "sendToMacVsSafariReadingList": {
-      "question": "Mac'e Gönder neden Safari Okuma Listesi'nden daha iyi?",
-      "answer": "Bağlantılar tarayıcınızda otomatik olarak açılır-gözünüzden kaçmaz. Birikmiş listelerde arama yapmak yok ve tüm tarayıcıları destekler."
-    },
-    "sendToMacVsHandoff": {
-      "question": "Mac'e Gönder neden <handoffLink>Handoff</handoffLink>'tan daha iyi?",
-      "answer": "Clean Links, cihazlar yakındayken Handoff desteği içerir, ancak Mac'iniz uyku modunda veya kapsama alanı dışında olduğunda da çalışır. Paylaşım menüsü olan her uygulamayı ve tüm tarayıcıları destekler, bağlantıları arka planda otomatik olarak açar ve her zaman güvenilir bir şekilde çalışır."
-    },
-    "sendToMacVsUniversalClipboard": {
-      "question": "Mac'e Gönder neden <universalClipboardLink>Evrensel Pano</universalClipboardLink>'dan daha iyi?",
-      "answer": "Bağlantılar otomatik olarak açılır-manuel yapıştırma gerekmez. Mac'iniz uyku modunda veya kapsama alanı dışında olsa bile çalışır ve anında iletir."
-    },
-    "sendToMacVsImessage": {
-      "question": "Mac'e Gönder neden iMessage'dan daha iyi?",
-      "answer": "Bağlantılar, mesajları kontrol etmeden tarayıcınızda otomatik olarak açılır. Arka planda sessizce açılır, böylece yaptığınız işe devam edebilirsiniz."
-    },
-    "sendToMacVsEmail": {
-      "question": "Mac'e Gönder neden e-postadan daha iyi?",
-      "answer": "Bağlantılar gelen kutunuzu kontrol etmeden otomatik olarak açılır. Arka planda sessizce açılır ve gelen kutunuzu temiz tutar."
-    },
-    "sendToMacVsPushbullet": {
-      "question": "Mac'e Gönder neden <pushbulletLink>Pushbullet</pushbulletLink>'ten daha iyi?",
-      "answer": "Herhangi bir paylaşım menüsünden çalışan yerel iOS ve macOS uygulamaları. Ek hesap gerekmez-sadece yükleyin ve kullanın."
-    },
-    "sendToMacVsFirefoxSendTabs": {
-      "question": "Mac'e Gönder neden Firefox <firefoxSendTabsLink>Sekme Gönder</firefoxSendTabsLink>'den daha iyi?",
-      "answer": "Sadece Firefox'tan değil, her uygulamadan çalışır. Mac'inizdeki tüm tarayıcıları daha az dokunuşla destekler."
-    },
-    "sendToMacVsFirefoxTabSync": {
-      "question": "Mac'e Gönder neden Firefox sekme senkronizasyonundan daha iyi?",
-      "answer": "Sadece Firefox'ta değil, paylaşım menüsü olan her uygulamadan çalışır. iOS cihazınızda sekmeleri açık tutmanızı gerektirmeden Mac'inizdeki tüm tarayıcıları destekler."
-    },
-    "sendToMacVsHyperduck": {
-      "question": "Mac'e Gönder neden <hyperduckLink>HyperDuck</hyperduckLink>'ten daha iyi?",
-      "answer": "37 dil desteğiyle tamamen ücretsiz. Birden fazla Mac'i otomatik olarak destekler, Mac'ten Mac'e paylaşım içerir ve sadece paylaşmanın ötesinde tam bağlantı temizleme ve karmaşıklığı giderme sağlar."
-    }
-  },
   "cta": {
     "title": "QR Kod Okuyucu ve Bağlantı Temizleyici - Gizliliğinizi Koruyun",
     "description": "Gerçek URL'yi anında ortaya çıkarın, gizli izleyicileri silin ve paylaşıma hazır QR kodları oluşturun - hepsi %100 cihazda, %100 ücretsiz.",
@@ -342,5 +214,149 @@
   },
   "appRating": {
     "text": "{rating} ({count, plural, =0 {yorum yok} =1 {# yorum} other {# yorum}})"
+  },
+  "faqPage": {
+    "metadata": {
+      "title": "SSS",
+      "description": "Clean Links hakkında net yanıtlar alın - izleme parametrelerini nasıl temizlediğimizi, QR kod ile oltalamayı nasıl engellediğimizi ve her şeyi %100 cihazda tuttuğumuzu öğrenin."
+    },
+    "heading": {
+      "title": "SSS",
+      "description": "Clean Links hakkında sıkça sorulan sorular"
+    },
+    "items": {
+      "whatIs": {
+        "question": "Clean Links nedir?",
+        "answer": "Clean Links, iPhone, iPad ve Mac için URL'lerden izleme parametrelerini temizleyen ve QR kodları ile kısaltılmış bağlantıların ardındaki gerçek hedefi gösteren ücretsiz bir araçtır. Bu sayede, gizli izleyiciler veya yönlendirmeler olmadan sadece istediğiniz bağlantıları açarsınız."
+      },
+      "deviceRequirements": {
+        "question": "Clean Links hangi cihazları ve iOS sürümlerini destekliyor?",
+        "answer": "Clean Links, iOS 18.0 veya üzerini (iPhone/iPad) ya da macOS Sequoia veya üzerini çalıştırabilen iPhone, iPad ve Mac cihazlarını destekler."
+      },
+      "whyCreate": {
+        "question": "Clean Links'i neden oluşturduk?",
+        "answer": "Başlangıçta \"quishing\" tuzağına düşmemek ve izleyicilerle dolu bağlantılardan kendimizi korumak için kendimiz için geliştirdik. Daha sonra, kimlik avı ve QR kod dolandırıcılığının dünyanın dört bir yanındaki, çoğu teknik altyapıya sahip birçok iyi insanı etkilediğini öğrendik. Bu yüzden, herkes için yayınlamaya karar verdik ve tamamen ücretsiz yaptık."
+      },
+      "privacyProtection": {
+        "question": "Clean Links gizliliğimi nasıl korur?",
+        "answer": "Tüm işlemler cihazınızda gerçekleşir - hiçbir çerez, tanımlayıcı veya analiz verisi telefonunuzdan ayrılmaz. Clean Links, bir bağlantıyı yüklemeden önce bilinen izleme parametrelerini (UTM etiketleri, satış ortağı kimlikleri, reklam teknolojisi jetonları) basitçe kaldırır. Kısaltılmış bağlantılar için, istekleri herhangi bir çerez, oturum vb. olmadan yalıtılmış bir bağlamda yaparız. Bu, URL kısaltıcıların, reklamverenlerin ve veri komisyoncularının kullanıcıları izlemek için kullandığı çerezler aracılığıyla takibi engeller."
+      },
+      "phishingProtection": {
+        "question": "Clean Links, kimlik avı (\"quishing\") girişimlerini engelleyebilir mi?",
+        "answer": "Evet. Bir QR kodu okuttuğunuzda, Clean Links size tam, maskelenmemiş URL'yi gösterir. Bağlantıyı açıp açmamaya siz karar verirsiniz. Bu, QR kodun yönlendirdiği bağlantıyı sizin rızanız olmadan doğrudan açan iOS kamera uygulaması ve diğer ücretli QR kod okuyucu uygulamalarından farklıdır. Ek olarak, Clean Links yönlendirmeleri takip ederken tam teşekküllü bir web tarayıcısına kıyasla çok küçük bir saldırı yüzeyine sahip olan daha alt seviye (NSURLRequest) API'lerini kullanır. Bu sayede Clean Links, web tarayıcılarını hedef alan çoğu sıfır gün açığına karşı bağışıktır. İkinci olarak, uygulama kendi korumalı alanı içinde çalışır ve bu da ek bir güvenlik katmanı sağlar."
+      },
+      "historyStorage": {
+        "question": "Clean Links geçmişimi veya kontrol ettiğim QR kodlarını saklıyor mu?",
+        "answer": "Hayır. Clean Links, tasarımı gereği temizlediğiniz veya kontrol ettiğiniz bağlantıları kaydetmez ya da saklamaz."
+      },
+      "cleanWorkflow": {
+        "question": "Kopyaladığım bir bağlantıyı nasıl temizlerim?",
+        "answer": "Panonuzdaki URL'yi alan, temizleyen ve temizlenmiş bağlantıyı panonuza geri kopyalayan bir Apple Kestirmesi oluşturabilirsiniz. Örneğin, bu <shortcut>tek dokunuşluk kestirmeyi</shortcut> indirin. Daha da hızlı erişim için bu kestirmeyi iPhone'unuzun Eylem düğmesine (iPhone 15 Pro ve daha yeni modeller) atayın; bu sayede herhangi bir yerden tek bir basışla panodaki bağlantıyı temizleyebilirsiniz. Clean Links'i iPhone, iPad ve Mac'te Denetim Merkezinize ekleyebilirsiniz: iki eylem arasından seçim yapın-\"Uygulamayı Aç\" veya \"QR Okuyucu.\" Bunlara doğrudan Denetim Merkezi'nden veya Kilitli Ekran'dan erişin ya da herhangi bir yerden tek dokunuşla temizleme için Eylem düğmesine atayın. Ayrıca Clean Links uygulamasını manuel olarak açıp URL'nizi temizlemek için yapıştırabilirsiniz."
+      },
+      "qrScanning": {
+        "question": "Bir QR kodunu nasıl kontrol ederim?",
+        "answer": "iPhone, iPad veya Mac'te Ana Ekranınızdan, Kestirme'den veya Eylem düğmesinden Clean Links'i başlatın ve kameranızı koda doğrultun. Açmayı seçmeden önce gerçek hedef URL'yi göreceksiniz. Clean Links, tüm yönlendirmeleri takip eder ve nihai hedeften izleme parametrelerini kaldırır, böylece kısa bağlantı veya yönlendirme servislerinin arkasına gizlenmiş oltalama bağlantılarını önler."
+      },
+      "urlExpansion": {
+        "question": "Kısaltılmış URL'leri genişletip önizleyebilir miyim?",
+        "answer": "Kesinlikle. Herhangi bir bit.ly, TinyURL, t.co veya diğer kısa bağlantıları Clean Links'e yapıştırın veya paylaşın. Tüm yönlendirme zincirlerini çözer ve dokunmadan önce size nihai URL'yi gösterir."
+      },
+      "qrGeneration": {
+        "question": "Temizlenmiş bir bağlantıdan gizlilik açısından güvenli bir QR kodu oluşturabilir miyim?",
+        "answer": "Evet. Bir URL'yi temizledikten sonra, tamamen izleme parametrelerinden arındırılmış yeni bir kod oluşturmak için \"QR Oluştur\"a dokunun. Bu, özellikle temizlenmiş bağlantıyı arkadaşlarınızla paylaşmak istediğinizde kullanışlıdır: tek dokunuşla QR kodunuzu kontrol edebilir ve aynı, izleyicisiz URL'yi açabilirler. Ayrıca, Android kullanan arkadaşlarınızla içerik paylaşmaya çalışırken de işe yarar. Hani şu malum uygulama tarafından gözetlenmeden... Adı neydi o uygulamanın? Bu, sizin ve arkadaşlarınızın, paylaştığınız içerikle ilgili reklam bombardımanına tutulmasını önümüzdeki bir iki hafta boyunca engellemenize yardımcı olur."
+      },
+      "systemIntegration": {
+        "question": "Clean Links, Safari, Mail ve diğer uygulamaların içinde çalışır mı?",
+        "answer": "Evet. Clean Links'in iPhone, iPad ve Mac'teki sistem genelinde çalışan Paylaşım Sayfası eklentisi, Safari, Mail, X (Twitter), Youtube, LinkedIn veya yerel Paylaşım Sayfalarını kullanan diğer herhangi bir uygulama içinde kullanılabilir."
+      },
+      "shortcutsAutomation": {
+        "question": "Bağlantı temizlemeyi Kestirmeler veya Siri ile otomatikleştirebilir miyim?",
+        "answer": "Clean Links, Apple Kestirmeler ve Siri ile uyumlu eylemler sunar. Bu sayede panonuzdan veya dilediğiniz bir yerden bağlantıları temizleyen kestirmeler oluşturabilirsiniz. Örneğin, bu <shortcut>\"Clean Links\" kestirmesini</shortcut> kullanarak panonuzdaki bağlantıyı alabilir, temizleyebilir ve temizlenmiş URL'yi tekrar panoya yapıştırabilirsiniz."
+      },
+      "manualCleaning": {
+        "question": "Bu uygulamaya neden ihtiyacım var ve bağlantıları neden elle temizleyemiyorum?",
+        "answer": "Çoğu izleme parametresi artık t.co, l.facebook.com, l.instagram.com ve lnkd.in gibi yönlendirmelerin arkasında gizlidir - bu parametreleri tıklayana kadar göremezsiniz. Clean Links bunu sizin için otomatik olarak halleder, sizi zahmetli manuel işlerden kurtarır ve gizli izleyicilerden korur."
+      },
+      "localProcessing": {
+        "question": "Uygulama gerçekten yerel olarak mı çalışıyor? URL'ye ağ istekleri yaptığını görüyorum.",
+        "answer": "Evet, Clean Links her şeyi gerçekten yerel olarak işler. Clean Links, izleme parametreleri ve yönlendirme bağlantıları içeren çoğu bağlantıyı herhangi bir ağ isteği yapmadan, tamamen çevrimdışı olarak temizleyebilir. URL kısaltıcılardan ve belirli reklam ağlarından gelen bağlantılar için yönlendirme URL'si yalnızca URL'den hesaplanamaz. Bu gibi durumlarda Clean Links, yönlendirmelerin arkasına gizlenmiş izleme parametrelerini çözümlemek için doğrudan cihazınızdan ağ istekleri yapar - bu teknik olarak gereklidir çünkü birçok izleyici yalnızca yönlendirme zinciri takip edildikten sonra ortaya çıkar. Ancak bu sürece hiçbir üçüncü taraf API'si (kendi sunucularımız bile) dahil olmaz. Her istek tamamen temiz bir başlangıç yapar: istekler arasında çerezler saklanmaz, tarama geçmişi tutulmaz ve rastgele kullanıcı aracıları ile korumalı alan oturumları kullanırız. Ayrıca, her yönlendirmeyi takip etmeden önce ve sonra izleme parametrelerini kaldırırız. URL kısaltıcılar çoğunlukla URL'lerdeki izleme parametrelerini gizlemek için kullanılır ve Clean Links'in bu özelliği, bağlantıların parçalarını manuel olarak kopyalayıp yapıştırarak veya yönlendirmeleri takip etmeyen \"Link Cleaner\" gibi web uygulamalarıyla giderilemeyen bu açığı kapatır. En önemlisi, hangi bağlantıları temizlediğinizi asla kaydetmez veya izlemeyiz. Hiçbir zaman. Bağlantı temizleme etkinliğiniz cihazınızda tamamen gizli kalır. Ek gizlilik koruması için, Clean Links yönlendirmeleri çözümlemek amacıyla bu gerekli ağ isteklerini yaptığında IP adresinizi maskelemek için iCloud Private Relay veya bir VPN kullanmanızı öneririz."
+      },
+      "safariAtfp": {
+        "question": "Clean Links'in iOS 26'daki Safari'nin Gelişmiş Takip ve Parmak İzi Koruması'ndan farkı nedir?",
+        "answer": "iOS 26'daki Safari'nin Gelişmiş Takip ve Parmak İzi Koruması (ATFP), Safari'de gezinirken takibi azaltmak için mükemmeldir, ancak sınırlamaları vardır. ATFP yalnızca Safari'de çalışır; uygulama içi tarayıcılarda (Instagram veya TikTok web görünümleri gibi) veya diğer tarayıcılarda çalışmaz. Ayrıca kısa bağlantıları önizlemez veya yönlendirme zincirlerinin sonunda görünen izleyicileri temizlemez. Clean Links, tüm uygulamalarda sistem genelinde çalışarak, her yönlendirme adımını takip ederek ve açmadan önce size nihai URL'yi göstererek ATFP'yi tamamlar. Bağlantı paylaştığınızda, Clean Links platform sarmalayıcılarını (t.co veya l.instagram.com gibi) kaldırır, böylece alıcılarınız Safari kullanıp kullanmadıklarına veya ATFP'yi etkinleştirip etkinleştirmediklerine bakılmaksızın gerçekten temiz URL'ler alırlar. İkisini birlikte kullanın: Tarayıcıda otomatik koruma için Safari'de ATFP'yi açık tutun ve kısaltıcıları, yönlendirmeleri ve uygulamalar arası senaryoları yönetmek için bağlantıları açmadan veya paylaşmadan önce Clean Links'i kullanın. Daha fazla bilgi edinmek için <link>ayrıntılı karşılaştırmamızı okuyun</link>."
+      },
+      "vsOtherCleaners": {
+        "question": "Clean Links'in Firefox, Brave veya Link Cleaner gibi diğer URL temizleyicilerden farkı nedir?",
+        "answer": "Çoğu URL temizleyici (Firefox, Brave ve Link Cleaner gibi web tabanlı araçlar dahil), sağladığınız URL'deki görünür izleme parametrelerini kırpmaya odaklanır. Yönlendirme zincirlerini takip etmezler, bu nedenle kısa bağlantıların (bit.ly, t.co, lnkd.in) veya sosyal medya sarmalayıcılarının (l.facebook.com, l.instagram.com) arkasına gizlenmiş izleyiciler gözden kaçar. Hatta Firefox, belirli büyük teknoloji şirketlerinin izleyicilerine izin veren bir izin listesi bulundurur. Clean Links ise farklıdır: her yönlendirme adımını takip eder, kısa bağlantıları genişletir ve her adımda izleyicileri kaldırarak açmadan önce nihai hedefi ortaya çıkarır. Clean Links ayrıca URL'leri güvenli bir şekilde önizleyen yerleşik bir QR kod okuyucu içerir, sıfır analizle %100 cihaz üzerinde çalışır (Link Cleaner'ın anonim kullanım istatistiklerinin aksine) ve iOS Paylaşım Menüleri, Kestirmeler, Siri ve Mac pano izleme ile yerel olarak entegre olur. Gizli izleyicileri yakalayan ve tüm Apple cihazlarınızda çalışan kapsamlı bir koruma istiyorsanız, Clean Links bunun için tasarlanmıştır. Daha fazla ayrıntı için <link>Link Cleaner ile tam karşılaştırmaya bakın</link>."
+      },
+      "sendToMac": {
+        "question": "iPhone'umdan Mac'ime nasıl bağlantı gönderirim?",
+        "answer": "Clean Links, paylaşım menüsünü kullanarak iPhone'dan Mac'e bağlantı paylaşmanızı sağlar. iOS cihazınızda ve Mac'inizde Clean Links yüklü, iCloud etkinleştirilmiş ve aynı Apple hesabıyla oturum açılmış olmalıdır. Bağlantılar iCloud senkronizasyonu ile gönderilir, bu nedenle Mac'iniz çevrimdışı veya farklı bir ağdayken bile çalışır; Mac'iniz internete bağlandığında bağlantı otomatik olarak görünür. Bu, AirDrop'tan daha hızlı, Safari sekmelerinden daha güvenilir ve Mac'inizdeki herhangi bir tarayıcıyla çalışır. Daha fazla bilgi edinmek için <link>iPhone'dan Mac'e bağlantı gönderme hakkındaki ayrıntılı rehberimizi okuyun</link>."
+      },
+      "sendToMacVsAirdrop": {
+        "question": "Mac'e Gönder, AirDrop'tan neden daha iyi?",
+        "answer": "Mac'iniz uyku modunda veya kapsama alanı dışında olsa bile çalışır, bağlantıları arka planda sessizce açar ve her zaman güvenilir bir şekilde iletir. Bağlantı sorunu veya bekleme yok."
+      },
+      "sendToMacVsIcloudTabs": {
+        "question": "Mac'e Gönder neden <icloudTabsLink>iCloud Tabs</icloudTabsLink>'den daha iyi?",
+        "answer": "Sadece Safari'de değil, paylaşım menüsü olan her uygulamadan çalışır. Bağlantılar tarayıcı sekmeleri olarak otomatik açılır-gözünüzden kaçmaz. Uzun senkronize sekme listelerinde arama yapmak yok ve Mac'inizdeki tüm tarayıcıları destekler."
+      },
+      "sendToMacMultipleMacs": {
+        "question": "Birden fazla Mac'e bağlantı gönderebilir miyim?",
+        "answer": "Evet. macOS için Clean Links yüklü olan ve aynı Apple hesabıyla oturum açılmış tüm Mac'lerinize bağlantı gönderebilirsiniz. Belirli bir Mac'i hariç tutmak isterseniz, macOS uygulamasının ayarlarından bağlantı almayı devre dışı bırakabilirsiniz."
+      },
+      "sendToMacShortcuts": {
+        "question": "Mac'e Gönder'i Kestirmeler ile kullanabilir miyim?",
+        "answer": "Evet. Temel paylaşım işlevi bir App Intent olarak mevcuttur, bu da cihazlar arası kestirmeler ve otomasyonlar oluşturmayı kolaylaştırır."
+      },
+      "sendToMacVsSafariTabGroups": {
+        "question": "Mac'e Gönder neden Safari Sekme Grupları'ndan daha iyi?",
+        "answer": "Sadece Safari'de değil, her uygulamadan çalışır. iOS cihazınızda sekmeleri açık tutmanızı gerektirmeden Mac'inizdeki tüm tarayıcıları destekler."
+      },
+      "sendToMacVsSafariReadingList": {
+        "question": "Mac'e Gönder neden Safari Okuma Listesi'nden daha iyi?",
+        "answer": "Bağlantılar tarayıcınızda otomatik olarak açılır-gözünüzden kaçmaz. Birikmiş listelerde arama yapmak yok ve tüm tarayıcıları destekler."
+      },
+      "sendToMacVsHandoff": {
+        "question": "Mac'e Gönder neden <handoffLink>Handoff</handoffLink>'tan daha iyi?",
+        "answer": "Clean Links, cihazlar yakındayken Handoff desteği içerir, ancak Mac'iniz uyku modunda veya kapsama alanı dışında olduğunda da çalışır. Paylaşım menüsü olan her uygulamayı ve tüm tarayıcıları destekler, bağlantıları arka planda otomatik olarak açar ve her zaman güvenilir bir şekilde çalışır."
+      },
+      "sendToMacVsUniversalClipboard": {
+        "question": "Mac'e Gönder neden <universalClipboardLink>Evrensel Pano</universalClipboardLink>'dan daha iyi?",
+        "answer": "Bağlantılar otomatik olarak açılır-manuel yapıştırma gerekmez. Mac'iniz uyku modunda veya kapsama alanı dışında olsa bile çalışır ve anında iletir."
+      },
+      "sendToMacVsImessage": {
+        "question": "Mac'e Gönder neden iMessage'dan daha iyi?",
+        "answer": "Bağlantılar, mesajları kontrol etmeden tarayıcınızda otomatik olarak açılır. Arka planda sessizce açılır, böylece yaptığınız işe devam edebilirsiniz."
+      },
+      "sendToMacVsEmail": {
+        "question": "Mac'e Gönder neden e-postadan daha iyi?",
+        "answer": "Bağlantılar gelen kutunuzu kontrol etmeden otomatik olarak açılır. Arka planda sessizce açılır ve gelen kutunuzu temiz tutar."
+      },
+      "sendToMacVsPushbullet": {
+        "question": "Mac'e Gönder neden <pushbulletLink>Pushbullet</pushbulletLink>'ten daha iyi?",
+        "answer": "Herhangi bir paylaşım menüsünden çalışan yerel iOS ve macOS uygulamaları. Ek hesap gerekmez-sadece yükleyin ve kullanın."
+      },
+      "sendToMacVsFirefoxSendTabs": {
+        "question": "Mac'e Gönder neden Firefox <firefoxSendTabsLink>Sekme Gönder</firefoxSendTabsLink>'den daha iyi?",
+        "answer": "Sadece Firefox'tan değil, her uygulamadan çalışır. Mac'inizdeki tüm tarayıcıları daha az dokunuşla destekler."
+      },
+      "sendToMacVsFirefoxTabSync": {
+        "question": "Mac'e Gönder neden Firefox sekme senkronizasyonundan daha iyi?",
+        "answer": "Sadece Firefox'ta değil, paylaşım menüsü olan her uygulamadan çalışır. iOS cihazınızda sekmeleri açık tutmanızı gerektirmeden Mac'inizdeki tüm tarayıcıları destekler."
+      },
+      "sendToMacVsHyperduck": {
+        "question": "Mac'e Gönder neden <hyperduckLink>HyperDuck</hyperduckLink>'ten daha iyi?",
+        "answer": "37 dil desteğiyle tamamen ücretsiz. Birden fazla Mac'i otomatik olarak destekler, Mac'ten Mac'e paylaşım içerir ve sadece paylaşmanın ötesinde tam bağlantı temizleme ve karmaşıklığı giderme sağlar."
+      }
+    },
+    "viewAll": "Tümünü Görüntüle",
+    "categories": {
+      "gettingStarted": "Başlarken",
+      "privacySecurity": "Gizlilik ve Güvenlik",
+      "features": "Özellikler ve Entegrasyonlar",
+      "sendToMac": "Mac'e Gönder",
+      "comparisons": "Karşılaştırmalar"
+    }
   }
 }

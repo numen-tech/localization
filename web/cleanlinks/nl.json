@@ -138,134 +138,6 @@
       "description": "Draai Clean Links in je Mac-menubalk met automatische klembordmonitoring. Elke URL die je kopieert, wordt onmiddellijk opgeschoond, uitgepakt en van trackers ontdaan - volledig op je apparaat voor totale privacy in je macOS-workflow, zonder handmatige acties."
     }
   },
-  "faq": {
-    "title": "FAQ",
-    "description": "Veelgestelde vragen over Clean Links",
-    "whatIs": {
-      "question": "Wat is Clean Links?",
-      "answer": "Clean Links is een gratis hulpprogramma voor iPhone, iPad en Mac dat trackingparameters uit URL's verwijdert en het ware doel achter QR-codes en verkorte links onthult - zodat je alleen opent wat je wilt, zonder verborgen trackers of redirects."
-    },
-    "deviceRequirements": {
-      "question": "Welke apparaten en iOS-versies ondersteunt Clean Links?",
-      "answer": "Clean Links ondersteunt iPhone-, iPad- en Mac-apparaten met iOS 18.0 of nieuwer (iPhone/iPad) of macOS Sequoia of nieuwer."
-    },
-    "whyCreate": {
-      "question": "Waarom hebben we Clean Links gemaakt?",
-      "answer": "We hebben het oorspronkelijk voor onszelf gebouwd om te voorkomen dat we 'gequisht' worden en om onszelf te beschermen tegen links vol met tracking. Later leerden we dat phishing en quishing veel goede mensen treffen, velen met een technische achtergrond, over de hele wereld. Daarom hebben we besloten het voor iedereen uit te brengen en het volledig gratis te maken."
-    },
-    "privacyProtection": {
-      "question": "Hoe beschermt Clean Links mijn privacy?",
-      "answer": "Alle verwerking gebeurt op uw apparaat - er verlaten nooit cookies, identificatoren of analysegegevens uw telefoon. Clean Links verwijdert simpelweg bekende trackingparameters (UTM-tags, affiliate-ID's, ad-tech tokens) voordat een link wordt geladen. Voor verkorte links doen we verzoeken in een geïsoleerde context, zonder cookies, sessies enz. Dit verslaat de tracking via cookies die URL-verkorters, adverteerders en datahandelaren gebruiken om gebruikers te volgen."
-    },
-    "phishingProtection": {
-      "question": "Kan Clean Links phishing- (\"quishing\") pogingen blokkeren?",
-      "answer": "Ja. Wanneer u een QR-code scant, toont Clean Links u de volledige, ongemaskeerde URL. U beslist zelf of u deze opent. Dit in tegenstelling tot de iOS-camera-app en andere betaalde QR-codescanner-apps, die de link waar de QR-code naar verwijst zomaar openen, zonder uw toestemming. Bovendien gebruikt Clean Links bij het volgen van omleidingen lower-level (NSURLRequest) API's die een zeer klein aanvalsoppervlak hebben in vergelijking met een volledige webbrowser. Hierdoor is Clean Links immuun voor de meeste zero-day-exploits die gericht zijn op webbrowsers. Ten tweede draait de app in zijn eigen sandbox, wat een extra beveiligingslaag toevoegt."
-    },
-    "historyStorage": {
-      "question": "Slaat Clean Links mijn geschiedenis of gescande QR-codes op?",
-      "answer": "Nee. Clean Links is zo ontworpen dat het geen links die je opschoont of scant, logt of opslaat."
-    },
-    "cleanWorkflow": {
-      "question": "Hoe schoon ik een gekopieerde link op?",
-      "answer": "Je kunt een Opdracht van Apple aanmaken die de URL van je klembord haalt, deze opschoont en de opgeschoonde link terugplaatst. Download bijvoorbeeld deze <shortcut>opdracht met één tik</shortcut>. Voor nog snellere toegang, wijs je die opdracht toe aan de actieknop van je iPhone (iPhone 15 Pro en nieuwer), zodat je met één druk op de knop overal de link op je klembord opschoont. Je kunt Clean Links toevoegen aan je bedieningspaneel op iPhone, iPad en Mac: kies uit twee acties-\"Open app\" of \"QR-lezer.\" Open deze rechtstreeks vanuit het bedieningspaneel of het toegangsscherm, of wijs ze toe aan de actieknop om overal met één tik op te schonen. Je kunt de Clean Links-app ook handmatig openen en je URL plakken om deze op te schonen."
-    },
-    "qrScanning": {
-      "question": "Hoe scan ik een QR-code?",
-      "answer": "Start Clean Links vanaf je beginscherm, via een Opdracht of de Actieknop op iPhone, iPad of Mac en richt je camera op de code. Je ziet de echte bestemmings-URL voordat je kiest om deze te openen. Clean Links volgt alle redirects en verwijdert trackingparameters van de eindbestemming - dit voorkomt phishinglinks die verborgen zijn achter verkorte links of redirect-diensten."
-    },
-    "urlExpansion": {
-      "question": "Kan ik verkorte URL's uitvouwen en vooraf bekijken?",
-      "answer": "Absoluut. Plak of deel een bit.ly, TinyURL, t.co of andere verkorte link in Clean Links. Het vouwt alle omleidingsketens uit en toont u de uiteindelijke URL voordat u tikt."
-    },
-    "qrGeneration": {
-      "question": "Kan ik een privacy-veilige QR-code genereren van een opgeschoonde link?",
-      "answer": "Ja. Tik na het opschonen van een URL op \"Genereer QR\" om een nieuwe code te maken die je volledig zonder trackingparameters kunt delen. Dit is vooral handig als je de opgeschoonde link met vrienden wilt delen: met één tik kunnen zij jouw QR-code scannen om exact dezelfde, trackervrije URL te openen. Ook handig als je content probeert te delen met je vrienden die Android gebruiken, zonder bespioneerd te worden door, kuch kuch, hoe heet die app ook alweer? Dit helpt jou en je vrienden te voorkomen dat jullie de komende week of twee worden overspoeld met advertenties die verband houden met de content die je zojuist hebt gedeeld."
-    },
-    "systemIntegration": {
-      "question": "Werkt Clean Links in Safari, Mail en andere apps?",
-      "answer": "Ja. De systeembrede Deel-menu-extensie van Clean Links op iPhone, iPad en Mac kan worden gebruikt in Safari, Mail, X (Twitter), Youtube, LinkedIn of elke andere app die het standaard Deel-menu gebruikt."
-    },
-    "shortcutsAutomation": {
-      "question": "Kan ik het opschonen van links automatiseren met Opdrachten of Siri?",
-      "answer": "Clean Links ondersteunt App Intents die werken met zowel Apple Opdrachten als Siri. Je kunt een opdracht aanmaken die links van je klembord of iets anders opschoont. Gebruik bijvoorbeeld deze <shortcut>\"Clean Links\"-opdracht</shortcut> om de link van je klembord te halen, op te schonen en de opgeschoonde URL terug op het klembord te plakken."
-    },
-    "manualCleaning": {
-      "question": "Waarom heb ik deze app nodig en waarom kan ik links niet gewoon handmatig opschonen?",
-      "answer": "De meeste trackingparameters zijn tegenwoordig verborgen achter redirects zoals t.co, l.facebook.com, l.instagram.com en lnkd.in - je kunt deze parameters pas zien nadat je klikt. Clean Links regelt dit automatisch voor je, wat je vervelend handmatig werk bespaart en je beschermt tegen verborgen trackers."
-    },
-    "localProcessing": {
-      "question": "Werkt dit echt lokaal? Ik zie dat de app netwerkverzoeken naar de URL stuurt.",
-      "answer": "Ja, Clean Links verwerkt echt alles lokaal. Clean Links kan de meeste links met trackingparameters en omleidingen volledig offline opschonen, zonder netwerkverzoeken te doen. Voor links van URL-verkorters en bepaalde advertentienetwerken kan de omleidings-URL niet alleen op basis van de URL worden berekend. In zulke gevallen maakt Clean Links netwerkverzoeken rechtstreeks vanaf uw apparaat om trackingparameters op te lossen die verborgen zijn achter omleidingen - dit is technisch noodzakelijk omdat veel trackers pas zichtbaar worden na het volgen van de redirect-keten. Er is echter geen API van derden bij betrokken (zelfs niet onze eigen servers). Elk verzoek begint volledig met een schone lei: er worden geen cookies bewaard tussen verzoeken, er wordt geen browsegeschiedenis bijgehouden en we gebruiken sandboxed sessies met willekeurige user agents. Ook verwijderen we trackingparameters voor en na het volgen van elke omleiding. URL-verkorters worden meestal gebruikt om trackingparameters in URL's te verbergen en deze functie van Clean Links dicht dat lek, iets wat niet kan worden gedaan door handmatig delen van links te kopiëren en plakken of door webapps zoals \"Link Cleaner\" die geen omleidingen volgen. Het allerbelangrijkste: we loggen of volgen nooit welke links u opschoont. Nooit. Uw activiteit blijft volledig privé op uw apparaat. Voor extra privacybescherming raden we aan om iCloud Private Relay of een VPN te gebruiken om uw IP-adres te maskeren wanneer Clean Links deze noodzakelijke netwerkverzoeken doet om omleidingen op te lossen."
-    },
-    "safariAtfp": {
-      "question": "Hoe verschilt Clean Links van de geavanceerde bescherming tegen tracking en fingerprinting van Safari in iOS 26?",
-      "answer": "De geavanceerde bescherming tegen tracking en fingerprinting (ATFP) van Safari in iOS 26 is uitstekend voor het verminderen van tracking tijdens het browsen in Safari, maar heeft zijn beperkingen. ATFP werkt alleen in Safari - niet in in-app browsers (zoals de webweergaven van Instagram of TikTok) of andere browsers. Het geeft ook geen voorvertoning van korte links of schoont trackers op die aan het einde van redirect-ketens verschijnen. Clean Links vult ATFP aan door systeembreed in alle apps te werken, elke stap in een redirect te volgen en je de uiteindelijke URL te tonen voordat je deze opent. Wanneer je links deelt, verwijdert Clean Links platform-wrappers (zoals t.co of l.instagram.com) zodat je ontvangers echt schone URL's krijgen, ongeacht of ze Safari gebruiken of ATFP hebben ingeschakeld. Gebruik ze allebei samen: laat ATFP ingeschakeld in Safari voor automatische bescherming in de browser, en gebruik Clean Links voordat je links opent of deelt om shorteners, redirects en scenario's tussen apps af te handelen. <link>Lees onze gedetailleerde vergelijking</link> voor meer informatie."
-    },
-    "vsOtherCleaners": {
-      "question": "Hoe verschilt Clean Links van andere URL-opschoners zoals Firefox, Brave of Link Cleaner?",
-      "answer": "De meeste URL-opschoners (inclusief Firefox, Brave en webgebaseerde tools zoals Link Cleaner) richten zich op het verwijderen van zichtbare trackingparameters uit de URL die je invoert. Ze volgen geen redirect-ketens, waardoor trackers die verborgen zijn achter shortlinks (bit.ly, t.co, lnkd.in) of social wrappers (l.facebook.com, l.instagram.com) erdoor glippen. Firefox heeft zelfs een 'allowlist' die bepaalde trackers van grote techbedrijven doorlaat. Clean Links is anders: het volgt elke stap in een redirect, vouwt shortlinks uit en verwijdert trackers bij elke stap - en onthult de eindbestemming voordat je deze opent. Clean Links heeft ook een ingebouwde QR-codescanner die URL's veilig voorvertoont, werkt 100% op je apparaat zonder enige analyse (in tegenstelling tot de anonieme gebruiksstatistieken van Link Cleaner), en integreert naadloos met de Deel-weergave van iOS, Opdrachten, Siri en klembordmonitoring op de Mac. Als je uitgebreide bescherming wilt die verborgen trackers onderschept en werkt op al je Apple-apparaten, dan is Clean Links daarvoor gemaakt. <link>Bekijk de volledige vergelijking met Link Cleaner</link> voor meer details."
-    },
-    "sendToMac": {
-      "question": "Hoe stuur ik links van mijn iPhone naar mijn Mac?",
-      "answer": "Met Clean Links deel je links van je iPhone naar je Mac via het deelmenu. Op je iOS-apparaat en Mac moeten Clean Links geïnstalleerd zijn, iCloud ingeschakeld zijn en je moet ingelogd zijn op hetzelfde Apple-account. Links worden verstuurd via iCloud-synchronisatie, dus het werkt zelfs als je Mac offline is of op een ander netwerk zit - de link verschijnt automatisch zodra je Mac online komt. Dit is sneller dan AirDrop, betrouwbaarder dan Safari-tabbladen en werkt met elke browser op je Mac. <link>Lees onze uitgebreide handleiding over het sturen van links van iPhone naar Mac</link> voor meer informatie."
-    },
-    "sendToMacVsAirdrop": {
-      "question": "Waarom is Stuur naar Mac beter dan AirDrop?",
-      "answer": "Werkt zelfs als je Mac in de sluimerstand staat of buiten bereik is, opent links stil op de achtergrond en werkt altijd betrouwbaar. Geen verbindingsproblemen of wachttijd."
-    },
-    "sendToMacVsIcloudTabs": {
-      "question": "Hoe is Stuur naar Mac beter dan <icloudTabsLink>iCloud-tabbladen</icloudTabsLink>?",
-      "answer": "Werkt vanuit elke app met een Deel-menu, niet alleen Safari. Links openen automatisch als browsertabbladen - die kun je niet missen. Je hoeft niet te zoeken in lange lijsten met gesynchroniseerde tabbladen en het ondersteunt elke browser op je Mac."
-    },
-    "sendToMacMultipleMacs": {
-      "question": "Kan ik links sturen naar meerdere Macs?",
-      "answer": "Ja. Je kunt links sturen naar al je Macs zolang je Clean Links voor macOS erop hebt geïnstalleerd en ze zijn ingelogd op hetzelfde Apple-account. Je kunt het ontvangen van links uitschakelen in de instellingen van de macOS-app als je een specifieke Mac wilt uitsluiten."
-    },
-    "sendToMacShortcuts": {
-      "question": "Kan ik Stuur naar Mac gebruiken met Opdrachten?",
-      "answer": "Ja. De kernfunctionaliteit voor delen is beschikbaar als een App Intent, waardoor het eenvoudig is om cross-device opdrachten en automatiseringen te bouwen."
-    },
-    "sendToMacVsSafariTabGroups": {
-      "question": "Hoe is Stuur naar Mac beter dan Safari-tabgroepen?",
-      "answer": "Werkt vanuit elke app, niet alleen Safari. Ondersteunt elke browser op je Mac zonder dat je tabbladen open hoeft te houden op je iOS-apparaat."
-    },
-    "sendToMacVsSafariReadingList": {
-      "question": "Hoe is Stuur naar Mac beter dan de Leeslijst van Safari?",
-      "answer": "Links openen automatisch in je browser - die kun je niet missen. Je hoeft niet te zoeken in verzamelde lijsten en het ondersteunt elke browser."
-    },
-    "sendToMacVsHandoff": {
-      "question": "Hoe is Stuur naar Mac beter dan <handoffLink>Handoff</handoffLink>?",
-      "answer": "Clean Links heeft Handoff-ondersteuning als apparaten in de buurt zijn, maar werkt ook als je Mac in de sluimerstand staat of buiten bereik is. Het ondersteunt elke app met een Deel-menu en elke browser, opent links automatisch op de achtergrond en werkt altijd betrouwbaar."
-    },
-    "sendToMacVsUniversalClipboard": {
-      "question": "Hoe is Stuur naar Mac beter dan <universalClipboardLink>Universeel klembord</universalClipboardLink>?",
-      "answer": "Links openen automatisch - handmatig plakken is niet nodig. Werkt zelfs als je Mac in de sluimerstand staat of buiten bereik is, en komt direct aan."
-    },
-    "sendToMacVsImessage": {
-      "question": "Hoe is Stuur naar Mac beter dan iMessage?",
-      "answer": "Links openen automatisch in je browser zonder dat je berichten hoeft te checken. Het opent stil op de achtergrond, zodat je kunt doorgaan met waar je mee bezig was."
-    },
-    "sendToMacVsEmail": {
-      "question": "Hoe is Stuur naar Mac beter dan e-mail?",
-      "answer": "Links openen automatisch zonder dat je je inbox hoeft te checken. Het opent stil op de achtergrond en houdt je inbox schoon."
-    },
-    "sendToMacVsPushbullet": {
-      "question": "Hoe is Stuur naar Mac beter dan <pushbulletLink>Pushbullet</pushbulletLink>?",
-      "answer": "Native iOS- en macOS-apps die werken vanuit elk Deel-menu. Geen extra account nodig - gewoon installeren en gebruiken."
-    },
-    "sendToMacVsFirefoxSendTabs": {
-      "question": "Hoe is Stuur naar Mac beter dan <firefoxSendTabsLink>Tabbladen verzenden</firefoxSendTabsLink> van Firefox?",
-      "answer": "Werkt vanuit elke app, niet alleen Firefox. Ondersteunt elke browser op je Mac en vereist minder tikken."
-    },
-    "sendToMacVsFirefoxTabSync": {
-      "question": "Hoe is Stuur naar Mac beter dan de tabbladsynchronisatie van Firefox?",
-      "answer": "Werkt vanuit elke app met een Deel-menu, niet alleen Firefox. Ondersteunt elke browser zonder dat je tabbladen open hoeft te houden op je iOS-apparaat."
-    },
-    "sendToMacVsHyperduck": {
-      "question": "Hoe is Stuur naar Mac beter dan <hyperduckLink>HyperDuck</hyperduckLink>?",
-      "answer": "Volledig gratis met ondersteuning voor 37 talen. Ondersteunt automatisch meerdere Macs, inclusief delen van Mac naar Mac, en biedt volledige linkopschoning en de-obfuscatie, wat verder gaat dan alleen delen."
-    }
-  },
   "cta": {
     "title": "QR-codelezer & link-opschoner - Bescherm je privacy",
     "description": "Onthul direct de echte URL, wis verborgen trackers en maak deelklare QR-codes - allemaal 100% op uw apparaat, 100% gratis.",
@@ -342,5 +214,149 @@
   },
   "appRating": {
     "text": "{rating} ({count, plural, =0 {geen beoordelingen} =1 {# beoordeling} other {# beoordelingen}})"
+  },
+  "faqPage": {
+    "metadata": {
+      "title": "FAQ",
+      "description": "Krijg duidelijke antwoorden over Clean Links - hoe we trackingparameters opschonen, QR-codephishing stoppen en alles 100% op je apparaat houden."
+    },
+    "heading": {
+      "title": "FAQ",
+      "description": "Veelgestelde vragen over Clean Links"
+    },
+    "items": {
+      "whatIs": {
+        "question": "Wat is Clean Links?",
+        "answer": "Clean Links is een gratis hulpprogramma voor iPhone, iPad en Mac dat trackingparameters uit URL's verwijdert en het ware doel achter QR-codes en verkorte links onthult - zodat je alleen opent wat je wilt, zonder verborgen trackers of redirects."
+      },
+      "deviceRequirements": {
+        "question": "Welke apparaten en iOS-versies ondersteunt Clean Links?",
+        "answer": "Clean Links ondersteunt iPhone-, iPad- en Mac-apparaten met iOS 18.0 of nieuwer (iPhone/iPad) of macOS Sequoia of nieuwer."
+      },
+      "whyCreate": {
+        "question": "Waarom hebben we Clean Links gemaakt?",
+        "answer": "We hebben het oorspronkelijk voor onszelf gebouwd om te voorkomen dat we 'gequisht' worden en om onszelf te beschermen tegen links vol met tracking. Later leerden we dat phishing en quishing veel goede mensen treffen, velen met een technische achtergrond, over de hele wereld. Daarom hebben we besloten het voor iedereen uit te brengen en het volledig gratis te maken."
+      },
+      "privacyProtection": {
+        "question": "Hoe beschermt Clean Links mijn privacy?",
+        "answer": "Alle verwerking gebeurt op uw apparaat - er verlaten nooit cookies, identificatoren of analysegegevens uw telefoon. Clean Links verwijdert simpelweg bekende trackingparameters (UTM-tags, affiliate-ID's, ad-tech tokens) voordat een link wordt geladen. Voor verkorte links doen we verzoeken in een geïsoleerde context, zonder cookies, sessies enz. Dit verslaat de tracking via cookies die URL-verkorters, adverteerders en datahandelaren gebruiken om gebruikers te volgen."
+      },
+      "phishingProtection": {
+        "question": "Kan Clean Links phishing- (\"quishing\") pogingen blokkeren?",
+        "answer": "Ja. Wanneer u een QR-code scant, toont Clean Links u de volledige, ongemaskeerde URL. U beslist zelf of u deze opent. Dit in tegenstelling tot de iOS-camera-app en andere betaalde QR-codescanner-apps, die de link waar de QR-code naar verwijst zomaar openen, zonder uw toestemming. Bovendien gebruikt Clean Links bij het volgen van omleidingen lower-level (NSURLRequest) API's die een zeer klein aanvalsoppervlak hebben in vergelijking met een volledige webbrowser. Hierdoor is Clean Links immuun voor de meeste zero-day-exploits die gericht zijn op webbrowsers. Ten tweede draait de app in zijn eigen sandbox, wat een extra beveiligingslaag toevoegt."
+      },
+      "historyStorage": {
+        "question": "Slaat Clean Links mijn geschiedenis of gescande QR-codes op?",
+        "answer": "Nee. Clean Links is zo ontworpen dat het geen links die je opschoont of scant, logt of opslaat."
+      },
+      "cleanWorkflow": {
+        "question": "Hoe schoon ik een gekopieerde link op?",
+        "answer": "Je kunt een Opdracht van Apple aanmaken die de URL van je klembord haalt, deze opschoont en de opgeschoonde link terugplaatst. Download bijvoorbeeld deze <shortcut>opdracht met één tik</shortcut>. Voor nog snellere toegang, wijs je die opdracht toe aan de actieknop van je iPhone (iPhone 15 Pro en nieuwer), zodat je met één druk op de knop overal de link op je klembord opschoont. Je kunt Clean Links toevoegen aan je bedieningspaneel op iPhone, iPad en Mac: kies uit twee acties-\"Open app\" of \"QR-lezer.\" Open deze rechtstreeks vanuit het bedieningspaneel of het toegangsscherm, of wijs ze toe aan de actieknop om overal met één tik op te schonen. Je kunt de Clean Links-app ook handmatig openen en je URL plakken om deze op te schonen."
+      },
+      "qrScanning": {
+        "question": "Hoe scan ik een QR-code?",
+        "answer": "Start Clean Links vanaf je beginscherm, via een Opdracht of de Actieknop op iPhone, iPad of Mac en richt je camera op de code. Je ziet de echte bestemmings-URL voordat je kiest om deze te openen. Clean Links volgt alle redirects en verwijdert trackingparameters van de eindbestemming - dit voorkomt phishinglinks die verborgen zijn achter verkorte links of redirect-diensten."
+      },
+      "urlExpansion": {
+        "question": "Kan ik verkorte URL's uitvouwen en vooraf bekijken?",
+        "answer": "Absoluut. Plak of deel een bit.ly, TinyURL, t.co of andere verkorte link in Clean Links. Het vouwt alle omleidingsketens uit en toont u de uiteindelijke URL voordat u tikt."
+      },
+      "qrGeneration": {
+        "question": "Kan ik een privacy-veilige QR-code genereren van een opgeschoonde link?",
+        "answer": "Ja. Tik na het opschonen van een URL op \"Genereer QR\" om een nieuwe code te maken die je volledig zonder trackingparameters kunt delen. Dit is vooral handig als je de opgeschoonde link met vrienden wilt delen: met één tik kunnen zij jouw QR-code scannen om exact dezelfde, trackervrije URL te openen. Ook handig als je content probeert te delen met je vrienden die Android gebruiken, zonder bespioneerd te worden door, kuch kuch, hoe heet die app ook alweer? Dit helpt jou en je vrienden te voorkomen dat jullie de komende week of twee worden overspoeld met advertenties die verband houden met de content die je zojuist hebt gedeeld."
+      },
+      "systemIntegration": {
+        "question": "Werkt Clean Links in Safari, Mail en andere apps?",
+        "answer": "Ja. De systeembrede Deel-menu-extensie van Clean Links op iPhone, iPad en Mac kan worden gebruikt in Safari, Mail, X (Twitter), Youtube, LinkedIn of elke andere app die het standaard Deel-menu gebruikt."
+      },
+      "shortcutsAutomation": {
+        "question": "Kan ik het opschonen van links automatiseren met Opdrachten of Siri?",
+        "answer": "Clean Links ondersteunt App Intents die werken met zowel Apple Opdrachten als Siri. Je kunt een opdracht aanmaken die links van je klembord of iets anders opschoont. Gebruik bijvoorbeeld deze <shortcut>\"Clean Links\"-opdracht</shortcut> om de link van je klembord te halen, op te schonen en de opgeschoonde URL terug op het klembord te plakken."
+      },
+      "manualCleaning": {
+        "question": "Waarom heb ik deze app nodig en waarom kan ik links niet gewoon handmatig opschonen?",
+        "answer": "De meeste trackingparameters zijn tegenwoordig verborgen achter redirects zoals t.co, l.facebook.com, l.instagram.com en lnkd.in - je kunt deze parameters pas zien nadat je klikt. Clean Links regelt dit automatisch voor je, wat je vervelend handmatig werk bespaart en je beschermt tegen verborgen trackers."
+      },
+      "localProcessing": {
+        "question": "Werkt dit echt lokaal? Ik zie dat de app netwerkverzoeken naar de URL stuurt.",
+        "answer": "Ja, Clean Links verwerkt echt alles lokaal. Clean Links kan de meeste links met trackingparameters en omleidingen volledig offline opschonen, zonder netwerkverzoeken te doen. Voor links van URL-verkorters en bepaalde advertentienetwerken kan de omleidings-URL niet alleen op basis van de URL worden berekend. In zulke gevallen maakt Clean Links netwerkverzoeken rechtstreeks vanaf uw apparaat om trackingparameters op te lossen die verborgen zijn achter omleidingen - dit is technisch noodzakelijk omdat veel trackers pas zichtbaar worden na het volgen van de redirect-keten. Er is echter geen API van derden bij betrokken (zelfs niet onze eigen servers). Elk verzoek begint volledig met een schone lei: er worden geen cookies bewaard tussen verzoeken, er wordt geen browsegeschiedenis bijgehouden en we gebruiken sandboxed sessies met willekeurige user agents. Ook verwijderen we trackingparameters voor en na het volgen van elke omleiding. URL-verkorters worden meestal gebruikt om trackingparameters in URL's te verbergen en deze functie van Clean Links dicht dat lek, iets wat niet kan worden gedaan door handmatig delen van links te kopiëren en plakken of door webapps zoals \"Link Cleaner\" die geen omleidingen volgen. Het allerbelangrijkste: we loggen of volgen nooit welke links u opschoont. Nooit. Uw activiteit blijft volledig privé op uw apparaat. Voor extra privacybescherming raden we aan om iCloud Private Relay of een VPN te gebruiken om uw IP-adres te maskeren wanneer Clean Links deze noodzakelijke netwerkverzoeken doet om omleidingen op te lossen."
+      },
+      "safariAtfp": {
+        "question": "Hoe verschilt Clean Links van de geavanceerde bescherming tegen tracking en fingerprinting van Safari in iOS 26?",
+        "answer": "De geavanceerde bescherming tegen tracking en fingerprinting (ATFP) van Safari in iOS 26 is uitstekend voor het verminderen van tracking tijdens het browsen in Safari, maar heeft zijn beperkingen. ATFP werkt alleen in Safari - niet in in-app browsers (zoals de webweergaven van Instagram of TikTok) of andere browsers. Het geeft ook geen voorvertoning van korte links of schoont trackers op die aan het einde van redirect-ketens verschijnen. Clean Links vult ATFP aan door systeembreed in alle apps te werken, elke stap in een redirect te volgen en je de uiteindelijke URL te tonen voordat je deze opent. Wanneer je links deelt, verwijdert Clean Links platform-wrappers (zoals t.co of l.instagram.com) zodat je ontvangers echt schone URL's krijgen, ongeacht of ze Safari gebruiken of ATFP hebben ingeschakeld. Gebruik ze allebei samen: laat ATFP ingeschakeld in Safari voor automatische bescherming in de browser, en gebruik Clean Links voordat je links opent of deelt om shorteners, redirects en scenario's tussen apps af te handelen. <link>Lees onze gedetailleerde vergelijking</link> voor meer informatie."
+      },
+      "vsOtherCleaners": {
+        "question": "Hoe verschilt Clean Links van andere URL-opschoners zoals Firefox, Brave of Link Cleaner?",
+        "answer": "De meeste URL-opschoners (inclusief Firefox, Brave en webgebaseerde tools zoals Link Cleaner) richten zich op het verwijderen van zichtbare trackingparameters uit de URL die je invoert. Ze volgen geen redirect-ketens, waardoor trackers die verborgen zijn achter shortlinks (bit.ly, t.co, lnkd.in) of social wrappers (l.facebook.com, l.instagram.com) erdoor glippen. Firefox heeft zelfs een 'allowlist' die bepaalde trackers van grote techbedrijven doorlaat. Clean Links is anders: het volgt elke stap in een redirect, vouwt shortlinks uit en verwijdert trackers bij elke stap - en onthult de eindbestemming voordat je deze opent. Clean Links heeft ook een ingebouwde QR-codescanner die URL's veilig voorvertoont, werkt 100% op je apparaat zonder enige analyse (in tegenstelling tot de anonieme gebruiksstatistieken van Link Cleaner), en integreert naadloos met de Deel-weergave van iOS, Opdrachten, Siri en klembordmonitoring op de Mac. Als je uitgebreide bescherming wilt die verborgen trackers onderschept en werkt op al je Apple-apparaten, dan is Clean Links daarvoor gemaakt. <link>Bekijk de volledige vergelijking met Link Cleaner</link> voor meer details."
+      },
+      "sendToMac": {
+        "question": "Hoe stuur ik links van mijn iPhone naar mijn Mac?",
+        "answer": "Met Clean Links deel je links van je iPhone naar je Mac via het deelmenu. Op je iOS-apparaat en Mac moeten Clean Links geïnstalleerd zijn, iCloud ingeschakeld zijn en je moet ingelogd zijn op hetzelfde Apple-account. Links worden verstuurd via iCloud-synchronisatie, dus het werkt zelfs als je Mac offline is of op een ander netwerk zit - de link verschijnt automatisch zodra je Mac online komt. Dit is sneller dan AirDrop, betrouwbaarder dan Safari-tabbladen en werkt met elke browser op je Mac. <link>Lees onze uitgebreide handleiding over het sturen van links van iPhone naar Mac</link> voor meer informatie."
+      },
+      "sendToMacVsAirdrop": {
+        "question": "Waarom is Stuur naar Mac beter dan AirDrop?",
+        "answer": "Werkt zelfs als je Mac in de sluimerstand staat of buiten bereik is, opent links stil op de achtergrond en werkt altijd betrouwbaar. Geen verbindingsproblemen of wachttijd."
+      },
+      "sendToMacVsIcloudTabs": {
+        "question": "Hoe is Stuur naar Mac beter dan <icloudTabsLink>iCloud-tabbladen</icloudTabsLink>?",
+        "answer": "Werkt vanuit elke app met een Deel-menu, niet alleen Safari. Links openen automatisch als browsertabbladen - die kun je niet missen. Je hoeft niet te zoeken in lange lijsten met gesynchroniseerde tabbladen en het ondersteunt elke browser op je Mac."
+      },
+      "sendToMacMultipleMacs": {
+        "question": "Kan ik links sturen naar meerdere Macs?",
+        "answer": "Ja. Je kunt links sturen naar al je Macs zolang je Clean Links voor macOS erop hebt geïnstalleerd en ze zijn ingelogd op hetzelfde Apple-account. Je kunt het ontvangen van links uitschakelen in de instellingen van de macOS-app als je een specifieke Mac wilt uitsluiten."
+      },
+      "sendToMacShortcuts": {
+        "question": "Kan ik Stuur naar Mac gebruiken met Opdrachten?",
+        "answer": "Ja. De kernfunctionaliteit voor delen is beschikbaar als een App Intent, waardoor het eenvoudig is om cross-device opdrachten en automatiseringen te bouwen."
+      },
+      "sendToMacVsSafariTabGroups": {
+        "question": "Hoe is Stuur naar Mac beter dan Safari-tabgroepen?",
+        "answer": "Werkt vanuit elke app, niet alleen Safari. Ondersteunt elke browser op je Mac zonder dat je tabbladen open hoeft te houden op je iOS-apparaat."
+      },
+      "sendToMacVsSafariReadingList": {
+        "question": "Hoe is Stuur naar Mac beter dan de Leeslijst van Safari?",
+        "answer": "Links openen automatisch in je browser - die kun je niet missen. Je hoeft niet te zoeken in verzamelde lijsten en het ondersteunt elke browser."
+      },
+      "sendToMacVsHandoff": {
+        "question": "Hoe is Stuur naar Mac beter dan <handoffLink>Handoff</handoffLink>?",
+        "answer": "Clean Links heeft Handoff-ondersteuning als apparaten in de buurt zijn, maar werkt ook als je Mac in de sluimerstand staat of buiten bereik is. Het ondersteunt elke app met een Deel-menu en elke browser, opent links automatisch op de achtergrond en werkt altijd betrouwbaar."
+      },
+      "sendToMacVsUniversalClipboard": {
+        "question": "Hoe is Stuur naar Mac beter dan <universalClipboardLink>Universeel klembord</universalClipboardLink>?",
+        "answer": "Links openen automatisch - handmatig plakken is niet nodig. Werkt zelfs als je Mac in de sluimerstand staat of buiten bereik is, en komt direct aan."
+      },
+      "sendToMacVsImessage": {
+        "question": "Hoe is Stuur naar Mac beter dan iMessage?",
+        "answer": "Links openen automatisch in je browser zonder dat je berichten hoeft te checken. Het opent stil op de achtergrond, zodat je kunt doorgaan met waar je mee bezig was."
+      },
+      "sendToMacVsEmail": {
+        "question": "Hoe is Stuur naar Mac beter dan e-mail?",
+        "answer": "Links openen automatisch zonder dat je je inbox hoeft te checken. Het opent stil op de achtergrond en houdt je inbox schoon."
+      },
+      "sendToMacVsPushbullet": {
+        "question": "Hoe is Stuur naar Mac beter dan <pushbulletLink>Pushbullet</pushbulletLink>?",
+        "answer": "Native iOS- en macOS-apps die werken vanuit elk Deel-menu. Geen extra account nodig - gewoon installeren en gebruiken."
+      },
+      "sendToMacVsFirefoxSendTabs": {
+        "question": "Hoe is Stuur naar Mac beter dan <firefoxSendTabsLink>Tabbladen verzenden</firefoxSendTabsLink> van Firefox?",
+        "answer": "Werkt vanuit elke app, niet alleen Firefox. Ondersteunt elke browser op je Mac en vereist minder tikken."
+      },
+      "sendToMacVsFirefoxTabSync": {
+        "question": "Hoe is Stuur naar Mac beter dan de tabbladsynchronisatie van Firefox?",
+        "answer": "Werkt vanuit elke app met een Deel-menu, niet alleen Firefox. Ondersteunt elke browser zonder dat je tabbladen open hoeft te houden op je iOS-apparaat."
+      },
+      "sendToMacVsHyperduck": {
+        "question": "Hoe is Stuur naar Mac beter dan <hyperduckLink>HyperDuck</hyperduckLink>?",
+        "answer": "Volledig gratis met ondersteuning voor 37 talen. Ondersteunt automatisch meerdere Macs, inclusief delen van Mac naar Mac, en biedt volledige linkopschoning en de-obfuscatie, wat verder gaat dan alleen delen."
+      }
+    },
+    "viewAll": "Alles bekijken",
+    "categories": {
+      "gettingStarted": "Aan de slag",
+      "privacySecurity": "Privacy & Beveiliging",
+      "features": "Functies & Integraties",
+      "sendToMac": "Stuur naar Mac",
+      "comparisons": "Vergelijkingen"
+    }
   }
 }

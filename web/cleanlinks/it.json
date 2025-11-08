@@ -138,134 +138,6 @@
       "description": "Esegui Clean Links nella barra dei menu del Mac con il monitoraggio automatico degli appunti. Ogni URL che copi viene istantaneamente pulito, espanso e privato dei tracker, tutto sul dispositivo per una privacy totale nel tuo flusso di lavoro su macOS senza intervento manuale."
     }
   },
-  "faq": {
-    "title": "FAQ",
-    "description": "Domande frequenti su Clean Links",
-    "whatIs": {
-      "question": "Cos'è Clean Links?",
-      "answer": "Clean Links è un'utility gratuita per iPhone, iPad e Mac che rimuove i parametri di tracciamento dagli URL e svela la vera destinazione di codici QR e link abbreviati, così apri solo ciò che desideri, senza tracker o reindirizzamenti nascosti."
-    },
-    "deviceRequirements": {
-      "question": "Quali dispositivi e versioni di iOS supporta Clean Links?",
-      "answer": "Clean Links supporta i dispositivi iPhone, iPad e Mac con iOS 18.0 o versioni successive (iPhone/iPad) o macOS Sequoia o versioni successive."
-    },
-    "whyCreate": {
-      "question": "Perché abbiamo creato Clean Links?",
-      "answer": "Inizialmente l'abbiamo creato per noi stessi, per evitare di cadere nel \"quishing\" e per proteggerci dai link pieni di tracker. Successivamente abbiamo scoperto che il phishing e il quishing colpiscono molte persone perbene in tutto il mondo, anche con competenze tecniche. Così, abbiamo deciso di renderlo disponibile a tutti, gratuitamente."
-    },
-    "privacyProtection": {
-      "question": "Come protegge la mia privacy Clean Links?",
-      "answer": "Tutta l'elaborazione avviene sul tuo dispositivo: nessun cookie, identificatore o dato analitico lascia mai il tuo telefono. Clean Links rimuove semplicemente i parametri di tracciamento noti (tag UTM, ID di affiliazione, token ad-tech) prima di caricare un link. Per i link abbreviati, effettuiamo le richieste in un contesto isolato, senza cookie, sessioni, ecc. Questo vanifica il tracciamento tramite cookie utilizzato da accorciatori di URL, inserzionisti e broker di dati per tracciare gli utenti."
-    },
-    "phishingProtection": {
-      "question": "Clean Links può bloccare i tentativi di phishing (\"quishing\")?",
-      "answer": "Sì. Quando scansioni un codice QR, Clean Links ti mostra l'URL completo e non mascherato. Puoi decidere se aprirlo o meno. Questo è diverso dall'app Fotocamera di iOS e da altre app a pagamento per la lettura di codici QR, che aprono semplicemente il link a cui punta il codice QR, senza il tuo consenso. Inoltre: quando segue i reindirizzamenti, Clean Links utilizza API di basso livello (NSURLRequest) che hanno una superficie di attacco molto ridotta, rispetto a quella di un browser web completo. Pertanto, Clean Links è immune alla maggior parte degli exploit zero-day che colpiscono i browser web. In secondo luogo, l'app viene eseguita nella sua sandbox, il che aggiunge un ulteriore livello di sicurezza."
-    },
-    "historyStorage": {
-      "question": "Clean Links archivia la mia cronologia o i codici QR scansionati?",
-      "answer": "No. Per scelta progettuale, Clean Links non registra né archivia i link che pulisci o scansioni."
-    },
-    "cleanWorkflow": {
-      "question": "Come pulisco un link che ho copiato?",
-      "answer": "Puoi creare un comando rapido di Apple che prende l'URL dai tuoi appunti, lo pulisce e reinserisce il link pulito. Ad esempio, scarica questo <shortcut>comando rapido con un tocco</shortcut>. Per un accesso ancora più rapido, assegna il comando rapido al tasto Azione del tuo iPhone (iPhone 15 Pro e modelli successivi), così basterà una singola pressione per pulire il link negli appunti. Puoi aggiungere Clean Links al Centro di Controllo su iPhone, iPad e Mac: scegli tra due azioni: \"Apri app\" o \"Lettore QR\". Accedi a queste azioni direttamente dal Centro di Controllo o dalla schermata di blocco, oppure assegnale al tasto Azione per pulire con un tocco da qualsiasi schermata. Puoi anche aprire manualmente l'app Clean Links e incollare il tuo URL per pulirlo."
-    },
-    "qrScanning": {
-      "question": "Come si scansiona un codice QR?",
-      "answer": "Avvia Clean Links dalla schermata Home, da un Comando Rapido o dal Tasto Azione su iPhone, iPad o Mac e punta la fotocamera verso il codice. Vedrai l'URL di destinazione reale prima di scegliere se aprirlo. Clean Links segue eventuali reindirizzamenti e rimuove i parametri di tracciamento dalla destinazione finale, prevenendo i link di phishing nascosti dietro servizi di link abbreviati o di reindirizzamento."
-    },
-    "urlExpansion": {
-      "question": "Posso espandere e visualizzare in anteprima gli URL abbreviati?",
-      "answer": "Assolutamente. Incolla o condividi qualsiasi link di bit.ly, TinyURL, t.co o altro short link in Clean Links. Espande tutte le catene di reindirizzamento e ti mostra l'URL finale prima che tu lo apra."
-    },
-    "qrGeneration": {
-      "question": "Posso generare un codice QR sicuro per la privacy da un link pulito?",
-      "answer": "Sì. Dopo aver pulito un URL, tocca 'Genera QR' per creare un nuovo codice che puoi condividere, completamente privo di parametri di tracciamento. È particolarmente utile quando vuoi condividere il link pulito con gli amici: basta un tocco e loro possono scansionare il tuo codice QR per aprire lo stesso identico URL, senza tracker. È utile anche quando cerchi di condividere contenuti con i tuoi amici che usano Android, senza essere spiato da... ehm, come si chiama quell'app? Questo aiuta te e i tuoi amici a non essere bombardati per una o due settimane da annunci relativi al contenuto che avete appena condiviso."
-    },
-    "systemIntegration": {
-      "question": "Clean Links funziona all'interno di Safari, Mail e altre app?",
-      "answer": "Sì. L'estensione di Clean Links per il menu di condivisione a livello di sistema su iPhone, iPad e Mac può essere usata in Safari, Mail, X (Twitter), Youtube, LinkedIn o qualsiasi altra app che utilizzi i menu di condivisione nativi."
-    },
-    "shortcutsAutomation": {
-      "question": "Posso automatizzare la pulizia dei link con i Comandi Rapidi o Siri?",
-      "answer": "Clean Links offre Intenti dell'app che funzionano sia con Comandi Rapidi che con Siri. Puoi creare un comando rapido che pulisce i link presenti negli appunti o altrove. Ad esempio, usa questo <shortcut>comando rapido \"Clean Links\"</shortcut> per prelevare il link dai tuoi appunti, pulirlo e incollare l'URL pulito di nuovo negli appunti."
-    },
-    "manualCleaning": {
-      "question": "A cosa serve quest'app e perché non posso semplicemente pulire i link manualmente?",
-      "answer": "La maggior parte dei parametri di tracciamento è ora nascosta dietro reindirizzamenti come t.co, l.facebook.com, l.instagram.com e lnkd.in - non puoi vedere questi parametri finché non fai clic. Clean Links gestisce tutto questo automaticamente per te, risparmiandoti un noioso lavoro manuale e proteggendoti dai tracker nascosti."
-    },
-    "localProcessing": {
-      "question": "L'elaborazione è davvero locale? Vedo che l'app effettua richieste di rete all'URL.",
-      "answer": "Sì, Clean Links elabora tutto interamente in locale. Clean Links può pulire la maggior parte dei link con parametri di tracciamento e link di reindirizzamento completamente offline, senza effettuare alcuna richiesta di rete. Per i link provenienti da accorciatori di URL e da alcune reti pubblicitarie, l'URL di reindirizzamento non può essere calcolato solo dall'URL. In questi casi, Clean Links effettua richieste di rete direttamente dal tuo dispositivo per risolvere i parametri di tracciamento nascosti dietro i reindirizzamenti; questo è tecnicamente necessario perché molti tracker vengono rivelati solo dopo aver seguito la catena di reindirizzamento. Tuttavia, non è coinvolta alcuna API di terze parti (nemmeno i nostri server). Ogni richiesta parte da zero: nessun cookie viene mantenuto tra le richieste, non viene conservata alcuna cronologia di navigazione e utilizziamo sessioni sandbox con user agent casuali. Inoltre, rimuoviamo i parametri di tracciamento prima e dopo aver seguito ogni reindirizzamento. Gli accorciatori di URL sono usati principalmente per nascondere i parametri di tracciamento negli URL e questa funzione di Clean Links risolve tale lacuna, cosa che non può essere fatta copiando e incollando manualmente parti di link o da webapp come \"Link Cleaner\" che non seguono i reindirizzamenti. Soprattutto, non registriamo né tracciamo quali link pulisci. Mai. La tua attività di pulizia dei link rimane completamente privata sul tuo dispositivo. Per un'ulteriore protezione della privacy, ti consigliamo di utilizzare Relay privato iCloud o una VPN per mascherare il tuo indirizzo IP quando Clean Links effettua queste necessarie richieste di rete per risolvere i reindirizzamenti."
-    },
-    "safariAtfp": {
-      "question": "In cosa si differenzia Clean Links dalla Protezione avanzata dal tracciamento e dal fingerprinting di Safari in iOS 26?",
-      "answer": "La Protezione avanzata dal tracciamento e dal fingerprinting (ATFP) di Safari in iOS 26 e eccellente per ridurre il tracciamento durante la navigazione su Safari, ma ha i suoi limiti. L'ATFP funziona solo in Safari, non nei browser in-app (come le visualizzazioni web di Instagram o TikTok) o in altri browser. Inoltre, non visualizza l'anteprima dei link brevi ne pulisce i tracker che compaiono alla fine delle catene di reindirizzamento. Clean Links integra l'ATFP funzionando a livello di sistema su tutte le app, seguendo ogni passaggio dei reindirizzamenti e mostrandoti l'URL finale prima di aprirlo. Quando condividi un link, Clean Links rimuove i wrapper delle piattaforme (come t.co o l.instagram.com) cosi i tuoi destinatari ricevono URL veramente puliti, indipendentemente dal fatto che usino Safari o abbiano l'ATFP abilitato. Usali entrambi insieme: mantieni attivo l'ATFP in Safari per la protezione automatica nel browser e usa Clean Links prima di aprire o condividere link per gestire shortener, reindirizzamenti e scenari multi-app. <link>Leggi il nostro confronto dettagliato</link> per saperne di piu."
-    },
-    "vsOtherCleaners": {
-      "question": "In cosa si differenzia Clean Links da altri pulitori di URL come Firefox, Brave o Link Cleaner?",
-      "answer": "La maggior parte dei pulitori di URL (inclusi Firefox, Brave e strumenti web come Link Cleaner) si concentra sulla rimozione dei parametri di tracciamento visibili dall'URL fornito. Non seguono le catene di reindirizzamento, quindi i tracker nascosti dietro shortlink (bit.ly, t.co, lnkd.in) o wrapper social (l.facebook.com, l.instagram.com) sfuggono al controllo. Firefox mantiene persino una allowlist che lascia passare alcuni tracker delle grandi aziende tecnologiche. Clean Links e diverso: segue ogni passaggio dei reindirizzamenti, espande gli shortlink e rimuove i tracker a ogni step, rivelando la destinazione finale prima che tu la apra. Clean Links include anche un lettore di codici QR integrato che mostra un'anteprima sicura degli URL, funziona al 100% sul dispositivo con zero dati analitici (a differenza delle statistiche di utilizzo anonime di Link Cleaner) e si integra nativamente con i Fogli di condivisione di iOS, i Comandi Rapidi, Siri e il monitoraggio degli appunti del Mac. Se desideri una protezione completa che intercetta i tracker nascosti e funziona su tutti i tuoi dispositivi Apple, Clean Links e stato creato appositamente per questo. <link>Consulta il confronto completo con Link Cleaner</link> per maggiori dettagli."
-    },
-    "sendToMac": {
-      "question": "Come invio i link dal mio iPhone al mio Mac?",
-      "answer": "Clean Links ti permette di condividere link da iPhone a Mac usando il menu di condivisione. Il tuo dispositivo iOS e il tuo Mac devono avere Clean Links installato, iCloud abilitato ed essere collegati allo stesso account Apple. I link vengono inviati tramite la sincronizzazione iCloud, quindi funzionano anche quando il tuo Mac è offline o su una rete diversa: il link apparirà automaticamente quando il Mac tornerà online. È più veloce di AirDrop, più affidabile dei pannelli di Safari e funziona con qualsiasi browser sul tuo Mac. <link>Leggi la nostra guida dettagliata su come inviare link da iPhone a Mac</link> per saperne di più."
-    },
-    "sendToMacVsAirdrop": {
-      "question": "In che modo Invia a Mac è migliore di AirDrop?",
-      "answer": "Funziona anche quando il tuo Mac è in stop o fuori portata, apre i link silenziosamente in background e funziona sempre in modo affidabile. Nessun problema di connessione o attesa."
-    },
-    "sendToMacVsIcloudTabs": {
-      "question": "Perché Send to Mac è migliore di <icloudTabsLink>Pannelli iCloud</icloudTabsLink>?",
-      "answer": "Funziona da qualsiasi app con un menu di condivisione, non solo da Safari. I link si aprono automaticamente come pannelli del browser- non puoi perderli. Non devi cercare in lunghe liste di pannelli sincronizzati e supporta qualsiasi browser sul tuo Mac."
-    },
-    "sendToMacMultipleMacs": {
-      "question": "Posso inviare link a più Mac?",
-      "answer": "Sì. Puoi inviare link a tutti i tuoi Mac, a condizione che tu abbia installato Clean Links per macOS su di essi e che siano collegati allo stesso account Apple. Puoi disabilitare la ricezione dei link nelle impostazioni dell'app per macOS se vuoi escludere un Mac specifico."
-    },
-    "sendToMacShortcuts": {
-      "question": "Posso usare Send to Mac con Comandi Rapidi?",
-      "answer": "Sì. La funzionalità di condivisione principale è disponibile come 'App Intent', rendendo semplice creare comandi rapidi e automazioni tra dispositivi."
-    },
-    "sendToMacVsSafariTabGroups": {
-      "question": "Perché Send to Mac è migliore dei Gruppi di pannelli di Safari?",
-      "answer": "Funziona da qualsiasi app, non solo da Safari. Supporta qualsiasi browser sul tuo Mac senza richiedere di tenere aperti i pannelli sul tuo dispositivo iOS."
-    },
-    "sendToMacVsSafariReadingList": {
-      "question": "Perché Send to Mac è migliore dell'Elenco lettura di Safari?",
-      "answer": "I link si aprono automaticamente nel tuo browser- non puoi perderli. Non devi cercare in lunghe liste e supporta qualsiasi browser."
-    },
-    "sendToMacVsHandoff": {
-      "question": "Perché Send to Mac è migliore di <handoffLink>Handoff</handoffLink>?",
-      "answer": "Clean Links include il supporto per Handoff quando i dispositivi sono vicini, ma funziona anche quando il tuo Mac è in stop o fuori portata. Supporta qualsiasi app con un menu di condivisione e qualsiasi browser, apre i link automaticamente in background e funziona sempre in modo affidabile."
-    },
-    "sendToMacVsUniversalClipboard": {
-      "question": "Perché Send to Mac è migliore di <universalClipboardLink>Appunti universali</universalClipboardLink>?",
-      "answer": "I link si aprono automaticamente- non è necessario incollare manualmente. Funziona anche quando il tuo Mac è in stop o fuori portata e l'invio è istantaneo."
-    },
-    "sendToMacVsImessage": {
-      "question": "Perché Send to Mac è migliore di iMessage?",
-      "answer": "I link si aprono automaticamente nel browser senza dover controllare i messaggi. Si aprono silenziosamente in background così puoi continuare a fare quello che stavi facendo."
-    },
-    "sendToMacVsEmail": {
-      "question": "Perché Send to Mac è migliore dell'email?",
-      "answer": "I link si aprono automaticamente senza controllare la posta in arrivo. Si aprono silenziosamente in background e mantengono pulita la tua casella di posta."
-    },
-    "sendToMacVsPushbullet": {
-      "question": "Perché Send to Mac è migliore di <pushbulletLink>Pushbullet</pushbulletLink>?",
-      "answer": "App native per iOS e macOS che funzionano da qualsiasi menu di condivisione. Nessun account aggiuntivo richiesto- basta installare e usare."
-    },
-    "sendToMacVsFirefoxSendTabs": {
-      "question": "Perché Send to Mac è migliore di <firefoxSendTabsLink>Invia pannelli</firefoxSendTabsLink> di Firefox?",
-      "answer": "Funziona da qualsiasi app, non solo da Firefox. Supporta qualsiasi browser sul tuo Mac con meno tocchi."
-    },
-    "sendToMacVsFirefoxTabSync": {
-      "question": "Perché Send to Mac è migliore della sincronizzazione dei pannelli di Firefox?",
-      "answer": "Funziona da qualsiasi app con un menu di condivisione, non solo da Firefox. Supporta qualsiasi browser senza richiedere di tenere aperti i pannelli sul tuo dispositivo iOS."
-    },
-    "sendToMacVsHyperduck": {
-      "question": "Perché Send to Mac è migliore di <hyperduckLink>HyperDuck</hyperduckLink>?",
-      "answer": "Completamente gratuito con supporto per 37 lingue. Supporta automaticamente più Mac, include la condivisione da Mac a Mac e, oltre alla semplice condivisione, fornisce una pulizia e un deoffuscamento completi dei link."
-    }
-  },
   "cta": {
     "title": "Lettore di Codici QR e Pulizia Link - Proteggi la Tua Privacy",
     "description": "Rivela istantaneamente l'URL reale, cancella i tracker nascosti e crea codici QR pronti da condividere - tutto 100% sul dispositivo, 100% gratuito.",
@@ -342,5 +214,149 @@
   },
   "appRating": {
     "text": "{rating} ({count, plural, =0 {nessuna recensione} =1 {# recensione} other {# recensioni}})"
+  },
+  "faqPage": {
+    "metadata": {
+      "title": "FAQ",
+      "description": "Trova risposte chiare su Clean Links-come puliamo i parametri di tracciamento, blocchiamo il phishing tramite codice QR e manteniamo tutto al 100% sul dispositivo."
+    },
+    "heading": {
+      "title": "FAQ",
+      "description": "Domande frequenti su Clean Links"
+    },
+    "items": {
+      "whatIs": {
+        "question": "Cos'è Clean Links?",
+        "answer": "Clean Links è un'utility gratuita per iPhone, iPad e Mac che rimuove i parametri di tracciamento dagli URL e svela la vera destinazione di codici QR e link abbreviati, così apri solo ciò che desideri, senza tracker o reindirizzamenti nascosti."
+      },
+      "deviceRequirements": {
+        "question": "Quali dispositivi e versioni di iOS supporta Clean Links?",
+        "answer": "Clean Links supporta i dispositivi iPhone, iPad e Mac con iOS 18.0 o versioni successive (iPhone/iPad) o macOS Sequoia o versioni successive."
+      },
+      "whyCreate": {
+        "question": "Perché abbiamo creato Clean Links?",
+        "answer": "Inizialmente l'abbiamo creato per noi stessi, per evitare di cadere nel \"quishing\" e per proteggerci dai link pieni di tracker. Successivamente abbiamo scoperto che il phishing e il quishing colpiscono molte persone perbene in tutto il mondo, anche con competenze tecniche. Così, abbiamo deciso di renderlo disponibile a tutti, gratuitamente."
+      },
+      "privacyProtection": {
+        "question": "Come protegge la mia privacy Clean Links?",
+        "answer": "Tutta l'elaborazione avviene sul tuo dispositivo: nessun cookie, identificatore o dato analitico lascia mai il tuo telefono. Clean Links rimuove semplicemente i parametri di tracciamento noti (tag UTM, ID di affiliazione, token ad-tech) prima di caricare un link. Per i link abbreviati, effettuiamo le richieste in un contesto isolato, senza cookie, sessioni, ecc. Questo vanifica il tracciamento tramite cookie utilizzato da accorciatori di URL, inserzionisti e broker di dati per tracciare gli utenti."
+      },
+      "phishingProtection": {
+        "question": "Clean Links può bloccare i tentativi di phishing (\"quishing\")?",
+        "answer": "Sì. Quando scansioni un codice QR, Clean Links ti mostra l'URL completo e non mascherato. Puoi decidere se aprirlo o meno. Questo è diverso dall'app Fotocamera di iOS e da altre app a pagamento per la lettura di codici QR, che aprono semplicemente il link a cui punta il codice QR, senza il tuo consenso. Inoltre: quando segue i reindirizzamenti, Clean Links utilizza API di basso livello (NSURLRequest) che hanno una superficie di attacco molto ridotta, rispetto a quella di un browser web completo. Pertanto, Clean Links è immune alla maggior parte degli exploit zero-day che colpiscono i browser web. In secondo luogo, l'app viene eseguita nella sua sandbox, il che aggiunge un ulteriore livello di sicurezza."
+      },
+      "historyStorage": {
+        "question": "Clean Links archivia la mia cronologia o i codici QR scansionati?",
+        "answer": "No. Per scelta progettuale, Clean Links non registra né archivia i link che pulisci o scansioni."
+      },
+      "cleanWorkflow": {
+        "question": "Come pulisco un link che ho copiato?",
+        "answer": "Puoi creare un comando rapido di Apple che prende l'URL dai tuoi appunti, lo pulisce e reinserisce il link pulito. Ad esempio, scarica questo <shortcut>comando rapido con un tocco</shortcut>. Per un accesso ancora più rapido, assegna il comando rapido al tasto Azione del tuo iPhone (iPhone 15 Pro e modelli successivi), così basterà una singola pressione per pulire il link negli appunti. Puoi aggiungere Clean Links al Centro di Controllo su iPhone, iPad e Mac: scegli tra due azioni: \"Apri app\" o \"Lettore QR\". Accedi a queste azioni direttamente dal Centro di Controllo o dalla schermata di blocco, oppure assegnale al tasto Azione per pulire con un tocco da qualsiasi schermata. Puoi anche aprire manualmente l'app Clean Links e incollare il tuo URL per pulirlo."
+      },
+      "qrScanning": {
+        "question": "Come si scansiona un codice QR?",
+        "answer": "Avvia Clean Links dalla schermata Home, da un Comando Rapido o dal Tasto Azione su iPhone, iPad o Mac e punta la fotocamera verso il codice. Vedrai l'URL di destinazione reale prima di scegliere se aprirlo. Clean Links segue eventuali reindirizzamenti e rimuove i parametri di tracciamento dalla destinazione finale, prevenendo i link di phishing nascosti dietro servizi di link abbreviati o di reindirizzamento."
+      },
+      "urlExpansion": {
+        "question": "Posso espandere e visualizzare in anteprima gli URL abbreviati?",
+        "answer": "Assolutamente. Incolla o condividi qualsiasi link di bit.ly, TinyURL, t.co o altro short link in Clean Links. Espande tutte le catene di reindirizzamento e ti mostra l'URL finale prima che tu lo apra."
+      },
+      "qrGeneration": {
+        "question": "Posso generare un codice QR sicuro per la privacy da un link pulito?",
+        "answer": "Sì. Dopo aver pulito un URL, tocca 'Genera QR' per creare un nuovo codice che puoi condividere, completamente privo di parametri di tracciamento. È particolarmente utile quando vuoi condividere il link pulito con gli amici: basta un tocco e loro possono scansionare il tuo codice QR per aprire lo stesso identico URL, senza tracker. È utile anche quando cerchi di condividere contenuti con i tuoi amici che usano Android, senza essere spiato da... ehm, come si chiama quell'app? Questo aiuta te e i tuoi amici a non essere bombardati per una o due settimane da annunci relativi al contenuto che avete appena condiviso."
+      },
+      "systemIntegration": {
+        "question": "Clean Links funziona all'interno di Safari, Mail e altre app?",
+        "answer": "Sì. L'estensione di Clean Links per il menu di condivisione a livello di sistema su iPhone, iPad e Mac può essere usata in Safari, Mail, X (Twitter), Youtube, LinkedIn o qualsiasi altra app che utilizzi i menu di condivisione nativi."
+      },
+      "shortcutsAutomation": {
+        "question": "Posso automatizzare la pulizia dei link con i Comandi Rapidi o Siri?",
+        "answer": "Clean Links offre Intenti dell'app che funzionano sia con Comandi Rapidi che con Siri. Puoi creare un comando rapido che pulisce i link presenti negli appunti o altrove. Ad esempio, usa questo <shortcut>comando rapido \"Clean Links\"</shortcut> per prelevare il link dai tuoi appunti, pulirlo e incollare l'URL pulito di nuovo negli appunti."
+      },
+      "manualCleaning": {
+        "question": "A cosa serve quest'app e perché non posso semplicemente pulire i link manualmente?",
+        "answer": "La maggior parte dei parametri di tracciamento è ora nascosta dietro reindirizzamenti come t.co, l.facebook.com, l.instagram.com e lnkd.in - non puoi vedere questi parametri finché non fai clic. Clean Links gestisce tutto questo automaticamente per te, risparmiandoti un noioso lavoro manuale e proteggendoti dai tracker nascosti."
+      },
+      "localProcessing": {
+        "question": "L'elaborazione è davvero locale? Vedo che l'app effettua richieste di rete all'URL.",
+        "answer": "Sì, Clean Links elabora tutto interamente in locale. Clean Links può pulire la maggior parte dei link con parametri di tracciamento e link di reindirizzamento completamente offline, senza effettuare alcuna richiesta di rete. Per i link provenienti da accorciatori di URL e da alcune reti pubblicitarie, l'URL di reindirizzamento non può essere calcolato solo dall'URL. In questi casi, Clean Links effettua richieste di rete direttamente dal tuo dispositivo per risolvere i parametri di tracciamento nascosti dietro i reindirizzamenti; questo è tecnicamente necessario perché molti tracker vengono rivelati solo dopo aver seguito la catena di reindirizzamento. Tuttavia, non è coinvolta alcuna API di terze parti (nemmeno i nostri server). Ogni richiesta parte da zero: nessun cookie viene mantenuto tra le richieste, non viene conservata alcuna cronologia di navigazione e utilizziamo sessioni sandbox con user agent casuali. Inoltre, rimuoviamo i parametri di tracciamento prima e dopo aver seguito ogni reindirizzamento. Gli accorciatori di URL sono usati principalmente per nascondere i parametri di tracciamento negli URL e questa funzione di Clean Links risolve tale lacuna, cosa che non può essere fatta copiando e incollando manualmente parti di link o da webapp come \"Link Cleaner\" che non seguono i reindirizzamenti. Soprattutto, non registriamo né tracciamo quali link pulisci. Mai. La tua attività di pulizia dei link rimane completamente privata sul tuo dispositivo. Per un'ulteriore protezione della privacy, ti consigliamo di utilizzare Relay privato iCloud o una VPN per mascherare il tuo indirizzo IP quando Clean Links effettua queste necessarie richieste di rete per risolvere i reindirizzamenti."
+      },
+      "safariAtfp": {
+        "question": "In cosa si differenzia Clean Links dalla Protezione avanzata dal tracciamento e dal fingerprinting di Safari in iOS 26?",
+        "answer": "La Protezione avanzata dal tracciamento e dal fingerprinting (ATFP) di Safari in iOS 26 e eccellente per ridurre il tracciamento durante la navigazione su Safari, ma ha i suoi limiti. L'ATFP funziona solo in Safari, non nei browser in-app (come le visualizzazioni web di Instagram o TikTok) o in altri browser. Inoltre, non visualizza l'anteprima dei link brevi ne pulisce i tracker che compaiono alla fine delle catene di reindirizzamento. Clean Links integra l'ATFP funzionando a livello di sistema su tutte le app, seguendo ogni passaggio dei reindirizzamenti e mostrandoti l'URL finale prima di aprirlo. Quando condividi un link, Clean Links rimuove i wrapper delle piattaforme (come t.co o l.instagram.com) cosi i tuoi destinatari ricevono URL veramente puliti, indipendentemente dal fatto che usino Safari o abbiano l'ATFP abilitato. Usali entrambi insieme: mantieni attivo l'ATFP in Safari per la protezione automatica nel browser e usa Clean Links prima di aprire o condividere link per gestire shortener, reindirizzamenti e scenari multi-app. <link>Leggi il nostro confronto dettagliato</link> per saperne di piu."
+      },
+      "vsOtherCleaners": {
+        "question": "In cosa si differenzia Clean Links da altri pulitori di URL come Firefox, Brave o Link Cleaner?",
+        "answer": "La maggior parte dei pulitori di URL (inclusi Firefox, Brave e strumenti web come Link Cleaner) si concentra sulla rimozione dei parametri di tracciamento visibili dall'URL fornito. Non seguono le catene di reindirizzamento, quindi i tracker nascosti dietro shortlink (bit.ly, t.co, lnkd.in) o wrapper social (l.facebook.com, l.instagram.com) sfuggono al controllo. Firefox mantiene persino una allowlist che lascia passare alcuni tracker delle grandi aziende tecnologiche. Clean Links e diverso: segue ogni passaggio dei reindirizzamenti, espande gli shortlink e rimuove i tracker a ogni step, rivelando la destinazione finale prima che tu la apra. Clean Links include anche un lettore di codici QR integrato che mostra un'anteprima sicura degli URL, funziona al 100% sul dispositivo con zero dati analitici (a differenza delle statistiche di utilizzo anonime di Link Cleaner) e si integra nativamente con i Fogli di condivisione di iOS, i Comandi Rapidi, Siri e il monitoraggio degli appunti del Mac. Se desideri una protezione completa che intercetta i tracker nascosti e funziona su tutti i tuoi dispositivi Apple, Clean Links e stato creato appositamente per questo. <link>Consulta il confronto completo con Link Cleaner</link> per maggiori dettagli."
+      },
+      "sendToMac": {
+        "question": "Come invio i link dal mio iPhone al mio Mac?",
+        "answer": "Clean Links ti permette di condividere link da iPhone a Mac usando il menu di condivisione. Il tuo dispositivo iOS e il tuo Mac devono avere Clean Links installato, iCloud abilitato ed essere collegati allo stesso account Apple. I link vengono inviati tramite la sincronizzazione iCloud, quindi funzionano anche quando il tuo Mac è offline o su una rete diversa: il link apparirà automaticamente quando il Mac tornerà online. È più veloce di AirDrop, più affidabile dei pannelli di Safari e funziona con qualsiasi browser sul tuo Mac. <link>Leggi la nostra guida dettagliata su come inviare link da iPhone a Mac</link> per saperne di più."
+      },
+      "sendToMacVsAirdrop": {
+        "question": "In che modo Invia a Mac è migliore di AirDrop?",
+        "answer": "Funziona anche quando il tuo Mac è in stop o fuori portata, apre i link silenziosamente in background e funziona sempre in modo affidabile. Nessun problema di connessione o attesa."
+      },
+      "sendToMacVsIcloudTabs": {
+        "question": "Perché Send to Mac è migliore di <icloudTabsLink>Pannelli iCloud</icloudTabsLink>?",
+        "answer": "Funziona da qualsiasi app con un menu di condivisione, non solo da Safari. I link si aprono automaticamente come pannelli del browser- non puoi perderli. Non devi cercare in lunghe liste di pannelli sincronizzati e supporta qualsiasi browser sul tuo Mac."
+      },
+      "sendToMacMultipleMacs": {
+        "question": "Posso inviare link a più Mac?",
+        "answer": "Sì. Puoi inviare link a tutti i tuoi Mac, a condizione che tu abbia installato Clean Links per macOS su di essi e che siano collegati allo stesso account Apple. Puoi disabilitare la ricezione dei link nelle impostazioni dell'app per macOS se vuoi escludere un Mac specifico."
+      },
+      "sendToMacShortcuts": {
+        "question": "Posso usare Send to Mac con Comandi Rapidi?",
+        "answer": "Sì. La funzionalità di condivisione principale è disponibile come 'App Intent', rendendo semplice creare comandi rapidi e automazioni tra dispositivi."
+      },
+      "sendToMacVsSafariTabGroups": {
+        "question": "Perché Send to Mac è migliore dei Gruppi di pannelli di Safari?",
+        "answer": "Funziona da qualsiasi app, non solo da Safari. Supporta qualsiasi browser sul tuo Mac senza richiedere di tenere aperti i pannelli sul tuo dispositivo iOS."
+      },
+      "sendToMacVsSafariReadingList": {
+        "question": "Perché Send to Mac è migliore dell'Elenco lettura di Safari?",
+        "answer": "I link si aprono automaticamente nel tuo browser- non puoi perderli. Non devi cercare in lunghe liste e supporta qualsiasi browser."
+      },
+      "sendToMacVsHandoff": {
+        "question": "Perché Send to Mac è migliore di <handoffLink>Handoff</handoffLink>?",
+        "answer": "Clean Links include il supporto per Handoff quando i dispositivi sono vicini, ma funziona anche quando il tuo Mac è in stop o fuori portata. Supporta qualsiasi app con un menu di condivisione e qualsiasi browser, apre i link automaticamente in background e funziona sempre in modo affidabile."
+      },
+      "sendToMacVsUniversalClipboard": {
+        "question": "Perché Send to Mac è migliore di <universalClipboardLink>Appunti universali</universalClipboardLink>?",
+        "answer": "I link si aprono automaticamente- non è necessario incollare manualmente. Funziona anche quando il tuo Mac è in stop o fuori portata e l'invio è istantaneo."
+      },
+      "sendToMacVsImessage": {
+        "question": "Perché Send to Mac è migliore di iMessage?",
+        "answer": "I link si aprono automaticamente nel browser senza dover controllare i messaggi. Si aprono silenziosamente in background così puoi continuare a fare quello che stavi facendo."
+      },
+      "sendToMacVsEmail": {
+        "question": "Perché Send to Mac è migliore dell'email?",
+        "answer": "I link si aprono automaticamente senza controllare la posta in arrivo. Si aprono silenziosamente in background e mantengono pulita la tua casella di posta."
+      },
+      "sendToMacVsPushbullet": {
+        "question": "Perché Send to Mac è migliore di <pushbulletLink>Pushbullet</pushbulletLink>?",
+        "answer": "App native per iOS e macOS che funzionano da qualsiasi menu di condivisione. Nessun account aggiuntivo richiesto- basta installare e usare."
+      },
+      "sendToMacVsFirefoxSendTabs": {
+        "question": "Perché Send to Mac è migliore di <firefoxSendTabsLink>Invia pannelli</firefoxSendTabsLink> di Firefox?",
+        "answer": "Funziona da qualsiasi app, non solo da Firefox. Supporta qualsiasi browser sul tuo Mac con meno tocchi."
+      },
+      "sendToMacVsFirefoxTabSync": {
+        "question": "Perché Send to Mac è migliore della sincronizzazione dei pannelli di Firefox?",
+        "answer": "Funziona da qualsiasi app con un menu di condivisione, non solo da Firefox. Supporta qualsiasi browser senza richiedere di tenere aperti i pannelli sul tuo dispositivo iOS."
+      },
+      "sendToMacVsHyperduck": {
+        "question": "Perché Send to Mac è migliore di <hyperduckLink>HyperDuck</hyperduckLink>?",
+        "answer": "Completamente gratuito con supporto per 37 lingue. Supporta automaticamente più Mac, include la condivisione da Mac a Mac e, oltre alla semplice condivisione, fornisce una pulizia e un deoffuscamento completi dei link."
+      }
+    },
+    "viewAll": "Visualizza tutto",
+    "categories": {
+      "gettingStarted": "Per iniziare",
+      "privacySecurity": "Privacy e sicurezza",
+      "features": "Funzionalità e integrazioni",
+      "sendToMac": "Invia a Mac",
+      "comparisons": "Confronti"
+    }
   }
 }

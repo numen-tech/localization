@@ -138,134 +138,6 @@
       "description": "在 Mac 菜单栏中运行 Clean Links,开启自动剪贴板监控功能。您复制的每个 URL 都会被立即清理、展开并剥离跟踪器 - 所有操作均在设备本地完成,为您的 macOS 工作流提供无需手动干预的完全隐私保护。"
     }
   },
-  "faq": {
-    "title": "常见问题",
-    "description": "关于 Clean Links 的常见问题",
-    "whatIs": {
-      "question": "什么是 Clean Links？",
-      "answer": "Clean Links 是一款适用于 iPhone、iPad 和 Mac 的免费工具，它可以剥离 URL 中的跟踪参数，并揭示二维码和短链接背后的真实目标——这样您就只会打开您想打开的内容，没有隐藏的跟踪器或重定向。"
-    },
-    "deviceRequirements": {
-      "question": "Clean Links 支持哪些设备和 iOS 版本？",
-      "answer": "Clean Links 支持能够运行 iOS 18.0 或更高版本 (iPhone/iPad) 或 macOS Sequoia 或更高版本的 iPhone、iPad 和 Mac 设备。"
-    },
-    "whyCreate": {
-      "question": "我们为什么创建 Clean Links？",
-      "answer": "我们最初是为自己开发的，以避免遭到“二维码钓鱼”并保护自己免受充满跟踪器的链接的侵害。后来我们了解到，网络钓鱼和二维码钓鱼正在影响世界各地许多善良的人，其中不乏有技术背景的人。因此，我们决定将其发布给所有人，并使其完全免费。"
-    },
-    "privacyProtection": {
-      "question": "Clean Links 如何保护我的隐私？",
-      "answer": "所有处理都在您的设备上进行——没有 Cookie、标识符或分析数据会离开您的手机。Clean Links 只是在加载链接前移除已知的跟踪参数（UTM 标签、联盟 ID、广告技术令牌）。对于短链接，我们在一个隔离的环境中发出请求，不带任何 Cookie、会话等。这挫败了网址缩短服务、广告商和数据代理商用来跟踪用户的基于 Cookie 的跟踪。"
-    },
-    "phishingProtection": {
-      "question": "Clean Links 能阻止网络钓鱼（“quishing”）尝试吗？",
-      "answer": "是的。当您扫描二维码时，Clean Links 会向您显示完整、未被掩盖的 URL。您可以自行决定是否打开它。这与 iOS 相机应用和其他付费二维码扫描器应用不同，后者会在未经您同意的情况下直接打开二维码指向的链接。另外一点是：在追踪重定向时，Clean Links 使用的是攻击面非常小的底层 (NSURLRequest) API，而不是一个功能完整的网页浏览器。因此，Clean Links 能免疫大多数针对网页浏览器的零日漏洞攻击。其次，该应用在自己的沙盒内运行，这又增加了一层安全性。"
-    },
-    "historyStorage": {
-      "question": "Clean Links 会储存我的历史记录或扫描过的二维码吗？",
-      "answer": "不会。出于设计理念，Clean Links 不会记录或储存您清理或扫描的任何链接。"
-    },
-    "cleanWorkflow": {
-      "question": "如何清理我复制的链接？",
-      "answer": "您可以创建一个 Apple 快捷指令，用于获取并清理剪贴板中的 URL，然后将清理后的链接存回剪贴板。例如，下载这个<shortcut>一键快捷指令</shortcut>。若想加快操作速度，可将该快捷指令分配给 iPhone 的操作按钮 (iPhone 15 Pro 及后续机型)，只需轻轻一按，即可随时随地清理剪贴板链接。您可以在 iPhone、iPad 和 Mac 上将 Clean Links 添加到控制中心，并从两个操作中选择：\"打开 App\" 或 \"二维码扫描器\"。您可以直接在控制中心或锁定屏幕上访问这些操作，或将它们分配给操作按钮，以便随时随地一键清理。您也可以手动打开 Clean Links App，并粘贴您的 URL 来进行清理。"
-    },
-    "qrScanning": {
-      "question": "我该如何扫描二维码？",
-      "answer": "在 iPhone、iPad 或 Mac 上，从主屏幕、快捷指令或操作按钮启动 Clean Links，然后将您的摄像头对准二维码。在选择打开之前，您会看到真实的目标 URL。Clean Links 会跟踪所有重定向并从最终目标地址中剥离跟踪参数——从而防止隐藏在短链接或重定向服务背后的网络钓鱼链接。"
-    },
-    "urlExpansion": {
-      "question": "我可以展开并预览缩短的网址吗？",
-      "answer": "当然可以。将任何 bit.ly、TinyURL、t.co 或其他短链接粘贴或分享到 Clean Links。它会展开所有的重定向链，并在您点击前向您显示最终的网址。"
-    },
-    "qrGeneration": {
-      "question": "我可以从清理过的链接生成一个注重隐私的二维码吗？",
-      "answer": "是的。清理 URL 后，点击“生成二维码”即可创建一个不含任何跟踪参数的新二维码进行分享。当您想与朋友分享清理后的链接时，这尤其方便：只需轻轻一点，他们就可以扫描您的二维码，打开完全相同、无跟踪器的 URL。当您想与使用安卓的朋友分享内容，又不想被某个（咳咳，那应用叫啥来着？）监视时，这也很有用。这能帮助您和您的朋友在接下来的一两周内，避免被与您刚分享内容相关的广告轰炸。"
-    },
-    "systemIntegration": {
-      "question": "Clean Links 可以在 Safari、邮件和其他应用内工作吗？",
-      "answer": "是的。Clean Links 在 iPhone、iPad 和 Mac 上的全系统分享表单扩展，可以在 Safari、邮件、X (Twitter)、Youtube、LinkedIn 或任何其他使用原生分享表单的应用中使用。"
-    },
-    "shortcutsAutomation": {
-      "question": "我可以用快捷指令或 Siri 自动化链接清理吗？",
-      "answer": "Clean Links 提供了 App 意图, 可与 Apple 快捷指令和 Siri 搭配使用。您可以创建快捷指令来清理剪贴板及其他位置的链接。例如, 使用此 <shortcut>\"Clean Links\" 快捷指令</shortcut> 可获取剪贴板中的链接, 将其清理, 然后将已清理的 URL 粘贴回剪贴板。"
-    },
-    "manualCleaning": {
-      "question": "我为什么需要这款应用，而不是直接手动清理链接呢？",
-      "answer": "如今，大多数跟踪参数都隐藏在诸如 t.co、l.facebook.com、l.instagram.com 和 lnkd.in 等重定向之后 - 在点击前你无法看到这些参数。Clean Links 会自动为你处理这一切，让你免于繁琐的手动操作，并保护你免受隐藏跟踪器的侵害。"
-    },
-    "localProcessing": {
-      "question": "这真的是本地处理吗？我看到它向 URL 发起了网络请求。",
-      "answer": "是的，Clean Links 真正做到了在本地处理所有数据。Clean Links 可以在完全离线、不发出任何网络请求的情况下，清理大多数带有跟踪参数和重定向的链接。对于来自网址缩短服务和某些广告网络的链接，其重定向后的 URL 无法仅从原始 URL 本身计算得出。在这种情况下，Clean Links 会直接从您的设备发出网络请求，以解析隐藏在重定向背后的跟踪参数——这在技术上是必要的，因为许多跟踪器只有在追踪完整个重定向链后才会显现。但是，这个过程不涉及任何第三方 API (甚至不包括我们自己的服务器)。每一次请求都从一个完全纯净的状态开始：请求之间不会保留任何 Cookie，不维护任何浏览历史记录，并且我们使用带有随机用户代理的沙盒会话。此外，在追踪每一次重定向前后，我们都会移除跟踪参数。网址缩短服务主要用于隐藏 URL 中的跟踪参数，而 Clean Links 的这项功能修复了这个漏洞。这是通过手动复制粘贴部分链接，或使用像 \"Link Cleaner\" 这样不追踪重定向的网络应用所无法做到的。最重要的是，我们绝不会记录或跟踪您清理的任何链接。您的链接清理活动完全保留在您的设备上，属于您的个人隐私。为了获得额外的隐私保护，我们建议您在 Clean Links 发出这些必要的网络请求以解析重定向时，使用 iCloud 专用代理或 VPN 来隐藏您的 IP 地址。"
-    },
-    "safariAtfp": {
-      "question": "Clean Links 和 iOS 26 中 Safari 的“高级跟踪与指纹保护”功能有什么区别？",
-      "answer": "iOS 26 中 Safari 的“高级跟踪与指纹保护”(ATFP) 功能在减少 Safari 浏览过程中的跟踪方面表现出色，但它存在一些局限性。ATFP 仅在 Safari 中生效，无法在应用内浏览器 (如 Instagram 或 TikTok 的网页视图) 或其他浏览器中工作。它也无法预览短链接，或清理出现在重定向链末端的跟踪器。Clean Links 作为 ATFP 的补充，它能跨所有应用在系统级别工作，追踪每一次重定向跳转，并在您打开链接前显示最终的 URL。当您分享链接时，Clean Links 会移除平台包装器 (如 t.co 或 l.instagram.com)，这样您的接收者无论是否使用 Safari 或启用了 ATFP，都能获得真正干净的 URL。建议两者结合使用：在 Safari 中保持开启 ATFP 以获得自动的浏览器内保护，并在打开或分享链接前使用 Clean Links 来处理短链接、重定向和跨应用场景。<link>阅读我们的详细对比</link>以了解更多。"
-    },
-    "vsOtherCleaners": {
-      "question": "Clean Links 与 Firefox、Brave 或 Link Cleaner 等其他 URL 清理工具有何不同？",
-      "answer": "大多数 URL 清理工具 (包括 Firefox、Brave 和像 Link Cleaner 这样的网页工具) 专注于从您提供的 URL 中删除可见的跟踪参数。它们不会追踪重定向链，因此隐藏在短链接 (bit.ly、t.co、lnkd.in) 或社交平台包装器 (l.facebook.com、l.instagram.com) 后的跟踪器会漏掉。Firefox 甚至维护着一个白名单，允许某些大型科技公司的跟踪器通过。Clean Links 则不同：它会追踪每一次重定向跳转，展开短链接，并在每一步剥离跟踪器，在您打开前揭示最终的目的地。Clean Links 还内置了一个二维码扫描器，可以安全地预览 URL，它 100% 在设备上运行，不收集任何分析数据 (不像 Link Cleaner 会收集匿名使用统计数据)，并与 iOS 的分享菜单、快捷指令、Siri 以及 Mac 的剪贴板监控功能原生集成。如果您想要全面的保护，能够捕获隐藏的跟踪器，并能在您所有的 Apple 设备上无缝工作，Clean Links 正是为此而生。<link>查看与 Link Cleaner 的完整对比</link>以了解更多详情。"
-    },
-    "sendToMac": {
-      "question": "如何将链接从 iPhone 发送到 Mac？",
-      "answer": "Clean Links 允许您使用分享菜单将链接从 iPhone 分享到 Mac。您的 iOS 设备和 Mac 都必须安装 Clean Links，启用 iCloud，并登录同一个 Apple 账户。链接通过 iCloud 同步发送，因此即使您的 Mac 离线或在不同网络上，链接也会在 Mac 上线后自动出现。这比 AirDrop 更快，比 Safari 标签页更可靠，并适用于您 Mac 上的任何浏览器。<link>阅读我们关于从 iPhone 发送链接到 Mac 的详细指南</link>以了解更多信息。"
-    },
-    "sendToMacVsAirdrop": {
-      "question": "\"发送到 Mac\" 功能相比 AirDrop 有何优势？",
-      "answer": "即使 Mac 处于睡眠状态或不在连接范围内也能正常工作，链接会在后台静默打开，每次都能可靠送达。没有连接问题，无需等待。"
-    },
-    "sendToMacVsIcloudTabs": {
-      "question": "“发送到 Mac”比 <icloudTabsLink>iCloud Tabs</icloudTabsLink> 好在哪里？",
-      "answer": "可在任何带有分享菜单的应用中使用，而不仅限于 Safari。链接会自动以浏览器标签页的形式打开——你绝不会错过。无需在长长的同步标签页列表中翻找，并且支持你 Mac 上的任何浏览器。"
-    },
-    "sendToMacMultipleMacs": {
-      "question": "我可以将链接发送到多台 Mac 吗？",
-      "answer": "可以。只要您的所有 Mac 都安装了 Clean Links for macOS，并且登录了同一个 Apple 账户，您就可以将链接发送到所有这些设备。如果您想排除某台特定的 Mac，可以在 macOS 应用的设置中禁用接收链接。"
-    },
-    "sendToMacShortcuts": {
-      "question": "我可以将“发送到 Mac”与 Shortcuts 搭配使用吗？",
-      "answer": "可以。其核心分享功能已作为 App Intent 提供，让你能轻松构建跨设备的快捷指令和自动化流程。"
-    },
-    "sendToMacVsSafariTabGroups": {
-      "question": "“发送到 Mac”比 Safari Tab Groups 好在哪里？",
-      "answer": "可在任何应用中使用，而不仅限于 Safari。支持你 Mac 上的任何浏览器，且无需在你的 iOS 设备上保持标签页打开。"
-    },
-    "sendToMacVsSafariReadingList": {
-      "question": "“发送到 Mac”比 Safari Reading List 好在哪里？",
-      "answer": "链接会在你的浏览器中自动打开——你绝不会错过。无需在累积的列表中搜索，并且支持任何浏览器。"
-    },
-    "sendToMacVsHandoff": {
-      "question": "“发送到 Mac”比 <handoffLink>Handoff</handoffLink> 好在哪里？",
-      "answer": "当设备在附近时，Clean Links 支持 Handoff 功能，但即使你的 Mac 处于睡眠状态或不在连接范围内，它也能正常工作。支持任何带有分享菜单的应用和任何浏览器，链接会在后台自动打开，并且每次都能可靠运行。"
-    },
-    "sendToMacVsUniversalClipboard": {
-      "question": "“发送到 Mac”比 <universalClipboardLink>Universal Clipboard</universalClipboardLink> 好在哪里？",
-      "answer": "链接会自动打开——无需手动粘贴。即使你的 Mac 处于睡眠状态或不在连接范围内也能正常工作，并能即时送达。"
-    },
-    "sendToMacVsImessage": {
-      "question": "“发送到 Mac”比 iMessage 好在哪里？",
-      "answer": "链接会在你的浏览器中自动打开，无需查看信息。它会在后台静默打开，因此你可以继续进行当前操作。"
-    },
-    "sendToMacVsEmail": {
-      "question": "“发送到 Mac”比电子邮件好在哪里？",
-      "answer": "链接会自动打开，无需查看收件箱。它会在后台静默打开，并保持你的收件箱整洁。"
-    },
-    "sendToMacVsPushbullet": {
-      "question": "“发送到 Mac”比 <pushbulletLink>Pushbullet</pushbulletLink> 好在哪里？",
-      "answer": "原生的 iOS 和 macOS 应用，可在任何分享菜单中使用。无需额外账户——只需安装即可使用。"
-    },
-    "sendToMacVsFirefoxSendTabs": {
-      "question": "“发送到 Mac”比 Firefox <firefoxSendTabsLink>Send Tabs</firefoxSendTabsLink> 好在哪里？",
-      "answer": "可在任何应用中使用，而不仅限于 Firefox。支持你 Mac 上的任何浏览器，且操作步骤更少。"
-    },
-    "sendToMacVsFirefoxTabSync": {
-      "question": "“发送到 Mac”比 Firefox tab sync 好在哪里？",
-      "answer": "可在任何带有分享菜单的应用中使用，而不仅限于 Firefox。支持任何浏览器，且无需在你的 iOS 设备上保持标签页打开。"
-    },
-    "sendToMacVsHyperduck": {
-      "question": "“发送到 Mac”比 <hyperduckLink>HyperDuck</hyperduckLink> 好在哪里？",
-      "answer": "完全免费，支持 37 种语言。自动支持多台 Mac，包括 Mac 之间的分享功能，并且除了分享之外，还提供全面的链接清理和反混淆功能。"
-    }
-  },
   "cta": {
     "title": "二维码读取器与链接清理器 - 保护您的隐私",
     "description": "即时揭示真实网址，清除隐藏的跟踪器，并创建可随时分享的二维码——全部 100% 在设备上完成，100% 免费。",
@@ -342,5 +214,149 @@
   },
   "appRating": {
     "text": "{rating} ({count, plural, =0 {暂无评价} =1 {# 条评价} other {# 条评价}})"
+  },
+  "faqPage": {
+    "metadata": {
+      "title": "常见问题",
+      "description": "了解 Clean Links 如何清理跟踪参数、阻止二维码钓鱼，以及将所有数据 100% 保留在设备上。"
+    },
+    "heading": {
+      "title": "常见问题",
+      "description": "关于 Clean Links 的常见问题"
+    },
+    "items": {
+      "whatIs": {
+        "question": "什么是 Clean Links？",
+        "answer": "Clean Links 是一款适用于 iPhone、iPad 和 Mac 的免费工具，它可以剥离 URL 中的跟踪参数，并揭示二维码和短链接背后的真实目标——这样您就只会打开您想打开的内容，没有隐藏的跟踪器或重定向。"
+      },
+      "deviceRequirements": {
+        "question": "Clean Links 支持哪些设备和 iOS 版本？",
+        "answer": "Clean Links 支持能够运行 iOS 18.0 或更高版本 (iPhone/iPad) 或 macOS Sequoia 或更高版本的 iPhone、iPad 和 Mac 设备。"
+      },
+      "whyCreate": {
+        "question": "我们为什么创建 Clean Links？",
+        "answer": "我们最初是为自己开发的，以避免遭到“二维码钓鱼”并保护自己免受充满跟踪器的链接的侵害。后来我们了解到，网络钓鱼和二维码钓鱼正在影响世界各地许多善良的人，其中不乏有技术背景的人。因此，我们决定将其发布给所有人，并使其完全免费。"
+      },
+      "privacyProtection": {
+        "question": "Clean Links 如何保护我的隐私？",
+        "answer": "所有处理都在您的设备上进行——没有 Cookie、标识符或分析数据会离开您的手机。Clean Links 只是在加载链接前移除已知的跟踪参数（UTM 标签、联盟 ID、广告技术令牌）。对于短链接，我们在一个隔离的环境中发出请求，不带任何 Cookie、会话等。这挫败了网址缩短服务、广告商和数据代理商用来跟踪用户的基于 Cookie 的跟踪。"
+      },
+      "phishingProtection": {
+        "question": "Clean Links 能阻止网络钓鱼（“quishing”）尝试吗？",
+        "answer": "是的。当您扫描二维码时，Clean Links 会向您显示完整、未被掩盖的 URL。您可以自行决定是否打开它。这与 iOS 相机应用和其他付费二维码扫描器应用不同，后者会在未经您同意的情况下直接打开二维码指向的链接。另外一点是：在追踪重定向时，Clean Links 使用的是攻击面非常小的底层 (NSURLRequest) API，而不是一个功能完整的网页浏览器。因此，Clean Links 能免疫大多数针对网页浏览器的零日漏洞攻击。其次，该应用在自己的沙盒内运行，这又增加了一层安全性。"
+      },
+      "historyStorage": {
+        "question": "Clean Links 会储存我的历史记录或扫描过的二维码吗？",
+        "answer": "不会。出于设计理念，Clean Links 不会记录或储存您清理或扫描的任何链接。"
+      },
+      "cleanWorkflow": {
+        "question": "如何清理我复制的链接？",
+        "answer": "您可以创建一个 Apple 快捷指令，用于获取并清理剪贴板中的 URL，然后将清理后的链接存回剪贴板。例如，下载这个<shortcut>一键快捷指令</shortcut>。若想加快操作速度，可将该快捷指令分配给 iPhone 的操作按钮 (iPhone 15 Pro 及后续机型)，只需轻轻一按，即可随时随地清理剪贴板链接。您可以在 iPhone、iPad 和 Mac 上将 Clean Links 添加到控制中心，并从两个操作中选择：\"打开 App\" 或 \"二维码扫描器\"。您可以直接在控制中心或锁定屏幕上访问这些操作，或将它们分配给操作按钮，以便随时随地一键清理。您也可以手动打开 Clean Links App，并粘贴您的 URL 来进行清理。"
+      },
+      "qrScanning": {
+        "question": "我该如何扫描二维码？",
+        "answer": "在 iPhone、iPad 或 Mac 上，从主屏幕、快捷指令或操作按钮启动 Clean Links，然后将您的摄像头对准二维码。在选择打开之前，您会看到真实的目标 URL。Clean Links 会跟踪所有重定向并从最终目标地址中剥离跟踪参数——从而防止隐藏在短链接或重定向服务背后的网络钓鱼链接。"
+      },
+      "urlExpansion": {
+        "question": "我可以展开并预览缩短的网址吗？",
+        "answer": "当然可以。将任何 bit.ly、TinyURL、t.co 或其他短链接粘贴或分享到 Clean Links。它会展开所有的重定向链，并在您点击前向您显示最终的网址。"
+      },
+      "qrGeneration": {
+        "question": "我可以从清理过的链接生成一个注重隐私的二维码吗？",
+        "answer": "是的。清理 URL 后，点击“生成二维码”即可创建一个不含任何跟踪参数的新二维码进行分享。当您想与朋友分享清理后的链接时，这尤其方便：只需轻轻一点，他们就可以扫描您的二维码，打开完全相同、无跟踪器的 URL。当您想与使用安卓的朋友分享内容，又不想被某个（咳咳，那应用叫啥来着？）监视时，这也很有用。这能帮助您和您的朋友在接下来的一两周内，避免被与您刚分享内容相关的广告轰炸。"
+      },
+      "systemIntegration": {
+        "question": "Clean Links 可以在 Safari、邮件和其他应用内工作吗？",
+        "answer": "是的。Clean Links 在 iPhone、iPad 和 Mac 上的全系统分享表单扩展，可以在 Safari、邮件、X (Twitter)、Youtube、LinkedIn 或任何其他使用原生分享表单的应用中使用。"
+      },
+      "shortcutsAutomation": {
+        "question": "我可以用快捷指令或 Siri 自动化链接清理吗？",
+        "answer": "Clean Links 提供了 App 意图, 可与 Apple 快捷指令和 Siri 搭配使用。您可以创建快捷指令来清理剪贴板及其他位置的链接。例如, 使用此 <shortcut>\"Clean Links\" 快捷指令</shortcut> 可获取剪贴板中的链接, 将其清理, 然后将已清理的 URL 粘贴回剪贴板。"
+      },
+      "manualCleaning": {
+        "question": "我为什么需要这款应用，而不是直接手动清理链接呢？",
+        "answer": "如今，大多数跟踪参数都隐藏在诸如 t.co、l.facebook.com、l.instagram.com 和 lnkd.in 等重定向之后 - 在点击前你无法看到这些参数。Clean Links 会自动为你处理这一切，让你免于繁琐的手动操作，并保护你免受隐藏跟踪器的侵害。"
+      },
+      "localProcessing": {
+        "question": "这真的是本地处理吗？我看到它向 URL 发起了网络请求。",
+        "answer": "是的，Clean Links 真正做到了在本地处理所有数据。Clean Links 可以在完全离线、不发出任何网络请求的情况下，清理大多数带有跟踪参数和重定向的链接。对于来自网址缩短服务和某些广告网络的链接，其重定向后的 URL 无法仅从原始 URL 本身计算得出。在这种情况下，Clean Links 会直接从您的设备发出网络请求，以解析隐藏在重定向背后的跟踪参数——这在技术上是必要的，因为许多跟踪器只有在追踪完整个重定向链后才会显现。但是，这个过程不涉及任何第三方 API (甚至不包括我们自己的服务器)。每一次请求都从一个完全纯净的状态开始：请求之间不会保留任何 Cookie，不维护任何浏览历史记录，并且我们使用带有随机用户代理的沙盒会话。此外，在追踪每一次重定向前后，我们都会移除跟踪参数。网址缩短服务主要用于隐藏 URL 中的跟踪参数，而 Clean Links 的这项功能修复了这个漏洞。这是通过手动复制粘贴部分链接，或使用像 \"Link Cleaner\" 这样不追踪重定向的网络应用所无法做到的。最重要的是，我们绝不会记录或跟踪您清理的任何链接。您的链接清理活动完全保留在您的设备上，属于您的个人隐私。为了获得额外的隐私保护，我们建议您在 Clean Links 发出这些必要的网络请求以解析重定向时，使用 iCloud 专用代理或 VPN 来隐藏您的 IP 地址。"
+      },
+      "safariAtfp": {
+        "question": "Clean Links 和 iOS 26 中 Safari 的“高级跟踪与指纹保护”功能有什么区别？",
+        "answer": "iOS 26 中 Safari 的“高级跟踪与指纹保护”(ATFP) 功能在减少 Safari 浏览过程中的跟踪方面表现出色，但它存在一些局限性。ATFP 仅在 Safari 中生效，无法在应用内浏览器 (如 Instagram 或 TikTok 的网页视图) 或其他浏览器中工作。它也无法预览短链接，或清理出现在重定向链末端的跟踪器。Clean Links 作为 ATFP 的补充，它能跨所有应用在系统级别工作，追踪每一次重定向跳转，并在您打开链接前显示最终的 URL。当您分享链接时，Clean Links 会移除平台包装器 (如 t.co 或 l.instagram.com)，这样您的接收者无论是否使用 Safari 或启用了 ATFP，都能获得真正干净的 URL。建议两者结合使用：在 Safari 中保持开启 ATFP 以获得自动的浏览器内保护，并在打开或分享链接前使用 Clean Links 来处理短链接、重定向和跨应用场景。<link>阅读我们的详细对比</link>以了解更多。"
+      },
+      "vsOtherCleaners": {
+        "question": "Clean Links 与 Firefox、Brave 或 Link Cleaner 等其他 URL 清理工具有何不同？",
+        "answer": "大多数 URL 清理工具 (包括 Firefox、Brave 和像 Link Cleaner 这样的网页工具) 专注于从您提供的 URL 中删除可见的跟踪参数。它们不会追踪重定向链，因此隐藏在短链接 (bit.ly、t.co、lnkd.in) 或社交平台包装器 (l.facebook.com、l.instagram.com) 后的跟踪器会漏掉。Firefox 甚至维护着一个白名单，允许某些大型科技公司的跟踪器通过。Clean Links 则不同：它会追踪每一次重定向跳转，展开短链接，并在每一步剥离跟踪器，在您打开前揭示最终的目的地。Clean Links 还内置了一个二维码扫描器，可以安全地预览 URL，它 100% 在设备上运行，不收集任何分析数据 (不像 Link Cleaner 会收集匿名使用统计数据)，并与 iOS 的分享菜单、快捷指令、Siri 以及 Mac 的剪贴板监控功能原生集成。如果您想要全面的保护，能够捕获隐藏的跟踪器，并能在您所有的 Apple 设备上无缝工作，Clean Links 正是为此而生。<link>查看与 Link Cleaner 的完整对比</link>以了解更多详情。"
+      },
+      "sendToMac": {
+        "question": "如何将链接从 iPhone 发送到 Mac？",
+        "answer": "Clean Links 允许您使用分享菜单将链接从 iPhone 分享到 Mac。您的 iOS 设备和 Mac 都必须安装 Clean Links，启用 iCloud，并登录同一个 Apple 账户。链接通过 iCloud 同步发送，因此即使您的 Mac 离线或在不同网络上，链接也会在 Mac 上线后自动出现。这比 AirDrop 更快，比 Safari 标签页更可靠，并适用于您 Mac 上的任何浏览器。<link>阅读我们关于从 iPhone 发送链接到 Mac 的详细指南</link>以了解更多信息。"
+      },
+      "sendToMacVsAirdrop": {
+        "question": "\"发送到 Mac\" 功能相比 AirDrop 有何优势？",
+        "answer": "即使 Mac 处于睡眠状态或不在连接范围内也能正常工作，链接会在后台静默打开，每次都能可靠送达。没有连接问题，无需等待。"
+      },
+      "sendToMacVsIcloudTabs": {
+        "question": "“发送到 Mac”比 <icloudTabsLink>iCloud Tabs</icloudTabsLink> 好在哪里？",
+        "answer": "可在任何带有分享菜单的应用中使用，而不仅限于 Safari。链接会自动以浏览器标签页的形式打开——你绝不会错过。无需在长长的同步标签页列表中翻找，并且支持你 Mac 上的任何浏览器。"
+      },
+      "sendToMacMultipleMacs": {
+        "question": "我可以将链接发送到多台 Mac 吗？",
+        "answer": "可以。只要您的所有 Mac 都安装了 Clean Links for macOS，并且登录了同一个 Apple 账户，您就可以将链接发送到所有这些设备。如果您想排除某台特定的 Mac，可以在 macOS 应用的设置中禁用接收链接。"
+      },
+      "sendToMacShortcuts": {
+        "question": "我可以将“发送到 Mac”与 Shortcuts 搭配使用吗？",
+        "answer": "可以。其核心分享功能已作为 App Intent 提供，让你能轻松构建跨设备的快捷指令和自动化流程。"
+      },
+      "sendToMacVsSafariTabGroups": {
+        "question": "“发送到 Mac”比 Safari Tab Groups 好在哪里？",
+        "answer": "可在任何应用中使用，而不仅限于 Safari。支持你 Mac 上的任何浏览器，且无需在你的 iOS 设备上保持标签页打开。"
+      },
+      "sendToMacVsSafariReadingList": {
+        "question": "“发送到 Mac”比 Safari Reading List 好在哪里？",
+        "answer": "链接会在你的浏览器中自动打开——你绝不会错过。无需在累积的列表中搜索，并且支持任何浏览器。"
+      },
+      "sendToMacVsHandoff": {
+        "question": "“发送到 Mac”比 <handoffLink>Handoff</handoffLink> 好在哪里？",
+        "answer": "当设备在附近时，Clean Links 支持 Handoff 功能，但即使你的 Mac 处于睡眠状态或不在连接范围内，它也能正常工作。支持任何带有分享菜单的应用和任何浏览器，链接会在后台自动打开，并且每次都能可靠运行。"
+      },
+      "sendToMacVsUniversalClipboard": {
+        "question": "“发送到 Mac”比 <universalClipboardLink>Universal Clipboard</universalClipboardLink> 好在哪里？",
+        "answer": "链接会自动打开——无需手动粘贴。即使你的 Mac 处于睡眠状态或不在连接范围内也能正常工作，并能即时送达。"
+      },
+      "sendToMacVsImessage": {
+        "question": "“发送到 Mac”比 iMessage 好在哪里？",
+        "answer": "链接会在你的浏览器中自动打开，无需查看信息。它会在后台静默打开，因此你可以继续进行当前操作。"
+      },
+      "sendToMacVsEmail": {
+        "question": "“发送到 Mac”比电子邮件好在哪里？",
+        "answer": "链接会自动打开，无需查看收件箱。它会在后台静默打开，并保持你的收件箱整洁。"
+      },
+      "sendToMacVsPushbullet": {
+        "question": "“发送到 Mac”比 <pushbulletLink>Pushbullet</pushbulletLink> 好在哪里？",
+        "answer": "原生的 iOS 和 macOS 应用，可在任何分享菜单中使用。无需额外账户——只需安装即可使用。"
+      },
+      "sendToMacVsFirefoxSendTabs": {
+        "question": "“发送到 Mac”比 Firefox <firefoxSendTabsLink>Send Tabs</firefoxSendTabsLink> 好在哪里？",
+        "answer": "可在任何应用中使用，而不仅限于 Firefox。支持你 Mac 上的任何浏览器，且操作步骤更少。"
+      },
+      "sendToMacVsFirefoxTabSync": {
+        "question": "“发送到 Mac”比 Firefox tab sync 好在哪里？",
+        "answer": "可在任何带有分享菜单的应用中使用，而不仅限于 Firefox。支持任何浏览器，且无需在你的 iOS 设备上保持标签页打开。"
+      },
+      "sendToMacVsHyperduck": {
+        "question": "“发送到 Mac”比 <hyperduckLink>HyperDuck</hyperduckLink> 好在哪里？",
+        "answer": "完全免费，支持 37 种语言。自动支持多台 Mac，包括 Mac 之间的分享功能，并且除了分享之外，还提供全面的链接清理和反混淆功能。"
+      }
+    },
+    "viewAll": "查看全部",
+    "categories": {
+      "gettingStarted": "快速入门",
+      "privacySecurity": "隐私与安全",
+      "features": "功能与集成",
+      "sendToMac": "发送到 Mac",
+      "comparisons": "对比"
+    }
   }
 }
