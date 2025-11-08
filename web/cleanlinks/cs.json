@@ -138,134 +138,6 @@
       "description": "Spusťte Clean Links v řádku nabídek na Macu s automatickým sledováním schránky. Každá URL adresa, kterou zkopírujete, je okamžitě vyčištěna, rozbalena a zbavena sledovacích prvků - vše probíhá na zařízení pro naprosté soukromí ve vašem pracovním postupu v macOS bez nutnosti ručního zásahu."
     }
   },
-  "faq": {
-    "title": "Časté dotazy",
-    "description": "Často kladené otázky o Clean Links",
-    "whatIs": {
-      "question": "Co je Clean Links?",
-      "answer": "Clean Links je bezplatný nástroj pro iPhone, iPad a Mac, který odstraňuje sledovací parametry z URL a odhaluje skutečný cíl za QR kódy a zkrácenými odkazy - takže otevíráte jen to, co opravdu chcete, bez skrytých sledovacích prvků nebo přesměrování."
-    },
-    "deviceRequirements": {
-      "question": "Která zařízení a verze iOS Clean Links podporuje?",
-      "answer": "Clean Links podporuje zařízení iPhone, iPad a Mac s operačním systémem iOS 18.0 nebo novějším (iPhone/iPad) nebo macOS Sequoia či novějším."
-    },
-    "whyCreate": {
-      "question": "Proč jsme vytvořili Clean Links?",
-      "answer": "Původně jsme jej vytvořili pro sebe, abychom se vyhnuli „quishingu“ (phishingu pomocí QR kódů) a chránili se před odkazy plnými sledování. Později jsme zjistili, že phishing a quishing postihuje mnoho dobrých lidí po celém světě, mnozí z nich s technickým vzděláním. Proto jsme se rozhodli jej uvolnit pro všechny a udělali jsme ho zcela zdarma."
-    },
-    "privacyProtection": {
-      "question": "Jak Clean Links chrání mé soukromí?",
-      "answer": "Veškeré zpracování probíhá na vašem zařízení – žádné cookies, identifikátory ani analytická data nikdy neopustí váš telefon. Clean Links jednoduše odstraní známé sledovací parametry (UTM tagy, affiliate ID, ad-tech tokeny) před načtením odkazu. U zkrácených odkazů provádíme požadavky v izolovaném kontextu, bez jakýchkoli cookies, relací atd. Tím maříme sledování pomocí cookies, které používají zkracovače URL, inzerenti a datoví brokeři ke sledování uživatelů."
-    },
-    "phishingProtection": {
-      "question": "Může Clean Links blokovat pokusy o phishing („quishing“)?",
-      "answer": "Ano. Když zkontrolujete QR kód, Clean Links vám ukáže celou, nemaskovanou URL adresu. Můžete se rozhodnout, zda ji chcete otevřít, nebo ne. To je rozdíl oproti aplikaci Fotoaparát v iOS a jiným placeným čtečkám QR kódů, které odkaz, na který QR kód směřuje, jednoduše otevřou bez vašeho souhlasu. A ještě jedna věc: při sledování přesměrování používá Clean Links nízkoúrovňová API (NSURLRequest), která mají ve srovnání s plnohodnotným webovým prohlížečem velmi malou plochu pro útok. Díky tomu je Clean Links imunní vůči většině zero-day exploitů, které cílí na webové prohlížeče. Zadruhé, aplikace běží ve vlastním sandboxu, což přidává další vrstvu zabezpečení."
-    },
-    "historyStorage": {
-      "question": "Ukládá Clean Links moji historii nebo zkontrolované QR kódy?",
-      "answer": "Ne. Clean Links je navržen tak, aby nezaznamenával ani neukládal odkazy, které čistíte nebo kontrolujete."
-    },
-    "cleanWorkflow": {
-      "question": "Jak vyčistím odkaz, který jsem zkopíroval?",
-      "answer": "Můžete si vytvořit zkratku Apple, která vezme URL adresu z vaší schránky, vyčistí ji a vloží vyčištěný odkaz zpět. Například si stáhněte tuto <shortcut>zkratku na jedno klepnutí</shortcut>. Pro ještě rychlejší přístup přiřaďte tuto zkratku tlačítku Akce na vašem iPhonu (iPhone 15 Pro a novější), takže jediným stisknutím kdekoli vyčistíte odkaz ve schránce. Aplikaci Clean Links si můžete přidat do Ovládacího centra na iPhonu, iPadu a Macu: na výběr jsou dvě akce - \"Otevřít aplikaci\" nebo \"Čtečka QR kódů\". K těmto akcím můžete přistupovat přímo v Ovládacím centru nebo na Zamykací obrazovce, nebo je přiřadit tlačítku Akce pro čištění jedním stisknutím odkudkoli. Aplikaci Clean Links můžete také otevřít ručně a vložit svou URL adresu k vyčištění."
-    },
-    "qrScanning": {
-      "question": "Jak zkontroluji QR kód?",
-      "answer": "Spusťte Clean Links z domovské obrazovky, pomocí Zkratky nebo tlačítka Akce na iPhonu, iPadu nebo Macu a namiřte fotoaparát na kód. Uvidíte skutečnou cílovou URL, než se rozhodnete ji otevřít. Clean Links sleduje všechna přesměrování a odstraňuje sledovací parametry z konečného cíle - čímž brání phishingovým odkazům skrytým za službami pro zkracování odkazů nebo přesměrování."
-    },
-    "urlExpansion": {
-      "question": "Mohu rozbalit a zobrazit náhled zkrácených URL?",
-      "answer": "Rozhodně. Vložte nebo sdílejte jakýkoli bit.ly, TinyURL, t.co nebo jiný krátký odkaz do Clean Links. Rozbalí všechny řetězce přesměrování a ukáže vám konečnou URL, než klepnete."
-    },
-    "qrGeneration": {
-      "question": "Mohu vygenerovat bezpečný QR kód z vyčištěného odkazu?",
-      "answer": "Ano. Po vyčištění URL klepněte na \"Generovat QR\" a vytvořte nový kód, který můžete sdílet zcela bez sledovacích parametrů. To se hodí zejména, když chcete sdílet vyčištěný odkaz s přáteli: stačí jedno klepnutí a oni mohou naskenovat váš QR kód a otevřít přesně tu samou URL bez sledovacích prvků. Hodí se to i tehdy, když se snažíte sdílet obsah s přáteli, kteří používají Android, aniž by vás sledoval... ehm, ehm: Jak se ta aplikace jmenuje? To vám a vašim přátelům pomůže vyhnout se záplavě reklam souvisejících s obsahem, který jste právě sdíleli, na další týden nebo dva."
-    },
-    "systemIntegration": {
-      "question": "Funguje Clean Links v Safari, Mailu a dalších aplikacích?",
-      "answer": "Ano. Rozšíření Clean Links pro list pro sdílení v celém systému na iPhonu, iPadu a Macu lze použít v Safari, Mailu, X (Twitter), Youtube, LinkedIn nebo jakékoli jiné aplikaci, která používá nativní list pro sdílení."
-    },
-    "shortcutsAutomation": {
-      "question": "Mohu automatizovat čištění odkazů pomocí Zkratek nebo Siri?",
-      "answer": "Clean Links poskytuje App Intents, které fungují s aplikací Zkratky od Apple i se Siri. Můžete si tak vytvořit zkratku, která vyčistí odkazy z vaší schránky nebo odjinud. Například <shortcut>zkratka \"Clean Links\"</shortcut> získá odkaz z vaší schránky, vyčistí ho a vyčištěnou URL vloží zpět do schránky."
-    },
-    "manualCleaning": {
-      "question": "Proč potřebuji tuto aplikaci a proč si nemohu odkazy prostě čistit ručně?",
-      "answer": "Většina sledovacích parametrů je nyní skryta za přesměrováními, jako jsou t.co, l.facebook.com, l.instagram.com a lnkd.in - tyto parametry neuvidíte, dokud na odkaz nekliknete. Clean Links to za vás automaticky vyřeší, ušetří vám zdlouhavou ruční práci a ochrání vás před skrytými sledovacími prvky."
-    },
-    "localProcessing": {
-      "question": "Je to opravdu lokální? Vidím, že aplikace posílá síťové požadavky na URL.",
-      "answer": "Ano, Clean Links skutečně zpracovává vše lokálně. Clean Links dokáže většinu odkazů se sledovacími parametry a přesměrovávacích odkazů vyčistit zcela offline, bez jakýchkoli síťových požadavků. U odkazů ze zkracovačů URL a některých reklamních sítí nelze cílovou URL adresu přesměrování vypočítat pouze ze samotné URL. V takových případech Clean Links odesílá síťové požadavky přímo z vašeho zařízení, aby odhalil sledovací parametry skryté za přesměrováními - je to technicky nutné, protože mnoho sledovacích prvků se odhalí až po projití řetězce přesměrování. Není do toho však zapojeno žádné API třetích stran (ani naše vlastní servery). Každý požadavek začíná s čistým štítem: mezi požadavky se neukládají žádné soubory cookie, nevede se žádná historie prohlížení a používáme sezení v sandboxu s náhodnými user agenty. Sledovací parametry navíc odstraňujeme před i po každém přesměrování. Zkracovače URL se většinou používají ke skrytí sledovacích parametrů v URL adresách a tato funkce Clean Links tuto mezeru v zabezpečení řeší, což nelze provést ručním kopírováním částí odkazů nebo pomocí webových aplikací jako \"Link Cleaner\", které nesledují přesměrování. A co je nejdůležitější, nikdy nezaznamenáváme ani nesledujeme, jaké odkazy čistíte. Nikdy. Vaše aktivita čištění odkazů zůstává zcela soukromá na vašem zařízení. Pro dodatečnou ochranu soukromí doporučujeme používat Soukromý přenos přes iCloud nebo VPN k maskování vaší IP adresy, když Clean Links provádí tyto nezbytné síťové požadavky k odhalení přesměrování."
-    },
-    "safariAtfp": {
-      "question": "Jak se Clean Links liší od Pokročilé ochrany proti sledování a fingerprintingu v Safari v iOS 26?",
-      "answer": "Pokročilá ochrana proti sledování a fingerprintingu (ATFP) v Safari v iOS 26 je skvělá pro omezení sledování při prohlížení v Safari, ale má svá omezení. ATFP funguje pouze v Safari - ne v prohlížečích uvnitř aplikací (jako jsou webová zobrazení v Instagramu nebo TikToku) ani v jiných prohlížečích. Také nezobrazuje náhledy zkrácených odkazů ani nečistí sledovací prvky, které se objevují na konci řetězců přesměrování. Clean Links doplňuje ATFP tím, že funguje v celém systému napříč všemi aplikacemi, sleduje každé přesměrování a ukáže vám finální URL adresu, než ji otevřete. Když sdílíte odkazy, Clean Links odstraní obálky platforem (jako t.co nebo l.instagram.com), takže vaši příjemci obdrží skutečně čisté URL adresy bez ohledu na to, zda používají Safari nebo mají zapnutou ochranu ATFP. Používejte obojí dohromady: nechte ATFP zapnutou v Safari pro automatickou ochranu v prohlížeči a používejte Clean Links před otevřením nebo sdílením odkazů pro zpracování zkracovačů, přesměrování a situací napříč aplikacemi. <link>Přečtěte si naše podrobné srovnání</link> a dozvíte se víc."
-    },
-    "vsOtherCleaners": {
-      "question": "Jak se Clean Links liší od jiných čističů URL, jako jsou Firefox, Brave nebo Link Cleaner?",
-      "answer": "Většina čističů URL (včetně Firefoxu, Brave a webových nástrojů jako Link Cleaner) se zaměřuje na ořezávání viditelných sledovacích parametrů z URL adresy, kterou zadáte. Nesledují řetězce přesměrování, takže sledovací prvky skryté za zkracovači (bit.ly, t.co, lnkd.in) nebo obálkami sociálních sítí (l.facebook.com, l.instagram.com) proklouznou. Firefox dokonce udržuje seznam povolených (allowlist), který propouští některé sledovací prvky velkých technologických firem. Clean Links je jiný: sleduje každé přesměrování, rozbaluje zkracovače a odstraňuje sledovací prvky v každém kroku - a odhalí tak cílovou destinaci, než ji otevřete. Clean Links také obsahuje vestavěnou čtečku QR kódů, která bezpečně zobrazuje náhledy URL, funguje 100% v zařízení s nulovou analytikou (na rozdíl od anonymních statistik používání Link Cleaner) a nativně se integruje s nabídkou Sdílení v iOS, Zkratkami, Siri a sledováním schránky na Macu. Pokud chcete komplexní ochranu, která zachytí skryté sledovací prvky a funguje na všech vašich zařízeních Apple, Clean Links je pro to jako stvořený. <link>Podívejte se na úplné srovnání s Link Cleaner</link> pro více podrobností."
-    },
-    "sendToMac": {
-      "question": "Jak mohu posílat odkazy z iPhonu na Mac?",
-      "answer": "Clean Links umožňuje sdílet odkazy z iPhonu na Mac pomocí listu pro sdílení. Na vašem iOS zařízení a Macu musí být nainstalována aplikace Clean Links, povolen iCloud a musíte být přihlášeni ke stejnému účtu Apple. Odkazy se posílají přes synchronizaci iCloud, takže fungují, i když je váš Mac offline nebo na jiné síti - odkaz se automaticky objeví, jakmile se Mac připojí k internetu. Je to rychlejší než AirDrop, spolehlivější než panely v Safari a funguje to s jakýmkoli prohlížečem na vašem Macu. <link>Přečtěte si náš podrobný návod na posílání odkazů z iPhonu na Mac</link> a dozvíte se víc."
-    },
-    "sendToMacVsAirdrop": {
-      "question": "V čem je funkce Send to Mac lepší než AirDrop?",
-      "answer": "Funguje, i když je váš Mac v režimu spánku nebo mimo dosah, tiše na pozadí otevírá odkazy a pokaždé spolehlivě doručí. Žádné problémy s připojením ani čekání."
-    },
-    "sendToMacVsIcloudTabs": {
-      "question": "V čem je Send to Mac lepší než <icloudTabsLink>Panely iCloudu</icloudTabsLink>?",
-      "answer": "Funguje z jakékoli aplikace s nabídkou sdílení, nejen ze Safari. Odkazy se automaticky otevírají jako panely prohlížeče - nemůžete je přehlédnout. Žádné prohledávání dlouhých seznamů synchronizovaných panelů a podporuje jakýkoli prohlížeč na vašem Macu."
-    },
-    "sendToMacMultipleMacs": {
-      "question": "Mohu posílat odkazy na více Maců?",
-      "answer": "Ano. Odkazy můžete posílat na všechny své Macy, pokud na nich máte nainstalovanou aplikaci Clean Links pro macOS a jsou přihlášeny ke stejnému účtu Apple. V nastavení aplikace pro macOS můžete příjem odkazů zakázat, pokud chcete některý Mac vyloučit."
-    },
-    "sendToMacShortcuts": {
-      "question": "Lze Send to Mac používat se Zkratkami?",
-      "answer": "Ano. Základní funkce sdílení je k dispozici jako App Intent, což usnadňuje vytváření zkratek a automatizací napříč zařízeními."
-    },
-    "sendToMacVsSafariTabGroups": {
-      "question": "V čem je Send to Mac lepší než Skupiny panelů v Safari?",
-      "answer": "Funguje z jakékoli aplikace, nejen ze Safari. Podporuje jakýkoli prohlížeč na vašem Macu, aniž byste museli mít otevřené panely na svém iOS zařízení."
-    },
-    "sendToMacVsSafariReadingList": {
-      "question": "V čem je Send to Mac lepší než Seznam četby v Safari?",
-      "answer": "Odkazy se automaticky otevírají ve vašem prohlížeči - nemůžete je přehlédnout. Žádné prohledávání nahromaděných seznamů a podporuje jakýkoli prohlížeč."
-    },
-    "sendToMacVsHandoff": {
-      "question": "V čem je Send to Mac lepší než <handoffLink>Handoff</handoffLink>?",
-      "answer": "Clean Links zahrnuje podporu pro Handoff, když jsou zařízení poblíž, ale funguje i tehdy, když je váš Mac v režimu spánku nebo mimo dosah. Podporuje jakoukoli aplikaci s nabídkou sdílení a jakýkoli prohlížeč, automaticky otevírá odkazy na pozadí a pokaždé spolehlivě funguje."
-    },
-    "sendToMacVsUniversalClipboard": {
-      "question": "V čem je Send to Mac lepší než <universalClipboardLink>Univerzální schránka</universalClipboardLink>?",
-      "answer": "Odkazy se otevírají automaticky - není nutné ruční vkládání. Funguje, i když je váš Mac v režimu spánku nebo mimo dosah, a doručení je okamžité."
-    },
-    "sendToMacVsImessage": {
-      "question": "V čem je Send to Mac lepší než iMessage?",
-      "answer": "Odkazy se automaticky otevírají ve vašem prohlížeči, aniž byste museli kontrolovat zprávy. Otevírají se tiše na pozadí, takže můžete pokračovat v tom, co děláte."
-    },
-    "sendToMacVsEmail": {
-      "question": "V čem je Send to Mac lepší než e-mail?",
-      "answer": "Odkazy se otevírají automaticky, aniž byste museli kontrolovat doručenou poštu. Otevírají se tiše na pozadí a udržují vaši schránku čistou."
-    },
-    "sendToMacVsPushbullet": {
-      "question": "V čem je Send to Mac lepší než <pushbulletLink>Pushbullet</pushbulletLink>?",
-      "answer": "Nativní aplikace pro iOS a macOS, které fungují z jakékoli nabídky sdílení. Není vyžadován žádný další účet - stačí nainstalovat a používat."
-    },
-    "sendToMacVsFirefoxSendTabs": {
-      "question": "V čem je Send to Mac lepší než <firefoxSendTabsLink>Odesílání panelů</firefoxSendTabsLink> ve Firefoxu?",
-      "answer": "Funguje z jakékoli aplikace, nejen z Firefoxu. Podporuje jakýkoli prohlížeč na vašem Macu a vyžaduje méně klepnutí."
-    },
-    "sendToMacVsFirefoxTabSync": {
-      "question": "V čem je Send to Mac lepší než synchronizace panelů ve Firefoxu?",
-      "answer": "Funguje z jakékoli aplikace s nabídkou sdílení, nejen z Firefoxu. Podporuje jakýkoli prohlížeč, aniž byste museli mít otevřené panely na svém iOS zařízení."
-    },
-    "sendToMacVsHyperduck": {
-      "question": "V čem je Send to Mac lepší než <hyperduckLink>HyperDuck</hyperduckLink>?",
-      "answer": "Zcela zdarma s podporou 37 jazyků. Automaticky podporuje více Maců, zahrnuje sdílení mezi Macy a kromě samotného sdílení poskytuje i úplné čištění a deobfuskaci odkazů."
-    }
-  },
   "cta": {
     "title": "Čtečka QR kódů a čistič odkazů - Chraňte si své soukromí",
     "description": "Okamžitě odhalte skutečnou URL, odstraňte skryté sledovací prvky a vytvářejte QR kódy připravené ke sdílení – vše 100% na zařízení, 100% zdarma.",
@@ -342,5 +214,149 @@
   },
   "appRating": {
     "text": "{rating} ({count, plural, =0 {0 hodnocení} =1 {# hodnocení} other {# hodnocení}})"
+  },
+  "faqPage": {
+    "metadata": {
+      "title": "Časté dotazy",
+      "description": "Získejte jasné odpovědi o Clean Links - jak čistíme sledovací parametry, bráníme phishingu pomocí QR kódů a vše uchováváme 100% v zařízení."
+    },
+    "heading": {
+      "title": "Časté dotazy",
+      "description": "Často kladené otázky o Clean Links"
+    },
+    "items": {
+      "whatIs": {
+        "question": "Co je Clean Links?",
+        "answer": "Clean Links je bezplatný nástroj pro iPhone, iPad a Mac, který odstraňuje sledovací parametry z URL a odhaluje skutečný cíl za QR kódy a zkrácenými odkazy - takže otevíráte jen to, co opravdu chcete, bez skrytých sledovacích prvků nebo přesměrování."
+      },
+      "deviceRequirements": {
+        "question": "Která zařízení a verze iOS Clean Links podporuje?",
+        "answer": "Clean Links podporuje zařízení iPhone, iPad a Mac s operačním systémem iOS 18.0 nebo novějším (iPhone/iPad) nebo macOS Sequoia či novějším."
+      },
+      "whyCreate": {
+        "question": "Proč jsme vytvořili Clean Links?",
+        "answer": "Původně jsme jej vytvořili pro sebe, abychom se vyhnuli „quishingu“ (phishingu pomocí QR kódů) a chránili se před odkazy plnými sledování. Později jsme zjistili, že phishing a quishing postihuje mnoho dobrých lidí po celém světě, mnozí z nich s technickým vzděláním. Proto jsme se rozhodli jej uvolnit pro všechny a udělali jsme ho zcela zdarma."
+      },
+      "privacyProtection": {
+        "question": "Jak Clean Links chrání mé soukromí?",
+        "answer": "Veškeré zpracování probíhá na vašem zařízení – žádné cookies, identifikátory ani analytická data nikdy neopustí váš telefon. Clean Links jednoduše odstraní známé sledovací parametry (UTM tagy, affiliate ID, ad-tech tokeny) před načtením odkazu. U zkrácených odkazů provádíme požadavky v izolovaném kontextu, bez jakýchkoli cookies, relací atd. Tím maříme sledování pomocí cookies, které používají zkracovače URL, inzerenti a datoví brokeři ke sledování uživatelů."
+      },
+      "phishingProtection": {
+        "question": "Může Clean Links blokovat pokusy o phishing („quishing“)?",
+        "answer": "Ano. Když zkontrolujete QR kód, Clean Links vám ukáže celou, nemaskovanou URL adresu. Můžete se rozhodnout, zda ji chcete otevřít, nebo ne. To je rozdíl oproti aplikaci Fotoaparát v iOS a jiným placeným čtečkám QR kódů, které odkaz, na který QR kód směřuje, jednoduše otevřou bez vašeho souhlasu. A ještě jedna věc: při sledování přesměrování používá Clean Links nízkoúrovňová API (NSURLRequest), která mají ve srovnání s plnohodnotným webovým prohlížečem velmi malou plochu pro útok. Díky tomu je Clean Links imunní vůči většině zero-day exploitů, které cílí na webové prohlížeče. Zadruhé, aplikace běží ve vlastním sandboxu, což přidává další vrstvu zabezpečení."
+      },
+      "historyStorage": {
+        "question": "Ukládá Clean Links moji historii nebo zkontrolované QR kódy?",
+        "answer": "Ne. Clean Links je navržen tak, aby nezaznamenával ani neukládal odkazy, které čistíte nebo kontrolujete."
+      },
+      "cleanWorkflow": {
+        "question": "Jak vyčistím odkaz, který jsem zkopíroval?",
+        "answer": "Můžete si vytvořit zkratku Apple, která vezme URL adresu z vaší schránky, vyčistí ji a vloží vyčištěný odkaz zpět. Například si stáhněte tuto <shortcut>zkratku na jedno klepnutí</shortcut>. Pro ještě rychlejší přístup přiřaďte tuto zkratku tlačítku Akce na vašem iPhonu (iPhone 15 Pro a novější), takže jediným stisknutím kdekoli vyčistíte odkaz ve schránce. Aplikaci Clean Links si můžete přidat do Ovládacího centra na iPhonu, iPadu a Macu: na výběr jsou dvě akce - \"Otevřít aplikaci\" nebo \"Čtečka QR kódů\". K těmto akcím můžete přistupovat přímo v Ovládacím centru nebo na Zamykací obrazovce, nebo je přiřadit tlačítku Akce pro čištění jedním stisknutím odkudkoli. Aplikaci Clean Links můžete také otevřít ručně a vložit svou URL adresu k vyčištění."
+      },
+      "qrScanning": {
+        "question": "Jak zkontroluji QR kód?",
+        "answer": "Spusťte Clean Links z domovské obrazovky, pomocí Zkratky nebo tlačítka Akce na iPhonu, iPadu nebo Macu a namiřte fotoaparát na kód. Uvidíte skutečnou cílovou URL, než se rozhodnete ji otevřít. Clean Links sleduje všechna přesměrování a odstraňuje sledovací parametry z konečného cíle - čímž brání phishingovým odkazům skrytým za službami pro zkracování odkazů nebo přesměrování."
+      },
+      "urlExpansion": {
+        "question": "Mohu rozbalit a zobrazit náhled zkrácených URL?",
+        "answer": "Rozhodně. Vložte nebo sdílejte jakýkoli bit.ly, TinyURL, t.co nebo jiný krátký odkaz do Clean Links. Rozbalí všechny řetězce přesměrování a ukáže vám konečnou URL, než klepnete."
+      },
+      "qrGeneration": {
+        "question": "Mohu vygenerovat bezpečný QR kód z vyčištěného odkazu?",
+        "answer": "Ano. Po vyčištění URL klepněte na \"Generovat QR\" a vytvořte nový kód, který můžete sdílet zcela bez sledovacích parametrů. To se hodí zejména, když chcete sdílet vyčištěný odkaz s přáteli: stačí jedno klepnutí a oni mohou naskenovat váš QR kód a otevřít přesně tu samou URL bez sledovacích prvků. Hodí se to i tehdy, když se snažíte sdílet obsah s přáteli, kteří používají Android, aniž by vás sledoval... ehm, ehm: Jak se ta aplikace jmenuje? To vám a vašim přátelům pomůže vyhnout se záplavě reklam souvisejících s obsahem, který jste právě sdíleli, na další týden nebo dva."
+      },
+      "systemIntegration": {
+        "question": "Funguje Clean Links v Safari, Mailu a dalších aplikacích?",
+        "answer": "Ano. Rozšíření Clean Links pro list pro sdílení v celém systému na iPhonu, iPadu a Macu lze použít v Safari, Mailu, X (Twitter), Youtube, LinkedIn nebo jakékoli jiné aplikaci, která používá nativní list pro sdílení."
+      },
+      "shortcutsAutomation": {
+        "question": "Mohu automatizovat čištění odkazů pomocí Zkratek nebo Siri?",
+        "answer": "Clean Links poskytuje App Intents, které fungují s aplikací Zkratky od Apple i se Siri. Můžete si tak vytvořit zkratku, která vyčistí odkazy z vaší schránky nebo odjinud. Například <shortcut>zkratka \"Clean Links\"</shortcut> získá odkaz z vaší schránky, vyčistí ho a vyčištěnou URL vloží zpět do schránky."
+      },
+      "manualCleaning": {
+        "question": "Proč potřebuji tuto aplikaci a proč si nemohu odkazy prostě čistit ručně?",
+        "answer": "Většina sledovacích parametrů je nyní skryta za přesměrováními, jako jsou t.co, l.facebook.com, l.instagram.com a lnkd.in - tyto parametry neuvidíte, dokud na odkaz nekliknete. Clean Links to za vás automaticky vyřeší, ušetří vám zdlouhavou ruční práci a ochrání vás před skrytými sledovacími prvky."
+      },
+      "localProcessing": {
+        "question": "Je to opravdu lokální? Vidím, že aplikace posílá síťové požadavky na URL.",
+        "answer": "Ano, Clean Links skutečně zpracovává vše lokálně. Clean Links dokáže většinu odkazů se sledovacími parametry a přesměrovávacích odkazů vyčistit zcela offline, bez jakýchkoli síťových požadavků. U odkazů ze zkracovačů URL a některých reklamních sítí nelze cílovou URL adresu přesměrování vypočítat pouze ze samotné URL. V takových případech Clean Links odesílá síťové požadavky přímo z vašeho zařízení, aby odhalil sledovací parametry skryté za přesměrováními - je to technicky nutné, protože mnoho sledovacích prvků se odhalí až po projití řetězce přesměrování. Není do toho však zapojeno žádné API třetích stran (ani naše vlastní servery). Každý požadavek začíná s čistým štítem: mezi požadavky se neukládají žádné soubory cookie, nevede se žádná historie prohlížení a používáme sezení v sandboxu s náhodnými user agenty. Sledovací parametry navíc odstraňujeme před i po každém přesměrování. Zkracovače URL se většinou používají ke skrytí sledovacích parametrů v URL adresách a tato funkce Clean Links tuto mezeru v zabezpečení řeší, což nelze provést ručním kopírováním částí odkazů nebo pomocí webových aplikací jako \"Link Cleaner\", které nesledují přesměrování. A co je nejdůležitější, nikdy nezaznamenáváme ani nesledujeme, jaké odkazy čistíte. Nikdy. Vaše aktivita čištění odkazů zůstává zcela soukromá na vašem zařízení. Pro dodatečnou ochranu soukromí doporučujeme používat Soukromý přenos přes iCloud nebo VPN k maskování vaší IP adresy, když Clean Links provádí tyto nezbytné síťové požadavky k odhalení přesměrování."
+      },
+      "safariAtfp": {
+        "question": "Jak se Clean Links liší od Pokročilé ochrany proti sledování a fingerprintingu v Safari v iOS 26?",
+        "answer": "Pokročilá ochrana proti sledování a fingerprintingu (ATFP) v Safari v iOS 26 je skvělá pro omezení sledování při prohlížení v Safari, ale má svá omezení. ATFP funguje pouze v Safari - ne v prohlížečích uvnitř aplikací (jako jsou webová zobrazení v Instagramu nebo TikToku) ani v jiných prohlížečích. Také nezobrazuje náhledy zkrácených odkazů ani nečistí sledovací prvky, které se objevují na konci řetězců přesměrování. Clean Links doplňuje ATFP tím, že funguje v celém systému napříč všemi aplikacemi, sleduje každé přesměrování a ukáže vám finální URL adresu, než ji otevřete. Když sdílíte odkazy, Clean Links odstraní obálky platforem (jako t.co nebo l.instagram.com), takže vaši příjemci obdrží skutečně čisté URL adresy bez ohledu na to, zda používají Safari nebo mají zapnutou ochranu ATFP. Používejte obojí dohromady: nechte ATFP zapnutou v Safari pro automatickou ochranu v prohlížeči a používejte Clean Links před otevřením nebo sdílením odkazů pro zpracování zkracovačů, přesměrování a situací napříč aplikacemi. <link>Přečtěte si naše podrobné srovnání</link> a dozvíte se víc."
+      },
+      "vsOtherCleaners": {
+        "question": "Jak se Clean Links liší od jiných čističů URL, jako jsou Firefox, Brave nebo Link Cleaner?",
+        "answer": "Většina čističů URL (včetně Firefoxu, Brave a webových nástrojů jako Link Cleaner) se zaměřuje na ořezávání viditelných sledovacích parametrů z URL adresy, kterou zadáte. Nesledují řetězce přesměrování, takže sledovací prvky skryté za zkracovači (bit.ly, t.co, lnkd.in) nebo obálkami sociálních sítí (l.facebook.com, l.instagram.com) proklouznou. Firefox dokonce udržuje seznam povolených (allowlist), který propouští některé sledovací prvky velkých technologických firem. Clean Links je jiný: sleduje každé přesměrování, rozbaluje zkracovače a odstraňuje sledovací prvky v každém kroku - a odhalí tak cílovou destinaci, než ji otevřete. Clean Links také obsahuje vestavěnou čtečku QR kódů, která bezpečně zobrazuje náhledy URL, funguje 100% v zařízení s nulovou analytikou (na rozdíl od anonymních statistik používání Link Cleaner) a nativně se integruje s nabídkou Sdílení v iOS, Zkratkami, Siri a sledováním schránky na Macu. Pokud chcete komplexní ochranu, která zachytí skryté sledovací prvky a funguje na všech vašich zařízeních Apple, Clean Links je pro to jako stvořený. <link>Podívejte se na úplné srovnání s Link Cleaner</link> pro více podrobností."
+      },
+      "sendToMac": {
+        "question": "Jak mohu posílat odkazy z iPhonu na Mac?",
+        "answer": "Clean Links umožňuje sdílet odkazy z iPhonu na Mac pomocí listu pro sdílení. Na vašem iOS zařízení a Macu musí být nainstalována aplikace Clean Links, povolen iCloud a musíte být přihlášeni ke stejnému účtu Apple. Odkazy se posílají přes synchronizaci iCloud, takže fungují, i když je váš Mac offline nebo na jiné síti - odkaz se automaticky objeví, jakmile se Mac připojí k internetu. Je to rychlejší než AirDrop, spolehlivější než panely v Safari a funguje to s jakýmkoli prohlížečem na vašem Macu. <link>Přečtěte si náš podrobný návod na posílání odkazů z iPhonu na Mac</link> a dozvíte se víc."
+      },
+      "sendToMacVsAirdrop": {
+        "question": "V čem je funkce Send to Mac lepší než AirDrop?",
+        "answer": "Funguje, i když je váš Mac v režimu spánku nebo mimo dosah, tiše na pozadí otevírá odkazy a pokaždé spolehlivě doručí. Žádné problémy s připojením ani čekání."
+      },
+      "sendToMacVsIcloudTabs": {
+        "question": "V čem je Send to Mac lepší než <icloudTabsLink>Panely iCloudu</icloudTabsLink>?",
+        "answer": "Funguje z jakékoli aplikace s nabídkou sdílení, nejen ze Safari. Odkazy se automaticky otevírají jako panely prohlížeče - nemůžete je přehlédnout. Žádné prohledávání dlouhých seznamů synchronizovaných panelů a podporuje jakýkoli prohlížeč na vašem Macu."
+      },
+      "sendToMacMultipleMacs": {
+        "question": "Mohu posílat odkazy na více Maců?",
+        "answer": "Ano. Odkazy můžete posílat na všechny své Macy, pokud na nich máte nainstalovanou aplikaci Clean Links pro macOS a jsou přihlášeny ke stejnému účtu Apple. V nastavení aplikace pro macOS můžete příjem odkazů zakázat, pokud chcete některý Mac vyloučit."
+      },
+      "sendToMacShortcuts": {
+        "question": "Lze Send to Mac používat se Zkratkami?",
+        "answer": "Ano. Základní funkce sdílení je k dispozici jako App Intent, což usnadňuje vytváření zkratek a automatizací napříč zařízeními."
+      },
+      "sendToMacVsSafariTabGroups": {
+        "question": "V čem je Send to Mac lepší než Skupiny panelů v Safari?",
+        "answer": "Funguje z jakékoli aplikace, nejen ze Safari. Podporuje jakýkoli prohlížeč na vašem Macu, aniž byste museli mít otevřené panely na svém iOS zařízení."
+      },
+      "sendToMacVsSafariReadingList": {
+        "question": "V čem je Send to Mac lepší než Seznam četby v Safari?",
+        "answer": "Odkazy se automaticky otevírají ve vašem prohlížeči - nemůžete je přehlédnout. Žádné prohledávání nahromaděných seznamů a podporuje jakýkoli prohlížeč."
+      },
+      "sendToMacVsHandoff": {
+        "question": "V čem je Send to Mac lepší než <handoffLink>Handoff</handoffLink>?",
+        "answer": "Clean Links zahrnuje podporu pro Handoff, když jsou zařízení poblíž, ale funguje i tehdy, když je váš Mac v režimu spánku nebo mimo dosah. Podporuje jakoukoli aplikaci s nabídkou sdílení a jakýkoli prohlížeč, automaticky otevírá odkazy na pozadí a pokaždé spolehlivě funguje."
+      },
+      "sendToMacVsUniversalClipboard": {
+        "question": "V čem je Send to Mac lepší než <universalClipboardLink>Univerzální schránka</universalClipboardLink>?",
+        "answer": "Odkazy se otevírají automaticky - není nutné ruční vkládání. Funguje, i když je váš Mac v režimu spánku nebo mimo dosah, a doručení je okamžité."
+      },
+      "sendToMacVsImessage": {
+        "question": "V čem je Send to Mac lepší než iMessage?",
+        "answer": "Odkazy se automaticky otevírají ve vašem prohlížeči, aniž byste museli kontrolovat zprávy. Otevírají se tiše na pozadí, takže můžete pokračovat v tom, co děláte."
+      },
+      "sendToMacVsEmail": {
+        "question": "V čem je Send to Mac lepší než e-mail?",
+        "answer": "Odkazy se otevírají automaticky, aniž byste museli kontrolovat doručenou poštu. Otevírají se tiše na pozadí a udržují vaši schránku čistou."
+      },
+      "sendToMacVsPushbullet": {
+        "question": "V čem je Send to Mac lepší než <pushbulletLink>Pushbullet</pushbulletLink>?",
+        "answer": "Nativní aplikace pro iOS a macOS, které fungují z jakékoli nabídky sdílení. Není vyžadován žádný další účet - stačí nainstalovat a používat."
+      },
+      "sendToMacVsFirefoxSendTabs": {
+        "question": "V čem je Send to Mac lepší než <firefoxSendTabsLink>Odesílání panelů</firefoxSendTabsLink> ve Firefoxu?",
+        "answer": "Funguje z jakékoli aplikace, nejen z Firefoxu. Podporuje jakýkoli prohlížeč na vašem Macu a vyžaduje méně klepnutí."
+      },
+      "sendToMacVsFirefoxTabSync": {
+        "question": "V čem je Send to Mac lepší než synchronizace panelů ve Firefoxu?",
+        "answer": "Funguje z jakékoli aplikace s nabídkou sdílení, nejen z Firefoxu. Podporuje jakýkoli prohlížeč, aniž byste museli mít otevřené panely na svém iOS zařízení."
+      },
+      "sendToMacVsHyperduck": {
+        "question": "V čem je Send to Mac lepší než <hyperduckLink>HyperDuck</hyperduckLink>?",
+        "answer": "Zcela zdarma s podporou 37 jazyků. Automaticky podporuje více Maců, zahrnuje sdílení mezi Macy a kromě samotného sdílení poskytuje i úplné čištění a deobfuskaci odkazů."
+      }
+    },
+    "viewAll": "Zobrazit vše",
+    "categories": {
+      "gettingStarted": "Začínáme",
+      "privacySecurity": "Soukromí a bezpečnost",
+      "features": "Funkce a integrace",
+      "sendToMac": "Odeslat na Mac",
+      "comparisons": "Srovnání"
+    }
   }
 }
