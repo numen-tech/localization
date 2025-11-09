@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "title": "Slop Or Not: Detector Gratuit de Conținut AI pentru Text și Imagini",
-    "description": "Detector de text AI, detector de imagini AI și umanizator AI într-o singură aplicație. Verifică prezența AI și umanizează conținutul AI gratuit pe iPhone, fără a necesita cloud."
+    "title": "Detector AI de Text și Imagini pentru iPhone | Slop Or Not",
+    "description": "Primul și singurul detector local de conținut AI din lume pentru iPhone. Rulează integral pe dispozitivul tău, fără limite - verifică text și imagini în mod privat, mai rapid decât în cloud."
   },
   "Navigation": {
     "home": "Acasă",
@@ -17,7 +17,7 @@
     }
   },
   "Footer": {
-    "tagline": "Detectează Conținutul Slop AI. Află ce e real.",
+    "tagline": "Detecție AI pe dispozitiv. Mai rapid, privat, mai precis.",
     "sections": {
       "products": "Produse",
       "resources": "Resurse",
@@ -38,9 +38,14 @@
   },
   "Hero": {
     "logoAlt": "Logo Slop or Not",
-    "title": "Detector de Text AI și Detector de Imagini AI într-o Singură Aplicație",
+    "title": "Detector de Conținut AI pentru Text și Imagini care Rulează Local pe iPhone",
     "srOnlyPrefix": "Slop or Not: ",
-    "description": "Verifică gratuit în câteva secunde dacă un conținut este AI, păstrându-ți datele pe iPhone."
+    "description": "Prima și singura aplicație de detecție a conținutului AI pe dispozitiv din lume, care rulează integral local pe iPhone, fără limite, pentru a verifica text și imagini în mod privat.",
+    "hook": {
+      "noLogin": "Fără autentificare",
+      "noCloud": "Fără Cloud",
+      "noTracking": "Fără urmărire"
+    }
   },
   "NotFound": {
     "logoAlt": "Logo Slop Or Not",
@@ -49,21 +54,21 @@
     "backToHome": "Înapoi la Acasă"
   },
   "CtaDownload": {
-    "title": "Descarcă Detectorul Gratuit de Conținut AI pentru iPhone",
-    "description": "Verifică texte și imagini pentru conținut AI în câteva secunde, complet offline. Datele tale nu părăsesc niciodată telefonul - confidențialitate integrată."
+    "title": "Descarcă Detectorul de Conținut AI pe Dispozitiv pentru iPhone",
+    "description": "Rulează local modelul nostru compact și de înaltă precizie. Verifică text și imagini instantaneu - privat, offline și gratuit."
   },
   "Features": {
     "aiImageDetector": {
-      "title": "Verifică pe iPhone dacă o Fotografie a Fost Generată de AI",
+      "title": "Verifică dacă o imagine a fost generată de AI pe iPhone-ul tău",
       "description": "Înșelăciunile romantice au sustras consumatorilor 1,14 miliarde de dolari în 2023, cele mai mari pierderi dintre toate fraudele de impostură, <ftcLink>spune FTC</ftcLink>. Escrocii creează acum <fakeDatingLink>profiluri de dating false</fakeDatingLink> cu fețe generate de AI și chatboți. Detectorul nostru de imagini AI rulează pe iPhone-ul tău, astfel încât poți verifica dacă acel selfie, chitanță sau fotografie de produs a fost generată de AI înainte de a da swipe sau de a cumpăra. Acesta semnalează watermark-uri, plus artefacte subtile ale feței pe care ochiul uman le ratează."
     },
     "aiTextDetector": {
       "title": "Detector de Text AI cu Număr Nelimitat de Cuvinte",
-      "description": "Aproape 90% dintre studenți au recunoscut că au folosit ChatGPT pentru teme <forbesLink>la începutul anului 2023</forbesLink>, iar utilizarea în rândul adolescenților <pewLink>s-a dublat din nou până în 2025</pewLink>. Educatorii, editorii și avocații pot lipi orice document în detectorul de text AI al Slop Or Not pentru a verifica dacă cuvintele au fost generate de AI - fără limită de cuvinte, fără spionaj în cloud. Momentan în engleză; mai multe limbi în curând."
+      "description": "Aproape 90% dintre studenți au recunoscut că folosesc ChatGPT pentru teme <forbesLink>la începutul anului 2023</forbesLink>, iar utilizarea de către adolescenți <pewLink>se va dubla din nou până în 2025</pewLink>. Studenții și profesorii trebuie adesea să verifice eseuri lungi și numeroase lucrări - aici detectoarele din cloud nu fac față, având limite de cuvinte și necesitând încărcări. Slop Or Not rulează local pe iPhone-ul tău, așa că poți lipi texte de orice lungime și verifica oricâte documente ai nevoie - fără limite de cuvinte, fără limite de utilizare, fără spionaj din cloud. Momentan în engleză; în curând și alte limbi."
     },
     "aiFingerprints": {
       "title": "Elimină Amprentele AI și Umanizează Conținutul AI pe iPhone",
-      "description": "Site-urile de „umanizare AI” din cloud adesea trimit cuvintele tale către LLM-uri la distanță care lasă în urmă noi amprente. Slop Or Not curăță spațiile cu lățime zero, homoglifele și trucurile de spațiere - precum modelul binar pe care <elonLink>Elon Musk l-a folosit în 2008 pentru a prinde un informator de la Tesla</elonLink> - fără a-ți rescrie stilul."
+      "description": "Site-urile de \"umanizare AI\" din cloud adesea trimit cuvintele tale către LLM-uri la distanță care lasă în urmă noi amprente digitale. Slop Or Not elimină spațiile de lățime zero, homoglifele și trucurile de spațiere - precum modelul binar pe care <elonLink>Elon Musk l-a folosit în 2008 pentru a prinde un informator de la Tesla</elonLink> - fără a-ți rescrie stilul. Un umanizator AI nelimitat, bazat pe Apple Intelligence, va fi disponibil în curând în Slop Or Not."
     },
     "stickerPack": {
       "title": "Pachet de Stickere AI Slop",
@@ -75,7 +80,7 @@
       "steps": {
         "download": {
           "title": "Obține Detectorul AI",
-          "description": "Descarcă aplicația din App Store. Aceasta folosește modele AI avansate, direct pe dispozitiv, pentru a detecta conținutul generat de AI."
+          "description": "Descarcă aplicația din App Store. Aceasta folosește un model AI mic, pe dispozitiv, care detectează conținutul generat de AI cu o precizie ce rivalizează cu serviciile cloud."
         },
         "check": {
           "title": "Rulează Verificarea AI",
@@ -92,11 +97,11 @@
       "cases": {
         "journalists": {
           "title": "Jurnaliști și Verificatori de Fapte",
-          "description": "Verificați imaginile de ultimă oră și citatele surselor înainte de publicare. Evitați publicarea de conținut manipulat care ar putea dăuna credibilității."
+          "description": "Verifică imagini și sursa citatelor fără a încărca nimic. Detecția pe dispozitiv menține investigațiile private - fără OpenAI, Anthropic sau alte LLM-uri din cloud - astfel încât să poți verifica în siguranță materialele sensibile înainte de publicare."
         },
         "teachers": {
           "title": "Profesori și Studenți",
-          "description": "Profesorii semnalează eseurile scrise de AI; studenții își confirmă propria originalitate. Mențineți onestitatea academică fără servicii scumpe de plagiat."
+          "description": "Verifică un număr nelimitat de documente, fără limite de cuvinte sau cote zilnice. Profesorii marchează eseurile scrise de AI; studenții confirmă originalitatea - pe dispozitiv și în mod privat. Aplicație gratuită cu prețuri accesibile pentru clase."
         },
         "dating": {
           "title": "Dating Online",
@@ -112,7 +117,7 @@
         },
         "legal": {
           "title": "Profesioniști din Domeniul Juridic și Medical",
-          "description": "Confirmați că contractele, dosarele sau fișele pacienților sunt create de oameni. Protejați confidențialitatea clienților respectând reguli stricte de conformitate."
+          "description": "Confirmă că documente precum contracte, rezumate sau fișe ale pacienților sunt scrise de oameni - fără a le trimite în cloud. Slop Or Not rulează local pe iPhone-ul tău (fără OpenAI/Anthropic) pentru a proteja confidențialitatea clienților și a respecta reguli stricte de conformitate."
         },
         "creators": {
           "title": "Creatori de Conținut și Manageri de Comunitate",

@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "title": "Slop Or Not: ilmainen tekoälysisällön tunnistin tekstille ja kuville",
-    "description": "Tekoälytekstin tunnistin, tekoälykuvien tunnistin ja tekoälyn jälkien poistaja yhdessä sovelluksessa. Tarkista tekoälyn käyttö ja muokkaa tekstiä ilmaiseksi iPhonella, pilvipalvelua ei tarvita."
+    "title": "Tekoälytekstin ja kuvien tunnistin iPhonelle | Slop Or Not",
+    "description": "Maailman ensimmäinen ja ainoa paikallinen tekoälysisällön tunnistin iPhonelle. Toimii kokonaan laitteellasi ilman rajoituksia - tarkista tekstiä ja kuvia yksityisesti, pilveä nopeammin."
   },
   "Navigation": {
     "home": "Etusivu",
@@ -17,7 +17,7 @@
     }
   },
   "Footer": {
-    "tagline": "Tunnista tekoälyroska. Tiedä, mikä on aitoa.",
+    "tagline": "Tekoälyn tunnistus laitteessa. Nopeampi, yksityisempi, tarkempi.",
     "sections": {
       "products": "Tuotteet",
       "resources": "Resurssit",
@@ -38,9 +38,14 @@
   },
   "Hero": {
     "logoAlt": "Slop or Not -logo",
-    "title": "Tekoälytekstin ja -kuvien tunnistin yhdessä sovelluksessa",
+    "title": "Paikallisesti iPhonessasi toimiva tekoälysisällön tunnistin tekstille ja kuville",
     "srOnlyPrefix": "Slop or Not: ",
-    "description": "Tarkista ilmaiseksi sekunneissa, onko sisältö tekoälyn luomaa, ja pidä tietosi iPhonessasi."
+    "description": "Maailman ensimmäinen ja ainoa laitteessa toimiva tekoälysisällön tunnistussovellus, joka toimii täysin paikallisesti iPhonessasi ilman rajoituksia, jotta voit tarkistaa tekstit ja kuvat tekoälyn varalta yksityisesti.",
+    "hook": {
+      "noLogin": "Ei kirjautumista",
+      "noCloud": "Ei pilveä",
+      "noTracking": "Ei seurantaa"
+    }
   },
   "NotFound": {
     "logoAlt": "Slop Or Not -logo",
@@ -49,21 +54,21 @@
     "backToHome": "Takaisin etusivulle"
   },
   "CtaDownload": {
-    "title": "Lataa ilmainen tekoälysisällön tunnistin iPhonelle",
-    "description": "Tarkista tekoälyn luoma teksti ja kuvat sekunneissa, täysin offline-tilassa. Tietosi eivät koskaan poistu puhelimestasi – sisäänrakennettu yksityisyys."
+    "title": "Lataa laitteessa toimiva tekoälysisällön tunnistin iPhonelle",
+    "description": "Käytä kompaktia, erittäin tarkkaa malliamme paikallisesti. Tarkista tekstit ja kuvat välittömästi - yksityisesti, offline-tilassa ja ilmaiseksi."
   },
   "Features": {
     "aiImageDetector": {
-      "title": "Tarkista iPhonellasi, loiko tekoäly kuvan",
+      "title": "Tarkista iPhonellasi, onko kuva tekoälyn luoma",
       "description": "Romanssihuijaukset veivät kuluttajilta 1,14 miljardia dollaria vuonna 2023, mikä on suurin summa kaikista tekeytymishuijauksista, <ftcLink>kertoo FTC</ftcLink>. Huijarit luovat nyt <fakeDatingLink>väärennettyjä deittiprofiileja</fakeDatingLink> tekoälyn luomilla kasvoilla ja chatboteilla. Tekoälykuvien tunnistimemme toimii iPhonessasi, joten voit tarkistaa, onko selfie, kuitti tai tuotekuva tekoälyn luoma, ennen kuin swaippaat tai ostat. Se tunnistaa vesileimat sekä hienovaraiset kasvojen virheet, joita ihmissilmä ei havaitse."
     },
     "aiTextDetector": {
       "title": "Tekoälytekstin tunnistin ilman sanarajaa",
-      "description": "Lähes 90 % opiskelijoista myönsi käyttäneensä ChatGPT:tä kotitehtäviin <forbesLink>vuoden 2023 alussa</forbesLink>, ja teinien käyttö <pewLink>kaksinkertaistui jälleen vuoteen 2025 mennessä</pewLink>. Opettajat, toimittajat ja lakimiehet voivat liittää minkä tahansa asiakirjan Slop Or Notin tekoälytekstin tunnistimeen tarkistaakseen, onko sanat luonut tekoäly – ei sanarajoituksia, ei pilviurkkimista. Tänään englanniksi; lisää kieliä tulossa pian."
+      "description": "Lähes 90 % opiskelijoista myönsi käyttävänsä ChatGPT:tä kotitehtäviin <forbesLink>alkuvuodesta 2023</forbesLink>, ja teinien käyttö <pewLink>kaksinkertaistui jälleen vuoteen 2025 mennessä</pewLink>. Opiskelijoiden ja opettajien täytyy usein tarkistaa pitkiä esseitä ja suuria määriä palautuksia - tässä kohtaa pilvitunnistimet jäävät vajaiksi sanarajojensa ja vaadittujen tiedostolatausten takia. Slop Or Not toimii paikallisesti iPhonessasi, joten voit liittää minkä tahansa pituisen tekstin ja tarkistaa niin monta asiakirjaa kuin tarvitset - ei sanarajoja, ei käyttörajoituksia, ei pilvipalveluiden urkkimista. Tällä hetkellä englanniksi; lisää kieliä tulossa pian."
     },
     "aiFingerprints": {
       "title": "Poista tekoälyn sormenjäljet ja muokkaa tekstiä iPhonella",
-      "description": "Pilvipohjaiset \"AI humanizer\" -sivustot syöttävät sanasi usein etänä toimiviin kielimalleihin, jotka jättävät jälkeensä uusia sormenjälkiä. Slop Or Not puhdistaa nollaleveät välilyönnit, homoglyfit ja välilyöntitemput – kuten binäärisen kuvion, jota <elonLink>Elon Musk käytti vuonna 2008 Tesla-vuotajan nappaamiseen</elonLink> – muuttamatta tyyliäsi."
+      "description": "Pilvipohjaiset \"tekoälyn inhimillistäjä\" -sivustot syöttävät usein sanasi etänä sijaitseviin suuriin kielimalleihin (LLM), jotka jättävät jälkeensä uusia sormenjälkiä. Slop Or Not puhdistaa nollaleveysmerkit, homoglyfit ja välilyöntitemput - kuten binäärikuvion, jota <elonLink>Elon Musk käytti vuonna 2008 Tesla-vuotajan nappaamiseen</elonLink> - kirjoitustyyliäsi muuttamatta. Apple Intelligence -pohjainen rajaton tekoälyn inhimillistäjä on tulossa pian Slop Or Not -sovellukseen."
     },
     "stickerPack": {
       "title": "AI Slop -tarrapaketti",
@@ -75,7 +80,7 @@
       "steps": {
         "download": {
           "title": "Hanki tekoälytunnistin",
-          "description": "Lataa sovellus App Storesta. Se käyttää edistyneitä laitteella toimivia tekoälymalleja tunnistaakseen tekoälyn luomaa sisältöä."
+          "description": "Lataa sovellus App Storesta. Se käyttää pientä, laitteessa toimivaa tekoälymallia, joka tunnistaa tekoälyn luomaa sisältöä pilvipalveluille vertoja vetävällä tarkkuudella."
         },
         "check": {
           "title": "Suorita tekoälytarkistus",
@@ -92,11 +97,11 @@
       "cases": {
         "journalists": {
           "title": "Toimittajat & faktantarkistajat",
-          "description": "Tarkasta uutiskuvat ja lähdelainaukset ennen julkaisua. Vältä manipuloidun sisällön julkaisemista, joka voisi vahingoittaa uskottavuutta."
+          "description": "Varmenna kuvat ja lähdelainaukset lataamatta mitään. Laitteessa tapahtuva tunnistus pitää tutkimukset yksityisinä - ei OpenAI:ta, Anthropicia tai muita pilvipohjaisia suuria kielimalleja - joten voit turvallisesti tarkistaa arkaluontoisen materiaalin faktat ennen julkaisua."
         },
         "teachers": {
           "title": "Opettajat & opiskelijat",
-          "description": "Opettajat tunnistavat tekoälyn kirjoittamat esseet; opiskelijat varmistavat oman työnsä omaperäisyyden. Ylläpidä akateemista rehellisyyttä ilman kalliita plagiointipalveluita."
+          "description": "Tarkista rajattomasti asiakirjoja ilman sanarajoja tai päivittäisiä kiintiöitä. Opettajat merkitsevät tekoälyn kirjoittamat esseet; opiskelijat varmistavat alkuperäisyyden - laitteessa ja yksityisesti. Ilmainen sovellus edullisella hinnoittelulla luokkahuoneille."
         },
         "dating": {
           "title": "Nettideittailu",
@@ -112,7 +117,7 @@
         },
         "legal": {
           "title": "Laki- & terveydenhuollon ammattilaiset",
-          "description": "Varmista, että sopimukset, muistiot tai potilastiedot ovat ihmisen laatimia. Suojaa asiakkaiden luottamuksellisuutta ja noudata tiukkoja sääntöjä."
+          "description": "Varmista, että sopimukset, tiivistelmät tai potilastiedot ovat ihmisen kirjoittamia - lähettämättä niitä pilveen. Slop Or Not toimii paikallisesti iPhonessasi (ei OpenAI:ta/Anthropicia) suojatakseen asiakastietojen luottamuksellisuutta ja täyttääkseen tiukat vaatimustenmukaisuussäännöt."
         },
         "creators": {
           "title": "Sisällöntuottajat & yhteisömanagerit",

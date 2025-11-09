@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "title": "Slop Or Not: Gratis AI-innehållsdetektor för text och bilder",
-    "description": "AI-textdetektor, AI-bilddetektor och AI-humaniserare i en app. Kontrollera för AI och förmänskliga AI gratis på iPhone, inget moln behövs."
+    "title": "AI-detektor för text och bilder för iPhone | Slop Or Not",
+    "description": "Världens första och enda lokala detektor för AI-innehåll för iPhone. Körs helt på din enhet utan begränsningar - kontrollera text och bilder privat, snabbare än molnet."
   },
   "Navigation": {
     "home": "Hem",
@@ -17,7 +17,7 @@
     }
   },
   "Footer": {
-    "tagline": "Upptäck AI-slask. Vet vad som är äkta.",
+    "tagline": "AI-detektering på enheten. Snabbare, privat, mer exakt.",
     "sections": {
       "products": "Produkter",
       "resources": "Resurser",
@@ -38,9 +38,14 @@
   },
   "Hero": {
     "logoAlt": "Slop Or Not-logotyp",
-    "title": "AI-textdetektor och AI-bilddetektor i en app",
+    "title": "Detektor för AI-innehåll i text och bilder som körs lokalt på din iPhone",
     "srOnlyPrefix": "Slop Or Not: ",
-    "description": "Kontrollera gratis om innehåll är AI på sekunder samtidigt som din data stannar på din iPhone."
+    "description": "Världens första och enda app för AI-innehållsdetektering på enheten som körs helt lokalt på din iPhone, utan begränsningar, så att du kan kontrollera om text och bilder är AI-genererade privat.",
+    "hook": {
+      "noLogin": "Ingen inloggning",
+      "noCloud": "Inget moln",
+      "noTracking": "Ingen spårning"
+    }
   },
   "NotFound": {
     "logoAlt": "Slop Or Not-logotyp",
@@ -49,21 +54,21 @@
     "backToHome": "Tillbaka till startsidan"
   },
   "CtaDownload": {
-    "title": "Ladda ner den kostnadsfria AI-innehållsdetektorn för iPhone",
-    "description": "Kontrollera AI-text och bilder på sekunder, helt offline. Din data lämnar aldrig din telefon – inbyggd integritet."
+    "title": "Ladda ner den lokala AI-innehållsdetektorn för iPhone",
+    "description": "Kör vår kompakta modell med hög noggrannhet lokalt. Kontrollera text och bilder omedelbart - privat, offline och gratis."
   },
   "Features": {
     "aiImageDetector": {
-      "title": "Kontrollera om AI skapade det fotot på din iPhone",
+      "title": "Kontrollera om bilden är AI-genererad på din iPhone",
       "description": "Romansbedrägerier stal 1,14 miljarder dollar från konsumenter under 2023, de högsta förlusterna av alla imitationsbedrägerier, <ftcLink>säger FTC</ftcLink>. Bedragare skapar nu <fakeDatingLink>falska dejtingprofiler</fakeDatingLink> med AI-genererade ansikten och chattbottar. Vår AI-bilddetektor finns på din iPhone, så du kan kontrollera om AI genererade den där selfien, kvittot eller produktbilden innan du sveper eller köper. Den flaggar för vattenstämplar plus subtila ansiktsartefakter som det mänskliga ögat missar."
     },
     "aiTextDetector": {
       "title": "AI-textdetektor med obegränsat ordantal",
-      "description": "Nästan 90 % av studenterna erkände att de använde ChatGPT för läxor <forbesLink>i början av 2023</forbesLink>, och tonåringars användning <pewLink>fördubblades igen till 2025</pewLink>. Lärare, redaktörer och jurister kan klistra in vilket dokument som helst i Slop Or Nots AI-textdetektor för att kontrollera om AI genererade orden – inga ordgränser, ingen molnövervakning. Engelska idag; fler språk snart."
+      "description": "Nära 90 % av studenter erkände att de använde ChatGPT för läxor <forbesLink>i början av 2023</forbesLink>, och användningen bland tonåringar <pewLink>fördubblas igen till 2025</pewLink>. Studenter och lärare behöver ofta kontrollera långa uppsatser och många inlämningar - det är här som molnbaserade detektorer brister med ordgränser och uppladdningar. Slop Or Not körs lokalt på din iPhone, så du kan klistra in hur lång text som helst och kontrollera så många dokument du behöver - inga ordgränser, inga användningsgränser, inget snokande i molnet. Engelska idag; fler språk kommer snart."
     },
     "aiFingerprints": {
       "title": "Ta bort AI-fingeravtryck och förmänskliga AI på iPhone",
-      "description": "Molnbaserade \"AI-humaniserare\" skickar ofta dina ord till fjärr-LLM:er som lämnar nya fingeravtryck efter sig. Slop Or Not rensar bort nollbreddsmellanrum, homoglyfer och avståndstrick – som det binära mönster <elonLink>Elon Musk använde 2008 för att fånga en Tesla-läcka</elonLink> – utan att skriva om din stil."
+      "description": "Molnbaserade \"AI-humaniserare\"-sajter skickar ofta dina ord till fjärranslutna LLM:er som lämnar nya fingeravtryck efter sig. Slop Or Not rensar bort nollbreddsteg, homoglyfer och mellanslagstrick - som det binära mönster <elonLink>Elon Musk använde 2008 för att avslöja en Tesla-läcka</elonLink> - utan att skriva om din stil. En obegränsad AI-humaniserare som drivs av Apple Intelligence kommer snart till Slop Or Not."
     },
     "stickerPack": {
       "title": "AI Slop-dekalpaket",
@@ -75,7 +80,7 @@
       "steps": {
         "download": {
           "title": "Skaffa AI-detektor",
-          "description": "Ladda ner appen från App Store. Den använder avancerade AI-modeller på enheten för att upptäcka AI-genererat innehåll."
+          "description": "Ladda ner appen från App Store. Den använder en liten AI-modell på enheten som upptäcker AI-genererat innehåll med en noggrannhet som konkurrerar med molntjänster."
         },
         "check": {
           "title": "Kör AI-kontroll",
@@ -92,11 +97,11 @@
       "cases": {
         "journalists": {
           "title": "Journalister & faktagranskare",
-          "description": "Granska bilder från nyhetsflödet och källcitat innan publicering. Undvik att publicera manipulerat innehåll som kan skada trovärdigheten."
+          "description": "Verifiera bilder och källcitat utan att ladda upp något. Detektering på enheten håller utredningar privata - inga OpenAI, Anthropic eller andra molnbaserade LLM:er - så att du säkert kan faktagranska känsligt material före publicering."
         },
         "teachers": {
           "title": "Lärare & studenter",
-          "description": "Lärare flaggar AI-skrivna uppsatser; studenter bekräftar sin egen originalitet. Upprätthåll akademisk ärlighet utan dyra plagiat-tjänster."
+          "description": "Kontrollera obegränsat antal dokument utan ordgränser eller dagliga kvoter. Lärare flaggar AI-skrivna uppsatser; studenter bekräftar originalitet - på enheten och privat. Gratis app med prisvärd prissättning för klassrum."
         },
         "dating": {
           "title": "Nätdejting",
@@ -112,7 +117,7 @@
         },
         "legal": {
           "title": "Jurister & medicinsk personal",
-          "description": "Bekräfta att kontrakt, inlagor eller patientjournaler är skrivna av människor. Skydda klientsekretessen och uppfyll strikta efterlevnadsregler."
+          "description": "Bekräfta att kontrakt, PM eller patientjournaler är skrivna av människor - utan att skicka dem till molnet. Slop Or Not körs lokalt på din iPhone (inga OpenAI/Anthropic) för att skydda klientsekretessen och uppfylla strikta efterlevnadsregler."
         },
         "creators": {
           "title": "Innehållsskapare & community-ansvariga",

@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "title": "Slop Or Not：免費的文字與圖像 AI 內容偵測器",
-    "description": "AI 文字偵測器、AI 圖像偵測器和 AI 人性化工具三合一應用程式。在 iPhone 上免費檢查 AI 並將 AI 內容人性化，無需雲端。"
+    "title": "iPhone 適用的 AI 文字及圖像偵測器 | Slop Or Not",
+    "description": "全球首創及唯一適用於 iPhone 的本機 AI 內容偵測器。完全在你的裝置上運行，不受任何限制 - 私密地檢查文字和圖像，比雲端更快。"
   },
   "Navigation": {
     "home": "主頁",
@@ -17,7 +17,7 @@
     }
   },
   "Footer": {
-    "tagline": "識破 AI 劣質內容。分辨真偽。",
+    "tagline": "裝置上 AI 偵測。更快、更私密、更準確。",
     "sections": {
       "products": "產品",
       "resources": "資源",
@@ -38,9 +38,14 @@
   },
   "Hero": {
     "logoAlt": "Slop or Not 標誌",
-    "title": "AI 文字偵測器與 AI 圖像偵測器，一個應用程式搞掂",
+    "title": "在 iPhone 上本機運行的 AI 文字及圖像內容偵測器",
     "srOnlyPrefix": "Slop or Not: ",
-    "description": "在 iPhone 上免費秒速檢查內容是否由 AI 生成，同時保護你的資料安全。"
+    "description": "全球首創及唯一的裝置上 AI 內容偵測應用程式，完全在你的 iPhone 上本機運行，不受任何限制，讓你可私密地檢查文字和圖像中的 AI 內容。",
+    "hook": {
+      "noLogin": "無需登入",
+      "noCloud": "無需雲端",
+      "noTracking": "無追蹤"
+    }
   },
   "NotFound": {
     "logoAlt": "Slop Or Not 標誌",
@@ -49,21 +54,21 @@
     "backToHome": "返回主頁"
   },
   "CtaDownload": {
-    "title": "下載適用於 iPhone 的免費 AI 內容偵測器",
-    "description": "完全離線，秒速檢查 AI 文字和圖像。你的資料絕不離開手機——內置私隱保護。"
+    "title": "下載適用於 iPhone 的裝置上 AI 內容偵測器",
+    "description": "在本機運行我們小巧而高精準度的模型。即時檢查文字和圖像 - 私密、離線、免費。"
   },
   "Features": {
     "aiImageDetector": {
-      "title": "在你的 iPhone 上檢查該相片是否由 AI 生成",
+      "title": "在你的 iPhone 上檢查該圖像是否由 AI 生成",
       "description": "<ftcLink>據 FTC 指出</ftcLink>，2023 年戀愛詐騙令消費者損失 11.4 億美元，是所有冒名詐騙中損失最高的。騙徒現在利用 AI 生成的臉孔和聊天機器人來製造<fakeDatingLink>虛假的交友個人檔案</fakeDatingLink>。我們的 AI 圖像偵測器直接在你的 iPhone 上運行，讓你在滑動或購買前，可以檢查該自拍、收據或產品圖片是否由 AI 生成。它能標示出水印以及人眼難以察覺的細微臉部瑕疵。"
     },
     "aiTextDetector": {
       "title": "無字數限制的 AI 文字偵測器",
-      "description": "<forbesLink>在 2023 年初</forbesLink>，近 90% 的學生承認使用 ChatGPT 做功課，而<pewLink>到 2025 年</pewLink>青少年使用率再次翻倍。教育工作者、編輯和律師可以將任何文件貼到 Slop Or Not 的 AI 文字偵測器中，檢查文字是否由 AI 生成——沒有字數上限，沒有雲端窺探。目前支援英文，更多語言即將推出。"
+      "description": "近 90% 的學生承認在 <forbesLink>2023 年初</forbesLink>使用 ChatGPT 做功課，而青少年的使用率在 <pewLink>2025 年前</pewLink>再次翻倍。學生和老師經常需要檢查長篇文章和大量提交的作業 - 這正是雲端偵測器因字數限制和上傳要求而顯得不足之處。Slop Or Not 在你的 iPhone 上本機運行，因此你可以貼上任何長度的內容，並按需要檢查任意數量的文件 - 沒有字數上限、沒有使用限制、沒有雲端窺探。目前支援英文；更多語言即將推出。"
     },
     "aiFingerprints": {
       "title": "在 iPhone 上移除 AI 指紋並將 AI 內容人性化",
-      "description": "雲端「AI 人性化」網站通常將你的文字傳送到遠端 LLM，這反而會留下新的指紋。Slop Or Not 能清除零寬度空格、同形異義字和間距技巧——就像 <elonLink>Elon Musk 在 2008 年用來捉拿 Tesla 洩密者的二進制模式</elonLink>——而不會改寫你的風格。"
+      "description": "雲端「AI 內容潤飾」網站經常將你的文字傳送到遠端的大型語言模型 (LLM)，這會留下新的數碼足跡。Slop Or Not 會清除零寬度空格、同形異義字和間距技巧 - 就像 <elonLink>Elon Musk 在 2008 年用來揪出 Tesla 洩密者的</elonLink>二進制模式 - 而不會改寫你的寫作風格。由 Apple Intelligence 驅動的無限次 AI 內容潤飾功能即將登陸 Slop Or Not。"
     },
     "stickerPack": {
       "title": "AI Slop 貼圖包",
@@ -75,7 +80,7 @@
       "steps": {
         "download": {
           "title": "獲取 AI 偵測器",
-          "description": "從 App Store 下載應用程式。它使用先進的裝置上 AI 模型來偵測 AI 生成的內容。"
+          "description": "從 App Store 下載此應用程式。它使用一個小巧的裝置上 AI 模型來偵測 AI 生成的內容，其準確度可媲美雲端服務。"
         },
         "check": {
           "title": "運行 AI 檢查",
@@ -92,11 +97,11 @@
       "cases": {
         "journalists": {
           "title": "記者與事實查核員",
-          "description": "在發布前審核突發新聞圖片和消息來源引述。避免發布可能損害信譽的經篡改內容。"
+          "description": "無需上傳任何內容即可驗證圖像和引用來源。裝置上偵測功能可確保調查過程的私密性 - 不經 OpenAI、Anthropic 或其他雲端大型語言模型 (LLM) - 讓你可以在發布前安全地對敏感資料進行事實查核。"
         },
         "teachers": {
           "title": "教師與學生",
-          "description": "教師標示出 AI 撰寫的論文；學生確認自己的原創性。無需昂貴的抄襲檢測服務，即可維護學術誠信。"
+          "description": "檢查無限量的文件，沒有字數上限或每日配額。老師標示出 AI 撰寫的文章；學生確認內容的原創性 - 一切均在裝置上私密進行。免費應用程式，並為課堂提供實惠的定價方案。"
         },
         "dating": {
           "title": "網上交友",
@@ -112,7 +117,7 @@
         },
         "legal": {
           "title": "法律與醫療專業人員",
-          "description": "確認合約、案情摘要或病歷檔案是由人類撰寫。在遵守嚴格合規規則的同時，保護客戶機密。"
+          "description": "確認合約、摘要或病患檔案均由人手撰寫 - 無需將它們傳送到雲端。Slop Or Not 在你的 iPhone 上本機運行 (不經 OpenAI/Anthropic)，以保護客戶機密並符合嚴格的合規要求。"
         },
         "creators": {
           "title": "內容創作者與社群管理員",

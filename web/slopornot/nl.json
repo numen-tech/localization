@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "title": "Slop Or Not: Gratis AI-contentdetector voor tekst en afbeeldingen",
-    "description": "AI-tekstdetector, AI-beelddetector en AI-vermenselijker in één app. Controleer gratis op AI en vermenselijk AI-tekst op iPhone, geen cloud nodig."
+    "title": "AI-tekstdetector en afbeelding detector voor iPhone | Slop Or Not",
+    "description": "'s Werelds eerste en enige lokale AI-contentdetector voor iPhone. Draait volledig op je apparaat zonder limieten - controleer tekst en afbeeldingen privé, sneller dan de cloud."
   },
   "Navigation": {
     "home": "Home",
@@ -17,7 +17,7 @@
     }
   },
   "Footer": {
-    "tagline": "Herken AI-slop. Weet wat echt is.",
+    "tagline": "AI-detectie op je apparaat. Sneller, privé, nauwkeuriger.",
     "sections": {
       "products": "Producten",
       "resources": "Bronnen",
@@ -38,9 +38,14 @@
   },
   "Hero": {
     "logoAlt": "Slop or Not-logo",
-    "title": "AI-tekstdetector en AI-beelddetector in één app",
+    "title": "AI-contentdetector voor tekst en afbeeldingen die lokaal op je iPhone draait",
     "srOnlyPrefix": "Slop or Not: ",
-    "description": "Controleer gratis binnen enkele seconden of content door AI is gemaakt, terwijl je gegevens op je iPhone blijven."
+    "description": "'s Werelds eerste en enige app voor AI-contentdetectie op je apparaat die volledig lokaal op je iPhone draait, zonder limieten, zodat je privé tekst en afbeeldingen op AI kunt controleren.",
+    "hook": {
+      "noLogin": "Geen login",
+      "noCloud": "Geen cloud",
+      "noTracking": "Geen tracking"
+    }
   },
   "NotFound": {
     "logoAlt": "Slop Or Not-logo",
@@ -49,21 +54,21 @@
     "backToHome": "Terug naar Home"
   },
   "CtaDownload": {
-    "title": "Download de gratis AI-contentdetector voor iPhone",
-    "description": "Controleer AI-tekst en -afbeeldingen in seconden, volledig offline. Je gegevens verlaten nooit je telefoon - privacy ingebouwd."
+    "title": "Download de lokale AI-contentdetector voor iPhone",
+    "description": "Draai ons compacte, zeer nauwkeurige model lokaal. Controleer tekst en afbeeldingen direct - privé, offline en gratis."
   },
   "Features": {
     "aiImageDetector": {
-      "title": "Controleer op je iPhone of die foto door AI is gegenereerd",
+      "title": "Controleer of AI die afbeelding heeft gegenereerd op je iPhone",
       "description": "Romantische oplichting heeft consumenten in 2023 $1,14 miljard gekost, het hoogste verlies van alle soorten fraude met nabootsing van identiteit, <ftcLink>zegt de FTC</ftcLink>. Oplichters maken nu <fakeDatingLink>nep-datingprofielen</fakeDatingLink> aan met AI-gegenereerde gezichten en chatbots. Onze AI-beelddetector draait op je iPhone, zodat je kunt controleren of die selfie, dat bonnetje of die productfoto door AI is gemaakt voordat je swipet of koopt. Het signaleert watermerken en subtiele artefacten in gezichten die het menselijk oog mist."
     },
     "aiTextDetector": {
       "title": "AI-tekstdetector zonder woordlimiet",
-      "description": "Bijna 90% van de studenten gaf begin 2023 toe ChatGPT te gebruiken voor huiswerk <forbesLink>volgens Forbes</forbesLink>, en het gebruik onder tieners <pewLink>verdubbelde opnieuw tegen 2025</pewLink>. Docenten, redacteuren en advocaten kunnen elk document in de AI-tekstdetector van Slop Or Not plakken om te controleren of AI de woorden heeft gegenereerd - zonder woordlimiet, zonder gesnuffel in de cloud. Vandaag in het Engels; binnenkort meer talen."
+      "description": "Bijna 90% van de studenten gaf toe ChatGPT te gebruiken voor huiswerk <forbesLink>begin 2023</forbesLink>, en het gebruik onder tieners <pewLink>verdubbelt opnieuw tegen 2025</pewLink>. Studenten en docenten moeten vaak lange essays en veel inzendingen controleren - dit is waar clouddetectors tekortschieten met woordlimieten en uploads. Slop Or Not draait lokaal op je iPhone, zodat je elke lengte kunt plakken en zoveel documenten kunt controleren als je wilt - geen woordlimieten, geen gebruikslimieten, geen gesnuffel in de cloud. Vandaag Engels; binnenkort meer talen."
     },
     "aiFingerprints": {
       "title": "Verwijder AI-vingerafdrukken en vermenselijk AI op iPhone",
-      "description": "Cloud \"AI-vermenselijker\"-websites sturen je woorden vaak naar externe LLM's die nieuwe vingerafdrukken achterlaten. Slop Or Not verwijdert spaties van nul breedte, homogliefen en spatietrucs – zoals het binaire patroon dat <elonLink>Elon Musk in 2008 gebruikte om een Tesla-lekker te vangen</elonLink> – zonder je schrijfstijl aan te passen."
+      "description": "'AI-humanizer'-sites in de cloud sturen je woorden vaak door naar externe LLM's die nieuwe vingerafdrukken achterlaten. Slop Or Not verwijdert 'zero-width spaces', homogliefen en spatietrucs - zoals het binaire patroon dat <elonLink>Elon Musk in 2008 gebruikte om een Tesla-lekker te vangen</elonLink> - zonder je schrijfstijl aan te passen. Een onbeperkte AI-humanizer, aangedreven door Apple Intelligence, komt binnenkort naar Slop Or Not."
     },
     "stickerPack": {
       "title": "AI Slop-stickerpakket",
@@ -75,7 +80,7 @@
       "steps": {
         "download": {
           "title": "Download AI-detector",
-          "description": "Download de app uit de App Store. Het gebruikt geavanceerde on-device AI-modellen om AI-gegenereerde content te detecteren."
+          "description": "Download de app uit de App Store. De app gebruikt een klein AI-model op je apparaat dat door AI gegenereerde content detecteert met een nauwkeurigheid die kan wedijveren met clouddiensten."
         },
         "check": {
           "title": "Voer AI-check uit",
@@ -92,11 +97,11 @@
       "cases": {
         "journalists": {
           "title": "Journalisten & Factcheckers",
-          "description": "Controleer breaking-news afbeeldingen en citaten van bronnen vóór publicatie. Voorkom publicatie van gemanipuleerde content die de geloofwaardigheid kan schaden."
+          "description": "Verifieer afbeeldingen en broncitaten zonder iets te uploaden. Detectie op je apparaat houdt onderzoeken privé - geen OpenAI, Anthropic of andere cloud-LLM's - zodat je veilig gevoelig materiaal kunt factchecken voordat je het publiceert."
         },
         "teachers": {
           "title": "Docenten & Studenten",
-          "description": "Docenten signaleren door AI geschreven essays; studenten bevestigen hun eigen originaliteit. Handhaaf academische integriteit zonder dure plagiaatdiensten."
+          "description": "Controleer onbeperkt documenten zonder woordlimieten of dagelijkse quota. Docenten signaleren door AI geschreven essays; studenten bevestigen originaliteit - op je apparaat en privé. Gratis app met betaalbare prijzen voor klaslokalen."
         },
         "dating": {
           "title": "Online Dating",
@@ -112,7 +117,7 @@
         },
         "legal": {
           "title": "Juridische & Medische professionals",
-          "description": "Bevestig dat contracten, processtukken of patiëntendossiers door een mens zijn opgesteld. Bescherm de vertrouwelijkheid van cliënten en voldoe aan strikte complianceregels."
+          "description": "Controleer of contracten, samenvattingen of patiëntendossiers door een mens zijn geschreven - zonder ze naar de cloud te sturen. Slop Or Not draait lokaal op je iPhone (geen OpenAI/Anthropic) om de vertrouwelijkheid van cliënten te beschermen en aan strenge nalevingsregels te voldoen."
         },
         "creators": {
           "title": "Content Creators & Community Managers",
