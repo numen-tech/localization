@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "title": "Slop Or Not: Metin ve Görseller için Ücretsiz Yapay Zeka İçerik Dedektörü",
-    "description": "Yapay zeka metin dedektörü, yapay zeka görsel dedektörü ve yapay zeka metin insanlaştırıcı tek bir uygulamada. iPhone'da ücretsiz olarak yapay zekayı kontrol edin ve metinleri insanlaştırın, bulut gerekmez."
+    "title": "iPhone için AI Metin ve Görsel Dedektörü | Slop Or Not",
+    "description": "iPhone için dünyanın ilk ve tek cihaz üzerinde çalışan AI içerik dedektörü. Tamamen cihazınızda sınırsızca çalışır - metinleri ve görselleri buluttan daha hızlı ve gizli bir şekilde kontrol edin."
   },
   "Navigation": {
     "home": "Ana Sayfa",
@@ -17,7 +17,7 @@
     }
   },
   "Footer": {
-    "tagline": "Yapay Zeka Çöplüğünü Tespit Et. Gerçek Olanı Bil.",
+    "tagline": "Cihaz üzerinde AI tespiti. Daha hızlı, gizli ve daha doğru.",
     "sections": {
       "products": "Ürünler",
       "resources": "Kaynaklar",
@@ -38,9 +38,14 @@
   },
   "Hero": {
     "logoAlt": "Slop or Not logosu",
-    "title": "Yapay Zeka Metin Dedektörü ve Yapay Zeka Görsel Dedektörü Tek Bir Uygulamada",
+    "title": "iPhone'unuzda Cihaz Üzerinde Çalışan AI Metin ve Görsel Dedektörü",
     "srOnlyPrefix": "Slop or Not: ",
-    "description": "Verilerinizi iPhone'unuzda tutarak içeriğin yapay zeka olup olmadığını saniyeler içinde ücretsiz olarak kontrol edin."
+    "description": "Tamamen iPhone'unuzda yerel olarak çalışan, dünyanın ilk ve tek cihaz üzeri AI içerik tespit uygulaması. Sınırsız kullanım sayesinde metin ve görsellerdeki AI varlığını gizlice kontrol edebilirsiniz.",
+    "hook": {
+      "noLogin": "Giriş Gerekmez",
+      "noCloud": "Bulut Yok",
+      "noTracking": "Takip Yok"
+    }
   },
   "NotFound": {
     "logoAlt": "Slop Or Not Logosu",
@@ -49,21 +54,21 @@
     "backToHome": "Ana Sayfaya Dön"
   },
   "CtaDownload": {
-    "title": "iPhone için Ücretsiz Yapay Zeka İçerik Dedektörünü İndirin",
-    "description": "Yapay zeka metinlerini ve görsellerini saniyeler içinde, tamamen çevrimdışı kontrol edin. Verileriniz asla telefonunuzdan ayrılmaz - gizlilik yerleşik."
+    "title": "iPhone için Cihaz Üzerinde Çalışan AI İçerik Dedektörünü İndirin",
+    "description": "Kompakt ve yüksek doğruluklu modelimizi cihazınızda çalıştırın. Metinleri ve görselleri anında kontrol edin - gizli, çevrimdışı ve ücretsiz."
   },
   "Features": {
     "aiImageDetector": {
-      "title": "iPhone'unuzdaki O Fotoğrafın Yapay Zeka Tarafından Oluşturulup Oluşturulmadığını Kontrol Edin",
+      "title": "iPhone'unuzda Bir Görselin AI Üretimi Olup Olmadığını Kontrol Edin",
       "description": "FTC'ye göre, aşk dolandırıcılıkları 2023'te tüketicilerden 1,14 milyar dolar çaldı ve bu, herhangi bir taklit dolandırıcılığının en yüksek kaybı oldu. Dolandırıcılar artık yapay zeka tarafından oluşturulan yüzler ve sohbet botları ile sahte flört profilleri oluşturuyor. Yapay zeka görsel dedektörümüz iPhone'unuzda yaşar, böylece bir selfie'nin, faturanın veya ürün fotoğrafının yapay zeka tarafından oluşturulup oluşturulmadığını kaydırmadan veya satın almadan önce kontrol edebilirsiniz. Filigranları ve insan gözünün kaçırdığı ince yüz kusurlarını işaretler."
     },
     "aiTextDetector": {
       "title": "Sınırsız Kelime Sayılı Yapay Zeka Metin Dedektörü",
-      "description": "2023'ün başlarında öğrencilerin yaklaşık %90'ı ödevleri için ChatGPT kullandığını itiraf etti ve gençlerin kullanımı 2025'e kadar tekrar ikiye katlandı. Eğitimciler, editörler ve avukatlar, herhangi bir belgeyi Slop Or Not'un yapay zeka metin dedektörüne yapıştırarak kelimelerin yapay zeka tarafından oluşturulup oluşturulmadığını kontrol edebilir - kelime sınırı yok, bulut gözetlemesi yok. Şimdilik İngilizce; yakında daha fazla dil eklenecek."
+      "description": "Öğrencilerin yaklaşık %90'ı <forbesLink>2023'ün başlarında</forbesLink> ödevleri için ChatGPT kullandığını kabul etti ve gençlerin kullanımı <pewLink>2025'e kadar tekrar ikiye katlandı</pewLink>. Öğrenciler ve öğretmenler genellikle uzun makaleleri ve çok sayıda ödevi kontrol etmek zorunda kalır - bulut tabanlı dedektörler ise kelime sınırları ve yüklemelerle bu noktada yetersiz kalır. Slop Or Not, iPhone'unuzda yerel olarak çalışır, bu sayede istediğiniz uzunlukta metin yapıştırabilir ve dilediğiniz kadar belgeyi kontrol edebilirsiniz - kelime sınırı yok, kullanım limiti yok, bulut gözetlemesi yok. Şimdilik İngilizce; yakında daha fazla dil gelecek."
     },
     "aiFingerprints": {
       "title": "iPhone'da Yapay Zeka Parmak İzlerini Kaldırın ve Yapay Zeka Metinlerini İnsanlaştırın",
-      "description": "Bulut tabanlı \"yapay zeka insanlaştırıcı\" siteleri genellikle kelimelerinizi arkasında yeni parmak izleri bırakan uzak LLM'lere gönderir. Slop Or Not, sıfır genişlikli boşlukları, homoglifleri ve boşluk hilelerini - Elon Musk'ın 2008'de bir Tesla sızıntısını yakalamak için kullandığı ikili desen gibi - tarzınızı yeniden yazmadan temizler."
+      "description": "Bulut tabanlı \"AI insancıllaştırıcı\" siteler, metinlerinizi genellikle arkasında yeni parmak izleri bırakan uzak LLM'lere aktarır. Slop Or Not, <elonLink>Elon Musk'ın 2008'de bir Tesla sızıntısını yakalamak için kullandığı</elonLink> ikili desen gibi sıfır genişlikli boşlukları, homoglifleri ve boşluk hilelerini tarzınızı bozmadan temizler. Apple Intelligence destekli sınırsız AI insancıllaştırıcı yakında Slop Or Not'a geliyor."
     },
     "stickerPack": {
       "title": "Yapay Zeka Çöplüğü Çıkartma Paketi",
@@ -75,7 +80,7 @@
       "steps": {
         "download": {
           "title": "Yapay Zeka Dedektörünü Edinin",
-          "description": "Uygulamayı App Store'dan indirin. Yapay zeka tarafından oluşturulan içeriği tespit etmek için gelişmiş cihaz üstü yapay zeka modelleri kullanır."
+          "description": "Uygulamayı App Store'dan indirin. Bulut servisleriyle yarışan doğrulukta AI üretimi içeriği tespit eden, cihaz üzerinde çalışan küçük bir AI modeli kullanır."
         },
         "check": {
           "title": "Yapay Zeka Kontrolü Yapın",
@@ -92,11 +97,11 @@
       "cases": {
         "journalists": {
           "title": "Gazeteciler ve Doğruluk Kontrolü Yapanlar",
-          "description": "Flaş haber görsellerini ve kaynak alıntılarını yayınlamadan önce inceleyin. Güvenilirliğe zarar verebilecek manipüle edilmiş içerik yayınlamaktan kaçının."
+          "description": "Görselleri ve kaynak alıntılarını hiçbir şey yüklemeden doğrulayın. Cihaz üzerinde tespit, araştırmaları gizli tutar - OpenAI, Anthropic veya başka bulut LLM'leri kullanılmaz - böylece hassas materyalleri yayınlamadan önce güvenle doğruluk kontrolü yapabilirsiniz."
         },
         "teachers": {
           "title": "Öğretmenler ve Öğrenciler",
-          "description": "Öğretmenler yapay zeka ile yazılmış makaleleri işaretler; öğrenciler kendi özgünlüklerini teyit eder. Pahalı intihal hizmetleri olmadan akademik dürüstlüğü koruyun."
+          "description": "Kelime sınırı veya günlük kota olmadan sınırsız sayıda belgeyi kontrol edin. Öğretmenler AI ile yazılmış ödevleri işaretler, öğrenciler özgünlüğü doğrular - hepsi cihaz üzerinde ve gizli. Sınıflar için uygun fiyatlandırma seçenekleri sunan ücretsiz bir uygulama."
         },
         "dating": {
           "title": "Online Flört",
@@ -112,7 +117,7 @@
         },
         "legal": {
           "title": "Hukuk ve Tıp Profesyonelleri",
-          "description": "Sözleşmelerin, dava dosyalarının veya hasta kayıtlarının insan tarafından yazıldığını teyit edin. Katı uyumluluk kurallarını karşılarken müşteri gizliliğini koruyun."
+          "description": "Sözleşmelerin, dava özetlerinin veya hasta dosyalarının buluta gönderilmeden, bir insan tarafından yazıldığını doğrulayın. Slop Or Not, müşteri gizliliğini korumak ve katı uyumluluk kurallarını karşılamak için iPhone'unuzda yerel olarak çalışır (OpenAI/Anthropic kullanılmaz)."
         },
         "creators": {
           "title": "İçerik Üreticileri ve Topluluk Yöneticileri",

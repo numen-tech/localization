@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "title": "Slop Or Not: Free AI Content Detector for Text and Images",
-    "description": "AI text detector, AI image detector, and AI humanizer in one app. Check for AI and humanize AI for free on iPhone, no cloud needed."
+    "title": "AI Text Detector & Image Detector for iPhone | Slop Or Not",
+    "description": "World's first and only local AI content detector for iPhone. Runs entirely on your device with no limits - check text and images privately, faster than cloud."
   },
   "Navigation": {
     "home": "Home",
@@ -17,7 +17,7 @@
     }
   },
   "Footer": {
-    "tagline": "Spot AI Slop. Know what's real.",
+    "tagline": "On-device AI detection. Faster, private, more accurate.",
     "sections": {
       "products": "Products",
       "resources": "Resources",
@@ -38,9 +38,14 @@
   },
   "Hero": {
     "logoAlt": "Slop or Not logo",
-    "title": "AI Text Detector and AI Image Detector in One App",
+    "title": "AI Content Detector for Text and Images That Runs Locally on Your iPhone",
     "srOnlyPrefix": "Slop or Not: ",
-    "description": "Check if content is AI in seconds for free while keeping your data on your iPhone."
+    "description": "World's first and only on-device AI content detection app that runs entirely locally on your iPhone, with no limits, so you can check text and images for AI privately.",
+    "hook": {
+      "noLogin": "No Login",
+      "noCloud": "No Cloud",
+      "noTracking": "No Tracking"
+    }
   },
   "NotFound": {
     "logoAlt": "Slop Or Not Logo",
@@ -49,21 +54,21 @@
     "backToHome": "Back to Home"
   },
   "CtaDownload": {
-    "title": "Download the Free AI Content Detector for iPhone",
-    "description": "Check for AI text and images in seconds, fully offline. Your data never leaves your phone - privacy built in."
+    "title": "Download the On-Device AI Content Detector for iPhone",
+    "description": "Run our compact, high-accuracy model locally. Check text and images instantly - private, offline, and free."
   },
   "Features": {
     "aiImageDetector": {
-      "title": "Check If AI Generated That Photo on Your iPhone",
+      "title": "Check If AI Generated That Image on Your iPhone",
       "description": "Romance scams stole $1.14 billion from consumers in 2023, the highest losses of any impostor fraud, <ftcLink>says the FTC</ftcLink>. Swindlers now spin up <fakeDatingLink>fake dating profiles</fakeDatingLink> with AI-generated faces and chatbots. Our AI image detector lives on your iPhone, so you can check if AI generated that selfie, receipt, or product shot before you swipe or buy. It flags watermarks plus subtle face artifacts the human eye misses."
     },
     "aiTextDetector": {
       "title": "AI Text Detector With Unlimited Word Count",
-      "description": "Nearly 90% of students admitted using ChatGPT for homework <forbesLink>in early 2023</forbesLink>, and teen usage <pewLink>doubled again by 2025</pewLink>. Educators, editors, and lawyers can paste any document into Slop Or Not's AI text detector to check if AI generated the words - no word caps, no cloud snooping. English today; more languages soon."
+      "description": "Nearly 90% of students admitted using ChatGPT for homework <forbesLink>in early 2023</forbesLink>, and teen usage <pewLink>doubled again by 2025</pewLink>. Students and teachers often need to check long essays and lots of submissions - this is where cloud detectors fall short with word limits, and uploads. Slop Or Not runs locally on your iPhone, so you can paste any length and check as many documents as you need - no word caps, no usage limits, no cloud snooping. English today; more languages soon."
     },
     "aiFingerprints": {
       "title": "Remove AI Fingerprints and Humanize AI on iPhone",
-      "description": "Cloud \"AI humanizer\" sites often pipe your words into remote LLMs that leave new fingerprints behind. Slop Or Not scrubs zero-width spaces, homoglyphs, and spacing tricks - like the binary pattern <elonLink>Elon Musk used in 2008 to catch a Tesla leaker</elonLink> - without rewriting your style."
+      "description": "Cloud \"AI humanizer\" sites often pipe your words into remote LLMs that leave new fingerprints behind. Slop Or Not scrubs zero-width spaces, homoglyphs, and spacing tricks - like the binary pattern <elonLink>Elon Musk used in 2008 to catch a Tesla leaker</elonLink> - without rewriting your style. Apple Intelligence powered unlimited AI humanizer is coming soon to Slop Or Not."
     },
     "stickerPack": {
       "title": "AI Slop Sticker Pack",
@@ -75,7 +80,7 @@
       "steps": {
         "download": {
           "title": "Get AI Detector",
-          "description": "Download the app from the App Store. It uses advanced on-device AI models to detect AI generated content."
+          "description": "Download the app from the App Store. It uses a small on-device AI model that detects AI-generated content with accuracy that rivals cloud services."
         },
         "check": {
           "title": "Run AI Check",
@@ -92,11 +97,11 @@
       "cases": {
         "journalists": {
           "title": "Journalists & Fact-Checkers",
-          "description": "Vet breaking-news images and source quotes before publishing. Avoid publishing manipulated content that could damage credibility."
+          "description": "Verify images and source quotes without uploading anything. On-device detection keeps investigations private - no OpenAI, Anthropic, or other cloud LLMs - so you can safely fact-check sensitive material before publishing."
         },
         "teachers": {
           "title": "Teachers & Students",
-          "description": "Teachers flag AI-written essays; students confirm their own originality. Uphold academic honesty without expensive plagiarism services."
+          "description": "Check unlimited documents with no word caps or daily quotas. Teachers flag AI-written essays; students confirm originality - on-device and private. Free app with affordable pricing for classrooms."
         },
         "dating": {
           "title": "Online Dating",
@@ -112,7 +117,7 @@
         },
         "legal": {
           "title": "Legal & Medical Professionals",
-          "description": "Confirm that contracts, briefs, or patient files are human-authored. Protect client confidentiality while meeting strict compliance rules."
+          "description": "Confirm that contracts, briefs, or patient files are human-authored - without sending them to the cloud. Slop Or Not runs locally on your iPhone (no OpenAI/Anthropic) to protect client confidentiality and meet strict compliance rules."
         },
         "creators": {
           "title": "Content Creators & Community Managers",

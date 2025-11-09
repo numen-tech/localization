@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "title": "Slop Or Not: Ingyenes MI Tartalomdetektor Szövegekhez és Képekhez",
-    "description": "MI szövegdetektor, MI képdetektor és MI humanizáló egyetlen alkalmazásban. Ellenőrizze az MI-t és humanizálja ingyenesen iPhone-on, felhő nélkül."
+    "title": "MI szöveg- és képdetektor iPhone-ra | Slop Or Not",
+    "description": "A világ első és egyetlen helyi MI tartalomdetektora iPhone-ra. Teljesen az eszközödön fut korlátok nélkül - ellenőrizz szövegeket és képeket privát módon, gyorsabban, mint a felhő."
   },
   "Navigation": {
     "home": "Kezdőlap",
@@ -17,7 +17,7 @@
     }
   },
   "Footer": {
-    "tagline": "Ismerd fel az MI Söpredéket. Tudd, mi a valódi.",
+    "tagline": "Eszközön futó MI-észlelés. Gyorsabb, privát, pontosabb.",
     "sections": {
       "products": "Termékek",
       "resources": "Források",
@@ -38,9 +38,14 @@
   },
   "Hero": {
     "logoAlt": "Slop or Not logó",
-    "title": "MI Szövegdetektor és MI Képdetektor Egyetlen Alkalmazásban",
+    "title": "Helyben, az iPhone-odon futó MI tartalomdetektor szövegekhez és képekhez",
     "srOnlyPrefix": "Slop or Not: ",
-    "description": "Ellenőrizze másodpercek alatt ingyenesen, hogy a tartalom MI-generált-e, miközben adatai az iPhone-ján maradnak."
+    "description": "A világ első és egyetlen eszközön futó MI tartalomészlelő alkalmazása, amely teljesen helyben fut az iPhone-odon, korlátok nélkül, így privát módon ellenőrizheted a szövegeket és képeket.",
+    "hook": {
+      "noLogin": "Nincs bejelentkezés",
+      "noCloud": "Nincs felhő",
+      "noTracking": "Nincs követés"
+    }
   },
   "NotFound": {
     "logoAlt": "Slop Or Not Logó",
@@ -49,21 +54,21 @@
     "backToHome": "Vissza a Kezdőlapra"
   },
   "CtaDownload": {
-    "title": "Töltse le az Ingyenes MI Tartalomdetektort iPhone-ra",
-    "description": "Ellenőrizze az MI szövegeket és képeket másodpercek alatt, teljesen offline. Adatai soha nem hagyják el a telefonját – beépített adatvédelem."
+    "title": "Töltsd le az eszközön futó MI tartalomdetektort iPhone-ra",
+    "description": "Futtasd kompakt, nagy pontosságú modellünket helyben. Ellenőrizz szövegeket és képeket azonnal - privát módon, offline és ingyenesen."
   },
   "Features": {
     "aiImageDetector": {
-      "title": "Ellenőrizze iPhone-ján, hogy MI Készítette-e a Fényképet",
+      "title": "Ellenőrizd az iPhone-odon, hogy MI generálta-e a képet",
       "description": "A romantikus csalások 2023-ban 1,14 milliárd dollárt csaltak ki a fogyasztóktól, ami a legmagasabb veszteség az imposztor csalások között, <ftcLink>mondja az FTC</ftcLink>. A csalók most MI-generált arcokkal és chatbotokkal hoznak létre <fakeDatingLink>hamis társkereső profilokat</fakeDatingLink>. Az MI képdetektorunk az iPhone-ján fut, így ellenőrizheti, hogy egy szelfit, nyugtát vagy termékfotót MI generált-e, mielőtt jobbra húzná a képet vagy vásárolna. Észleli a vízjeleket és azokat a finom arcvonás-hibákat, amelyeket az emberi szem nem vesz észre."
     },
     "aiTextDetector": {
       "title": "MI Szövegdetektor Korlátlan Szószám-limittel",
-      "description": "A diákok közel 90%-a ismerte be 2023 elején, hogy a ChatGPT-t használta a házi feladatához <forbesLink>egy Forbes cikk szerint</forbesLink>, és a tinédzserek körében a használat <pewLink>2025-re ismét megduplázódott</pewLink>. Oktatók, szerkesztők és jogászok bármilyen dokumentumot beilleszthetnek a Slop Or Not MI szövegdetektorába, hogy ellenőrizzék, a szavakat MI generálta-e – szószám-korlát és felhőalapú kémkedés nélkül. Ma még csak angolul, de hamarosan több nyelven is elérhető lesz."
+      "description": "A diákok közel 90%-a ismerte be, hogy a ChatGPT-t használta a házi feladatához <forbesLink>2023 elején</forbesLink>, a tinédzserek általi használat pedig <pewLink>2025-re újra a duplájára nőtt</pewLink>. A diákoknak és tanároknak gyakran kell hosszú esszéket és rengeteg beadandót ellenőrizniük - itt buknak el a felhőalapú detektorok a szókorlátok és a feltöltések miatt. A Slop Or Not helyben fut az iPhone-odon, így bármilyen hosszúságú szöveget beilleszthetsz, és annyi dokumentumot ellenőrizhetsz, amennyire csak szükséged van - nincsenek szókorlátok, használati korlátok és nincs felhőbeli kémkedés. Ma még angolul; hamarosan további nyelveken is."
     },
     "aiFingerprints": {
       "title": "MI Ujjlenyomatok Eltávolítása és MI Humanizálása iPhone-on",
-      "description": "A felhőalapú „MI humanizáló” oldalak gyakran távoli LLM-ekbe továbbítják a szavait, amelyek új ujjlenyomatokat hagynak maguk után. A Slop Or Not eltávolítja a nulla szélességű szóközöket, homografákat és a trükkös szóközhasználatot – mint például a bináris mintát, amit <elonLink>Elon Musk használt 2008-ban egy Tesla-szivárogtató leleplezésére</elonLink> – anélkül, hogy átírná a stílusát."
+      "description": "A felhőalapú 'MI-emberiesítő' oldalak gyakran távoli LLM-ekbe továbbítják a szavaidat, amelyek új ujjlenyomatokat hagynak maguk után. A Slop Or Not eltávolítja a nulla szélességű szóközöket, a homelifeket és a szóköztrükköket - mint azt a bináris mintát, amelyet <elonLink>Elon Musk használt 2008-ban egy Tesla-szivárogtató leleplezésére</elonLink> - anélkül, hogy átírná a stílusodat. Hamarosan érkezik a Slop Or Not alkalmazásba az Apple Intelligence által működtetett, korlátlan MI-emberiesítő."
     },
     "stickerPack": {
       "title": "MI Söpredék Matricacsomag",
@@ -75,7 +80,7 @@
       "steps": {
         "download": {
           "title": "Szerezze be az MI Detektort",
-          "description": "Töltse le az alkalmazást az App Store-ból. Fejlett, eszközön futó MI modelleket használ az MI által generált tartalmak észlelésére."
+          "description": "Töltsd le az alkalmazást az App Store-ból. Egy kisméretű, eszközön futó MI-modellt használ, amely a felhőalapú szolgáltatásokéval vetekedő pontossággal észleli az MI által generált tartalmakat."
         },
         "check": {
           "title": "Futtasson MI Ellenőrzést",
@@ -92,11 +97,11 @@
       "cases": {
         "journalists": {
           "title": "Újságírók és Tényellenőrök",
-          "description": "Ellenőrizze a friss hírek képeit és a forrásidézeteket publikálás előtt. Kerülje el a manipulált tartalmak közzétételét, amelyek károsíthatják a hitelességet."
+          "description": "Ellenőrizd a képeket és a forrásidézeteket anélkül, hogy bármit is feltöltenél. Az eszközön futó észlelés bizalmasan kezeli a vizsgálatokat - nincs OpenAI, Anthropic vagy más felhőalapú LLM -, így biztonságosan ellenőrizheted a tényeket a kényes anyagokban a közzététel előtt."
         },
         "teachers": {
           "title": "Tanárok és Diákok",
-          "description": "A tanárok kiszűrik az MI-vel írt esszéket; a diákok megerősítik saját munkájuk eredetiségét. Támogassa az akadémiai becsületességet drága plágiumellenőrző szolgáltatások nélkül."
+          "description": "Ellenőrizz korlátlan számú dokumentumot szókorlátok és napi kvóták nélkül. A tanárok megjelölik az MI által írt esszéket, a diákok pedig ellenőrzik az eredetiséget - mindezt eszközön futtatva és privát módon. Ingyenes alkalmazás, megfizethető árazással tantermek számára."
         },
         "dating": {
           "title": "Online Társkeresés",
@@ -112,7 +117,7 @@
         },
         "legal": {
           "title": "Jogi és Orvosi Szakemberek",
-          "description": "Győződjön meg róla, hogy a szerződések, beadványok vagy betegakták emberi szerzőktől származnak. Védje az ügyfelek bizalmas adatait a szigorú megfelelési szabályok betartása mellett."
+          "description": "Győződj meg róla, hogy a szerződéseket, összefoglalókat vagy betegaktákat ember írta - anélkül, hogy a felhőbe küldenéd őket. A Slop Or Not helyben fut az iPhone-odon (nincs OpenAI/Anthropic), hogy védje az ügyfél-titoktartást és megfeleljen a szigorú megfelelőségi szabályoknak."
         },
         "creators": {
           "title": "Tartalomkészítők és Közösségi Menedzserek",

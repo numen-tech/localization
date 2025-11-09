@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "title": "Slop Or Not: Darmowy Wykrywacz Treści AI dla Tekstu i Obrazów",
-    "description": "Wykrywacz tekstu AI, wykrywacz obrazów AI i humanizator AI w jednej aplikacji. Sprawdzaj i humanizuj treści AI za darmo na iPhonie, bez potrzeby chmury."
+    "title": "Detektor tekstu i obrazów AI dla iPhone'a | Slop Or Not",
+    "description": "Pierwszy i jedyny na świecie lokalny detektor treści AI dla iPhone'a. Działa w całości na Twoim urządzeniu bez żadnych limitów - sprawdzaj tekst i obrazy prywatnie, szybciej niż w chmurze."
   },
   "Navigation": {
     "home": "Główna",
@@ -17,7 +17,7 @@
     }
   },
   "Footer": {
-    "tagline": "Wykryj AI Slop. Wiedz, co jest prawdziwe.",
+    "tagline": "Detekcja AI na urządzeniu. Szybciej, prywatnie, dokładniej.",
     "sections": {
       "products": "Produkty",
       "resources": "Zasoby",
@@ -38,9 +38,14 @@
   },
   "Hero": {
     "logoAlt": "Logo Slop or Not",
-    "title": "Wykrywacz Tekstu AI i Wykrywacz Obrazów AI w Jednej Aplikacji",
+    "title": "Detektor treści AI dla tekstu i obrazów, działający lokalnie na Twoim iPhonie",
     "srOnlyPrefix": "Slop or Not: ",
-    "description": "Sprawdź za darmo w kilka sekund, czy treść jest wygenerowana przez AI, zachowując swoje dane na iPhonie."
+    "description": "Pierwsza i jedyna na świecie aplikacja do detekcji treści AI na urządzeniu, która działa w całości lokalnie na Twoim iPhonie, bez żadnych limitów, dzięki czemu możesz prywatnie sprawdzać tekst i obrazy pod kątem AI.",
+    "hook": {
+      "noLogin": "Bez logowania",
+      "noCloud": "Bez chmury",
+      "noTracking": "Bez śledzenia"
+    }
   },
   "NotFound": {
     "logoAlt": "Logo Slop Or Not",
@@ -49,21 +54,21 @@
     "backToHome": "Powrót na stronę główną"
   },
   "CtaDownload": {
-    "title": "Pobierz Darmowy Wykrywacz Treści AI na iPhone'a",
-    "description": "Sprawdzaj tekst i obrazy AI w kilka sekund, w pełni offline. Twoje dane nigdy nie opuszczają Twojego telefonu - prywatność to podstawa."
+    "title": "Pobierz detektor treści AI na urządzeniu dla iPhone'a",
+    "description": "Uruchom lokalnie nasz kompaktowy model o wysokiej dokładności. Sprawdzaj tekst i obrazy natychmiast - prywatnie, offline i za darmo."
   },
   "Features": {
     "aiImageDetector": {
-      "title": "Sprawdź na iPhonie, czy zdjęcie zostało wygenerowane przez AI",
+      "title": "Sprawdź na swoim iPhonie, czy ten obraz został wygenerowany przez AI",
       "description": "Oszustwa romantyczne kosztowały konsumentów 1,14 miliarda dolarów w 2023 roku, co stanowi najwyższą stratę spośród wszystkich oszustw polegających na podszywaniu się, <ftcLink>mówi FTC</ftcLink>. Oszuści tworzą teraz <fakeDatingLink>fałszywe profile randkowe</fakeDatingLink> z twarzami wygenerowanymi przez AI i chatbotami. Nasz wykrywacz obrazów AI działa na Twoim iPhonie, więc możesz sprawdzić, czy selfie, paragon czy zdjęcie produktu zostały wygenerowane przez AI, zanim przesuniesz w prawo lub dokonasz zakupu. Wykrywa znaki wodne oraz subtelne artefakty na twarzach, których ludzkie oko nie zauważa."
     },
     "aiTextDetector": {
       "title": "Wykrywacz Tekstu AI bez Limitu Słów",
-      "description": "Prawie 90% studentów przyznało się do korzystania z ChatGPT przy zadaniach domowych <forbesLink>na początku 2023 roku</forbesLink>, a użycie przez nastolatków <pewLink>ponownie podwoiło się do 2025 roku</pewLink>. Nauczyciele, redaktorzy i prawnicy mogą wkleić dowolny dokument do wykrywacza tekstu AI Slop Or Not, aby sprawdzić, czy słowa zostały wygenerowane przez AI - bez limitu słów, bez szpiegowania w chmurze. Obecnie działa w języku angielskim; wkrótce pojawią się kolejne języki."
+      "description": "Prawie 90% uczniów przyznało się do używania ChatGPT do zadań domowych <forbesLink>na początku 2023 roku</forbesLink>, a użycie przez nastolatków <pewLink>ma się ponownie podwoić do 2025 roku</pewLink>. Uczniowie i nauczyciele często muszą sprawdzać długie eseje i wiele prac - to właśnie tutaj detektory chmurowe zawodzą z powodu limitów słów i konieczności przesyłania plików. Slop Or Not działa lokalnie na Twoim iPhonie, więc możesz wklejać dowolnie długie teksty i sprawdzać tyle dokumentów, ile potrzebujesz - bez limitów słów, bez limitów użycia, bez podglądania w chmurze. Obecnie język angielski; wkrótce więcej języków."
     },
     "aiFingerprints": {
       "title": "Usuń Odciski Palców AI i Humanizuj Tekst AI na iPhonie",
-      "description": "Strony „humanizatorów AI” w chmurze często przesyłają Twoje słowa do zdalnych modeli LLM, które pozostawiają nowe odciski palców. Slop Or Not usuwa spacje o zerowej szerokości, homoglify i sztuczki z odstępami – jak binarny wzorzec, którego <elonLink>Elon Musk użył w 2008 roku, by złapać przeciek w Tesli</elonLink> – bez zmieniania Twojego stylu."
+      "description": "Chmurowe strony typu \"humanizer AI\" często przesyłają Twoje słowa do zdalnych modeli LLM, które pozostawiają nowe cyfrowe ślady. Slop Or Not usuwa spacje o zerowej szerokości, homoglify i sztuczki ze spacjowaniem - takie jak wzorzec binarny, <elonLink>którego Elon Musk użył w 2008 roku, aby złapać informatora z Tesli</elonLink> - bez zmieniania Twojego stylu. Nielimitowany humanizer AI oparty na Apple Intelligence już wkrótce w Slop Or Not."
     },
     "stickerPack": {
       "title": "Paczka Naklejek AI Slop",
@@ -75,7 +80,7 @@
       "steps": {
         "download": {
           "title": "Pobierz Wykrywacz AI",
-          "description": "Pobierz aplikację z App Store. Wykorzystuje ona zaawansowane modele AI na urządzeniu do wykrywania treści generowanych przez AI."
+          "description": "Pobierz aplikację z App Store. Używa ona małego modelu AI na urządzeniu, który wykrywa treści wygenerowane przez AI z dokładnością dorównującą usługom chmurowym."
         },
         "check": {
           "title": "Uruchom Sprawdzanie AI",
@@ -92,11 +97,11 @@
       "cases": {
         "journalists": {
           "title": "Dziennikarze i Weryfikatorzy Faktów",
-          "description": "Sprawdzaj zdjęcia z najnowszych wiadomości i cytaty ze źródeł przed publikacją. Unikaj publikowania zmanipulowanych treści, które mogłyby zaszkodzić wiarygodności."
+          "description": "Weryfikuj obrazy i cytaty źródłowe bez przesyłania czegokolwiek. Detekcja na urządzeniu zapewnia prywatność dochodzeń - bez OpenAI, Anthropic czy innych chmurowych modeli LLM - dzięki czemu możesz bezpiecznie weryfikować fakty w poufnych materiałach przed publikacją."
         },
         "teachers": {
           "title": "Nauczyciele i Uczniowie",
-          "description": "Nauczyciele oznaczają eseje napisane przez AI; uczniowie potwierdzają oryginalność swojej pracy. Dbaj o uczciwość akademicką bez drogich serwisów antyplagiatowych."
+          "description": "Sprawdzaj nielimitowaną liczbę dokumentów bez limitów słów czy dziennych limitów. Nauczyciele oznaczają eseje napisane przez AI, a uczniowie potwierdzają oryginalność - na urządzeniu i prywatnie. Darmowa aplikacja z przystępnymi cenami dla klas."
         },
         "dating": {
           "title": "Randki Online",
@@ -112,7 +117,7 @@
         },
         "legal": {
           "title": "Prawnicy i Pracownicy Służby Zdrowia",
-          "description": "Potwierdzaj, że umowy, pisma procesowe czy akta pacjentów zostały stworzone przez człowieka. Chroń poufność klientów, spełniając surowe wymogi prawne."
+          "description": "Potwierdź, że umowy, pisma procesowe czy akta pacjentów są autorstwa człowieka - bez wysyłania ich do chmury. Slop Or Not działa lokalnie na Twoim iPhonie (bez OpenAI/Anthropic), aby chronić poufność klientów i spełniać surowe wymogi zgodności."
         },
         "creators": {
           "title": "Twórcy Treści i Menedżerowie Społeczności",

@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "title": "Slop Or Not: Bezplatný detektor obsahu AI pro text a obrázky",
-    "description": "Detektor textu AI, detektor obrázků AI a humanizér AI v jedné aplikaci. Zkontrolujte obsah vytvořený AI a polidštěte jej zdarma na iPhonu, bez nutnosti cloudu."
+    "title": "AI detektor textu a obrázků pro iPhone | Slop Or Not",
+    "description": "První a jediný lokální detektor AI obsahu na světě pro iPhone. Běží kompletně ve vašem zařízení bez omezení - kontrolujte texty a obrázky soukromě a rychleji než v cloudu."
   },
   "Navigation": {
     "home": "Domů",
@@ -17,7 +17,7 @@
     }
   },
   "Footer": {
-    "tagline": "Odhalte AI slop. Zjistěte, co je skutečné.",
+    "tagline": "Detekce AI na zařízení. Rychlejší, soukromá, přesnější.",
     "sections": {
       "products": "Produkty",
       "resources": "Zdroje",
@@ -38,9 +38,14 @@
   },
   "Hero": {
     "logoAlt": "Logo Slop or Not",
-    "title": "Detektor textu a obrázků AI v jedné aplikaci",
+    "title": "AI detektor obsahu pro texty a obrázky, který běží lokálně na vašem iPhonu",
     "srOnlyPrefix": "Slop or Not: ",
-    "description": "Zdarma zkontrolujte během několika sekund, zda je obsah vytvořen umělou inteligencí, a přitom si svá data ponechte ve svém iPhonu."
+    "description": "První a jediná aplikace na světě pro detekci AI obsahu přímo v zařízení. Běží kompletně lokálně na vašem iPhonu bez omezení, takže můžete kontrolovat texty a obrázky zcela soukromě.",
+    "hook": {
+      "noLogin": "Bez přihlášení",
+      "noCloud": "Bez cloudu",
+      "noTracking": "Bez sledování"
+    }
   },
   "NotFound": {
     "logoAlt": "Logo Slop Or Not",
@@ -49,21 +54,21 @@
     "backToHome": "Zpět na domovskou stránku"
   },
   "CtaDownload": {
-    "title": "Stáhněte si bezplatný detektor obsahu AI pro iPhone",
-    "description": "Zkontrolujte text a obrázky vytvořené AI během několika sekund, zcela offline. Vaše data nikdy neopustí váš telefon - soukromí je zaručeno."
+    "title": "Stáhněte si lokální detektor AI obsahu pro iPhone",
+    "description": "Spouštějte náš kompaktní a vysoce přesný model lokálně. Kontrolujte texty a obrázky okamžitě - soukromě, offline a zdarma."
   },
   "Features": {
     "aiImageDetector": {
-      "title": "Zkontrolujte na svém iPhonu, zda fotku vytvořila AI",
+      "title": "Zkontrolujte na svém iPhonu, zda obrázek vygenerovala AI.",
       "description": "Romantické podvody stály spotřebitele v roce 2023 1,14 miliardy dolarů, což jsou nejvyšší ztráty ze všech podvodů s falešnou identitou, <ftcLink>uvádí FTC</ftcLink>. Podvodníci nyní vytvářejí <fakeDatingLink>falešné seznamovací profily</fakeDatingLink> s tvářemi a chatboty generovanými AI. Náš detektor obrázků AI je přímo ve vašem iPhonu, takže můžete zkontrolovat, zda selfie, účtenku nebo produktovou fotku vygenerovala AI, než přejedete prstem nebo nakoupíte. Označuje vodoznaky i jemné artefakty v obličeji, které lidské oko přehlédne."
     },
     "aiTextDetector": {
       "title": "Detektor textu AI s neomezeným počtem slov",
-      "description": "Téměř 90 % studentů přiznalo, že na začátku roku 2023 používalo ChatGPT pro domácí úkoly <forbesLink>podle Forbes</forbesLink>, a používání mezi teenagery se do roku 2025 <pewLink>opět zdvojnásobilo</pewLink>. Vzdělavatelé, editoři a právníci mohou vložit jakýkoli dokument do detektoru textu AI od Slop Or Not a zkontrolovat, zda slova vygenerovala AI – bez omezení počtu slov a bez slídění v cloudu. Dnes angličtina; brzy další jazyky."
+      "description": "Téměř 90 % studentů přiznalo, že používá ChatGPT na domácí úkoly <forbesLink>na začátku roku 2023</forbesLink> a používání mezi teenagery se <pewLink>do roku 2025 opět zdvojnásobilo</pewLink>. Studenti a učitelé často potřebují kontrolovat dlouhé eseje a velké množství prací - právě zde cloudové detektory selhávají kvůli limitům na počet slov a nutnosti nahrávání souborů. Slop Or Not běží lokálně na vašem iPhonu, takže můžete vkládat texty jakékoli délky a kontrolovat tolik dokumentů, kolik potřebujete - bez omezení počtu slov, bez limitů použití, bez špehování z cloudu. Dnes angličtina, další jazyky již brzy."
     },
     "aiFingerprints": {
       "title": "Odstraňte otisky AI a polidštěte texty na iPhonu",
-      "description": "Cloudové stránky pro „polidštění AI“ často posílají vaše slova do vzdálených LLM, které zanechávají nové stopy. Slop Or Not odstraňuje mezery s nulovou šířkou, homoglyfy a triky s mezerami – jako binární vzor, který <elonLink>Elon Musk použil v roce 2008 k odhalení informátora v Tesle</elonLink> – aniž by přepisoval váš styl."
+      "description": "Cloudové \"AI humanizéry\" často posílají vaše slova do vzdálených LLM, které za sebou zanechávají nové stopy. Slop Or Not odstraňuje mezery s nulovou šířkou, homoglyfy a triky s mezerami - podobně jako binární vzorec, který <elonLink>použil Elon Musk v roce 2008 k odhalení člověka, který vynesl informace z Tesly</elonLink> - aniž by přepisoval váš styl. Neomezený AI humanizér postavený na Apple Intelligence bude brzy dostupný v Slop Or Not."
     },
     "stickerPack": {
       "title": "Balíček nálepek AI Slop",
@@ -75,7 +80,7 @@
       "steps": {
         "download": {
           "title": "Získejte detektor AI",
-          "description": "Stáhněte si aplikaci z App Store. Používá pokročilé modely AI na zařízení k detekci obsahu generovaného AI."
+          "description": "Stáhněte si aplikaci z App Storu. Používá malý AI model, který běží přímo v zařízení a detekuje obsah generovaný AI s přesností srovnatelnou s cloudovými službami."
         },
         "check": {
           "title": "Spusťte kontrolu AI",
@@ -92,11 +97,11 @@
       "cases": {
         "journalists": {
           "title": "Novináři a ověřovatelé faktů",
-          "description": "Ověřujte obrázky z čerstvých zpráv a citace zdrojů před publikací. Vyhněte se zveřejnění zmanipulovaného obsahu, který by mohl poškodit důvěryhodnost."
+          "description": "Ověřujte obrázky a citace zdrojů bez nahrávání jakýchkoli dat. Detekce na zařízení zaručuje soukromí vašeho zkoumání - žádné OpenAI, Anthropic ani jiné cloudové LLM - takže můžete bezpečně ověřovat fakta v citlivých materiálech před jejich zveřejněním."
         },
         "teachers": {
           "title": "Učitelé a studenti",
-          "description": "Učitelé odhalí eseje napsané AI; studenti potvrdí originalitu své práce. Udržujte akademickou poctivost bez drahých služeb pro odhalování plagiátů."
+          "description": "Kontrolujte neomezený počet dokumentů bez limitu slov či denních kvót. Učitelé odhalují eseje napsané AI, studenti ověřují originalitu - na zařízení a soukromě. Bezplatná aplikace s cenově dostupným tarifem pro školní třídy."
         },
         "dating": {
           "title": "Online seznamování",
@@ -112,7 +117,7 @@
         },
         "legal": {
           "title": "Právní a zdravotničtí profesionálové",
-          "description": "Potvrďte, že smlouvy, spisy nebo záznamy o pacientech jsou vytvořeny člověkem. Chraňte důvěrnost klientů a dodržujte přísná pravidla."
+          "description": "Ověřte si, že smlouvy, právní podání nebo složky pacientů jsou napsány člověkem - aniž byste je posílali do cloudu. Slop Or Not běží lokálně na vašem iPhonu (žádné OpenAI/Anthropic), aby chránil důvěrnost klientských informací a splňoval přísné předpisy."
         },
         "creators": {
           "title": "Tvůrci obsahu a komunitní manažeři",

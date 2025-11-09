@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "title": "Slop Or Not: Rilevatore di Contenuti AI Gratuito per Testo e Immagini",
-    "description": "Rilevatore di testo AI, rilevatore di immagini AI e umanizzatore AI in un'unica app. Controlla e umanizza i contenuti AI gratuitamente su iPhone, senza bisogno di cloud."
+    "title": "Rilevatore di testo e immagini AI per iPhone | Slop Or Not",
+    "description": "Il primo e unico rilevatore di contenuti AI locale al mondo per iPhone. Funziona interamente sul tuo dispositivo senza limiti: controlla testo e immagini in modo privato, più velocemente del cloud."
   },
   "Navigation": {
     "home": "Home",
@@ -17,7 +17,7 @@
     }
   },
   "Footer": {
-    "tagline": "Individua la Paccottiglia AI. Scopri cos'è reale.",
+    "tagline": "Rilevamento AI sul dispositivo. Più veloce, privato, più preciso.",
     "sections": {
       "products": "Prodotti",
       "resources": "Risorse",
@@ -38,9 +38,14 @@
   },
   "Hero": {
     "logoAlt": "Logo di Slop or Not",
-    "title": "Rilevatore di Testo AI e Rilevatore di Immagini AI in Un'unica App",
+    "title": "Rilevatore di contenuti AI per testo e immagini che funziona localmente sul tuo iPhone",
     "srOnlyPrefix": "Slop or Not: ",
-    "description": "Verifica gratuitamente se un contenuto è generato da IA in pochi secondi, mantenendo i tuoi dati sul tuo iPhone."
+    "description": "La prima e unica app al mondo per il rilevamento di contenuti AI che funziona interamente in locale sul tuo iPhone, senza limiti, per permetterti di controllare testo e immagini in modo privato.",
+    "hook": {
+      "noLogin": "Nessun login",
+      "noCloud": "Nessun cloud",
+      "noTracking": "Nessun tracciamento"
+    }
   },
   "NotFound": {
     "logoAlt": "Logo di Slop Or Not",
@@ -49,21 +54,21 @@
     "backToHome": "Torna alla Home"
   },
   "CtaDownload": {
-    "title": "Scarica il Rilevatore di Contenuti AI Gratuito per iPhone",
-    "description": "Verifica testo e immagini generati da IA in pochi secondi, completamente offline. I tuoi dati non lasciano mai il tuo telefono - privacy integrata."
+    "title": "Scarica il rilevatore di contenuti AI on-device per iPhone",
+    "description": "Esegui il nostro modello compatto e ad alta precisione in locale. Controlla testo e immagini istantaneamente: privato, offline e gratuito."
   },
   "Features": {
     "aiImageDetector": {
-      "title": "Verifica sul tuo iPhone se una Foto è Stata Generata da IA",
+      "title": "Verifica se un'immagine sul tuo iPhone è generata dall'AI",
       "description": "Le truffe romantiche hanno sottratto 1,14 miliardi di dollari ai consumatori nel 2023, le perdite più alte tra le frodi di impostori, <ftcLink>afferma la FTC</ftcLink>. I truffatori ora creano <fakeDatingLink>profili di incontri falsi</fakeDatingLink> con volti generati da IA e chatbot. Il nostro rilevatore di immagini AI risiede sul tuo iPhone, così puoi verificare se quel selfie, quella ricevuta o quella foto di prodotto è generata da IA prima di fare swipe o acquistare. Segnala watermark e sottili artefatti nei volti che l'occhio umano non nota."
     },
     "aiTextDetector": {
       "title": "Rilevatore di Testo AI Senza Limiti di Parole",
-      "description": "Quasi il 90% degli studenti ha ammesso di usare ChatGPT per i compiti <forbesLink>all'inizio del 2023</forbesLink>, e l'uso tra gli adolescenti è <pewLink>nuovamente raddoppiato entro il 2025</pewLink>. Educatori, redattori e avvocati possono incollare qualsiasi documento nel rilevatore di testo AI di Slop Or Not per verificare se le parole sono state generate da IA - nessun limite di parole, nessuna sorveglianza dal cloud. Per ora in inglese; presto altre lingue."
+      "description": "Quasi il 90% degli studenti ha ammesso di usare ChatGPT per i compiti <forbesLink>all'inizio del 2023</forbesLink>, e l'uso tra gli adolescenti <pewLink>è nuovamente raddoppiato entro il 2025</pewLink>. Studenti e insegnanti hanno spesso bisogno di controllare temi lunghi e molti elaborati: è qui che i rilevatori cloud mostrano i loro limiti, con restrizioni sul numero di parole e upload. Slop Or Not funziona in locale sul tuo iPhone, quindi puoi incollare testi di qualsiasi lunghezza e controllare tutti i documenti che vuoi: nessun limite di parole, nessun limite di utilizzo, nessuno spionaggio dal cloud. Oggi in inglese, presto altre lingue."
     },
     "aiFingerprints": {
       "title": "Rimuovi le Impronte Digitali AI e Umanizza l'IA su iPhone",
-      "description": "I siti cloud di \"umanizzazione AI\" spesso inviano le tue parole a LLM remoti che lasciano nuove impronte. Slop Or Not ripulisce spazi a larghezza zero, omoglifi e trucchi di spaziatura - come il pattern binario che <elonLink>Elon Musk usò nel 2008 per scoprire una talpa in Tesla</elonLink> - senza riscrivere il tuo stile."
+      "description": "I siti cloud di \"umanizzazione AI\" spesso inviano le tue parole a LLM remoti che lasciano nuove impronte digitali. Slop Or Not ripulisce da spazi a larghezza zero, omoglifi e trucchi di spaziatura - come il pattern binario che <elonLink>Elon Musk usò nel 2008 per scoprire una talpa in Tesla</elonLink> - senza riscrivere il tuo stile. Un umanizzatore AI illimitato basato su Apple Intelligence sarà presto disponibile su Slop Or Not."
     },
     "stickerPack": {
       "title": "Pacchetto di Adesivi Paccottiglia AI",
@@ -75,7 +80,7 @@
       "steps": {
         "download": {
           "title": "Ottieni il Rilevatore AI",
-          "description": "Scarica l'app dall'App Store. Utilizza modelli AI avanzati sul dispositivo per rilevare contenuti generati da IA."
+          "description": "Scarica l'app dall'App Store. Utilizza un piccolo modello AI on-device che rileva i contenuti generati dall'AI con una precisione che compete con i servizi cloud."
         },
         "check": {
           "title": "Esegui il Controllo AI",
@@ -92,11 +97,11 @@
       "cases": {
         "journalists": {
           "title": "Giornalisti e Fact-Checker",
-          "description": "Verifica immagini di notizie dell'ultima ora e citazioni di fonti prima della pubblicazione. Evita di pubblicare contenuti manipolati che potrebbero danneggiare la credibilità."
+          "description": "Verifica immagini e citazioni senza caricare nulla. Il rilevamento sul dispositivo mantiene private le indagini - nessun LLM cloud come OpenAI, Anthropic o altri - così puoi fare fact-checking in sicurezza su materiale sensibile prima di pubblicarlo."
         },
         "teachers": {
           "title": "Insegnanti e Studenti",
-          "description": "Gli insegnanti individuano i temi scritti dall'IA; gli studenti confermano la propria originalità. Sostieni l'onestà accademica senza costosi servizi di plagio."
+          "description": "Controlla un numero illimitato di documenti senza limiti di parole o quote giornaliere. Gli insegnanti segnalano i temi scritti dall'AI, gli studenti ne confermano l'originalità: tutto sul dispositivo e in modo privato. App gratuita con prezzi accessibili per le classi."
         },
         "dating": {
           "title": "Incontri Online",
@@ -112,7 +117,7 @@
         },
         "legal": {
           "title": "Professionisti Legali e Medici",
-          "description": "Conferma che contratti, memorie o cartelle cliniche siano state redatte da esseri umani. Proteggi la riservatezza dei clienti rispettando rigide norme di conformità."
+          "description": "Conferma che contratti, documenti legali o cartelle cliniche siano stati scritti da un essere umano, senza inviarli al cloud. Slop Or Not funziona in locale sul tuo iPhone (nessun OpenAI/Anthropic) per proteggere la riservatezza dei clienti e rispettare rigide normative di conformità."
         },
         "creators": {
           "title": "Creatori di Contenuti e Community Manager",

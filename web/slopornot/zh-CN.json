@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "title": "Slop Or Not: 免费的文本和图像AI内容检测器",
-    "description": "AI文本检测器、AI图像检测器和AI人性化工具三合一。在iPhone上免费检测AI并对AI内容进行人性化处理，无需云端服务。"
+    "title": "适用于 iPhone 的 AI 文本与图像检测器 | Slop Or Not",
+    "description": "全球首款且唯一的 iPhone 端侧 AI 内容检测器。完全在您的设备上运行，无任何限制 - 私密地检查文本和图像，比云端更快。"
   },
   "Navigation": {
     "home": "主页",
@@ -17,7 +17,7 @@
     }
   },
   "Footer": {
-    "tagline": "识别AI劣质内容。辨别真伪。",
+    "tagline": "端侧 AI 检测。更快、更私密、更准确。",
     "sections": {
       "products": "产品",
       "resources": "资源",
@@ -38,9 +38,14 @@
   },
   "Hero": {
     "logoAlt": "Slop or Not 徽标",
-    "title": "AI文本检测器与AI图像检测器，二合一应用",
+    "title": "iPhone 端侧 AI 文本与图像内容检测器",
     "srOnlyPrefix": "Slop or Not: ",
-    "description": "在iPhone上免费秒速检测内容是否为AI生成，同时确保您的数据安全。"
+    "description": "全球首款且唯一的端侧 AI 内容检测应用，完全在您的 iPhone 本地运行且无任何限制，让您可以私密地检查文本和图像是否由 AI 生成。",
+    "hook": {
+      "noLogin": "无需登录",
+      "noCloud": "无需云端",
+      "noTracking": "无追踪"
+    }
   },
   "NotFound": {
     "logoAlt": "Slop Or Not 徽标",
@@ -49,21 +54,21 @@
     "backToHome": "返回主页"
   },
   "CtaDownload": {
-    "title": "下载免费的iPhone端AI内容检测器",
-    "description": "秒速检测AI文本和图像，完全离线。您的数据永不离开手机——内置隐私保护。"
+    "title": "下载适用于 iPhone 的端侧 AI 内容检测器",
+    "description": "本地运行我们小巧、高精度的模型。即时检查文本和图像 - 私密、离线、免费。"
   },
   "Features": {
     "aiImageDetector": {
-      "title": "在您的iPhone上检测照片是否由AI生成",
+      "title": "在您的 iPhone 上检查图像是否由 AI 生成",
       "description": "<ftcLink>FTC表示</ftcLink>，2023年，恋爱诈骗给消费者造成了11.4亿美元的损失，是所有冒名欺诈中损失最高的。骗子现在利用AI生成的面孔和聊天机器人来创建<fakeDatingLink>虚假的交友资料</fakeDatingLink>。我们的AI图像检测器就在您的iPhone上，因此您可以在滑动或购买前，检查自拍、收据或产品图片是否由AI生成。它能标记出水印以及人眼会忽略的微妙面部瑕疵。"
     },
     "aiTextDetector": {
       "title": "无字数限制的AI文本检测器",
-      "description": "近90%的学生承认在<forbesLink>2023年初</forbesLink>使用ChatGPT做作业，而到2025年，青少年使用率<pewLink>再次翻倍</pewLink>。教育工作者、编辑和律师可以将任何文档粘贴到Slop Or Not的AI文本检测器中，检查文字是否由AI生成——没有字数上限，没有云端窥探。目前支持英语，更多语言即将推出。"
+      "description": "<forbesLink>在 2023 年初</forbesLink>，近 90% 的学生承认使用 ChatGPT 完成作业，而到 2025 年，青少年的使用率<pewLink>再次翻倍</pewLink>。学生和老师经常需要检查长篇论文和大量提交的作业 - 这正是云端检测器因字数限制和上传要求而显得力不从心的地方。Slop Or Not 在您的 iPhone 本地运行，因此您可以粘贴任意长度的内容，并根据需要检查任意数量的文档 - 无字数上限，无使用限制，无云端窥探。目前支持英语；更多语言即将推出。"
     },
     "aiFingerprints": {
       "title": "在iPhone上移除AI指纹并人性化AI内容",
-      "description": "云端“AI人性化”网站通常会将您的文字输入到远程LLM中，这会留下新的指纹。Slop Or Not可以清除零宽度空格、同形异义字和间隔技巧——就像<elonLink>埃隆·马斯克在2008年用来抓到特斯拉泄密者</elonLink>的二进制模式一样——而不会重写您的风格。"
+      "description": "云端“AI 文本润色”网站通常会将您的文字传输到远程大语言模型 (LLM)，这会留下新的数字痕迹。Slop Or Not 能清除零宽度空格、同形异义字和各种间隔技巧 - 就像 <elonLink>Elon Musk 在 2008 年用来揪出特斯拉泄密者</elonLink>的二进制模式一样 - 而不会改写您的写作风格。由 Apple Intelligence 驱动的无限次 AI 文本润色功能即将登陆 Slop Or Not。"
     },
     "stickerPack": {
       "title": "AI劣质内容贴纸包",
@@ -75,7 +80,7 @@
       "steps": {
         "download": {
           "title": "获取AI检测器",
-          "description": "从App Store下载应用程序。它使用先进的设备端AI模型来检测AI生成的内容。"
+          "description": "从 App Store 下载该应用。它使用一个小型端侧 AI 模型，其检测 AI 生成内容的准确度可与云端服务相媲美。"
         },
         "check": {
           "title": "运行AI检测",
@@ -92,11 +97,11 @@
       "cases": {
         "journalists": {
           "title": "记者与事实核查员",
-          "description": "在发布前审查突发新闻图片和消息来源引述。避免发布可能损害信誉的被操纵内容。"
+          "description": "无需上传任何内容，即可验证图像和来源引文。端侧检测确保调查过程的私密性 - 不涉及 OpenAI、Anthropic 或其他云端大语言模型 (LLM) - 因此您可以放心地在发布前对敏感材料进行事实核查。"
         },
         "teachers": {
           "title": "教师与学生",
-          "description": "教师标记AI写的论文；学生确认自己的原创性。无需昂贵的抄袭检测服务即可维护学术诚信。"
+          "description": "检查不限数量的文档，无字数上限或每日配额。教师可以标记 AI 撰写的论文，学生可以确认作品的原创性 - 一切均在设备上私密进行。这是一款免费应用，并为课堂提供经济实惠的定价方案。"
         },
         "dating": {
           "title": "在线交友",
@@ -112,7 +117,7 @@
         },
         "legal": {
           "title": "法律与医疗专业人士",
-          "description": "确认合同、案情摘要或病历文件是人类创作的。在满足严格合规规则的同时保护客户机密。"
+          "description": "确认合同、简报或患者档案是否为人工撰写 - 无需将其发送到云端。Slop Or Not 在您的 iPhone 本地运行 (不涉及 OpenAI/Anthropic)，以保护客户机密并满足严格的合规性要求。"
         },
         "creators": {
           "title": "内容创作者与社区管理员",

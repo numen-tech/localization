@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "title": "Slop Or Not: Kostenloser KI-Inhaltsdetektor für Text und Bilder",
-    "description": "KI-Textdetektor, KI-Bilddetektor und KI-Humanizer in einer App. Kostenlos auf dem iPhone auf KI prüfen und KI-Texte vermenschlichen, keine Cloud erforderlich."
+    "title": "KI-Text- & Bilddetektor fürs iPhone | Slop Or Not",
+    "description": "Weltweit erster und einziger lokaler KI-Inhaltsdetektor fürs iPhone. Läuft vollständig auf deinem Gerät ohne Limits - prüfe Texte und Bilder privat, schneller als die Cloud."
   },
   "Navigation": {
     "home": "Startseite",
@@ -17,7 +17,7 @@
     }
   },
   "Footer": {
-    "tagline": "Erkenne KI-Slop. Wisse, was echt ist.",
+    "tagline": "Lokale KI-Erkennung. Schneller, privat, genauer.",
     "sections": {
       "products": "Produkte",
       "resources": "Ressourcen",
@@ -38,9 +38,14 @@
   },
   "Hero": {
     "logoAlt": "Slop or Not Logo",
-    "title": "KI-Textdetektor und KI-Bilddetektor in einer App",
+    "title": "KI-Inhaltsdetektor für Texte und Bilder, der lokal auf deinem iPhone läuft",
     "srOnlyPrefix": "Slop or Not: ",
-    "description": "Prüfen Sie kostenlos in Sekunden, ob Inhalte von KI stammen, während Ihre Daten auf Ihrem iPhone bleiben."
+    "description": "Die weltweit erste und einzige geräteinterne App zur KI-Inhaltserkennung, die vollständig lokal auf deinem iPhone läuft, ohne Limits, damit du Texte und Bilder privat auf KI prüfen kannst.",
+    "hook": {
+      "noLogin": "Kein Login",
+      "noCloud": "Keine Cloud",
+      "noTracking": "Kein Tracking"
+    }
   },
   "NotFound": {
     "logoAlt": "Slop Or Not Logo",
@@ -49,21 +54,21 @@
     "backToHome": "Zurück zur Startseite"
   },
   "CtaDownload": {
-    "title": "Laden Sie den kostenlosen KI-Inhaltsdetektor für das iPhone herunter",
-    "description": "Prüfen Sie Texte und Bilder in Sekunden auf KI, vollständig offline. Ihre Daten verlassen niemals Ihr Telefon – Datenschutz ist integriert."
+    "title": "Lade den geräteinternen KI-Inhaltsdetektor fürs iPhone herunter",
+    "description": "Nutze unser kompaktes, hochpräzises Modell lokal. Prüfe Texte und Bilder sofort - privat, offline und kostenlos."
   },
   "Features": {
     "aiImageDetector": {
-      "title": "Prüfen Sie auf Ihrem iPhone, ob ein Foto KI-generiert ist",
+      "title": "Prüfe, ob ein Bild auf deinem iPhone KI-generiert ist",
       "description": "Romantikbetrug kostete Verbraucher 2023 1,14 Milliarden US-Dollar, die höchsten Verluste aller Betrugsarten durch Hochstapler, <ftcLink>so die FTC</ftcLink>. Betrüger erstellen jetzt <fakeDatingLink>gefälschte Dating-Profile</fakeDatingLink> mit KI-generierten Gesichtern und Chatbots. Unser KI-Bilddetektor befindet sich auf Ihrem iPhone, sodass Sie prüfen können, ob ein Selfie, eine Quittung oder ein Produktfoto KI-generiert ist, bevor Sie swipen oder kaufen. Er erkennt Wasserzeichen sowie subtile Artefakte im Gesicht, die dem menschlichen Auge entgehen."
     },
     "aiTextDetector": {
       "title": "KI-Textdetektor mit unbegrenzter Wortzahl",
-      "description": "Fast 90 % der Studierenden gaben <forbesLink>Anfang 2023</forbesLink> zu, ChatGPT für Hausaufgaben zu nutzen, und die Nutzung durch Teenager <pewLink>verdoppelte sich bis 2025 erneut</pewLink>. Pädagogen, Redakteure und Anwälte können jedes Dokument in den KI-Textdetektor von Slop Or Not einfügen, um zu prüfen, ob die Worte von einer KI generiert wurden – keine Wortbegrenzung, kein Cloud-Spionieren. Heute Englisch; weitere Sprachen folgen bald."
+      "description": "Fast 90 % der Schüler und Studierenden gaben <forbesLink>Anfang 2023</forbesLink> zu, ChatGPT für ihre Hausaufgaben zu nutzen, und die Nutzung durch Teenager <pewLink>hat sich bis 2025 erneut verdoppelt</pewLink>. Schüler, Studierende und Lehrkräfte müssen oft lange Aufsätze und viele Einreichungen prüfen - hier stoßen Cloud-Detektoren mit Wortlimits und Uploads an ihre Grenzen. Slop Or Not läuft lokal auf deinem iPhone, sodass du beliebig lange Texte einfügen und so viele Dokumente wie nötig prüfen kannst - keine Wortbeschränkung, keine Nutzungslimits, kein Ausspionieren durch die Cloud. Heute auf Englisch, weitere Sprachen folgen bald."
     },
     "aiFingerprints": {
       "title": "Entfernen Sie KI-Fingerabdrücke und vermenschlichen Sie KI-Texte auf dem iPhone",
-      "description": "Cloud-„KI-Humanizer“-Websites leiten Ihre Worte oft an entfernte LLMs weiter, die neue Fingerabdrücke hinterlassen. Slop Or Not entfernt Leerzeichen mit der Breite null, Homoglyphen und Trick-Leerzeichen – wie das binäre Muster, das <elonLink>Elon Musk 2008 verwendete, um einen Tesla-Leaker zu fassen</elonLink> – ohne Ihren Stil umzuschreiben."
+      "description": "Cloud-basierte \"AI Humanizer\"-Websites leiten deine Texte oft an externe LLMs weiter, die neue Fingerabdrücke hinterlassen. Slop Or Not entfernt Leerzeichen mit Nulllänge, Homoglyphen und Abstandstricks - wie das binäre Muster, das <elonLink>Elon Musk 2008 nutzte, um einen Tesla-Leaker zu überführen</elonLink> - ohne deinen Schreibstil zu verändern. Ein unbegrenzter, von Apple Intelligence unterstützter AI Humanizer kommt bald zu Slop Or Not."
     },
     "stickerPack": {
       "title": "AI-Slop-Stickerpaket",
@@ -75,7 +80,7 @@
       "steps": {
         "download": {
           "title": "KI-Detektor holen",
-          "description": "Laden Sie die App aus dem App Store herunter. Sie verwendet fortschrittliche On-Device-KI-Modelle, um KI-generierte Inhalte zu erkennen."
+          "description": "Lade die App aus dem App Store herunter. Sie nutzt ein kleines, geräteinternes KI-Modell, das KI-generierte Inhalte mit einer Genauigkeit erkennt, die mit Cloud-Diensten mithalten kann."
         },
         "check": {
           "title": "KI-Prüfung durchführen",
@@ -92,11 +97,11 @@
       "cases": {
         "journalists": {
           "title": "Journalisten & Faktenprüfer",
-          "description": "Überprüfen Sie Bilder aus Eilmeldungen und Zitate von Quellen vor der Veröffentlichung. Vermeiden Sie die Veröffentlichung von manipulierten Inhalten, die die Glaubwürdigkeit beschädigen könnten."
+          "description": "Überprüfe Bilder und Quellenzitate, ohne etwas hochzuladen. Die geräteinterne Erkennung hält Recherchen privat - keine OpenAI, Anthropic oder andere Cloud-LLMs - sodass du sensibles Material vor der Veröffentlichung sicher überprüfen kannst."
         },
         "teachers": {
           "title": "Lehrer & Schüler",
-          "description": "Lehrer erkennen KI-geschriebene Aufsätze; Schüler bestätigen ihre eigene Originalität. Wahren Sie die akademische Ehrlichkeit ohne teure Plagiatsdienste."
+          "description": "Prüfe unbegrenzt viele Dokumente ohne Wort- oder Tageslimits. Lehrkräfte erkennen KI-geschriebene Aufsätze, Schüler und Studierende bestätigen die Originalität - geräteintern und privat. Kostenlose App mit günstigen Preisen für Schulklassen."
         },
         "dating": {
           "title": "Online-Dating",
@@ -112,7 +117,7 @@
         },
         "legal": {
           "title": "Juristen & Mediziner",
-          "description": "Bestätigen Sie, dass Verträge, Schriftsätze oder Patientenakten von Menschen verfasst wurden. Schützen Sie die Vertraulichkeit von Mandanten und erfüllen Sie gleichzeitig strenge Compliance-Vorschriften."
+          "description": "Stelle sicher, dass Verträge, Schriftsätze oder Patientenakten von Menschen verfasst wurden - ohne sie in die Cloud zu senden. Slop Or Not läuft lokal auf deinem iPhone (kein OpenAI/Anthropic), um die Vertraulichkeit von Mandanten- und Patientendaten zu schützen und strenge Compliance-Vorschriften zu erfüllen."
         },
         "creators": {
           "title": "Content Creators & Community Manager",
