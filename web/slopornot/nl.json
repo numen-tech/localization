@@ -45,7 +45,8 @@
       "noLogin": "Geen login",
       "noCloud": "Geen cloud",
       "noTracking": "Geen tracking"
-    }
+    },
+    "modelInfo": "Onze modellen voor contentdetectie op het apparaat zijn getraind met miljoenen voorbeelden van AI-gegenereerde en menselijke content, en geoptimaliseerd om efficiënt te draaien op de Apple Neural Engine."
   },
   "NotFound": {
     "logoAlt": "Slop Or Not-logo",

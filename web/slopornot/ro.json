@@ -45,7 +45,8 @@
       "noLogin": "Fără autentificare",
       "noCloud": "Fără Cloud",
       "noTracking": "Fără urmărire"
-    }
+    },
+    "modelInfo": "Modelele noastre de detectare a conținutului direct pe dispozitiv sunt antrenate pe milioane de mostre de conținut generat de AI și uman, și optimizate pentru a rula eficient pe Apple Neural Engine."
   },
   "NotFound": {
     "logoAlt": "Logo Slop Or Not",

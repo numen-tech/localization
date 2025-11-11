@@ -45,7 +45,8 @@
       "noLogin": "Giriş Gerekmez",
       "noCloud": "Bulut Yok",
       "noTracking": "Takip Yok"
-    }
+    },
+    "modelInfo": "Cihaz üzerinde çalışan içerik tespit modellerimiz, milyonlarca yapay zeka ve insan tarafından oluşturulmuş içerik örneğiyle eğitilmiş ve Apple Neural Engine üzerinde verimli çalışması için optimize edilmiştir."
   },
   "NotFound": {
     "logoAlt": "Slop Or Not Logosu",

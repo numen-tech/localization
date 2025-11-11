@@ -45,7 +45,8 @@
       "noLogin": "Sans connexion",
       "noCloud": "Sans cloud",
       "noTracking": "Sans suivi"
-    }
+    },
+    "modelInfo": "Nos modèles de détection de contenu sur l'appareil sont entraînés sur des millions d'échantillons de contenu généré par IA et par des humains, et optimisés pour fonctionner efficacement sur l'Apple Neural Engine."
   },
   "NotFound": {
     "logoAlt": "Logo Slop Or Not",

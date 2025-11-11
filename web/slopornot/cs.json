@@ -45,7 +45,8 @@
       "noLogin": "Bez přihlášení",
       "noCloud": "Bez cloudu",
       "noTracking": "Bez sledování"
-    }
+    },
+    "modelInfo": "Naše modely pro detekci obsahu přímo v zařízení jsou trénovány na milionech vzorků obsahu vytvořeného AI i lidmi a optimalizovány pro efektivní běh na Apple Neural Engine."
   },
   "NotFound": {
     "logoAlt": "Logo Slop Or Not",

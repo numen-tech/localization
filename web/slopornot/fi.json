@@ -45,7 +45,8 @@
       "noLogin": "Ei kirjautumista",
       "noCloud": "Ei pilveä",
       "noTracking": "Ei seurantaa"
-    }
+    },
+    "modelInfo": "Laitteessa toimivat sisällöntunnistusmallimme on koulutettu miljoonilla tekoälyn ja ihmisten luomilla sisältönäytteillä, ja ne on optimoitu toimimaan tehokkaasti Apple Neural Enginessä."
   },
   "NotFound": {
     "logoAlt": "Slop Or Not -logo",

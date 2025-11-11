@@ -45,7 +45,8 @@
       "noLogin": "无需登录",
       "noCloud": "无需云端",
       "noTracking": "无追踪"
-    }
+    },
+    "modelInfo": "我们的设备端内容检测模型基于数百万 AI 与人类生成的内容样本训练而成, 并经过特别优化, 能够在 Apple 神经网络引擎上高效运行。"
   },
   "NotFound": {
     "logoAlt": "Slop Or Not 徽标",

@@ -45,7 +45,8 @@
       "noLogin": "ログイン不要",
       "noCloud": "クラウド不要",
       "noTracking": "トラッキングなし"
-    }
+    },
+    "modelInfo": "オンデバイスのコンテンツ検出モデルは、AIと人間によって生成された数百万ものコンテンツサンプルを学習し、Apple Neural Engineで効率的に動作するよう最適化されています。"
   },
   "NotFound": {
     "logoAlt": "Slop Or Not ロゴ",

@@ -45,7 +45,8 @@
       "noLogin": "Nessun login",
       "noCloud": "Nessun cloud",
       "noTracking": "Nessun tracciamento"
-    }
+    },
+    "modelInfo": "I nostri modelli di rilevamento dei contenuti sul dispositivo sono addestrati su milioni di campioni di contenuti generati dall'IA e da esseri umani, e ottimizzati per funzionare in modo efficiente sull'Apple Neural Engine."
   },
   "NotFound": {
     "logoAlt": "Logo di Slop Or Not",
