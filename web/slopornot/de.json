@@ -45,7 +45,8 @@
       "noLogin": "Kein Login",
       "noCloud": "Keine Cloud",
       "noTracking": "Kein Tracking"
-    }
+    },
+    "modelInfo": "Unsere On-Device-Modelle zur Inhaltserkennung wurden mit Millionen von Beispielen KI-generierter und menschlicher Inhalte trainiert und sind dafür optimiert, effizient auf der Apple Neural Engine zu laufen."
   },
   "NotFound": {
     "logoAlt": "Slop Or Not Logo",

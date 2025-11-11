@@ -41,6 +41,7 @@
     "title": "AI Content Detector for Text and Images That Runs Locally on Your iPhone",
     "srOnlyPrefix": "Slop or Not: ",
     "description": "World's first and only on-device AI content detection app that runs entirely locally on your iPhone, with no limits, so you can check text and images for AI privately.",
+    "modelInfo": "Our on-device content detection models are trained on millions of samples of AI and human generated content, and optimized to run efficiently on Apple Neural Engine.",
     "hook": {
       "noLogin": "No Login",
       "noCloud": "No Cloud",

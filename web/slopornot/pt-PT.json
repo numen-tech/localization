@@ -45,7 +45,8 @@
       "noLogin": "Sem Login",
       "noCloud": "Sem Nuvem",
       "noTracking": "Sem Rastreio"
-    }
+    },
+    "modelInfo": "Os nossos modelos de deteção de conteúdo no dispositivo são treinados com milhões de amostras de conteúdo gerado por IA e por humanos, e otimizados para funcionarem de forma eficiente no Apple Neural Engine."
   },
   "NotFound": {
     "logoAlt": "Logótipo do Slop Or Not",

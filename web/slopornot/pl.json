@@ -45,7 +45,8 @@
       "noLogin": "Bez logowania",
       "noCloud": "Bez chmury",
       "noTracking": "Bez śledzenia"
-    }
+    },
+    "modelInfo": "Nasze modele wykrywania treści na urządzeniu są trenowane na milionach próbek treści wygenerowanych przez AI i stworzonych przez ludzi oraz zoptymalizowane pod kątem wydajnego działania na Apple Neural Engine."
   },
   "NotFound": {
     "logoAlt": "Logo Slop Or Not",

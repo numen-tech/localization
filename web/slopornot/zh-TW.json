@@ -45,7 +45,8 @@
       "noLogin": "無需登入",
       "noCloud": "無雲端",
       "noTracking": "無追蹤"
-    }
+    },
+    "modelInfo": "我們的裝置端內容偵測模型採用數百萬筆 AI 與真人生成的內容樣本進行訓練,並已針對在 Apple Neural Engine 上的高效運行完成最佳化。"
   },
   "NotFound": {
     "logoAlt": "Slop Or Not 標誌",

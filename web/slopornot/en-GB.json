@@ -45,7 +45,8 @@
       "noLogin": "No Login",
       "noCloud": "No Cloud",
       "noTracking": "No Tracking"
-    }
+    },
+    "modelInfo": "Our on-device content detection models are trained on millions of samples of AI and human-generated content, and optimised to run efficiently on the Apple Neural Engine."
   },
   "NotFound": {
     "logoAlt": "Slop Or Not Logo",

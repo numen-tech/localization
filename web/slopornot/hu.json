@@ -45,7 +45,8 @@
       "noLogin": "Nincs bejelentkezés",
       "noCloud": "Nincs felhő",
       "noTracking": "Nincs követés"
-    }
+    },
+    "modelInfo": "Eszközön futó tartalomérzékelő modelljeinket AI által generált és emberi tartalmak több millió mintáján tanítottuk, és az Apple Neural Engine-en való hatékony futásra optimalizáltuk."
   },
   "NotFound": {
     "logoAlt": "Slop Or Not Logó",

@@ -45,7 +45,8 @@
       "noLogin": "Ingen inloggning",
       "noCloud": "Inget moln",
       "noTracking": "Ingen spårning"
-    }
+    },
+    "modelInfo": "Våra modeller för innehållsdetektering på enheten är tränade på miljontals exempel på AI-genererat och mänskligt skapat innehåll, och optimerade för att köras effektivt på Apple Neural Engine."
   },
   "NotFound": {
     "logoAlt": "Slop Or Not-logotyp",

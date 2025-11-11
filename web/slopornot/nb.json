@@ -45,7 +45,8 @@
       "noLogin": "Ingen innlogging",
       "noCloud": "Ingen sky",
       "noTracking": "Ingen sporing"
-    }
+    },
+    "modelInfo": "Våre modeller for innholdsgjenkjenning på enheten er trent på millioner av eksempler med AI-generert og menneskeskapt innhold, og optimalisert for å kjøre effektivt på Apple Neural Engine."
   },
   "NotFound": {
     "logoAlt": "Slop Or Not-logo",
