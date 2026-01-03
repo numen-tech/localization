@@ -347,7 +347,7 @@
       },
       "sendToMacVsHyperduck": {
         "question": "Miten Lähetä Maciin on parempi kuin <hyperduckLink>HyperDuck</hyperduckLink>?",
-        "answer": "Täysin ilmainen ja tukee 37 kieltä. Tukee automaattisesti useita Maceja, sisältää jakamisen Macien välillä ja tarjoaa pelkän jakamisen lisäksi täyden linkkien puhdistuksen ja hämäyksen poiston."
+        "answer": "Clean Links on täysin ilmainen sovellus 37 kielen tuella, kun taas Hyperduck on maksullinen ja vain englantia tukeva sovellus. Clean Links tukee automaattisesti useita Maceja, sisältää jaon Macien välillä sekä iOS-laitteista Maciin, ja tarjoaa täyden linkkien puhdistuksen ja selkeytyksen pelkän linkkien jakamisen lisäksi."
       }
     },
     "viewAll": "Näytä kaikki",

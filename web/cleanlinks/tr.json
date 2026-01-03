@@ -347,7 +347,7 @@
       },
       "sendToMacVsHyperduck": {
         "question": "Mac'e Gönder neden <hyperduckLink>HyperDuck</hyperduckLink>'ten daha iyi?",
-        "answer": "37 dil desteğiyle tamamen ücretsiz. Birden fazla Mac'i otomatik olarak destekler, Mac'ten Mac'e paylaşım içerir ve sadece paylaşmanın ötesinde tam bağlantı temizleme ve karmaşıklığı giderme sağlar."
+        "answer": "Hyperduck yalnızca İngilizce'yi destekleyen ücretli bir uygulamayken, Clean Links 37 dil desteği sunan tamamen ücretsiz bir uygulamadır. Clean Links, iOS'tan Mac'e paylaşıma ek olarak Mac'ten Mac'e paylaşımı da içerir, birden çok Mac'i otomatik olarak destekler ve basit bağlantı paylaşımının ötesinde tam bağlantı temizleme ve bağlantıları netleştirme sağlar."
       }
     },
     "viewAll": "Tümünü Görüntüle",
