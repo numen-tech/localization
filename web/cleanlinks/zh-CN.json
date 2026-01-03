@@ -347,7 +347,7 @@
       },
       "sendToMacVsHyperduck": {
         "question": "“发送到 Mac”比 <hyperduckLink>HyperDuck</hyperduckLink> 好在哪里？",
-        "answer": "完全免费，支持 37 种语言。自动支持多台 Mac，包括 Mac 之间的分享功能，并且除了分享之外，还提供全面的链接清理和反混淆功能。"
+        "answer": "Clean Links 是一款完全免费的应用, 支持 37 种语言, 而 Hyperduck 则是一款仅支持英语的付费应用。Clean Links 自动支持多台 Mac, 除了 iOS 到 Mac 的共享外, 还支持 Mac 之间的共享, 并提供全面的链接清理和去混淆功能, 远不止是简单的链接共享。"
       }
     },
     "viewAll": "查看全部",

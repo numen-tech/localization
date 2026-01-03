@@ -347,7 +347,7 @@
       },
       "sendToMacVsHyperduck": {
         "question": "Send to Macが<hyperduckLink>HyperDuck</hyperduckLink>より優れている点は？",
-        "answer": "37言語に対応し、完全に無料です。複数のMacに自動で対応し、Mac間の共有機能も含まれています。さらに、単なる共有だけでなく、完全なリンクのクリーンアップと難読化解除も提供します。"
+        "answer": "Clean Linksは37言語に対応した完全無料のアプリですが、Hyperduckは英語のみ対応の有料アプリです。Clean LinksはiOSとMac間の共有に加え、複数のMacへの自動対応やMac間の共有もサポートし、単なるリンク共有にとどまらない本格的なリンクのクリーンアップと難読化解除を提供します。"
       }
     },
     "viewAll": "すべて表示",

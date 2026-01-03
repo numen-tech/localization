@@ -347,7 +347,7 @@
       },
       "sendToMacVsHyperduck": {
         "question": "Hvordan er Send to Mac bedre enn <hyperduckLink>HyperDuck</hyperduckLink>?",
-        "answer": "Helt gratis med støtte for 37 språk. Støtter automatisk flere Macer, inkluderer deling fra Mac til Mac, og tilbyr fullstendig lenkerensing og deobfuskering utover bare deling."
+        "answer": "Clean Links er en helt gratis app med støtte for 37 språk, mens Hyperduck er en betalingsapp som kun støtter engelsk. Clean Links støtter automatisk flere Mac-er, inkluderer Mac-til-Mac-deling, i tillegg til iOS-til-Mac-deling, og tilbyr fullstendig lenkerensing og klargjøring utover enkel lenkedeling."
       }
     },
     "viewAll": "Vis alle",

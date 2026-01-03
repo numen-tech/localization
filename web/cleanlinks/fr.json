@@ -347,7 +347,7 @@
       },
       "sendToMacVsHyperduck": {
         "question": "En quoi Envoyer vers le Mac est-il meilleur que <hyperduckLink>HyperDuck</hyperduckLink> ?",
-        "answer": "Entièrement gratuit avec la prise en charge de 37 langues. Prend en charge automatiquement plusieurs Mac, inclut le partage de Mac à Mac, et offre un nettoyage complet et une désobfuscation des liens, au-delà du simple partage."
+        "answer": "Clean Links est une application entièrement gratuite disponible en 37 langues, alors que Hyperduck est une application payante ne prenant en charge que l'anglais. Clean Links prend en charge automatiquement plusieurs Mac, inclut le partage entre Mac en plus du partage d'iOS vers Mac, et propose un nettoyage et une désobfuscation complets des liens, bien au-delà du simple partage de liens."
       }
     },
     "viewAll": "Tout voir",
